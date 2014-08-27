@@ -1,24 +1,4 @@
-A starter theme for Jekyll.
+# The Website for the ABA-ICC Project
 
-
-#### placeholder
-Instructions for moving to production
-
-Instructions for declaring which sidebars to use
-Settings + template
-
-#### TO DO
-- finish test posts
-- copy bower components to their respective production locations
-
-#### Install
-update local variables and options in _config file_
-run bundle update //updates gems
-make sure .bowerrc indicates the directory where you want your files installed.
-run bower install //updates packages via bower
-
-
-#### Notes for content creators
-for news posts, your first paragraph is an excerpt. If you don't want that you can make a front matter excerpt, like this:  
-excerpt: "this is my excerpt."
+Created by Bud Parr at Sonnet Media in conjunction with the American Bar Association Center for Human Rights with the support of the Embassy of the Kingdom of the Netherlands.
 

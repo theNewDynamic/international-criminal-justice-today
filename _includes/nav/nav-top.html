@@ -1,0 +1,33 @@
+{% assign links_global = site.data.navigation-global %}
+{% assign links_follow = site.data.navigation-follow %}
+
+<header class="navigation">
+  <div class="menu-wrapper">
+    <a href="/" class="logo">
+      <img src="/assets/img/logo-aba-icc_144xb.png" alt="" style="display:block;">
+    </a>
+    <p class="navigation-menu-button" id="js-mobile-menu">MENU</p>
+    <div class="nav">
+      <ul id="navigation-menu">
+        {% include nav/navigation-global.html %}
+      </ul>
+
+   </div>
+    <div class="navigation-tools">
+    <ul class="secondary" id="navigation-menu">
+      {% include nav/navigation-secondary.html %}
+    </ul>
+
+
+      <!-- <div class="search-bar">
+        <div class="search-and-submit">
+          <input type="search" placeholder="Enter Search" />
+          <button type="submit">
+            <img src="https://raw.githubusercontent.com/Magnus-G/Random/master/search-icon.png" alt="">
+          </button>
+        </div>
+      </div> -->
+      <!-- <a href="javascript:void(0)" class="sign-up">Sign Up</a> -->
+    </div>
+  </div>
+</header>

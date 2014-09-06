@@ -1,27 +1,33 @@
 article {
-  padding: 1.2em;
+  //padding: 1.2em;
   background-color: $content-color-background;
   margin:auto;
   max-width: 100%;
+  
+  p {
+      text-align: justify;
+      font-size:1.125em;    
+      img:first-child {
+        float: none;
+        margin: .5em 0 1.5em 0;
+        @include media($small-screen-up) {
+          float: left;
+          margin: .5em 1.4em 1.5em 0;
+        }
+      }
+    }
 
-
-    &.hentry {
-      max-width: $e-vp;
-
+&.hentry .entry-content, &.hentry header{    
+      max-width: $d-vp;
+      padding:1.2em;
+      @include media($large-screen-up) {
+       padding: 4rem 7rem;
+    }
 
     }
 
 
-    img:first-child {
-      float: none;
-      margin: .5em 0 1.5em 0;
-
-    @include media($small-screen-up) {
-      float: left;
-      margin: .5em 1.4em 1.5em 0;
-    }
-
-  }
+  
   //min-height: $c-vp;
   overflow: hidden;
   header {
@@ -30,9 +36,7 @@ article {
   img {
   	max-width: 100%;
   }
-    @include media($large-screen-up) {
-  	padding: 4rem 7rem;
-  }
+    
 }
 
   aside.sidebar-right {

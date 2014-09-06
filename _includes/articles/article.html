@@ -1,19 +1,8 @@
-
-
-  {% if page.url contains '/arguendo' %}
-    <h5>Arguendo</h5>
-    {% for links in questions %}{% comment %}EXCLUDES the Index file{% endcomment %}
-      {% if links.question == page.question %}
-        <li class="nav-sidebar-item ">
-          <a href="{{ links.url }}" class="arrow {% if links.url == page.url %} arrow-left{% endif %}">{{links.title}}</a>
-        </li>      
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-
-
-
-  <header>
+<article class="hentry">
+{% if page.splash_image %}
+<img src="/assets/img/{{page.splash_image}}" style="width:100%;">
+{% endif %}
+    <header>
      {% if page.title %}
     <h1 class="entry-title">{{page.title}}</h1>
     {% endif %}
@@ -28,31 +17,20 @@
           {{ page.date | date:'%A %b %d, %Y' }}
         </small>
       </time>
-    {% endif %}
-    
+    {% endif %}  
   </header>
   <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-
-  {% include articles/article-meta.html %}
-
-
     {{ content }}
-
     {% if site.include_addthis_sharing %}
     <div class="sharing">
       {% include articles/sharing.html %}
     </div>
   {% endif %}
-
-        {% unless page.comments == false %}
-
-          {% include articles/comments.html %}
-
-        {% endunless %}
-
-
-
-
-  </div>
+  {% unless page.comments == false %}
+    {% include articles/comments.html %}
+{% endunless %}
+</div>
   
     <!-- include global/edit.html -->
+
+</article>

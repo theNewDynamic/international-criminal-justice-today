@@ -1,9 +1,68 @@
 ---
 layout: default
-section: home
+section: page
 ---
-<section class="content">
-	{% if page.include %}
-		{% include {{page.include}} %}
-	{% endif %}
+{% assign featured_news = site.posts|where: 'featured', true %}
+{% assign other_news = site.posts|where: 'featured', -true %}
+
+<div class="layout-news">
+	<section class="featured-box">
+		{% for news in featured_news limit:30 %}
+		  {% if forloop.index == 1 %}
+		    <div style="float:left;margin-right:25px;width:430px;">
+		      <img src="{% if news.splash_image contains 'http://' %}{{news.splash_image}}{% else %}/assets/img/{{news.splash_image}}{% endif %}" alt="" style="max-width:430px;">
+		      <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
+		    </div>
+		  {% else %}
+		    <img src="{% if news.splash_image contains 'http://' %}{{news.splash_image}}{% else %}/assets/img/{{news.splash_image}}{% endif %}" alt="" style="max-width:14.875em;">
+		  {% endif %}
+		{% endfor %}
+		<hr />
+		<div style="width:100%;border:12px solid #ddd;clear:both;margin:2em 0;"></div>
+		{% for news in other_news limit:30 %}
+		  <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
+		  <hr />
+		{% endfor %}
 </section>
+
+<aside>
+  <div class="content-top">
+    <h3>Headlines</h3>
+			<div class="space-below caption">links open outside of this website</div>
+    <div id="content_tumblr"></div>
+
+			<div style="width:67px;margin:auto;" >
+				<a href="javascript:void(0)" id="show-tumblr-extended"><i class="icon-down-open">more</i></a>
+		
+			</div>
+
+
+
+	<div id="content_tumblr-long" style="display:none;"></div>
+
+
+
+
+
+</div>
+  <div class="content-middle">
+      <h3>Arguendo</h3>
+
+{% include page_content/arguendo-summary.html %}
+
+
+
+  </div>
+  <div class="content-bottom">
+  <h3>Latest Ipsos Data</h3>
+    <ul>
+      <li>February Results</li>
+    </ul>
+
+
+
+</div>
+
+</aside>
+
+</div>

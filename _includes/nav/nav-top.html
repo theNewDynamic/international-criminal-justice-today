@@ -1,33 +1,34 @@
-{% assign links_global = site.data.navigation-global %}
-{% assign links_follow = site.data.navigation-follow %}
-
 <header class="navigation">
-  <div class="menu-wrapper">
+  <div class="navigation-wrapper">
     <a href="/" class="logo">
-      <img src="/assets/img/logo-aba-icc_144xb.png" alt="" style="display:block;">
+      <img src="/assets/img/logo-aba-icc_144xb.png" alt="">
     </a>
-    <p class="navigation-menu-button" id="js-mobile-menu">MENU</p>
+    <a href="" class="navigation-menu-button js-menu-trigger" id="js-mobile-menu">&#9776; MENU</a>
     <div class="nav">
       <ul id="navigation-menu">
-        {% include nav/navigation-global.html %}
+        <li class="nav-link">
+          <a href="/" class="site-heading">
+            International Criminal Justice Today
+          </a>
+        </li>
+        <!-- <li class="nav-link"><a href="javascript:void(0)">Arguendo</a></li>
+        <li class="nav-link"><a href="javascript:void(0)">More</a></li> -->
       </ul>
-
-   </div>
-    <div class="navigation-tools">
-    <ul class="secondary" id="navigation-menu">
-      {% include nav/navigation-secondary.html %}
-    </ul>
-
-
-      <!-- <div class="search-bar">
-        <div class="search-and-submit">
-          <input type="search" placeholder="Enter Search" />
-          <button type="submit">
-            <img src="https://raw.githubusercontent.com/Magnus-G/Random/master/search-icon.png" alt="">
-          </button>
-        </div>
-      </div> -->
-      <!-- <a href="javascript:void(0)" class="sign-up">Sign Up</a> -->
     </div>
+
   </div>
 </header>
+<nav class="js-menu sliding-menu-content">
+  <ul>
+    <li><a href="javascript:void(0)">About the ABA-ICC Project</a></li>
+    <li><a href="javascript:void(0)">Arguendo</a></li>
+    <li><a href="javascript:void(0)">Ipsos Data</a></li>
+  </ul>
+
+
+  <a href="/" class="logo">
+    <img src="/assets/img/logo-aba-icc_144xb.png" alt="" style="width:70px;margin:4em;">
+  </a>
+</nav>
+
+<div class="js-menu-screen menu-screen"></div>

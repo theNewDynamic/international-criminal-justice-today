@@ -1,0 +1,15 @@
+{% include global/head.html %}
+<body class="{% if page.class %} {{page.class}}{% endif %} {{site.collections.[the_collection].class}}">
+	{% include nav/nav-top.html  %}
+	<div class="wrapper">		
+	{% include global/hero.html  %}
+		<section>
+			{{content}}
+		</section>
+		<div class="push"></div>
+	</div>
+	{% include global/footer.html %}
+	{% include global/scripts.html %}
+</body>
+</html>
+

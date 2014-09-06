@@ -1,0 +1,18 @@
+{% include global/head.html %}
+<body class="{% if page.class %} {{page.class}}{% endif %} {{site.collections.[the_collection].class}}">
+	
+	<div class="side-image">
+  	<div class="images-wrapper">
+  			
+  				{% include nav/nav-left.html %}
+  			
+  	</div>
+    <section class="content">    	
+			{{content}}
+    </section>
+	</div>
+	
+	{% include global/scripts.html %}
+</body>
+</html>
+

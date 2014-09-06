@@ -1,36 +1,43 @@
-.layout {
-  //margin-top: 5em;
-
-    @include outer-container;
-    max-width:95%;
-
-    aside { @include span-columns(5);}
-    article { @include span-columns(9); }
-
-    section {
-      @include span-columns(7);
-    }
-
-}
 
 
 .layout-news {
-
-    //margin-top: 5em;
-    padding-top:2em;
     @include outer-container;
-    //max-width:95%;
 
-    aside { @include span-columns(12); margin-top:1em; padding:1em;background-color:#e8e8e8; }
+    aside {
+      @include span-columns(12);
+      z-index:1000000;
+      border: 1px solid darken($light-gray, 7%);
+      border-radius:4px;
+      margin-top:1em;
+        hr {
+          width:60%;
+          border-top-color: darken($light-gray, 7%);
+          margin-left: auto;
+          margin-right: auto;
+        }
+      .content-top{
+        background-color:$light-gray;
+        padding:1em;
+        clear:both;
+      }
+      .content-middle{
+        background-color:darken($light-gray, 5%);
+        padding:1em;
+        clear:both;
+        }
+      .content-bottom{
+        background-color:$light-gray;
+        padding:1em;
+        clear:both;
+        }
+    }
     section { @include span-columns(12); padding:inherit; margin-top:inherit;}
 
       @include media($large-screen) {
-          aside { @include span-columns(5); margin-top:2.5em; }
-          section { @include span-columns(7); margin-top:0; }
+          aside { @include span-columns(5); margin-top:-3.5em; }
+          section { @include span-columns(7); margin-top:2em;padding:0; }
 }
-    // section {
-    //   @include span-columns(7);
-    // }
+
 
 }
 
@@ -57,18 +64,14 @@
 }
 
 
-.layout-content-with-grid {
-  //margin-top: 5em;
+.layout {
     @include outer-container;
-
-    aside { @include span-columns(12); }
-    article { @include span-columns(12); }
-    section { @include span-columns(12); }
+      article { @include span-columns(12); }
+      section.side-right { @include span-columns(12); background-color:yellow;}
 
       @include media($large-screen) {
       //@include grid-item-columns($grid-item-columns);
-        aside { @include span-columns(5); }
-        article { @include span-columns(9); }
-        section { @include span-columns(7); }
+        article { @include span-columns(7); }
+        section.side-right { @include span-columns(5); }
       }
 }

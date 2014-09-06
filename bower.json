@@ -26,7 +26,9 @@
         "listjs": "latest",
         "moment": "latest",
         "modernizr": "latest",
-        "underscore": "latest"
+        "underscore": "latest",
+        "jquery-cycle2":"^2.1.5",
+        "jquery-backstretch": "^2.0.4"
 
     }
 }

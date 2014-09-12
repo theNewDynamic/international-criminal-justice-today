@@ -6,28 +6,33 @@ section: page
 {% assign other_news = site.posts|where: 'featured', -true %}
 
 <div class="layout-news">
+
+
 	<section class="featured-box">
-		{% for news in featured_news limit:30 %}
-		  {% if forloop.index == 1 %}
-		    <div style="float:left;margin-right:25px;width:430px;">
-		      <img src="{% if news.splash_image contains 'http://' %}{{news.splash_image}}{% else %}/assets/img/{{news.splash_image}}{% endif %}" alt="" style="max-width:430px;">
-		      <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
-		    </div>
-		  {% else %}
-		    <img src="{% if news.splash_image contains 'http://' %}{{news.splash_image}}{% else %}/assets/img/{{news.splash_image}}{% endif %}" alt="" style="max-width:14.875em;">
-		  {% endif %}
-		{% endfor %}
-		<hr />
-		<div style="width:100%;border:12px solid #ddd;clear:both;margin:2em 0;"></div>
-		{% for news in other_news limit:30 %}
-		  <h4><a href="{{ news.url }}">{{ news.title }}</a></h4>
+  <h2 class="section-heading">News & Articles</h2>
+		{% for news in other_news limit:5 %}
+
+        <small>{{ news.category}}</small>
+		  <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
 		  <hr />
 		{% endfor %}
+
+
+<h2 class="section-heading">Events</h2>
+    {% for news in featured_news limit:5 %}
+
+        <small>{{ news.category}}</small>
+      <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
+      <hr />
+    {% endfor %}
+
 </section>
+
+
 
 <aside>
   <div class="content-top">
-    <h3>Headlines</h3>
+    <h2>Headlines</h2>
     <div id="content_tumblr"></div>
 
 			<div style="width:67px;margin:auto;" >
@@ -45,7 +50,7 @@ section: page
 
 </div>
   <div class="content-middle">
-      <h3>Arguendo</h3>
+      <h2>Arguendo</h2>
 
 {% include page_content/arguendo-summary.html %}
 
@@ -53,7 +58,7 @@ section: page
 
   </div>
   <div class="content-bottom">
-  <h3>Latest Ipsos Data</h3>
+  <h2>Latest Ipsos Data</h2>
     <ul>
       <li>February Results</li>
     </ul>
@@ -63,5 +68,21 @@ section: page
 </div>
 
 </aside>
+</div><!--  //layout-news -->
+
+
+<div class="row dark-background">
+
+ {% include global/twitter-list.html %}
+
 
 </div>
+
+
+<div class="row">
+
+ {% include global/twitter-list.html %}
+
+
+</div>
+

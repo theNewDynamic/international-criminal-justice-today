@@ -2,9 +2,7 @@
 title: "Judge Hans-Peter Kaul"
 layout: page
 category: News
-splash_image: judge-hans-peter-kaul.jpg
 splash_image: judge-hans-peter-kaul-1999x1200.jpg
-featured: true
 ---
 The American Bar Association (ABA) Center for Human Rights is saddened by the passing of Judge Hans-Peter Kaul who recently retired as a judge of the International Criminal Court (ICC) in The Hague, The Netherlands and expresses condolences to his family, colleagues and friends.
 

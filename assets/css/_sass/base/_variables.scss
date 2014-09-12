@@ -31,7 +31,8 @@ $navigation-background: $blue;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$base-accent-color: darken($aba-icc-blue-light, 4%);
+$base-accent-color: $aba-icc-blue-light;
+$base-accent-color: desaturate(darken($base-accent-color, 10), 20);
 
 // Link Colors
 $base-link-color: $base-accent-color;

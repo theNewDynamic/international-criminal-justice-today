@@ -31,6 +31,7 @@ sass:
     sass_dir: assets/css/_sass
 
 # source: content
+# TODO: Set default layouts for posts, pages, and arguendo, and ipsos
 
 collections:
  arguendo:

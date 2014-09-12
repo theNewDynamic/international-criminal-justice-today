@@ -13,6 +13,7 @@
 
 // BASIC MODULES
 @import "modules/article";
+@import "modules/twitter";
 @import "modules/refills/nav-top";
 @import "modules/refills/hero";
 @import "modules/refills/footer";
@@ -49,4 +50,18 @@ header.navigation ul li.nav-link a.site-heading {
 .item {
 	float: left;
 	width:225px;
+}
+
+
+.dark-background {
+	background-color: $blue;
+}
+
+.section-heading {
+	border-bottom: 4px solid $base-accent-color;
+	margin-bottom: 1em;
+}
+
+h2.section-heading {
+	padding-bottom: 0;
 }

@@ -1,6 +1,6 @@
 // Typography
 $sans-serif: $helvetica;
-$serif: $georgia;
+$serif: 'Mercury SSm A', 'Mercury SSm B', $georgia;
 $base-font-family: $serif;
 $brand-font: 'Verlag A', 'Verlag B','Roboto',ff-tisa-web-pro, $sans-serif;
 $header-font-family: $brand-font;
@@ -16,7 +16,8 @@ $base-border-radius: em(3);
 
 // Colors
 $blue: #192a33;
-$dark-gray: #333;
+//$blue: #213843;
+$dark-gray: #424242;
 $medium-gray: #999;
 $light-gray: #f2f2f2;
 $light-red: #FBE3E4;
@@ -31,8 +32,8 @@ $navigation-background: $blue;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$base-accent-color: $aba-icc-blue-light;
-$base-accent-color: desaturate(darken($base-accent-color, 10), 20);
+$base-accent-color: darken($aba-icc-blue-light, 5%);
+//$base-accent-color: desaturate(darken($base-accent-color, 10), 20);
 
 // Link Colors
 $base-link-color: $base-accent-color;

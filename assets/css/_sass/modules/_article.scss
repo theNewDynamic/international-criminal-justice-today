@@ -3,10 +3,9 @@ article {
   background-color: $content-color-background;
   margin:auto;
   max-width: 100%;
-  
+
   p {
-      text-align: justify;
-      font-size:1.125em;    
+
       img:first-child {
         float: none;
         margin: .5em 0 1.5em 0;
@@ -17,7 +16,7 @@ article {
       }
     }
 
-&.hentry .entry-content, &.hentry header{    
+&.hentry .entry-content, &.hentry header{
       max-width: $d-vp;
       padding:1.2em;
       @include media($large-screen-up) {
@@ -27,7 +26,7 @@ article {
     }
 
 
-  
+
   //min-height: $c-vp;
   overflow: hidden;
   header {
@@ -36,7 +35,7 @@ article {
   img {
   	max-width: 100%;
   }
-    
+
 }
 
   aside.sidebar-right {

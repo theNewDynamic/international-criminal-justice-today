@@ -7,7 +7,7 @@ hr.section-divider {
 }
 
 aside {
-  border-top: 4px solid $base-accent-color;
+  border-top: 4px solid desaturate(darken($base-accent-color, 10), 20);
 }
 
 
@@ -27,7 +27,7 @@ aside {
 
     aside {
       @include span-columns(12);
-      z-index:1000000;
+      //z-index:1000000;
       // border-left: 1px solid darken($light-gray, 7%);
       // border-right: 1px solid darken($light-gray, 7%);
       // border-bottom: 1px solid darken($light-gray, 7%);

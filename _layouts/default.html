@@ -1,7 +1,8 @@
 {% include global/head.html %}
-<body class="{% if page.class %} {{page.class}}{% endif %} {{site.collections.[the_collection].class}}">
+{% comment %}{{site.collections.[the_collection].class}}{% endcomment %}
+<body class="{% if page.class %}{{page.class}}{% endif %}">
   {% include nav/nav-top.html  %}
-  <div class="wrapper">   
+  <div class="wrapper">
   {% include global/hero.html  %}
     <section>
       {{content}}

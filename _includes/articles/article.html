@@ -1,6 +1,6 @@
 <article class="hentry">
-{% if page.splash_image %}
-<img src="/assets/img/{{page.splash_image}}" style="width:100%;">
+{% if page.featured_image %}
+<img src="/assets/img/{{page.featured_image}}" style="width:100%;">
 {% endif %}
     <header>
      {% if page.title %}
@@ -17,7 +17,7 @@
           {{ page.date | date:'%A %b %d, %Y' }}
         </small>
       </time>
-    {% endif %}  
+    {% endif %}
   </header>
   <div class="entry-content prose columns-2 "><!--  //CONTENT -->
     {{ content }}
@@ -30,7 +30,7 @@
     {% include articles/comments.html %}
 {% endunless %}
 </div>
-  
+
     <!-- include global/edit.html -->
 
 </article>

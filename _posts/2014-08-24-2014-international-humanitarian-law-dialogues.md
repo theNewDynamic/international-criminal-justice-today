@@ -5,8 +5,10 @@ date: "2014-08-24 12:00:00"
 participants:
 flyer:
 photos:
-splash_image: "international-humanitarian-law-dialogues.jpg"
+#splash_image: "international-humanitarian-law-dialogues.jpg"
+splash_image: "international-humanitarian-law-dialogues-1496.jpg"
 video_audio: "https://www.youtube.com/watch?v=tN5JJ8AsJoY, https://www.youtube.com/watch?v=OLxs2SIie2w&feature=relmfu, http://www.youtube.com/watch?v=5Qj1Hr04NN4&feature=relmfu"
+featured: true
 ---
 
 

@@ -17,6 +17,24 @@ aside {
   margin-top: 5em;
 }
 
+  .column-3-wide {
+    @include span-columns(12);
+
+    @include media($normal-screen-up) {
+      @include span-columns(4 of 12);
+    }
+
+  }
+  .column-2-wide {
+    @include span-columns(12);
+
+    @include media($normal-screen-up) {
+      @include span-columns(6 of 12);
+    }
+
+  }
+
+
 .content {
   padding-bottom: 10em;
 }
@@ -92,12 +110,30 @@ aside {
 
 .layout {
     @include outer-container;
-      article { @include span-columns(12); }
-      section.side-right { @include span-columns(12); background-color:yellow;}
+      article {
+        @include span-columns(12); //padding, etc in modules/_article
+      }
+      section.side-right {
+        @include span-columns(12);
+        padding: 2em;
+      }
 
       @include media($large-screen) {
       //@include grid-item-columns($grid-item-columns);
-        article { @include span-columns(7); }
-        section.side-right { @include span-columns(5); }
+        article { @include span-columns(8 of 12); }
+        section.side-right {
+          @include span-columns(4 of 12);
+          padding: 4em 2em;
+          font-family: $sans-serif;
+          font-size: 90%;
+
+          blockquote {
+            //margin-bottom: 8em;
+          }
+
+
+         }
+
+
       }
 }

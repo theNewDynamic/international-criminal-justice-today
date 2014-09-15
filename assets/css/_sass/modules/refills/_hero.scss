@@ -13,11 +13,11 @@
    //@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
 
   background-repeat: no-repeat;
-  background-position: center bottom;
+  background-position: center center;
   background-size: cover;
   //padding-bottom: 4em;
   background-color:lighten($navigation-background, 5%);//#484644;
-  background-attachment: fixed;
+  //background-attachment: fixed;
   //margin-top: 40px * -1;
   //padding-top:$navigation-height;
   height:425px;

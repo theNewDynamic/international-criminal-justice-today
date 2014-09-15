@@ -3,6 +3,13 @@ article {
   background-color: $content-color-background;
   margin:auto;
   max-width: 100%;
+  .entry-title {
+    color: $aba-icc-blue-light;
+  }
+
+  time {
+    font-family: $sans-serif;
+  }
 
   p {
 
@@ -16,11 +23,15 @@ article {
       }
     }
 
-&.hentry .entry-content, &.hentry header{
+    &.hentry header {
+      padding: 2.5em 4rem .5em 4rem;
+    }
+
+&.hentry .entry-content{
       max-width: $d-vp;
       padding:1.2em;
       @include media($large-screen-up) {
-       padding: 4rem 7rem;
+       padding: 2rem 4rem;
     }
 
     }

@@ -25,7 +25,7 @@
 
       <title>{% if page.title %} {{page.title}} - {% endif %} {{site.sitename}}</title>
       {% if page.url %}
-        <link rel="canonical" href="{{site.baseurl}}{{ page.url }}" />
+        <link rel="canonical" href="{{site.url}}{{ page.url }}" />
       {% endif %}
 
       <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -45,8 +45,8 @@
           document.createElement('aside');
           document.createElement('footer');
         </script>
-        <script src="{{site.baseurl}}/assets/js/html5shiv.js"></script>
-        <script src="{{site.baseurl}}/assets/js/respond.js"></script>
+        <script src="{{site.url}}/assets/js/html5shiv.js"></script>
+        <script src="{{site.url}}/assets/js/respond.js"></script>
       <![endif]-->
 
       <!--[if lte IE 7]>
@@ -57,7 +57,6 @@
       {% include global/analytics.html %}
     {% endif %}
 {% comment %}<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7044452/658144/css/fonts.css" />{% endcomment %}
-<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7044452/658144/css/fonts.css" />
 <style media="screen">
   .hero-copy {
     float:left;

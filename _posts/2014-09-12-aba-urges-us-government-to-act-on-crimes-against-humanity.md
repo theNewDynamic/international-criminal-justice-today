@@ -1,7 +1,7 @@
 ---
 title: "ABA Urges U.S. Government to Act on Crimes Against Humanity"
 category: News
-layout: page
+author: "Christopher 'Kip' Hale"
 ---
 On August 12 at the 2014 American Bar Association (ABA) Annual Meeting, the ABA House of Delegates unanimously passed a policy urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH).
 Additionally, this resolution urged the U.S. Government to lead an international effort to negotiate and adopt a CAH treaty.

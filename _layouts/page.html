@@ -3,8 +3,25 @@ layout: default
 section: page
 ---
 <div class="layout">
-	{% include articles/article.html %}
+	<article class="hentry">
+  <header>
+     {% if page.title %}
+    <h1 class="entry-title">{{page.title}}</h1>
+    {% endif %}
+    {% if page.subtitle %}
+    <h2>
+      {{page.subtitle}}
+    </h2>
+    {% endif %}
+  </header>
+  <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+    {{ content }}
+   {% if page.include %}
+      {% include {{page.include}} %}
+    {% endif %}
+    </div>
+  </article>
 	<section class="side-right">
-		sf
+
 	</section>
 </div>

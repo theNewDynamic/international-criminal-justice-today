@@ -18,17 +18,10 @@
         </small>
       </time>
     {% endif %}
+      {% include articles/authors.html %}
   </header>
   <div class="entry-content prose columns-2 "><!--  //CONTENT -->
     {{ content }}
-    {% if site.include_addthis_sharing %}
-    <div class="sharing">
-      {% include articles/sharing.html %}
-    </div>
-  {% endif %}
-  {% unless page.comments == false %}
-    {% include articles/comments.html %}
-{% endunless %}
 </div>
 
     <!-- include global/edit.html -->

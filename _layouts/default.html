@@ -1,6 +1,6 @@
 {% include global/head.html %}
 {% comment %}{{site.collections.[the_collection].class}}{% endcomment %}
-<body class="{% if page.class %}{{page.class}}{% endif %}">
+<body class="{% if page.class %}{{page.class}}{% endif %}{% if page.featured_image %} featured_image{% endif %}">
   {% include nav/nav-top.html  %}
   <div class="wrapper">
   {% include global/hero.html  %}

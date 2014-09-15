@@ -18,7 +18,7 @@ header.navigation {
   background-color: $navigation-background;
   //background-color: $navigation-background;
   border-bottom: 1px solid darken($navigation-background, 10);
-//  height: $navigation-height;
+  height: $navigation-height;
   //margin-bottom: $navigation-height * -1; // PULLS THE SPLASH IMAGE UP INTO THE NAV-TOP AREA
 
   width: 100%;
@@ -39,7 +39,7 @@ header.navigation {
     padding-right: 2em;
 
     img {
-      max-height: $navigation-height * 1.8;
+      max-height: $navigation-height * .8;
       padding: .8em 0;
     }
   }

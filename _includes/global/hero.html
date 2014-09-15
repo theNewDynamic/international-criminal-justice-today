@@ -5,7 +5,7 @@
 			{% assign splash_image = news.splash_image %}
 			{% assign title = news.title %}
 			{% assign url = news.url %}
-      <section class="hero" style="background-image:url(/assets/img/{{ splash_image }});width:100%;height:495px;{% if forloop.index0 > 0 %} display:none;{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}" id="post-{{ forloop.index0 }}">
+      <section class="hero" style="background-image:url(/assets/img/{{ splash_image }});width:100%;height:525px;{% if forloop.index0 > 0 %} display:none;{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}" id="post-{{ forloop.index0 }}">
 		    <div class="hero-inner">
           <div class="hero-copy">
             <a href="{{ url }}">

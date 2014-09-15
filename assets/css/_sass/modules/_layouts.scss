@@ -75,19 +75,27 @@ aside {
         clear:both;
         }
     }
-    section { @include span-columns(12); padding:inherit; margin-top:inherit;}
+    section {
+      @include span-columns(12);
+        padding:inherit;
+        margin-top:inherit;}
 
       @include media($large-screen) {
-          aside { @include span-columns(5); margin-top:-3.5em; }
-          section { @include span-columns(7); margin-top:2em;padding:0; }
-}
+        aside {
+          @include span-columns(5);
+          margin-top:-3.5em;
+        }
+        section {
+          @include span-columns(7);
+          margin-top:2em;
+          padding:0;
+        }
+      }
+    }
 
 
-}
 
-
-
-.layout-article {
+.layout-article { //arguendo?
 
     //margin-top: 5em;
     padding-top:5em;
@@ -121,6 +129,7 @@ aside {
       @include media($large-screen) {
       //@include grid-item-columns($grid-item-columns);
         article { @include span-columns(8 of 12); }
+
         section.side-right {
           @include span-columns(4 of 12);
           padding: 4em 2em;

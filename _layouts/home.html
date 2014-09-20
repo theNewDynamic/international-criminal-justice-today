@@ -11,13 +11,12 @@ section: page
 {% assign todays_date = site.time | date: "%Y%m%d" %}
 <div class="layout-home">
 
-<section>
-<div class="filter-buttons" style="margin:1em auto;">
+  <section class="featured-box">
+
+  <div class="filter-buttons" style="margin:1em auto;">
       <button class="news">News</button>  <button class="opinion">Opinion</button>  <!-- <button class="event">Events</button> -->
     <hr />
     </div>
-</section>
-  <section class="featured-box">
 
 
     {% for news in events limit:5 %}
@@ -33,25 +32,23 @@ section: page
 
 
 
-
-
-    <!-- {% for news in news limit:1 %}
-    <div class="article">
-      <h6 class="heading-small {{news.category | replace: ' ', '-' | downcase }}">{{ news.category}}</h6>
-      <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
-
-        </div>
-    {% endfor %}
- -->
-
     {% for article in articles limit:6 %}
       {% if article.category != 'event' %}
-    <a  href="{{ article.url }}" class="article">
-      <h6 class="heading-small {{ article.category | slugify }}">{{ article.category}}</h6>
-      <h3 style="margin:auto;">{{ article.title }}</h3>
-      {% include authors.html %}
-      <div class="lede">{{ article.excerpt | strip_html  | truncate: 155, '...'}}<a href="{{ article.url }}" class="link-utility"><strong>Read &raquo;</strong></a></div>
-        </a>
+
+<a href="{{ article.url }}" class="article">
+  <div class="heading">
+    <h6 class="heading-small {{ article.category | slugify }}">{{ article.category}}</h6>
+    <h3 style="margin:auto;">{{ article.title }}</h3>
+    {% include authors.html %}
+  </div>
+  <div class="lede">
+    {{ article.excerpt | strip_html  | truncate: 255, '...'}}
+  </div>
+</a>
+
+
+
+
       {% endif %}
     {% endfor %}
 

@@ -231,8 +231,8 @@ a.article {
     position:static;
     bottom: 1em;
     font-size: 90%;
-    padding-right: 1em;
-    text-align: justify;
+    padding: 3em 3em 3em 1em;
+    //text-align: justify;
     color: $dark-gray;
 
   }
@@ -240,13 +240,29 @@ a.article {
   @include media($medium-screen-up) {
     .lede {
       position:absolute;
+      //background-color:wheat;
+      top:0;
+      bottom: 0;
+      left:42%;
+
+    }
+    .heading {
+      width:42%;
+      padding: 0 1em 2em 1em;
+      //float: left;
+      position:absolute;
+      left:0;
+      top:0;
+      bottom:0;
+      //height: 100%;
+      //background-color:#ccc;
     }
     border-bottom: none;
-    height: 250px;
+    min-height: 230px;
     overflow: hidden;
-    width: 48%;
-    float: left;
-    margin: 0 2% 2em 0;
+    //width: 48%;
+    //float: left;
+    margin: 0 0 2em 0;
   }
 }
 

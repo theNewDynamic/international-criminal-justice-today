@@ -4,19 +4,17 @@ section: arguendo-article
 ---
 {% assign  collection = site.collections.arguendo %}
 {% assign  questions = site.arguendo | where: 'type', 'question' | sort: 'date' | reverse %}
-
+{% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
 
 
 <div class="layout">
   {% include articles/article.html collection="arguendo" %}
   <section class="side-right">
-
-
-<br />
+    <br />
     {% include articles/pull-quote.html %}
-
     {% include arguendo/bio.html %}
-
+    <hr />
+    {% include arguendo/additional-responses.html %}
     {% include articles/article-meta.html %}
     {% if site.include_addthis_sharing %}
       <hr style="width:100%;margin:3em 0;" />

@@ -21,7 +21,7 @@ html, body {
 
 .footer-2 {
 
-  $footer-background: $aba-icc-blue;
+  $footer-background: darken($blue, 3%);
   $footer-color: white;
   $footer-link-color: transparentize($footer-color, .6);
   $footer-disclaimer-color: transparentize($footer-color, .8);
@@ -29,7 +29,9 @@ html, body {
   background: $footer-background;
   padding: $base-line-height;
   width: 100%;
+  font-family: $sans-serif;
   font-size: 90%;
+  padding-left:5em;
 
   .footer-logo {
     margin-right: 1em;
@@ -56,7 +58,7 @@ html, body {
 
   ul li {
     padding-right: 1em;
-    font-weight: 800;
+    font-weight: 400;
 
     @include media($large-screen) {
       display: inline;

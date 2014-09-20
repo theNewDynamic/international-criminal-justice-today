@@ -3,9 +3,22 @@ layout: null
 ---
 {% include scripts/jquery.min.js %}
 {% include scripts/jquery_cycle/jquery.cycle2.min.js %}
-
 {% include scripts/links-new-window.js %}
 
+{% comment %}
+  {% include scripts/masonry/dist/masonry.pkgd.min.js %}
+  {% include scripts/isotope/dist/isotope.pkgd.min.js %}
+
+
+
+
+var container = document.querySelector('.featured-box');
+var msnry = new Masonry( container, {
+  // options
+  //columnWidth: 00,
+  itemSelector: '.article'
+});
+{% endcomment %}
 
   $('.js-menu-trigger').on('click touchstart', function(e){
     $('.js-menu').toggleClass('is-visible');

@@ -2,80 +2,108 @@
 layout: default
 section: page
 ---
-{% assign featured_news = site.posts|where: 'featured', true %}
-{% assign other_news = site.posts|where: 'featured', -true %}
+{% comment %}{% assign news = site.posts|where: 'category', 'News' %}{% endcomment %}
+{% assign posts       = site.posts %}
+{% assign articles    = site.posts %}
+{% assign events      = site.posts | where: 'category', 'event' %}
+{% assign opinion     = site.posts | where: 'category', 'Opinion' %}
 
-<div class="layout-news">
+{% assign todays_date = site.time | date: "%Y%m%d" %}
+<div class="layout-home">
+
+<section>
+<div class="filter-buttons" style="margin:1em auto;">
+      <button class="news">News</button>  <button class="opinion">Opinion</button>  <!-- <button class="event">Events</button> -->
+    <hr />
+    </div>
+</section>
+  <section class="featured-box">
 
 
-	<section class="featured-box">
+    {% for news in events limit:5 %}
 
-<div class="column-2-wide" style="background-color:#ccc;">
-  <h2 class="section-heading">News & Articles</h2>
-		{% for news in other_news limit:5 %}
-
-        <small>{{ news.category}}</small>
-		  <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
-		  <hr />
-		{% endfor %}
-
-</div>
-<div class="column-2-wide">
-<h2 class="section-heading">Events</h2>
-    {% for news in featured_news limit:5 %}
-
-        <small>{{ news.category}}</small>
-      <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
-      <hr />
+    {% assign post_date = news.date | date: "%Y%m%d" %}
+      {% if post_date > todays_date %}
+        <h6 class="notice">Event: {{ news.date | date: "%A, %b %d %Y" }}</h6>
+        <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
+        <!-- <a href="{{ news.url }}" class="link-utility"><strong>Details &raquo;</strong></a> -->
+        <hr />
+      {% endif %}
     {% endfor %}
 
-</div>
-
-
-
-</section>
-
-
-
-<aside>
-  <div class="content-top">
-    <h2>Headlines</h2>
-    <div id="content_tumblr"></div>
-
-			<div style="width:67px;margin:auto;" >
-				<a href="javascript:void(0)" id="show-tumblr-extended"><i class="icon-down-open">more</i></a>
-
-			</div>
-
-
-
-	<div id="content_tumblr-long" style="display:none;"></div>
 
 
 
 
+    <!-- {% for news in news limit:1 %}
+    <div class="article">
+      <h6 class="heading-small {{news.category | replace: ' ', '-' | downcase }}">{{ news.category}}</h6>
+      <h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
 
-</div>
-  <div class="content-middle">
-      <h2>Arguendo</h2>
+        </div>
+    {% endfor %}
+ -->
 
-{% include page_content/arguendo-summary.html %}
+    {% for article in articles limit:6 %}
+      {% if article.category != 'event' %}
+    <a  href="{{ article.url }}" class="article">
+      <h6 class="heading-small {{ article.category | slugify }}">{{ article.category}}</h6>
+      <h3 style="margin:auto;">{{ article.title }}</h3>
+      {% include authors.html %}
+      <div class="lede">{{ article.excerpt | strip_html  | truncate: 155, '...'}}<a href="{{ article.url }}" class="link-utility"><strong>Read &raquo;</strong></a></div>
+        </a>
+      {% endif %}
+    {% endfor %}
 
 
 
-  </div>
-  <div class="content-bottom">
-  <h2>Latest Ipsos Data</h2>
-    <ul>
-      <li>February Results</li>
-    </ul>
+  </section>
 
 
+  <aside>
+    <div class="content-top">
+      <h2>Headlines</h2>
+      <div id="content_tumblr"></div>
+  			<div style="width:80px;margin:auto;" >
+        <a href="javascript:void(0)" id="show-tumblr-extended"><i class="icon-down-open">expand</i></a>
 
-</div>
-
-</aside>
+      </div>
+      	<div id="content_tumblr-long" style="display:none;"></div>
+    </div>
+    <div class="content-middle">
+        <h2 style="margin-bottom:0;"><a href="/arguendo/">Arguendo</a></h2>
+        {% include arguendo/summary.html %}
+    </div>
+    <div class="content-bottom">
+      <h2>Latest Ipsos Data</h2>
+      <ul>
+        <li>February Results</li>
+      </ul>
+    </div>
+  </aside>
 </div><!--  //layout-news -->
+
+
+
+<div class="row">
+
+<h2>Event Recaps</h2>
+
+   {% for news in events limit:6 %}
+
+
+
+      <a class="article-background" href="{{ news.url }}">
+
+{% if news.featured_image %}
+          <div class="background" style="background-image:url(/assets/img/{{ news.featured_image }});">
+          </div>
+          {% endif %}
+
+        <h3>{{ news.title }}</h3>
+      </a>
+    {% endfor %}
+</div>
 
 
 <div class="row dark-background">

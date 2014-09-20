@@ -2,7 +2,7 @@
 title: "The Pity of the International Criminal Court (ICC) is that it Could have been a Useful and Relevant Institution"
 question: "What are the next steps in the US-ICC relationship?"
 author: Rademaker
-layout: article-arguendo
+layout: arguendo-article
 ---
 The pity of the International Criminal Court (ICC) is that it could have been a useful and relevant institution, if only it had been designed with those objectives in mind. Regrettably, those who created it had other priorities. Most importantly, they wanted an independent prosecutor who would be relentless in the pursuit of international justice, insulated to the maximum degree possible from all other considerations.
 

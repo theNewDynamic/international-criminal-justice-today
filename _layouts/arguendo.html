@@ -2,38 +2,11 @@
 layout: default
 section: arguendo
 ---
-<div class="layout">
+{% capture the_collection %}arguendo{% endcapture %}
+{% assign  collection = site.collections.[the_collection] %}
+{% assign  questions = site.[the_collection] | where: 'type', 'question' | sort: 'date' | reverse %}
 
 
-  <article class="hentry">
-  <header>
-     {% if page.title %}
-    <h2>{{page.title}}<br />
-
-    </h2>
-
-    {% endif %}
-    {% if page.excerpt %}
-    <h2>
-      {{page.excerpt}}
-    </h2>
-    {% endif %}
-  </header>
-  <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-
-   {% if page.include %}
-      {% include {{page.include}} %}
-    {% endif %}
-    </div>
-  </article>
-  <section class="side-right">
-
-  <blockquote class="aside_quote">{{ content }}</blockquote>
-
-  </section>
-
-
-
-
-
-</div>
+{% include arguendo/landing.html %}
+{% include arguendo/question.html %}
+{% include arguendo/question.html %}

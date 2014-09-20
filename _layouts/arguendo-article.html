@@ -1,0 +1,33 @@
+---
+layout: default
+section: arguendo-article
+---
+{% assign  collection = site.collections.arguendo %}
+{% assign  questions = site.arguendo | where: 'type', 'question' | sort: 'date' | reverse %}
+
+
+
+<div class="layout">
+  {% include articles/article.html collection="arguendo" %}
+  <section class="side-right">
+
+
+<br />
+    {% include articles/pull-quote.html %}
+
+    {% include arguendo/bio.html %}
+
+    {% include articles/article-meta.html %}
+    {% if site.include_addthis_sharing %}
+      <hr style="width:100%;margin:3em 0;" />
+      <div class="sharing">
+        {% include articles/sharing.html %}
+      </div>
+    {% endif %}
+    {% unless page.comments == false %}
+        <hr style="width:100%;margin:3em 0;" />
+        <!-- <h4>COMMENTS</h4> -->
+      {% include articles/comments.html %}
+    {% endunless %}
+  </section>
+</div>

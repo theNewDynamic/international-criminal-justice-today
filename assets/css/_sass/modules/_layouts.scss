@@ -6,8 +6,14 @@ hr.section-divider {
   margin:0 4em ;
 }
 
-aside {
-  border-top: 4px solid desaturate(darken($base-accent-color, 10), 20);
+.article, aside {
+  //border-top: 4px solid desaturate(darken($base-accent-color, 10), 20);
+  -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+  box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+}
+
+aside h2, aside .h4 {
+  margin-bottom: 1em;
 }
 
 
@@ -17,132 +23,382 @@ aside {
   margin-top: 5em;
 }
 
-  .column-3-wide {
-    @include span-columns(12);
-
-    @include media($normal-screen-up) {
-      @include span-columns(4 of 12);
-    }
-
+.column-3-wide {
+  @include span-columns(12);
+  @include media($normal-screen-up) {
+    @include span-columns(4 of 12);
   }
-  .column-2-wide {
-    @include span-columns(12);
+}
 
-    @include media($normal-screen-up) {
-      @include span-columns(6 of 12);
-    }
-
+.column-2-wide {
+  @include span-columns(12);
+  @include media($normal-screen-up) {
+    @include span-columns(6 of 12);
   }
-
+}
 
 .content {
   padding-bottom: 10em;
 }
 
-
-.layout-news {
-    @include outer-container;
-
-    aside {
-      @include span-columns(12);
-      //z-index:1000000;
-      // border-left: 1px solid darken($light-gray, 7%);
-      // border-right: 1px solid darken($light-gray, 7%);
-      // border-bottom: 1px solid darken($light-gray, 7%);
-      // border-radius:4px;
-      margin-top:1em;
-        hr {
-          width:60%;
-          border-top-color: darken($light-gray, 7%);
-          margin-left: auto;
-          margin-right: auto;
-        }
-      .content-top{
-        background-color:$light-gray;
-        padding:1em;
-        clear:both;
+.layout-home {
+  $aside-background-color: #fff;
+  @include outer-container;
+  aside {
+    @include span-columns(12);
+    //z-index:1000000;
+    // border-top: 1px solid darken($light-gray, 7%);
+    // border-left: 1px solid darken($light-gray, 7%);
+    // border-right: 1px solid darken($light-gray, 7%);
+    // border-bottom: 1px solid darken($light-gray, 7%);
+    border-radius:4px;
+    margin-top:1em;
+    hr {
+      width:60%;
+      border-top-color: darken($aside-background-color, 7%);
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .content-top{
+      background-color:darken($aside-background-color, 5%);
+      padding:2em;
+      clear:both;
+    }
+    .content-middle{
+      border-top: 4px solid darken($aside-background-color, 3.8%);
+      background-color:darken($aside-background-color, 5%);
+      padding:2em;
+      clear:both;
       }
-      .content-middle{
-        background-color:darken($light-gray, 5%);
-        border-top: 4px solid $base-accent-color;
-        padding:1em;
-        clear:both;
-        }
-      .content-bottom{
-        background-color:$light-gray;
-        border-top: 4px solid $base-accent-color;
-        padding:1em;
-        clear:both;
-        }
+    .content-bottom{
+      border-top: 4px solid darken($aside-background-color, 9%);
+      background-color:darken($aside-background-color, 10%);
+      padding:2em;
+      clear:both;
+      }
     }
     section {
       @include span-columns(12);
         padding:inherit;
-        margin-top:inherit;}
-
-      @include media($large-screen) {
-        aside {
-          @include span-columns(5);
-          margin-top:-3.5em;
-        }
-        section {
-          @include span-columns(7);
-          margin-top:2em;
-          padding:0;
-        }
-      }
+        margin-top:inherit;
     }
 
+    @include media($large-screen) {
+      aside {
+        @include span-columns(5);
+        margin-top:-4em;
+        padding-top:-.5em;
+      }
+      section {
+        @include span-columns(7);
+        margin-top:2em;
+        padding:0;
+      }
+    }
+  }
 
-
-.layout-article { //arguendo?
-
-    //margin-top: 5em;
-    padding-top:5em;
-    @include outer-container;
-    max-width:95%;
-
-    aside { @include span-columns(12); margin-top:1em; padding:1em;background-color:#d9d9d9; }
-    article { @include span-columns(12); padding:inherit; margin-top:inherit;}
-
-      @include media($large-screen) {
-          aside { @include span-columns(3); margin-top:2.5em; }
-          article { @include span-columns(9); margin-top:0; padding: 2em 4em 2em 2em;}
-}
-    // section {
-    //   @include span-columns(7);
-    // }
-
-}
-
-
+// primary article layout
 .layout {
-    @include outer-container;
-      article {
-        @include span-columns(12); //padding, etc in modules/_article
-      }
-      section.side-right {
-        @include span-columns(12);
-        padding: 2em;
-      }
-
-      @include media($large-screen) {
-      //@include grid-item-columns($grid-item-columns);
-        article { @include span-columns(8 of 12); }
-
-        section.side-right {
-          @include span-columns(4 of 12);
-          padding: 4em 2em;
-          font-family: $sans-serif;
-          font-size: 90%;
-
-          blockquote {
-            //margin-bottom: 8em;
-          }
-
-
-         }
-
-
-      }
+  @include outer-container;
+  article {
+      @include span-columns(12); //padding, etc in modules/_article
+  }
+  section.side-right {
+    @include span-columns(12);
+    padding: 2em;
+  }
+  @include media($large-screen) {
+    article {
+      @include span-columns(8 of 12);
+    }
+    section.side-right {
+      @include span-columns(4 of 12);
+      padding: 4em 2em;
+      font-family: $sans-serif;
+      font-size: 90%;
+    }
+  }
 }
+
+.layout-arguendo-landing {
+  background-color: darken($content-color-background, 3%);
+  margin-bottom: 4em;
+  @include outer-container;
+    article {
+      @include span-columns(12); //padding, etc in modules/_article
+  }
+  section.side-right {
+    @include span-columns(12);
+    padding: 0;
+  }
+  .grid-item {
+    //padding: 1em;
+    width:100%;
+    clear:both;
+    display:block;
+    min-height: 150px;
+    position: relative;
+  }
+  figure {
+    //min-height: 90px;
+    width:80px;
+    position: absolute;
+    top: 1em;
+    left: 1em;
+
+  }
+  .copy {
+    position: absolute;
+    left: 110px;
+    top: 1em;
+    padding-right:.5em;
+  }
+  a.grid-item:hover {
+    background-color:#ccc;
+  }
+  @include media($large-screen) {
+    .grid-item {
+      min-height: 120px;
+    }
+    article {
+      @include span-columns(8 of 12);
+      @include omega;
+    }
+    section.side-right {
+      @include span-columns(4 of 12);
+      @include omega;
+      padding: 3em 0;
+      font-family: $sans-serif;
+      font-size: 90%;
+    }
+  }
+}
+
+figure.bio {
+  float: left;
+  margin: 8px 12px 2px 0;
+
+  img {
+    //border: 4px solid #ccc;
+    max-width:120px;
+    border-radius:2px;
+  }
+}
+
+
+figure.figure-display-80px {
+  display:inline-block;
+  height:80px;
+  width:80px;
+  overflow:hidden;
+  background-color: #000;
+  border-radius:3px;
+  img {
+    width:100%;
+    border-radius:3px;
+    min-height:80px;
+  }
+  img:hover {
+    @include transition (all 0.2s ease-in-out);
+    opacity: .7;
+  }
+}
+body.home figure.figure-display-80px{
+  margin-right:8px;
+}
+
+
+a.article {
+  padding: 0 1.5em 2em 1em;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  background-color: white;
+  border-radius: 2px;
+  position: relative;
+  border-bottom: 1px solid darken($light-gray, 5%);
+  position: relative;
+
+
+
+  h3 {
+    clear: both;
+    //color: white;
+    color: $dark-gray;
+  }
+
+  .lede {
+    position:static;
+    bottom: 1em;
+    font-size: 90%;
+    padding-right: 1em;
+    text-align: justify;
+    color: $dark-gray;
+
+  }
+
+  @include media($medium-screen-up) {
+    .lede {
+      position:absolute;
+    }
+    border-bottom: none;
+    height: 250px;
+    overflow: hidden;
+    width: 48%;
+    float: left;
+    margin: 0 2% 2em 0;
+  }
+}
+
+.article:hover {
+  background-color: darken(white, 3%);
+  //box-shadow: none;
+}
+
+/// ====
+.article-background {
+  padding: 0 1.5em 2em 1em;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  background-color: white;
+  border-radius: 2px;
+  position: relative;
+  border-bottom: 1px solid darken($light-gray, 5%);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-color: darken($light-gray, 95%);
+  //background-color: rgba(0,0,0,.6);
+  // &:hover {
+  //   background-color: darken($light-gray, 5%);
+  // }
+
+  h3 {
+    clear: both;
+    color: white;
+  }
+
+  @include media($medium-screen-up) {
+    border-bottom: none;
+    height: 250px;
+    width: 30%;
+    float: left;
+    margin: 0 3% 2em 0;
+  }
+}
+//
+.article a{
+
+
+}
+
+ .article-background > .background {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+      //background-image: url('http://placekitten.com/1500/1000');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    border-radius:2px;
+  }
+
+  .article-background > .background:hover {
+    opacity: 1;
+    @include transition (all 0.2s ease-in-out);
+  }
+  .article:hover h3 {
+  z-index: -100;
+}
+
+.article-background h3 {
+    color:white;
+    text-shadow: 1px 1px 0 #000;
+    position:absolute;
+    bottom:1em;
+    padding-right:1em;
+    left:.5625em;
+    z-index: 100;
+  }
+
+.heading-small {
+  float: left;
+  padding: .1875em .4375em .25em .5em;
+  background-color: $light-gray;
+  font-family: $sans-serif;
+  font-size: 90%;
+  margin-bottom: .75em;
+  border-radius: 0 0 3px 3px;
+
+}
+//
+
+
+//== category headings and buttons
+$news-color: #0d6c7f;
+
+.news, .opinion, .event {
+  z-index: 100000;
+  opacity: 1;
+}
+
+.news {
+  background-color: $news-color;
+  color: $light-gray;
+}
+
+.filter-buttons {
+  background-color:none;
+  font-family: $sans-serif;
+  font-size: 90%;
+
+  button:hover {
+    background-color: darken($light-gray, 5%);
+    color: #191919;
+  }
+}
+
+button.news {
+  background: none;
+  color: $news-color;
+  border: 1px solid $news-color;
+}
+
+$opinion-color: #4ce4fd;
+
+.opinion {
+
+  background-color: $opinion-color;
+  color: $light-gray;
+}
+
+button.opinion {
+  background:none;
+  color: $opinion-color;
+  border: 1px solid $opinion-color;
+}
+
+$event-color: #1cadcc;
+
+.event {
+  background-color: $event-color;
+  color: $light-gray;
+}
+
+button.event {
+  background: none;
+  color: $event-color;
+  border: 1px solid $event-color;
+}
+
+//== END category headings and buttons

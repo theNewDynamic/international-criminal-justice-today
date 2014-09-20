@@ -4,8 +4,11 @@ article {
   margin:auto;
   max-width: 100%;
   .entry-title {
-    color: $aba-icc-blue-light;
+    color: $base-link-color;
   }
+.no-background {
+  background-color:$base-background-color;
+}
 
   time {
     font-family: $sans-serif;
@@ -24,7 +27,10 @@ article {
     }
 
     &.hentry header {
-      padding: 2.5em 4rem .5em 4rem;
+         padding: 2.5em 2rem .25em 2rem;
+      @include media($large-screen-up) {
+       padding: 2.5em 4rem .25em 4rem;
+    }
     }
 
 &.hentry .entry-content{
@@ -82,19 +88,6 @@ sup, sub {
 }
 sub { top: 0.4em; }
 
-.footnotes li {
-//@extend small;
-
-}
-
-.entry-content li {
-  margin-bottom: 1.5em;
-}
-
-.sharing {
-margin-top: 4em;
-}
-
-.grid-items > article {
-  margin-top: 14em;
+aside p {
+  color: #777;
 }

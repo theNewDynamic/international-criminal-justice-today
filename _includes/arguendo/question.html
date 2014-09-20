@@ -1,0 +1,54 @@
+{% comment %}
+for the Arguendo landing page: displays question with the list of responses. Each question set is self contained.
+{% endcomment %}
+{% for page in questions reverse  | limit: 10 %}
+  {% capture the_question %}{{ page.title }}{% endcapture %}
+  {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
+  <div class="layout-arguendo-landing">
+    <article class="hentry" style="min-height:600px;">
+      <header>
+        <h2 class="entry-title">
+          <a href="{{ page.url }}" class="arrowTK {% if page.url contains page.url %} arrow-leftTK{% endif %}">
+            {{page.title}}
+          </a>
+        </h2>
+          {% if page.date %}
+        <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
+          <small>
+            {{ page.date | date: "%B %d,  %Y" }}
+          </small>
+        </time>
+      {% endif %}
+      </header>
+      <div class="entry-content prose columns-2"
+        {{ page.content | markdownify }}<!--  question summary -->
+      </div>
+    </article>
+    <section class="side-right responses">
+      {% for article in articles %}
+        {% capture  the_author %}{{ article.author }}{% endcapture %}
+        {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
+        {% if article.question == {{the_question}} %}
+          <a class="grid-item {% cycle 'dark' ,'light' %}" href="{{ article.url }}">
+            {% for author in authors %}
+              {% if author.image %}
+                <figure class="figure-display-80px">
+                  <img src="/assets/img/{{author.image}}">
+                </figure>
+              {% endif %}
+            {% endfor %}
+            <div class="copy">
+              <h3 class="h5">
+                {% for author in authors %}
+                  {{author.name}}
+                {% endfor %}
+              </h3>
+              <small>{{article.title}}</small>
+            </div>
+
+          </a>
+        {% endif %}
+      {% endfor %}
+    </section>
+  </div>
+{% endfor %}

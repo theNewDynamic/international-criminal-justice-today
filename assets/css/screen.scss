@@ -22,6 +22,18 @@
 
 // OPTIONAL MODULES
 @import "modules/layouts";
+@import "modules/aba";
+//@import "modules/tooltip";
+
+.notice {
+  color: $red;
+}
+
+.link-utility {
+  font-family: $sans-serif;
+  text-transform: uppercase;
+  font-size:70%;
+}
 
 .caption {
 	font-size: 90%;
@@ -86,11 +98,15 @@ h2.section-heading {
         transition: opacity .55s ease-in-out;
 }
 
-h3 a {
-	color: #101010;
-}
+// h3 a {
+// 	color: $blue;
+// }
 
 //
 .at-share-tbx-element .at-share-btn .at300bs {
 	border-radius: 50%;
+}
+
+figure {
+  margin: 0; //overrides normalize
 }

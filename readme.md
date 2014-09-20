@@ -2,6 +2,9 @@
 
 Created by Bud Parr at Sonnet Media in conjunction with the American Bar Association Center for Human Rights with the support of the Embassy of the Kingdom of the Netherlands.
 
+
+Types of post pages: video, splash, no image, featured image
+
 ### post flags
 
 splash_image: local filename of image for splash area at top of page
@@ -15,6 +18,12 @@ comments: false (to not show comments on the page)
 video: xxxxxxxx (id# of youtube video, shows in hero)
 pull_Quote: puts a quote up top, in the right aside
 pull_quote_attribution: attribution for above pull_quote
+
+
+category: Event, News, Opinion
+
+
+
 
 #### Events
 sponsor:

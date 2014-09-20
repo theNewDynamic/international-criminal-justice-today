@@ -12,6 +12,8 @@ include: ['_pages']
 # relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
 exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'content-list.yaml']
 
+
+image_path: '/assets/img/'
 # gems:
   #- jekyll-sitemap
 
@@ -39,7 +41,7 @@ collections:
  arguendo:
   collection_name: "Arguendo"
   output: true
-  description: "Experts debate issues of the day on International Criminal Justice"
+  description: "A regular online roundtable where experts from different perspectives discuss and debate a pressing issue in international criminal justice."
   main_page_link: "/arguendo/"
   permalink: /:collection/:path/
   class: arguendo

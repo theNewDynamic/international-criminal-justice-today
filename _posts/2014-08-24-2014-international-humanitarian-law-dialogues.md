@@ -9,6 +9,7 @@ photos:
 splash_image: "international-humanitarian-law-dialogues-1496.jpg"
 video_audio: "https://www.youtube.com/watch?v=tN5JJ8AsJoY, https://www.youtube.com/watch?v=OLxs2SIie2w&feature=relmfu, http://www.youtube.com/watch?v=5Qj1Hr04NN4&feature=relmfu"
 featured: true
+category: event
 ---
 
 
@@ -50,6 +51,3 @@ Additional videos of other Dialogs' presentations and panel discussions can be f
 
 
 <object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&set_id=72157647510930311&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&set_id=72157647510930311&jump_to=" width="700" height="525"></embed></object>
-
-
-

@@ -1,10 +1,10 @@
 ---
 title: "International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States"
-category:
 sponsor: "American Bar Association International Criminal Court Project, Aspen Institute Justice and Society Program, Coalition for the International Criminal Court, and Royal Embassy of the Kingdom of the Netherlands"
 participants: "Hon. Patricia Wald, former Chief Judge of the U.S.Court of Appeals - DC Circuit and the International Criminal Tribunal for the former Yugoslavia (ICTY); Stephen Rapp, U.S. Ambassador-at-large for Global Criminal Justice; Fatou Bensouda, Prosecutor of the International Criminal Court (ICC); and Justice Richard Goldstone, former Prosecutor of both the ICTY and International Criminal Tribunal for Rwanda. Moderators: Stephen Lamony of Coalition for the ICC and Michael S. Greco, Chair of the ABA-ICC Project and its Board of Advisors."
-splash_image: event-2014-04.jpg
+featured_image: event-2014-04.jpg
 featured: false
+category: event
 ---
 On April 10, 2014, the American Bar Association International Criminal Project (ABA-ICC Project), the Aspen Institute of Justice and Society Program, the Coalition for the International Criminal Court (CICC), and the Royal Embassy of the Kingdom of the Netherlands co-sponsored two panel programs in Washington, D.C. at an event entitled "*International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States*" hosted at the beautiful Jones Day law firm overlooking the U.S. Capitol.
 
@@ -35,5 +35,3 @@ One subject addressed by Justice Goldstone was the evolution of the U.S.-ICC rel
 
 ---
 <object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2F&set_id=72157645772350803&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2F&set_id=72157645772350803&jump_to=" width="700" height="525"></embed></object>
-
-

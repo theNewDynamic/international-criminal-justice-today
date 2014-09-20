@@ -21,8 +21,9 @@
   //margin-top: 40px * -1;
   //padding-top:$navigation-height;
   height:425px;
+  position: relative;
 
-//z-index: -100;
+z-index: 100;
   .hero-logo img {
     height: 3em;
     margin-bottom: 2.5em;
@@ -38,33 +39,31 @@
     text-align: center;
     color: $hero-color;
     position: relative;
-
-
     button {
       @include button(simple, $base-background-color);
       font-size: $base-font-size;
       outline: none;
     }
-
-
-    .hero-copy {
-      text-align: left;
-      //background-color: rgba(2,21,31,0.7);
-      padding:1.2em;
-      border-radius: 4px;
-      width:36%;
-      //float:left;
-      //margin-top:22%;
-      position: absolute;
-      top: 300px;
-      left: 0;
+  .hero-copy {
+    text-align: left;
+    //background-color: rgba(2,21,31,0.7);
+    padding:1.2em;
+    border-radius: 4px;
+    width:36%;
+    //float:left;
+    //margin-top:22%;
+    position: absolute;
+    top: 300px;
+    left: 0;
 
 
 
       h1 {
         font-size: 1.5em;
         margin-bottom: 0;
-          color:$light-gray;
+        color:$light-gray;
+          text-shadow: 1px 1px 0 #000;
+
 
 
         @include media($large-screen) {

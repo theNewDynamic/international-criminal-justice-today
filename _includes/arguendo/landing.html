@@ -1,0 +1,13 @@
+<div class="layout">
+  <article class="hentry no-background">
+    <header>
+        <h1>{{ collection.collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
+    {% if collection.description %}
+      <h2 class="h5">
+        {{ collection.description }}
+      </h2>
+    {% endif %}
+    </header>
+  </article>
+
+</div>

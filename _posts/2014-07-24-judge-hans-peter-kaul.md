@@ -1,6 +1,6 @@
 ---
 title: "Judge Hans-Peter Kaul"
-category: News
+category: news
 featured_image: judge-hans-peter-kaul-1999x1200.jpg
 pull_quote: "Judge Kaul was an inspiring advocate, a gentle man, and a seminal figure in the creation and development of the ICC, the world’s permanent court for investigating and adjudicating the international atrocity crimes of genocide, crimes against humanity and war crimes."
 pull_quote_attribution: "Michael Greco"

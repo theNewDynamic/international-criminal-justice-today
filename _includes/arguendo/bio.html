@@ -1,0 +1,22 @@
+<!-- TODO: Move authors into single authors yaml fild along with others on the site -->
+
+{% capture  the_author %}{{ page.author }}{% endcapture %}
+{% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
+
+{% for author in authors %}
+  <h2 class="h4">
+    {% for author in authors  %}
+      {{author.name}}
+    {% endfor %}
+  </h2>
+  <br />
+  {% if author.image %}
+    <figure class="bio">
+      <img src="/assets/img/{{author.image}}">
+    </figure>
+  {% endif %}
+
+<div class="copy" style="color:#777; ">
+{{ author.bio | markdownify }}
+</div>
+{% endfor %}

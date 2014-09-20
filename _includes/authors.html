@@ -1,0 +1,12 @@
+<small>
+  {% for article_authors in article.authors %}
+  {% if forloop.first %}by {% endif %}
+    {% assign author_data = site.data.authors | where: 'twitter', article_authors %}
+      {% for author in author_data %}
+        {{ author.name | markdownify | remove: '<p>' | remove: '</p>'  }}{% if author.position  %} - {{ author.position | markdownify | remove: '<p>' | remove: '</p>'  }}{% endif %}
+
+      {% endfor %}
+      {% unless forloop.last %}| {% endunless %}
+{% endfor %}
+
+</small>

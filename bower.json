@@ -28,7 +28,9 @@
         "modernizr": "latest",
         "underscore": "latest",
         "jquery-cycle2":"^2.1.5",
-        "jquery-backstretch": "^2.0.4"
+        "jquery-backstretch": "^2.0.4",
+        "masonry": "^3.1.5",
+        "isotope": "^2.0.1"
 
     }
 }

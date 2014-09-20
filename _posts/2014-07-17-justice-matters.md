@@ -1,13 +1,15 @@
 ---
 title: "This #17July, Invest in International Criminal Justice Because #JusticeMatters"
-category: article
+category: Opinion
 authors: kiphale
+pull_quote: "The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur."
+pull_quote_attribution: "Kipster"
+cover_image: International-Justice-Day1.jpg
+category: opinion
 ---
-##### originally posted at [The Huffington Post](http://www.huffingtonpost.com/kip-hale/invest-in-international-criminal-justice_b_5590013.html)
+July 17 marks [International Criminal Justice Day][1], when the international community reflects on its collective effort to end impunity for genocide, crimes against humanity, war crimes, and aggression -- known jointly as international atrocity crimes.
 
----
-
-July 17 marks [International Criminal Justice Day][1], when the international community reflects on its collective effort to end impunity for genocide, crimes against humanity, war crimes, and aggression -- known jointly as international atrocity crimes. The word "atrocity" evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur. In thinking about atrocities, our shared sense of justice is also evoked and rightly so. However, while carnage of this kind is most certainly enough to justify action, it is also important to know that unimaginable human suffering is not the only reason to seek justice.
+The word "atrocity" evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur. In thinking about atrocities, our shared sense of justice is also evoked and rightly so. However, while carnage of this kind is most certainly enough to justify action, it is also important to know that unimaginable human suffering is not the only reason to seek justice.
 
 The tsunami of mass death, torture, rape and violence that defines atrocities shreds apart families, communities, nations, and even entire regions. When these fabrics of society are violently replaced with instability and chaos, it becomes clear why these crimes are said to "[threaten the peace, security and well-being of the world][2]", no matter how localized.
 
@@ -44,6 +46,8 @@ The website also includes _[International Criminal Justice Today][24]_ (ICJT), a
 ![2014-07-16-pr1018webEn.jpg][30] To fulfill the promise of international criminal justice, however, new investors are needed, most importantly the investment of individuals. The best way to ensure accountability for atrocities is the collective, persistent demands of individual human beings. Make your voice heard by contacting your elected officials, lawyers' association, places of worship, and media outlets to tell them atrocities must be confronted by the rule of law; that the ICC is humanity's best hope in this new century to end impunity for mass crimes through independent and impartial investigations and prosecutions.
 
 Start now! Join the [#JusticeMatters][1] campaign by taking a picture of yourself with a sign that says #JusticeMatters and #17July and post it to your Facebook and Twitter pages and the #JusticeMatters Facebook page. With your support, we can ALL say that the plight of atrocity victims is not someone else's problem, but ours too.
+
+##### originally posted at [The Huffington Post](http://www.huffingtonpost.com/kip-hale/invest-in-international-criminal-justice_b_5590013.html)
 
 
 

@@ -1,6 +1,7 @@
 // Typography
 $sans-serif: $helvetica;
-$serif: 'Mercury SSm A', 'Mercury SSm B', $georgia;
+//$serif: 'Mercury SSm A', 'Mercury SSm B', $georgia;
+$serif: $georgia;
 $base-font-family: $serif;
 $brand-font: 'Verlag A', 'Verlag B','Roboto',ff-tisa-web-pro, $sans-serif;
 $header-font-family: $brand-font;
@@ -29,7 +30,7 @@ $red: #b23e3a;
 
 // Background Color
 $base-background-color: #f7f7f7;
-$navigation-background: $blue;
+$navigation-background: $blackish;
 
 // Font Colors
 $base-font-color: $dark-gray;

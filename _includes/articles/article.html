@@ -3,14 +3,12 @@
 {% assign the_question = page.question %}
 {% assign questions = site.[collection_name] | where: 'title', the_question  %}
 
-
-
 <article class="hentry">
   {% if page.featured_image %}
     <img src="/assets/img/{{page.featured_image}}" style="width:100%;" class="featured_image">
   {% endif %}
   <header>
-  {% if collection %}
+    {% if collection %}
 
       <h2>{{ collection.collection_name }}</h2>
 

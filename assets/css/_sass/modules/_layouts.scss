@@ -61,12 +61,12 @@ aside h2, aside .h4 {
     }
     .content-top{
       background-color:darken($aside-background-color, 5%);
-      padding:2em;
+      padding:1.5em 2em 1em 2em;
       clear:both;
     }
     .content-middle{
       border-top: 4px solid darken($aside-background-color, 3.8%);
-      background-color:darken($aside-background-color, 5%);
+      background-color:darken($aside-background-color, 7%);
       padding:2em;
       clear:both;
       }
@@ -86,8 +86,8 @@ aside h2, aside .h4 {
     @include media($large-screen) {
       aside {
         @include span-columns(5);
-        margin-top:-4em;
-        padding-top:-.5em;
+        //margin-top:-4em;
+        //padding-top:-.5em;
       }
       section {
         @include span-columns(7);
@@ -361,7 +361,8 @@ a.article {
 
 
 //== category headings and buttons
-$news-color: #0d6c7f;
+$news-color: lighten($blue-aba-logo, 5%);
+$opinion-color: lighten($red, 1%);
 
 .news, .opinion, .event {
   z-index: 100000;
@@ -390,7 +391,7 @@ button.news {
   border: 1px solid $news-color;
 }
 
-$opinion-color: #4ce4fd;
+
 
 .opinion {
 

@@ -3,8 +3,7 @@ title: "This #17July, Invest in International Criminal Justice Because #JusticeM
 category: Opinion
 authors: kiphale
 pull_quote: "The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur."
-pull_quote_attribution: "Kipster"
-cover_image: International-Justice-Day1.jpg
+pull_quote_attribution: "Kip Hale"
 category: opinion
 ---
 July 17 marks [International Criminal Justice Day][1], when the international community reflects on its collective effort to end impunity for genocide, crimes against humanity, war crimes, and aggression -- known jointly as international atrocity crimes.

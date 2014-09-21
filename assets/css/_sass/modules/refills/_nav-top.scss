@@ -1,6 +1,6 @@
 header.navigation {
   $navigation-padding: 1em;
-  $navigation-background: $blackish;//$blue !default;
+  $navigation-background: $blue !default;
   $navigation-background-home: rgba(2,21,31,0.7);//$blue !default;
   $navigation-color: transparentize(white, 0.2);
   $navigation-color-hover: white;
@@ -20,14 +20,15 @@ header.navigation {
   border-bottom: none;//1px solid darken($navigation-background, 10);
   height: $navigation-height;
   //margin-bottom: $navigation-height * -1; // PULLS THE SPLASH IMAGE UP INTO THE NAV-TOP AREA
-
+  position:fixed;
+  top: 0;
   width: 100%;
   z-index: 999;
   font-family: $header-font-family;
 
   .navigation-wrapper {
     @include clearfix;
-    @include outer-container;
+    //@include outer-container;
     position: relative;
     z-index: 9999;
   }
@@ -40,7 +41,7 @@ header.navigation {
 
     img {
       max-height: $navigation-height * 1;
-      padding: .8em 0;
+      padding: .8em .5em;
     }
   }
 
@@ -344,7 +345,7 @@ header.navigation {
 }
 
 
-body.home header.navigation {
-  background-color: rgba(2,21,31,0.78);//$navigation-background-home;
-  margin-bottom: $navigation-height * -1; // PULLS THE SPLASH IMAGE UP INTO THE NAV-TOP AREA
-}
+// body.home header.navigation {
+//   background-color: rgba(2,21,31,0.78);//$navigation-background-home;
+//   margin-bottom: $navigation-height * -1; // PULLS THE SPLASH IMAGE UP INTO THE NAV-TOP AREA
+// }

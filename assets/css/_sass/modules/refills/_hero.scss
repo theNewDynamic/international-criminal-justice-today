@@ -22,6 +22,7 @@
   //padding-top:$navigation-height;
   height:425px;
   position: relative;
+  //margin-top: $navigation-height;
 
 z-index: 100;
   .hero-logo img {
@@ -53,7 +54,8 @@ z-index: 100;
     //float:left;
     //margin-top:22%;
     position: absolute;
-    top: 300px;
+
+    top: 250px;
     left: 0;
 
 
@@ -68,7 +70,7 @@ z-index: 100;
 
         @include media($large-screen) {
           font-size: 1.8em;
-
+          top: 250px;
           //padding: 1em;
 
 
@@ -94,3 +96,9 @@ z-index: 100;
     }
   }
 }
+
+.cycle-slideshow {
+  //@include outer-container;
+  height: 395px;
+}
+

@@ -4,13 +4,14 @@ title: "Debate: The International Criminal Court in Africa"
 date: "2014-02-25 12:00:00"
 date: "2014-02-25 12:00:00"
 # splash_image: 2014-02-24-event-screenshot.jpg
-splash_image: 10404058_280789842116943_6606161463078225670_o.jpg
+# splash_image: 10404058_280789842116943_6606161463078225670_o.jpg
 featured_image: 10404058_280789842116943_6606161463078225670_o.jpg
 sponsor: "American Bar Association & American University Council on African Studies"
 participants: "Michael S. Greco, former president, American Bar Association; Regina Njogu, Washington College of Law alumni, Kenyan attorney; Stephen Arthur Lamony, Senior Adviser on AU, UN, and African Situations Coalition for the ICC; David Bosco, Professor in American University’s School of International Service"
 featured: true
 splash_height: 525px
 category: event
+video: XyYs7NzCsO8
 ---
 On February 25, 2014, American University's Council on Africa Studies hosted a panel debate on Africa and the ICC with a special focus on recent ICC cases against senior Kenyan governmental officials.
 

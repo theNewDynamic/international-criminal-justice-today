@@ -9,7 +9,7 @@ section: page
 {% assign opinion     = site.posts | where: 'category', 'Opinion' %}
 
 {% assign todays_date = site.time | date: "%Y%m%d" %}
-<div class="layout-home">
+<div class="layout-home has-layout">
   <section id="container-filter" class="featured-box">
     <div class="filter-buttons" style="margin:1em auto 2em auto;">
       <button id="filter-clear" class="news">All</button>
@@ -26,21 +26,35 @@ section: page
       {% endif %}
     {% endfor %}
     <div class="list-filter">
+
+
       {% for article in articles limit:6 %}
         {% if article.category != 'event' %}
+
+
           <a href="{{ article.url }}" class="article">
           <span class="category hidden">{{ article.category | slugify }}</span>
-            <div class="heading">
+
+            <div class="heading{% if article.featured_image %} article-background{% endif %}" {% if article.featured_image %}style="background-position:center center;background-image:url(/assets/img/{{ article.featured_image }});background-size:cover;"{% endif %}>
+
               <h6 class="heading-small {{ article.category | slugify }}">{{ article.category}}</h6>
               <h3 style="margin:auto;">{{ article.title }}</h3>
               {% include authors.html %}
             </div>
+
             <div class="lede">
               {{ article.excerpt | strip_html  | truncate: 255, '...'}}
             </div>
+
+
           </a>
+
+
         {% endif %}
       {% endfor %}
+
+
+
     </div>
   </section>
   <aside>
@@ -50,29 +64,12 @@ section: page
 
     </div>
     <div class="content-middle">
-
-
       <h2>Headlines</h2>
       <div id="content_tumblr"></div>
         <div style="width:80px;margin:auto;" >
           <a href="javascript:void(0)" id="show-tumblr-extended"><i class="icon-down-open">expand</i></a>
         </div>
       <div id="content_tumblr-long" style="display:none;"></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     </div>
     <div class="content-bottom">
       <h2>Latest Ipsos Data</h2>
@@ -82,7 +79,6 @@ section: page
     </div>
   </aside>
 </div><!--  //layout-news -->
-
 <div class="row">
   <h2>Event Recaps</h2>
   {% for news in events limit:6 %}

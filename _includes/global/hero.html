@@ -1,11 +1,11 @@
 {% if page.class == 'home' %}
-  <div class="cycle-slideshow" data-cycle-slides="section" data-cycle-fx="fadeout" data-cycle-speed="900" data-cycle-manual-speed="100" data-cycle-pause-on-hover="true">
+  <div class="has-layout cycle-slideshow" data-cycle-slides="section" data-cycle-fx="fadeout" data-cyle-timeout="1200" data-cycle-speed="1400" data-cycle-manual-speed="100" data-cycle-pause-on-hover="true">
   {% assign featured_news = site.posts|where: 'featured', true %}
-    {% for news in featured_news limit:10 offset:0 %}
-			{% assign splash_image = news.splash_image %}
+    {% for news in featured_news limit:3 offset:0 %}
+			{% assign splash_image = news.featured_image %}
 			{% assign title = news.title %}
 			{% assign url = news.url %}
-      <section class="hero" style="background-image:url(/assets/img/{{ splash_image }});width:100%;height:495px;{% if forloop.index0 > 0 %} display:none;{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}" id="post-{{ forloop.index0 }}">
+      <section class="hero" style="background-image:url(/assets/img/{{ splash_image }});width:100%;height:395px;{% if forloop.index0 > 0 %} display:none;{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}" id="post-{{ forloop.index0 }}">
 		    <div class="hero-inner">
           <div class="hero-copy">
             <a href="{{ url }}">
@@ -19,7 +19,7 @@
 {% else %}
  {% assign splash_image = page.splash_image %}
  {% if splash_image %}
-  <section class="hero" style="background-image:url(/assets/img/{{ splash_image }});width:100%;{% if page.splash_height %}height:{{ page.splash_height }};{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}">
+  <section class="has-layout hero" style="background-image:url(/assets/img/{{ splash_image }});width:100%;{% if page.splash_height %}height:{{ page.splash_height }};{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}">
 
       <div class="hero-inner">
           <div class="hero-copy">
@@ -33,7 +33,7 @@
   </section>
 {% elsif page.video %}
 
-<section class="hero" style="background-color:#000000;">
+<section class="has-layout hero" style="background-color:#000000;">
 
 <div style="width:640px;margin:auto;padding:1em 0;">
  <div id="player"></div>

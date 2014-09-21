@@ -44,6 +44,10 @@
 	margin-bottom:1em;
 }
 
+.hidden {
+  display: none;
+}
+
 .space-below-big {
 	margin-bottom:3em;
 	display:block;
@@ -77,10 +81,6 @@ header.navigation ul li.nav-link a.site-heading {
 
 h2.section-heading {
 	padding-bottom: 0;
-}
-
-.cycle-slideshow {
-	height: 495px;
 }
 
 .sharing, #disqus_thread {

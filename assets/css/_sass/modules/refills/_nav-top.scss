@@ -26,6 +26,20 @@ header.navigation {
   z-index: 999;
   font-family: $header-font-family;
 
+  .mobile-heading {
+    display: inline-block;
+    top: 8px;
+    left: 80px;
+    line-height:1.2;
+  position: absolute;
+  width: 30%;
+  color: #f7f7f7;
+    @include media($horizontal-bar-mode) {
+      display: none;
+    }
+
+}
+
   .navigation-wrapper {
     @include clearfix;
     //@include outer-container;
@@ -87,10 +101,17 @@ header.navigation {
     width: 100%;
     z-index: 9999;
 
+    font-size: 50%;
+    //line-height: 1;
+    // position: absolute;
+    // top: 3px;
+
     @include media ($horizontal-bar-mode) {
       display: inline;
       margin: 0;
       padding: 0;
+      font-size: 100%;
+
     }
   }
 
@@ -343,6 +364,14 @@ header.navigation {
     }
   }
 }
+.site-heading {
+  padding-left: 2.625em;
+}
+
+body.home .site-heading {
+  padding-left: .625em;
+}
+
 
 
 // body.home header.navigation {

@@ -55,9 +55,8 @@ z-index: 100;
     //margin-top:22%;
     position: absolute;
 
-    top: 250px;
+    top: 150px;
     left: 0;
-
 
 
       h1 {
@@ -66,11 +65,9 @@ z-index: 100;
         color:$light-gray;
           text-shadow: 1px 1px 0 #000;
 
-
-
         @include media($large-screen) {
           font-size: 1.8em;
-          top: 250px;
+
           //padding: 1em;
 
 
@@ -91,6 +88,7 @@ z-index: 100;
         @include media($large-screen) {
           font-size: 1.1em;
           max-width: 40%;
+          top: 250px;
         }
       }
     }

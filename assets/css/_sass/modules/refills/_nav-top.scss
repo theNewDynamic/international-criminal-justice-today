@@ -26,6 +26,16 @@ header.navigation {
   z-index: 999;
   font-family: $header-font-family;
 
+  .logo-alt {
+    img {
+      position: absolute;
+      right:10px;
+      top: 1px;
+      max-height: $navigation-height * 1;
+      padding: .8em .5em;
+    }
+  }
+
   .mobile-heading {
     display: inline-block;
     top: 8px;
@@ -59,16 +69,20 @@ header.navigation {
     }
   }
 
+
+
   // Mobile view
 
   .navigation-menu-button {
     color: #788d9e;//$navigation-color;
     display: block;
     float: right;
+
     font-family: $sans-serif;
     font-weight: 700;
     line-height: $navigation-height;
     margin: 0;
+    margin-right: 50px;
     padding-right: 1em;
     text-transform: uppercase;
 
@@ -369,7 +383,7 @@ header.navigation {
 }
 
 body.home .site-heading {
-  padding-left: .625em;
+  padding-left: 0;
 }
 
 

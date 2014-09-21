@@ -36,18 +36,17 @@ header.navigation {
     }
   }
 
-  .mobile-heading {
-    display: inline-block;
-    top: 8px;
-    left: 80px;
-    line-height:1.2;
+.mobile-heading {
+  display: inline-block;
+  top: 26px;
+  left: 5px;
+  line-height:1.2;
   position: absolute;
-  width: 30%;
+  width: 60%;
   color: #f7f7f7;
-    @include media($horizontal-bar-mode) {
-      display: none;
-    }
-
+  @include media($horizontal-bar-mode) {
+    display: none;
+  }
 }
 
   .navigation-wrapper {
@@ -63,9 +62,15 @@ header.navigation {
     padding-left: $navigation-padding;
     padding-right: 2em;
 
+
+
     img {
+      display: none;
       max-height: $navigation-height * 1;
       padding: .8em .5em;
+      @include media($medium-screen-up) {
+      display: block;
+    }
     }
   }
 

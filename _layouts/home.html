@@ -12,12 +12,11 @@ section: page
 <div class="layout-home has-layout">
 
   <section id="container-filter" class="featured-box">
-    <div class="filter-buttons" style="margin:1em auto 2em auto;">
+
+    <div class="filter-buttons script-only hidden" style="margin:1em auto 2em auto;">
       <button id="filter-clear" class="news">All</button>
       <button id="filter-news" class="news">News</button>
       <button id="filter-opinion" class="opinion">Opinion</button>  <!-- <button class="event">Events</button> -->
-
-
     </div>
     {% for news in events limit:5 %}
       {% assign post_date = news.date | date: "%Y%m%d" %}
@@ -70,11 +69,11 @@ section: page
     <div class="content-top">
 
 
-        <h2 style="margin-bottom:0;"><a href="/arguendo/">Arguendo</a></h2>
+        <h2 style="margin-bottom:0;"><a href="/arguendo/"><em>Arguendo</em></a></h2>
       {% include arguendo/summary.html %}
 
     </div>
-    <div class="content-middle">
+    <div class="content-middle script-only hidden">
       <h2>Headlines</h2>
       <div id="content_tumblr"></div>
         <div style="width:80px;margin:auto;" >
@@ -103,7 +102,7 @@ section: page
   {% endfor %}
 </div>
 
-<div class="row dark-background">
+<div class="row dark-background script-only hidden">
 
   <div class="column-2-wide">
     {% include global/twitter-list.html %}

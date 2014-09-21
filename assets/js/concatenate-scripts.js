@@ -6,6 +6,9 @@ layout: null
 {% include scripts/links-new-window.js %}
 {% include scripts/listjs/dist/list.min.js %}
 
+ $(function () {
+     $('.script-only').removeClass('hidden');
+ });
 
   var options = {
       valueNames: [ 'name', 'slug' , 'category', 'tagline', 'categories', 'date'],

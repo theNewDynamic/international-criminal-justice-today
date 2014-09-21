@@ -52,7 +52,7 @@ aside h2, aside .h4 {
 
 .layout-home {
   @include outer-container;
-  margin-top: $navigation-height * .4;
+  margin-top: $navigation-height * .2;
   $aside-background-color: #fff;//$base-background-color
 
   .filter-buttons {

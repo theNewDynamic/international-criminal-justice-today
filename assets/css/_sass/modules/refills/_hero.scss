@@ -57,6 +57,9 @@ z-index: 100;
 
     top: 150px;
     left: 0;
+    @include media($large-screen) {
+      top: 250px;
+    }
 
 
       h1 {
@@ -88,7 +91,7 @@ z-index: 100;
         @include media($large-screen) {
           font-size: 1.1em;
           max-width: 40%;
-          top: 250px;
+
         }
       }
     }

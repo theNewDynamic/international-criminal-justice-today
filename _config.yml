@@ -122,10 +122,10 @@ prose:
               value: "ipsos"
       - name: "pull_quote"
         field:
-          element: 'text'
+          element: 'textarea'
           label: "Pull Quote"
           placeholder: "large quote, top left"
-      - name: "pull_quote_atribution"
+      - name: "pull_quote_attribution"
         field:
           element: 'text'
           label: "Pull Quote Atribution"

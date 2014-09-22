@@ -73,7 +73,7 @@ defaults:
 prose:
   siteurl: 'http://www.international-criminal-justice-today.org/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'assets/img'
+  media: '/assets/img'
   ignore:
     - index.md
     - _config.yml

@@ -108,7 +108,7 @@ prose:
           placeholder: 'Put your title here'
       - name: "category"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Add Category"
           placeholder: "Choose Category"
           options:

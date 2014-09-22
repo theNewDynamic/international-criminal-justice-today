@@ -1,5 +1,6 @@
 prose:
   siteurl: 'http://www.international-criminal-justice-today.org/'
+  relativeLinks: "http://www.international-criminal-justice-today.org/api/authors.jsonp"
   media: '/assets/img/'
   ignore:
     - index.md
@@ -71,7 +72,7 @@ prose:
         field:
           element: 'select'
           label: "Choose an author"
-          options: "http://www.international-criminal-justice-today.org/api/authors.json"
+          options: "authors"
     _pages:
       - name: 'title'
         field:

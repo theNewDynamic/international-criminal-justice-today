@@ -1,11 +1,15 @@
 ---
+published: true
 title: "International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States"
 sponsor: "American Bar Association International Criminal Court Project, Aspen Institute Justice and Society Program, Coalition for the International Criminal Court, and Royal Embassy of the Kingdom of the Netherlands"
 participants: "Hon. Patricia Wald, former Chief Judge of the U.S.Court of Appeals - DC Circuit and the International Criminal Tribunal for the former Yugoslavia (ICTY); Stephen Rapp, U.S. Ambassador-at-large for Global Criminal Justice; Fatou Bensouda, Prosecutor of the International Criminal Court (ICC); and Justice Richard Goldstone, former Prosecutor of both the ICTY and International Criminal Tribunal for Rwanda. Moderators: Stephen Lamony of Coalition for the ICC and Michael S. Greco, Chair of the ABA-ICC Project and its Board of Advisors."
-featured_image: event-2014-04.jpg
+featured_image: "event-2014-04.jpg"
 featured: false
 category: event
+pull_quote: null
 ---
+
+![screenshot-3.png](/_posts/screenshot-3.png)
 On April 10, 2014, the American Bar Association International Criminal Project (ABA-ICC Project), the Aspen Institute of Justice and Society Program, the Coalition for the International Criminal Court (CICC), and the Royal Embassy of the Kingdom of the Netherlands co-sponsored two panel programs in Washington, D.C. at an event entitled "*International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States*" hosted at the beautiful Jones Day law firm overlooking the U.S. Capitol.
 
 The first panel program was devoted to the U.S. role in international criminal justice.  The distinguished panelists were the Hon. Patricia Wald, former Chief Judge of the U.S. Court of Appeals - DC Circuit and judge at the International Criminal Tribunal for the former Yugoslavia (ICTY), and Stephen Rapp, U.S. Ambassador-at-large for Global Criminal Justice. The program was moderated by Stephen Lamony of CICC.

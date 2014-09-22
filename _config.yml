@@ -71,7 +71,7 @@ defaults:
     layout: arguendo
 
 prose:
-  rooturl: '_posts'
+  rooturl: '/'
   siteurl: 'http://www.international-criminal-justice-today.org/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'assets/img'
@@ -80,12 +80,10 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /assets/
+    - /api/
   metadata:
     _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "category"
         field:
           element: "multiselect"
@@ -96,3 +94,8 @@ prose:
               value: "opinion"
             - name: "event"
               value: "ipsos"
+      - name: "video"
+        field:
+          element: "text"
+          label: "Video"
+          placeholder: "specify a video ID from Youtube - will play in top section"

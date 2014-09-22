@@ -10,9 +10,7 @@ section: page
 
 {% assign todays_date = site.time | date: "%Y%m%d" %}
 <div class="layout-home has-layout">
-
   <section id="container-filter" class="featured-box">
-
     <div class="filter-buttons script-only hidden" style="margin:1em auto 2em auto;">
       <button id="filter-clear" class="news">All</button>
       <button id="filter-news" class="news">News</button>
@@ -28,50 +26,27 @@ section: page
       {% endif %}
     {% endfor %}
     <div class="list-filter">
-
-
       {% for article in articles limit:6 %}
         {% if article.category != 'event' %}
-
-
           <a href="{{ article.url }}" class="article">
           <span class="category hidden">{{ article.category | slugify }}</span>
-
             <div class="heading{% if article.featured_image %} article-background{% endif %}" {% if article.featured_image %}style="background-position:center center;background-image:url(/assets/img/{{ article.featured_image }});background-size:cover;"{% endif %}>
-
               <h6 class="heading-small {{ article.category | slugify }}">{{ article.category}}</h6>
               <h3 style="margin:auto;">{{ article.title }}</h3>
               {% include authors.html %}
             </div>
-
             <div class="lede">
               {{ article.excerpt | strip_html  | truncate: 255, '...'}}
             </div>
-
-
           </a>
-
-
         {% endif %}
       {% endfor %}
-
-
-
     </div>
   </section>
   <aside>
-
-
-
-
-
-
     <div class="content-top">
-
-
         <h2 style="margin-bottom:0;"><a href="/arguendo/"><em>Arguendo</em></a></h2>
       {% include arguendo/summary.html %}
-
     </div>
     <div class="content-middle script-only hidden">
       <h2 style="margin-bottom:.25em;">Headlines</h2>
@@ -101,9 +76,7 @@ section: page
     </a>
   {% endfor %}
 </div>
-
 <div class="row dark-background script-only hidden">
-
   <div class="column-2-wide">
     {% include global/twitter-list.html %}
   </div>
@@ -115,5 +88,4 @@ section: page
     </blockquote>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
-
 </div>

@@ -88,11 +88,12 @@ prose:
     - 404.html
     - CNAME
     - license.md
-    - flags.html
+    - _flags.html
     - atom.xml
     - bower.json
     - favicon.ico
     - gemfile
+    - Gemfile.lock
     - readme.md
     - robots.txt
 

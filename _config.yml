@@ -77,10 +77,25 @@ prose:
   ignore:
     - index.md
     - _config.yml
-    - /_layouts
-    - /_includes
-    - /assets/
-    - /api/
+    - _layouts
+    - _includes
+    - assets
+    - api
+    - _ipsos
+    - .bowerrc
+    - .gitignore
+    - .travis.yml
+    - 404.html
+    - CNAME
+    - license.md
+    - flags.html
+    - atom.xml
+    - bower.json
+    - favicon.ico
+    - gemfile
+    - readme.md
+    - robots.txt
+
   metadata:
     _posts:
       - name: "category"

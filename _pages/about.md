@@ -2,36 +2,16 @@
 title: About
 layout: page
 permalink: /about/
-excerpt: Occasional mailings from the ABA-ICC project
-include: global/mailing-list.html
+excerpt: "Occasional mailings from the ABA-ICC project"
+include: "global/mailing-list.html"
+published: true
 ---
 
-The American Bar Association International Criminal Court Project (ABA-ICC Project) implements longstanding ABA policies on international criminal justice.  The ABA was amongst the voices that called for establishment of a permanent international tribunal by multilateral treaty – what later became the Rome Statute that established the International Criminal Court (ICC)  – and did so starting in 1978.  The ABA participated in the negotiations of the Rome Statute as an observer, advocated for the treaty’s adoption, and urged the United States to become a State Party. Most recently, the ABA urged the US government to forge greater support for, and engagement with, the ICC.
+*International Criminal Justice Today* (ICJT) is an online periodical devoted to news, opinion, and other current events on international criminal justice, or the fight to hold criminally accountable those who participate in the international atrocity crimes of genocide, crimes against humanity, war crimes, and aggression. ICJT is the product of a partnership between the [American Bar Association Center for Human Rights](http://www.americanbar.org/groups/human_rights.html), its [ABA International Criminal Court Project](www.aba-icc.org) and [Stanford Law School Program in International and Comparative Law](https://www.law.stanford.edu/areas-of-interest/international-and-comparative-law)
 
-#### [Click Here to Join our Mailing List](/follow/)
+ICJT includes many exciting features that we hope you enjoy. *Arguendo* is a regular roundtable debate where experts from varied fields give their opinion on a question presented, such as "what is the next ten years of international criminal justice going to look like?" In partnership with the market research firm [Ipsos](http://www.ipsos-na.com/), ICJT includes quarterly polling reports on Americans' opinions on international criminal justice, specifically the International Criminal Court. ICJT also includes its *Opinion* section, regular blogpost about international criminal justice by ICJT's featured contributors. There is also events recapts of ABA International Criminal Court events and *Headlines*, an aggregation of online news articles on international criminal justice. 
 
----
+We value your opinion, so please feel free to [contact](http://www.aba-icc.org/the-aba-icc-project/contact/) us if you have any questions or comments. Also, please like and follow the ABA-ICC Project [Facebook](http://facebook.com/ABAICCProject) & [Twitter](http://twitter.com/ABAICCProject) and Stanford Law School [Facebook](https://www.facebook.com/StanfordLawSchool) & [Twitter](https://twitter.com/stanfordlaw). 
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/79mZ8-CkHOU?rel=0" frameborder="0" allowfullscreen></iframe>
+Thank you for reading ICJT!
 
----
-
-With nearly 400,000 members worldwide and a respected voice among diverse stakeholders, the ABA is well-positioned to raise awareness in the US about the crucial mandate of the ICC to investigate and prosecute the international atrocity crimes of genocide, crimes against humanity, and war crimes, and to support the Court’s legal activities. The ABA-ICC Project provides such support through:
-
-## Advocacy and Education
-
-- Engaging with the American people, legal profession, and policymakers on the ICC and its vital role in helping protect human rights, establish the rule of law globally, and foster durable peace, thereby engendering broad-based familiarity with the ICC and enhancing US-ICC relations.
-- Convening high-level briefings on the ICC before the US legislative and executive branches, offering ICC education courses for American lawyers, providing assistance to ABA members advocating for greater US support for the ICC’s mandate, and establishing dialogs between US, ICC, and other key stakeholders.
-- Through the ABA-ICC Project website, providing innovative and interactive content that educates website visitors on the ICC and its jurisdiction, judicial process, constituent organs, State Parties, and US-ICC relations.  In collaboration with **Stanford Law School**, the website also features International Criminal Justice Today, an online periodical with IPSOS market research polling data and up-to-date developments in the field and includes Arguendo, a regular roundtable forum where distinguished experts from different fields discuss and debate the most pressing international criminal justice issues.
-
-## Practical Legal Assistance
-
-- When requested by the ICC to help augment internal efforts, organizing practitioner engagements on proven practices and methodologies, forums for exchanges of legal expertise between ICC judges and lawyers and their international counterparts, and continuing legal education initiatives.
-
-
-![ICJC LOGO](/assets/img/logo-icjc-140109-170718.png) - The ABA is a member of the [**International Criminal Justice Consortium**](http://icj-consortium.org/), an independent and non-partisan alliance of specialized and diverse organizations, representing a broad range of regions and legal traditions, which formed with  the purpose to help support the ICC and national jurisdictions with their international criminal justice mandate and do so through capacity-building activities.
-
-
-## Enter your details below to keep up-to-date with the ABA-ICC Project.
-
-You can also follow us on [Facebook](http://facebook.com/ABAICCProject) and [Twitter](http://twitter.com/ABAICCProject).

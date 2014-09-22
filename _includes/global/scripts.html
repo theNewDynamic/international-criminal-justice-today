@@ -4,9 +4,9 @@ function downloadJSAtOnload() {
   element.src = "/assets/js/concatenate-scripts.js";
   document.body.appendChild(element);
 
-  // var element_addthis = document.createElement("script");
-  // element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
-  // document.body.appendChild(element_addthis);
+  var element_addthis = document.createElement("script");
+  element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
+  document.body.appendChild(element_addthis);
 }
 if (window.addEventListener)
 window.addEventListener("load", downloadJSAtOnload, false);
@@ -16,19 +16,7 @@ else window.onload = downloadJSAtOnload;
 </script>
 
 
-<script type="text/javascript">
-  WebFontConfig = {
-    google: { families: [ 'Roboto:400,900italic,900,700italic,700,500italic,400italic,500,300italic,300:latin' ] }
-  };
-  (function() {
-    var wf = document.createElement('script');
-    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-    wf.type = 'text/javascript';
-    wf.async = 'true';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(wf, s);
-  })(); </script>
+
 
 
 

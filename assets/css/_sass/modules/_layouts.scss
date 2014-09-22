@@ -58,7 +58,7 @@ aside h2, aside .h4 {
   .filter-buttons {
         padding: 1em;
       }
-  aside {
+  aside { //Home page left side box, broken into three sections
     @include span-columns(12);
     //z-index:1000000;
     // border-top: 1px solid darken($light-gray, 7%);
@@ -75,7 +75,7 @@ aside h2, aside .h4 {
     }
     .content-top{
       background-color:darken($aside-background-color, 1%);
-      padding:1.5em 2em 1em 2em;
+      padding:1.5em 2em 0 2em;
       clear:both;
     }
     .content-middle{

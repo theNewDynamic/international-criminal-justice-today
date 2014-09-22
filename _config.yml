@@ -71,7 +71,7 @@ defaults:
     layout: arguendo
 
 prose:
-  siteurl: "http://www.international-criminal-justice-today.org/"
+  siteurl: 'http://www.international-criminal-justice-today.org/'
   media: '/assets/img'
   ignore:
     - index.md

@@ -67,6 +67,11 @@ prose:
         field:
           element: 'hidden'
           value: 'true'
+      - name: 'author'
+        field:
+          element: 'select'
+          label: "Choose an author"
+          options: "http://www.international-criminal-justice-today.org/api/authors.json"
     _pages:
       - name: 'title'
         field:

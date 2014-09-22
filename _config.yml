@@ -120,6 +120,16 @@ prose:
               value: "opinion"
             - name: "Ipsos"
               value: "ipsos"
+      - name: "pull_quote"
+        field:
+          element: 'text'
+          label: "Pull Quote"
+          placeholder: "large quote, top left"
+      - name: "pull_quote_atribution"
+        field:
+          element: 'text'
+          label: "Pull Quote Atribution"
+          placeholder: "below large quote, top left"
       - name: "video"
         field:
           element: "text"

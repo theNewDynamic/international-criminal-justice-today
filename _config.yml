@@ -96,7 +96,9 @@ prose:
     - Gemfile.lock
     - readme.md
     - robots.txt
-
+    - _pages/arguendo.md
+    - _pages/contributing-authors.md
+    - _pages/mailing-list.md
   metadata:
     _posts:
       - name: 'title'

@@ -11,7 +11,7 @@ published: true
 
 ---
 
-ICJT has many features that we hope you enjoyable as well as informative. 
+ICJT has many features that we hope you find enjoyable as well as informative. 
 
 
 - ▪ [*Arguendo*](http://www.international-criminal-justice-today.org/arguendo/) (or "for 	 the sake of argument" in Latin), a regular roundtable debate where experts from 	  	  varied fields give their opinion on a current question facing international criminal 	   justice.

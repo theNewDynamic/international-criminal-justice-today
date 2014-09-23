@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: About the Site
 permalink: "/about-the-site/"
 ---

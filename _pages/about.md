@@ -1,5 +1,5 @@
 ---
-title: About International Criminal Justice Today
+title: About the ABA-ICC Project
 layout: page
 permalink: /about/
 excerpt: "Occasional mailings from the ABA-ICC project"
@@ -11,18 +11,18 @@ published: true
 
 ---
 
-ICJT has many features that we hope you find enjoyable as well as informative. 
+ICJT has many features that we hope you find enjoyable as well as informative.
 
 
 - ▪ [*Arguendo*](http://www.international-criminal-justice-today.org/arguendo/) (or "for 	 the sake of argument" in Latin), a regular roundtable debate where experts from 	  	  varied fields give their opinion on a current question facing international criminal 	   justice.
 - ▪ In partnership with the market research firm [Ipsos](http://www.ipsos-na.com/),  	 	 quarterly polling reports on American opinions on international criminal justice, 		specifically the International Criminal Court.
 - ▪ *Opinion* that features regular blogpost by ICJT contributors on current events in   	 international criminal justice.
-- ▪ *Headlines*, an aggregation of news articles on international criminal justice. 
+- ▪ *Headlines*, an aggregation of news articles on international criminal justice.
 - ▪ Information about past and future events of the ABA International Criminal Court 		Project.
 
 ---
 
-Your opinion is valuable, so please feel free to [contact](http://www.aba-icc.org/the-aba-icc-project/contact/) us with any questions or comments. Also, please like and follow the ABA-ICC Project [Facebook](http://facebook.com/ABAICCProject) & [Twitter](http://twitter.com/ABAICCProject) pages and Stanford Law School [Facebook](https://www.facebook.com/StanfordLawSchool) & [Twitter](https://twitter.com/stanfordlaw) pages. 
+Your opinion is valuable, so please feel free to [contact](http://www.aba-icc.org/the-aba-icc-project/contact/) us with any questions or comments. Also, please like and follow the ABA-ICC Project [Facebook](http://facebook.com/ABAICCProject) & [Twitter](http://twitter.com/ABAICCProject) pages and Stanford Law School [Facebook](https://www.facebook.com/StanfordLawSchool) & [Twitter](https://twitter.com/stanfordlaw) pages.
 
 
 Thank you for reading ICJT!

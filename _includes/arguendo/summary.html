@@ -7,7 +7,7 @@
   {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
 
 
-		<h3 class="h5" style="margin-bottom:.75em;">{{the_question}}</h3>
+		<h3 class="h5" style="margin-bottom:.75em;"><a href="/arguendo/">{{the_question}}</a></h3>
 
 
  {% endfor %}

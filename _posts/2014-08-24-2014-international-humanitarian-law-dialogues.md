@@ -10,6 +10,7 @@ featured_image: "international-humanitarian-law-dialogues-1496.jpg"
 video_audio: "https://www.youtube.com/watch?v=tN5JJ8AsJoY, https://www.youtube.com/watch?v=OLxs2SIie2w&feature=relmfu, http://www.youtube.com/watch?v=5Qj1Hr04NN4&feature=relmfu"
 category: event
 video: ROjfkF1mCyQ
+featured: true
 ---
 
 

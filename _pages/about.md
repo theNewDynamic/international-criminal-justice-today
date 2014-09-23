@@ -22,7 +22,7 @@ ICJT has many features that we hope you find enjoyable as well as informative.
 
 ---
 
-Your opinion is valuable, so please feel free to [contact](http://www.aba-icc.org/the-aba-icc-project/contact/) us if you have any questions or comments. Also, please like and follow the ABA-ICC Project [Facebook](http://facebook.com/ABAICCProject) & [Twitter](http://twitter.com/ABAICCProject) pages and Stanford Law School [Facebook](https://www.facebook.com/StanfordLawSchool) & [Twitter](https://twitter.com/stanfordlaw) pages. 
+Your opinion is valuable, so please feel free to [contact](http://www.aba-icc.org/the-aba-icc-project/contact/) us with any questions or comments. Also, please like and follow the ABA-ICC Project [Facebook](http://facebook.com/ABAICCProject) & [Twitter](http://twitter.com/ABAICCProject) pages and Stanford Law School [Facebook](https://www.facebook.com/StanfordLawSchool) & [Twitter](https://twitter.com/stanfordlaw) pages. 
 
 
 Thank you for reading ICJT!

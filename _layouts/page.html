@@ -24,15 +24,17 @@ section: page
 	<section class="side-right">
 
 
-      {% if page.category == 'about' %}
+    {% if page.category == 'about' %}
     {% assign pages = site.pages | where: 'category', 'about' %}
 
-      {% for page in pages %}
+      {% for page_item in pages %}
+        {% unless page.url == page_item.url %}
         <h4>
-          <a href="{{ page.url }}">
-            {{ page.title}}
+          <a href="{{ page_item.url }}">
+            {{ page_item.title}}
           </a>
         </h4><br />
+        {% endunless %}
       {% endfor %}
       {% endif %}
 

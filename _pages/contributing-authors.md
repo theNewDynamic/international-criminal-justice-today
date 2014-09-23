@@ -7,4 +7,5 @@ show_in_menu: true
 layout: page
 sharing: false
 comments: false
+category: about
 ---

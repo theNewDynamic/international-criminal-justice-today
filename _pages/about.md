@@ -1,10 +1,11 @@
 ---
 title: About the ABA-ICC Project
 layout: page
-permalink: /about/
+permalink: /about/the-aba-icc-project/
 excerpt: "Occasional mailings from the ABA-ICC project"
 include: "global/mailing-list.html"
 published: true
+category: about
 ---
 
 *International Criminal Justice Today* (ICJT) is an online periodical dedicated to news, opinion, and other current events about international criminal justice, or the fight to hold criminally accountable those who participate in the international atrocity crimes of genocide, crimes against humanity, war crimes, and aggression. ICJT is the product of a partnership between the [American Bar Association Center for Human Rights](http://www.americanbar.org/groups/human_rights.html), its [ABA International Criminal Court Project](http://www.aba-icc.org) and [Stanford Law School Program in International and Comparative Law](https://www.law.stanford.edu/areas-of-interest/international-and-comparative-law)

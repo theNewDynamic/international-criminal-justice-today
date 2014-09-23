@@ -23,5 +23,19 @@ section: page
   </article>
 	<section class="side-right">
 
+
+      {% if page.category == 'about' %}
+    {% assign pages = site.pages | where: 'category', 'about' %}
+
+      {% for page in pages %}
+        <h4>
+          <a href="{{ page.url }}">
+            {{ page.title}}
+          </a>
+        </h4><br />
+      {% endfor %}
+      {% endif %}
+
+
 	</section>
 </div>

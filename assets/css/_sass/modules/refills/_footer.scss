@@ -129,24 +129,41 @@ html, body {
       height: 40px;
       margin-top: -12px;
       margin-left: 30px;
+      p {
+        display: none;
+      }
   }
 
   body.home .sponsor-logo {
 
+
+
       position: absolute;
       top: 100px;
       right: 50px;
-      height: 90px;
-      width: 260px;
-      padding: 2em 2em 2em 1em;
+      height: 140px;
+      width: 290px;
+      padding: 1em 2em 2em 2em;
+
       background-color: $blue;
-      //background-color: rgba(0,0,0,0.6);
+      background-color: rgba(18,31,37,0.95);
       z-index: 10000000;
 
+      p {
+        //position:relative;
+        margin: 0 0 1.2em 0;
+        color: $medium-gray;
+        font-family: $serif;
+        padding: 0;
+      }
+
       img {
-        left: 0px;
-        position: absolute;
-        height: 50px;
+        // left: 0px;
+        // top:10px;
+        // position: absolute;
+        margin: 0;
+        height: 60px;
+        text-align: left;
       }
 
   }

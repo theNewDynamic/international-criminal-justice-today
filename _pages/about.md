@@ -1,5 +1,5 @@
 ---
-title: About
+title: About International Criminal Justice Today
 layout: page
 permalink: /about/
 excerpt: "Occasional mailings from the ABA-ICC project"

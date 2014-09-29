@@ -135,9 +135,7 @@ html, body {
   }
 
   body.home .sponsor-logo {
-
-
-
+    @include media($medium-screen-up) {
       position: absolute;
       top: 100px;
       right: 50px;
@@ -165,5 +163,5 @@ html, body {
         height: 60px;
         text-align: left;
       }
-
+    }
   }

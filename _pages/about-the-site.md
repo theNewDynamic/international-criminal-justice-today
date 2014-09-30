@@ -1,6 +1,6 @@
 ---
 published: true
-title: About the Site
+title: About ICJT
 permalink: "/about/the-site/"
 category: about
 layout: page

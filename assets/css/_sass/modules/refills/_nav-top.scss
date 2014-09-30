@@ -66,7 +66,7 @@ header.navigation {
 
     img {
       display: none;
-      max-height: $navigation-height * 1;
+      max-height: $navigation-height * 1.45;
       padding: .8em .5em;
       @include media($medium-screen-up) {
       display: block;
@@ -384,7 +384,7 @@ header.navigation {
   }
 }
 .site-heading {
-  padding-left: 2.625em;
+  padding-left: 1.375em;
 }
 
 body.home .site-heading {

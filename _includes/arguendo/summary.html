@@ -1,19 +1,10 @@
 {% capture the_collection %}arguendo{% endcapture %}
 {% assign  questions = site.[the_collection] | where: 'type', 'question' | sort: 'date' | reverse %}
-
-
 {% for article in questions reverse  | limit: 10 %}
   {% capture the_question %}{{ article.title }}{% endcapture %}
   {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
-
-
 		<h3 class="h5" style="margin-bottom:.75em;"><a href="/arguendo/">{{the_question}}</a></h3>
-
-
  {% endfor %}
-
-
-
   {% for article in articles %}
       {% capture  the_author %}{{ article.author }}{% endcapture %}
         {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
@@ -33,6 +24,10 @@
         </a>
       {% endif %}
     {% endfor %}
+
+       <div style="width:80px;margin:auto;padding: 2em 0" >
+          <a href="javascript:void(0)" id="show-tumblr-extended"><i class="icon-down-open">expand</i></a>
+        </div>
 
 
 

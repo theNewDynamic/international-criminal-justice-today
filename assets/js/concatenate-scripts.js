@@ -123,6 +123,10 @@ $("a#show-tumblr-extended").click(function(){
   $("a#show-tumblr-extended").addClass('space-below-big');
 });
 
+$("a#show-arguendo-extended").click(function(){
+  $("#content_arguendo").slideToggle('slow');
+});
+
 
 
           $.ajax({

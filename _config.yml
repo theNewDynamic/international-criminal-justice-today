@@ -19,7 +19,7 @@ image_path: '/assets/img/'
 
 # dev options (true/false)
 # if site is in production, 'production: true'
-production: false
+production: true
 include_addthis_sharing: true
 bust_css_cache: true
 

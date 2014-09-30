@@ -2,8 +2,13 @@
 {% assign  questions = site.[the_collection] | where: 'type', 'question' | sort: 'date' | reverse %}
 {% for article in questions reverse  | limit: 10 %}
   {% capture the_question %}{{ article.title }}{% endcapture %}
+  {% capture summary %}{{ article.content }}{% endcapture %}
   {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
 		<h3 class="h5" style="margin-bottom:.75em;"><a href="/arguendo/">{{the_question}}</a></h3>
+    <div id="content_arguendo">
+      {{summary}}
+      <br />
+    </div>
  {% endfor %}
   {% for article in articles %}
       {% capture  the_author %}{{ article.author }}{% endcapture %}
@@ -26,7 +31,7 @@
     {% endfor %}
 
        <div style="width:80px;margin:auto;padding: 2em 0" >
-          <a href="javascript:void(0)" id="show-tumblr-extended"><i class="icon-down-open">expand</i></a>
+          <a href="javascript:void(0)" id="show-arguendo-extended"><i class="icon-down-open">expand</i></a>
         </div>
 
 

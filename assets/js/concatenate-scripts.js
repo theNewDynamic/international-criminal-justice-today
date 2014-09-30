@@ -125,6 +125,7 @@ $("a#show-tumblr-extended").click(function(){
 
 $("a#show-arguendo-extended").click(function(){
   $("#content_arguendo").slideToggle('slow');
+
 });
 
 

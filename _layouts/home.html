@@ -7,6 +7,7 @@ section: page
 {% assign articles    = site.posts %}
 {% assign events      = site.posts | where: 'category', 'event' %}
 {% assign opinion     = site.posts | where: 'category', 'Opinion' %}
+{% assign polling-data     = site.posts | where: 'category', 'Polling-data' %}
 
 {% assign todays_date = site.time | date: "%Y%m%d" %}
 <div class="layout-home has-layout">
@@ -26,8 +27,8 @@ section: page
       {% endif %}
     {% endfor %}
     <div class="list-filter">
-      {% for article in articles limit:6 %}
-        {% if article.category != 'event' %}
+      {% for article in articles limit:60 %}
+        {% if article.category != 'event' and article.category != 'Polling-data'  %}
           <a href="{{ article.url }}" class="article">
           <span class="category hidden">{{ article.category | slugify }}</span>
             <div class="heading{% if article.featured_image %} article-background{% endif %}" {% if article.featured_image %}style="background-position:center center;background-image:url(/assets/img/{{ article.featured_image }});background-size:cover;"{% endif %}>
@@ -57,9 +58,15 @@ section: page
       <div id="content_tumblr-long" style="display:none;"></div>
     </div>
     <div class="content-bottom">
-      <h2>Latest Ipsos Data</h2>
+      <h2>Latest Ipsos Polling Data</h2>
       <ul>
-        <li>Coming Soon!</li>
+        {% for article in polling-data limit:60 %}
+          <li>
+            <a href="{{ article.url }}">
+              {{ article.title }}
+            </a>
+          </li>
+        {% endfor %}
       </ul>
     </div>
   </aside>

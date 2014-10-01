@@ -4,7 +4,7 @@ title: ICC Prosecutor Briefing at U.S. Congress
 category: event
 author: a
 pull_quote: null
-participants: Fatou Bensouda, Prosecutor of the International Criminal Court; Prof. Diane Orentlicher, Professor of Law at American University Washington College of Law and former Deputy for War Crimes Issues in the U.S. Department of State; Moderator: Kip Hale, Director of the ABA International Criminal Court Project
+participants: Fatou Bensouda, Prosecutor of the International Criminal Court; Prof. Diane Orentlicher, Professor of Law at American University Washington College of Law and former Deputy for War Crimes Issues in the U.S. Department of State; Moderator Kip Hale, Director of the ABA International Criminal Court Project
 ---
 
 

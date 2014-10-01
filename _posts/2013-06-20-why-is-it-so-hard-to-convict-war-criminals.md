@@ -5,7 +5,7 @@ date: "2013-06-20 12:00:00"
 sponsor: HuffPost Live
 splash_image: "https://www.flickr.com/photos/126209453@N05/14661970896/in/set-72157645709514566"
 splash_image: "2013-06-20-event-screenshot-hufpost-live1200x750.png"
-participants: "Prof. David Kaye, UC Irvine School of Law ; Kip Hale, Director, ABA-International Criminal Court Project; James Jackson, Defense Lawyer, ICTY; James Goldston, Executive Director, Open Society Justice Initiative"
+participants: "Prof. David Kaye, UC Irvine School of Law ; Kip Hale, Director of the ABA-International Criminal Court Project; James Jackson, Defense Lawyer, ICTY; James Goldston, Executive Director, Open Society Justice Initiative"
 video_audio: "http://live.huffingtonpost.com/r/segment/guatemala-war-lord-rios-montt-has-conviction-overturned-by-courts/519af892fe34440b9e000002 "
 published: true
 category: event

@@ -6,7 +6,7 @@ author: a
 video: <iframe width="560" height="315" src="//www.youtube.com/embed/OKxzXnHFWuM" frameborder="0" allowfullscreen></iframe> 
 pull_quote: null
 sponsors: "ABA International Criminal Court Project; Washington Working Group on the ICC"
-participants: "Ambassador-at-large for Global Criminal Justice, Stephen Rapp; Moderator Kip Hale, Senior Counsel at the ABA Center for Human Rights and Director of the ABA International Criminal Court Project"
+participants: "Honorable Stephen Rapp, Ambassador-at-large for Global Criminal Justice; Moderator Kip Hale, Senior Counsel at the ABA Center for Human Rights and Director of the ABA International Criminal Court Project"
 excerpt: " On June 10, 2013, the ABA International Criminal Court Project sponsored a congressional briefing on the ICC and US-ICC relations with Hon. Stephen Rapp, U.S. Ambassador at-Large for Global Criminal Justice."
 ---
 

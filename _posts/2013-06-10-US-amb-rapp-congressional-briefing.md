@@ -1,6 +1,6 @@
 ---
 published: true
-title: "U.S. Ambassador for Global Criminal Justice Gives Briefing at U.S. Congress"
+title: "U.S. Ambassador for Global Criminal Justice Briefing at U.S. Congress"
 category: event
 author: a
 video: <iframe width="560" height="315" src="//www.youtube.com/embed/OKxzXnHFWuM" frameborder="0" allowfullscreen></iframe> 

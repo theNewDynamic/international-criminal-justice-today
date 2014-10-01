@@ -4,6 +4,7 @@ title: ICC Prosecutor Briefing at U.S. Congress
 category: event
 author: a
 pull_quote: null
+participants: Fatou Bensouda, Prosecutor of the International Criminal Court
 ---
 
 

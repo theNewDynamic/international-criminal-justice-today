@@ -24,7 +24,7 @@ include_addthis_sharing: true
 bust_css_cache: true
 
 # options (data)
-google_analytics_id: UA-xxxxxxxx-X
+google_analytics_id: UA-51919693-4
 disqus_id:
 addthis_id: "ra-54201ddc58a3be09"
 # CONTACT FORM http://getsimpleform.com/

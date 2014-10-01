@@ -1,7 +1,7 @@
 ---
 published: true
 title: Untitled
-category: news
+category: event
 author: a
 pull_quote: null
 ---

@@ -3,7 +3,7 @@ published: true
 title: "U.S. Ambassador for Global Criminal Justice Briefing at U.S. Congress"
 category: event
 author: a
-video: <iframe width="560" height="315" src="//www.youtube.com/embed/OKxzXnHFWuM" frameborder="0" allowfullscreen></iframe> 
+video: OKxzXnHFWuM
 pull_quote: null
 sponsors: "ABA International Criminal Court Project; Washington Working Group on the ICC"
 participants: "Honorable Stephen Rapp, Ambassador-at-large for Global Criminal Justice; Moderator Kip Hale, Senior Counsel at the ABA Center for Human Rights and Director of the ABA International Criminal Court Project"

@@ -15,4 +15,4 @@ On June 10, 2013, the Washington Working Group on the International Criminal Cou
 
 ---
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/pXC1HlydJXg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="//www.youtube.com/embed/pXC1HlydJXg" frameborder="0" allowfullscreen></iframe>

@@ -11,7 +11,7 @@ excerpt: " On June 10, 2013, the ABA International Criminal Court Project sponso
 ---
 
 
-On June 10, 2013, the ABA International Criminal Court (ICC) Project co-sponsored a congressional briefing on the ICC and U.S.-ICC relations with Hon. Stephen Rapp, U.S. Ambassador at-Large for Global Criminal Justice. The briefing was moderated by Kip Hale, Senior Counsel at the ABA Center for Human Rights and Director of the ABA-ICC Project. Rep. Jim McGovern (D-MA) hosted the event, which drew a packed room of Senate and House staff, foreign government representatives, and civil society advocates.
+On June 10, 2013, the American Bar Association (ABA) International Criminal Court (ICC) Project co-sponsored a congressional briefing on the ICC and U.S.-ICC relations with Hon. Stephen Rapp, U.S. Ambassador at-Large for Global Criminal Justice. The briefing was moderated by Kip Hale, Senior Counsel at the ABA Center for Human Rights and Director of the ABA-ICC Project. Rep. Jim McGovern (D-MA) hosted the event, which drew a packed room of Senate and House staff, foreign government representatives, and civil society advocates.
 
 ---
 

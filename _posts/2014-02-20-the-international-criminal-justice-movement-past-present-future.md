@@ -21,4 +21,4 @@ On February 20, 2014, the University of Denver Sturm College of Law (DU Law) wel
 
 ###[Video and Slides](http://du-denverlaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2b0a003-647c-49f4-a270-340bacb39fb7)
 
-###[Flyer](https://owa.abanet.org/exchange/weiglk/Inbox/Just%20resending%20so%20all%20in%20one%20place..EML/FW:%20Also.EML/aba_du_speech.jpg/C58EA28C-18C0-4a97-9AF2-036E93DDAFB3/aba_du_speech.jpg?attach=1)
+

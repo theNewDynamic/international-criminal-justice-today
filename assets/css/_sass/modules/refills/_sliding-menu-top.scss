@@ -22,7 +22,7 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
 
 .sliding-menu-content {
   font-family: $sans-serif;
-
+font-family:$header-font-family;
   @include position(fixed, 0px auto 0px 0px);
   @include size(100% 480px);
   @include transform(translateY(-480px));
@@ -77,6 +77,7 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
       text-align: justify;
       @include media ($tiny-screen-up) {
         display: block;
+        font-size:1.1em;
       }
       a {
         color: $lightest-gray;

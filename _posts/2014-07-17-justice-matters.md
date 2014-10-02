@@ -1,5 +1,5 @@
 ---
-title: "This #17July, Invest in International Criminal Justice Because #JusticeMatters"
+title: "This #17July, Invest in International Criminal Justice"
 category: Opinion
 authors: kiphale
 pull_quote: "The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur."

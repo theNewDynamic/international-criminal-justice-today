@@ -4,6 +4,9 @@ section: page
 ---
 <div class="layout has-layout">
 	<article class="hentry">
+  {% if page.featured_image %}
+    <img src="/assets/img/{{page.featured_image}}" style="width:100%;" class="featured_image">
+  {% endif %}
   <header>
      {% if page.title %}
     <h1 class="entry-title">{{page.title}}</h1>
@@ -22,11 +25,8 @@ section: page
     </div>
   </article>
 	<section class="side-right">
-
-
     {% if page.category == 'about' %}
     {% assign pages = site.pages | where: 'category', 'about' %}
-
       {% for page_item in pages %}
         {% unless page.url == page_item.url %}
         <h4>
@@ -36,7 +36,23 @@ section: page
         </h4><br />
         {% endunless %}
       {% endfor %}
-      {% endif %}
+    {% endif %}
+    {% if page.url contains 'ipsos-polling-data' %}
+    {% assign posts = site.posts | where: 'category', 'Polling-data' %}
+      {% for page_item in posts %}
+
+        <h4>
+          <a href="{{ page_item.url }}">
+            {{ page_item.title}}
+          </a>
+        </h4>{{ page_item.excerpt }}<hr />
+
+      {% endfor %}
+
+
+
+
+    {% endif %}
 
 
 	</section>

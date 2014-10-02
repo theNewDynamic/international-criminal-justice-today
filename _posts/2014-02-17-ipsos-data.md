@@ -1,6 +1,8 @@
 ---
 title: "Februrary, 2014 Poll"
 category: Polling-data
+excerpt: "This quarter's polling data shows that not too many North Americans know what the ICC is, but would support it if they did."
+video: qmt9hDOv5VE
 ---
 ## American Bar Association February 2014
 <iframe src="//www.slideshare.net/slideshow/embed_code/37109069" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
@@ -22,27 +24,3 @@ category: Polling-data
 
 Kenya Situation: Immunity, and Trial Participation.
 
-
-#### Ipsos Contacts
-
-**Clifford Young**
-Managing Director,
-Polling and Public Sector Practice
-2020 K Street, NW, Suite 410
-Washington, DC 20006
-Phone: +1 202.420.2016
-eMail: <clifford.young@ipsos.com>
-
-**Julia Clark**
-Vice President
-222 S Riverside Plaza, Fifth Floor
-Chicago, IL 60606
-Phone: +1 312.526.4919
-eMail: <jill.humble@ipsos.com>
-
-**Elizabeth Brashares**
-Research Associate
-222 S Riverside Plaza,
-Fifth Floor Chicago, IL 60606
-Phone: +1 312.526.4744
-eMail: <elizabeth.brashares@ipsos.com>

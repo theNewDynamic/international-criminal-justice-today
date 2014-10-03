@@ -41,7 +41,7 @@ collections:
  arguendo:
   collection_name: "Arguendo"
   output: true
-  description: "A regular online roundtable where experts from different perspectives discuss and debate a pressing issue in international criminal justice."
+  description: "A regular online roundtable where experts from different perspectives discuss a pressing issue in international criminal justice."
   main_page_link: "/arguendo/"
   permalink: /:collection/:path/
   class: arguendo

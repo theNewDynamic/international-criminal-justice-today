@@ -59,8 +59,9 @@ section: page
     </div>
     <div class="content-bottom">
       <h2 class="section-heading"><a href="/ipsos-polling-data/">Ipsos Polling Data</a></h2>
-      <h3><a href="/ipsos-polling-data/">Overview</a></h3>
+
       <ul>
+      <li><a href="/ipsos-polling-data/"><strong>Overview</strong></a></li>
         {% for article in polling-data limit:60 %}
           <li>
             <a href="{{ article.url }}">

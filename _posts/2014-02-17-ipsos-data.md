@@ -33,15 +33,16 @@ Additionally, both the President and Deputy President have maintained that they 
 
 
 
-*February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos' Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
 **Methodology and Technical Details**
 
-- This poll comprises findings from an Ipsos online poll:
-- Fieldwork period: February 21-24, 2014
-- The survey interviewed a national sample of 1,005 adults
-- These slides also contain some data filtered on just those respondents reporting that they know ‘A great deal’, ‘A fair amount’, or ‘ A little bit’ about the ICC at Q1 (cutting out those who say they know ‘Nothing at all’). This reduced the filtered base size to 379, and is referred to in the data as ‘Aware of ICC’ audience.
-- Weighting then employed to balance demographics and ensure that the sample's composition reflects that of the U.S. adult population according to Census data and to provide results intended to approximate the sample universe.
-- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.
-- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.
+*These are findings from an Ipsos poll conducted for the American Bar Association from February 21-24, 2014. For the survey, a sample of 1,000 US adults 18+ was interviewed online. The precision of the Ipsos’ online polls are measured using credibility intervals. In this case, the credibility interval for all adults is plus or minus 3.5 percentage points. For more information about credibility intervals, please see the [appendix](http://www.international-criminal-justice-today.org/ipsos-appendix/).* 
+
+*The national sample of 1,000 was weighted by gender, age, region, ethnicity, education, and party identification. The sample of 363 Opinion Leaders was weighted by gender, age, region, ethnicity, and party identification. Statistical margins of error are not applicable to online polls. All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error and measurement error.*  
 
 
+*- These slides also contain some data filtered on just those respondents reporting that they know ‘A great deal’, ‘A fair amount’, or ‘ A little bit’ about the ICC at Q1 (cutting out those who say they know ‘Nothing at all’). This reduced the filtered base size to 379, and is referred to in the data as ‘Aware of ICC’ audience.*
+
+*- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.*
+*- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
+
+*February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos' Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: How to Calculate Bayesian Credibility Intervals
 permalink: "/ipsos-appendix/"
 ---

@@ -7,6 +7,7 @@ video: qPoNw2vBpTY
 category: event
 author: a
 pull_quote: null
+
 ---
 
 On June 2, 2014, the American Bar Association (ABA) International Criminal Court (ICC) Project hosted the Registrar of the International Criminal Court, Mr. Herman von Hebel, for a discussion on practical challenges facing the ICC. Moderated by Kip Hale, Director of the ABA-ICC Project, the conversation covered many important issues relevant to the ICC and the Registry, including victim reparations, defense counsel issues, and witness protection.

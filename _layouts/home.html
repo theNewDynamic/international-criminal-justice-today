@@ -46,11 +46,11 @@ section: page
   </section>
   <aside>
     <div class="content-top">
-        <h2 style="margin-bottom:0;"><em>Arguendo</em> Roundtable</h2>
+        <h2 style="margin-bottom:0;" class="section-heading"><a href="/arguendo/"><em>Arguendo</em> Roundtable</a></h2>
       {% include arguendo/summary.html %}
     </div>
     <div class="content-middle script-only hidden">
-      <h2 style="margin-bottom:.25em;">Headlines</h2>
+      <h2 style="margin-bottom:.25em;" class="section-heading">Headlines</h2>
       <div id="content_tumblr"></div>
         <div style="width:80px;margin:auto;" >
           <a href="javascript:void(0)" id="show-tumblr-extended"><i class="icon-down-open">expand</i></a>
@@ -58,7 +58,7 @@ section: page
       <div id="content_tumblr-long" style="display:none;"></div>
     </div>
     <div class="content-bottom">
-      <h2>Latest Ipsos Polling Data</h2>
+      <h2 class="section-heading"><a href="/ipsos-polling-data/">Ipsos Polling Data</a></h2>
       <h3><a href="/ipsos-polling-data/">Overview</a></h3>
       <ul>
         {% for article in polling-data limit:60 %}

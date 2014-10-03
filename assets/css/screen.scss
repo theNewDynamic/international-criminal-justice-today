@@ -70,19 +70,25 @@ header.navigation ul li.nav-link a.site-heading {
 	width:225px;
 }
 
+.section-heading a {
+  color: $blackish;
+}
+
+
+
 
 .dark-background {
 	background-color: $blue;
 }
 
-.section-heading {
-	border-bottom: 4px solid $base-accent-color;
-	margin-bottom: 1em;
-}
+// .section-heading {
+// 	border-bottom: 4px solid $base-accent-color;
+// 	margin-bottom: 1em;
+// }
 
-h2.section-heading {
-	padding-bottom: 0;
-}
+// h2.section-heading {
+// 	padding-bottom: 0;
+// }
 
 .sharing, #disqus_thread {
 	opacity: 0.3;

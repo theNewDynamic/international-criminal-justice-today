@@ -69,13 +69,17 @@ header.navigation ul li.nav-link a.site-heading {
 	float: left;
 	width:225px;
 }
-
+.section-heading {
+  margin-bottom:.25em;
+}
 .section-heading a {
   color: $blackish;
 }
 
 
-
+small, .small {
+  font-size: 80%;
+}
 
 .dark-background {
 	background-color: $blue;

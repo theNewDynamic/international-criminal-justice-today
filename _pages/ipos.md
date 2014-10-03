@@ -14,8 +14,10 @@ Please find individual downloadable report and accompanying analysis to the righ
 #### Ipsos Contacts
 
 **Clifford Young**
-Managing Director  
+President, Ipsos Public Affairs 
 <clifford.young@ipsos.com>
 
-
+**Julia Clark**
+Vice President, Ipsos Public Affairs  
+<Julia.Clark@ipsos.com>
 

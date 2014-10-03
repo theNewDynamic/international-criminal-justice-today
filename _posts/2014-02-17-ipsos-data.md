@@ -1,13 +1,12 @@
 ---
 title: "Februrary 2014 Ipsos Pollling Data"
 category: Polling-data
-excerpt: "Among American with knowledge of the International Criminal Court, desire for more support, but unsure if the U.S. should join the Court."
+excerpt: This quarter's polling data shows that not too many North Americans know what the ICC is, but would support it if they did.
 video: qmt9hDOv5VE
 ---
 
-
 ### Americans Support Continued Involvement with the International Criminal Court
-
+---
 
 Broadly speaking, Americans have fairly low self-reported knowledge of the International Criminal Court and its work, although they also show a clear tendency to support the general tenets of the organization. When asked what they know about the International Criminal Court (ICC), over half of Americans (60%) report knowing “nothing at all” about it, while just over one in ten (12%) report knowing a great deal or a fair amount about the ICC, according to a new survey of 1,000 adults conducted on behalf of the American Bar Association (ABA) ICC Project. Almost two-thirds (64%) indicate that they ‘don’t know’ if they US is a current member of the ICC. Of those individuals who know at least a little bit about the ICC over half (52%) erroneously believe that the United States is currently a member. 
 
@@ -28,7 +27,8 @@ Almost one half (44%) of those familiar with the ICC believe that the United Sta
 
 *February 2014 Custom Questions: Kenyan Situation*
 
-Prior to their election in 2013, the Prosecutor of the International Criminal Court (ICC) charged Kenya’s current President and Deputy President (Uhuru Kenyatta and William Ruto) for participation in mass atrocities after Kenya’s violent elections of 2008. Both men have argued that they deserve temporary immunity from prosecution while in office. Both the American public and those aware of the ICC believe strongly (63% and 66%, respectively) that sitting Heads of State should not have immunity during their time in office. 
+Before their election to high office in Kenya in 2013, the Prosecutor of the International Criminal Court (ICC) charged President Uhuru Kenyatta and Deputy President William Ruto for participation in mass atrocities after Kenya’s violent elections of 2008. Both men have argued that they deserve temporary immunity from prosecution while in office. Both the American public and those aware of the ICC believe strongly (63% and 66%, respectively) that sitting Heads of State should not have immunity during their time in office. 
+
 Additionally, both the President and Deputy President have maintained that they should be able to participate in their trial at the ICC either through video conference or through their attorneys, due to the nature of their positions. Over one half of the US public and those with stronger knowledge of the ICC believe that the individuals should be required to attend their trials in person (51% and 58%, respectively). While nearly six in ten with more knowledge of Court believe that these individuals should be required to attend their trials in person, almost one quarter (24%) believe that they should be able to attend via video conference, compared with less than two in ten (18%) members of the American public. 
 
 
@@ -44,7 +44,4 @@ Additionally, both the President and Deputy President have maintained that they 
 - Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.
 - All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.
 
-**Also covered in this survey**
-
-Kenya Situation: Immunity, and Trial Participation.
 

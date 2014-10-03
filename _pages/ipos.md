@@ -19,10 +19,12 @@ The [American Bar Association International Criminal Court (ICC) Project](http:/
 
 
 **Clifford Young**
-President, Ipsos Public Affairs 
+President, Ipsos Public Affairs
+
 <clifford.young@ipsos.com>
 
 **Julia Clark**
-Vice President, Ipsos Public Affairs  
+Vice President, Ipsos Public Affairs
+
 <Julia.Clark@ipsos.com>
 

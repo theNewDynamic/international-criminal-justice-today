@@ -1,7 +1,7 @@
 ---
 title: "Februrary 2014 Ipsos Pollling Data"
 category: Polling-data
-excerpt: "This quarter's polling data shows that not too many North Americans know what the ICC is, but would support it if they did."
+excerpt: This quarter's polling data shows that not too many North Americans know what the ICC is, but would support it if they did.
 video: qmt9hDOv5VE
 ---
 
@@ -9,19 +9,21 @@ video: qmt9hDOv5VE
 ### Americans Support Continued Involvement with the International Criminal Court
 
 
-Broadly speaking, Americans have fairly low self-reported knowledge of the International Criminal Court and its work, although they also show a clear tendency to support the general tenets of the organization. When asked what they know about the International Criminal Court(ICC), over half of Americans (60%) report knowing “nothing at all” about it, while just over one in ten (12%) report knowing a great deal or a fair amount about the ICC, according to a new survey of 1,000 adults conducted on behalf of the American Bar Association. Almost two-thirds (64%) indicate that they ‘don’t know’ if they US is a current member of the ICC.
-Of those individuals who know at least a little bit about the ICC over half (52%) erroneously believe that the United States is currently a member. 
+Broadly speaking, Americans have fairly low self-reported knowledge of the International Criminal Court and its work, although they also show a clear tendency to support the general tenets of the organization. When asked what they know about the International Criminal Court (ICC), over half of Americans (60%) report knowing “nothing at all” about it, while just over one in ten (12%) report knowing a great deal or a fair amount about the ICC, according to a new survey of 1,000 adults conducted on behalf of the American Bar Association (ABA) ICC Project. Almost two-thirds (64%) indicate that they ‘don’t know’ if they US is a current member of the ICC. Of those individuals who know at least a little bit about the ICC over half (52%) erroneously believe that the United States is currently a member. 
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/37109069" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
+
 *Perceptions of the Court and Its Work*
 
-Despite low knowledge of the ICC, support for the work of the Court is strong, and the US public appears to favor US involvement in these issues. Six in ten Americans (60%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities”, and this rises to seven in ten (71%) among people who know something about the ICC. Furthermore, almost half (47%) of Americans, and 60% of those who know something about the Court, agree that the US should “dedicate US resources (financial, military, intelligence, etc) to international organizations that support human rights and that hold individuals responsible for mass atrocities”.  
+Despite low knowledge of the ICC, support for the work of the Court is strong, and the US public appears to favor US involvement in these issues. Six in ten Americans (60%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities”, and this rises to seven in ten (71%) among people who know something about the ICC. Furthermore, almost half (47%) of Americans, and 60% of those who know something about the Court, agree that the US should “dedicate US resources (financial, military, intelligence, etc) to international organizations that support human rights and that hold individuals responsible for mass atrocities”. 
+
 The survey also explored possible reasons for opposition to the work of the ICC among the American public, and in both cases fewer than a quarter of the population agreed with the statements tested. Support for these statements increased with knowledge about the ICC, but did not reach a majority. Just under a quarter (24%) agree that joining an organization like the ICC could hurt the United States’ autonomy, and this rises to two in five (39%) among Americans who report knowing more about the ICC. Similarly, one in five (21%) agree that it is “not in our best interests to dedicate US resources” to organizations like the ICC – and this rises to almost a third (30%) among those with more knowledge of the Court. 
 
 *ICC Membership and the United States*
 
-In addition, the survey examined support for American membership in the ICC. Support for the United States becoming more involved or fully joining the ICC is just over one third (34%) among the American public. Among Americans who are more aware of the ICC, over half (52%) believe that the United States should be more involved or fully join the ICC. However, both the public at large and those with greater reported knowledge of the ICC have some reservations about joining. A quarter of each population believe that the United State should not fully join the ICC.  
+In addition, the survey examined support for American membership in the ICC. Support for the US becoming more involved or fully joining the ICC is just over one third (34%) among the American public. Among Americans who are more aware of the ICC, over half (52%) believe that the United States should be more involved or fully join the ICC. However, both the public at large and those with greater reported knowledge of the ICC have some reservations about joining. A quarter of each population believe that the United State should not fully join the ICC.  
+
 Almost one half (44%) of those familiar with the ICC believe that the United States should become more involved in the ICC by providing more resources, but without becoming a full member of the court.
 
 *February 2014 Custom Questions: Kenyan Situation*

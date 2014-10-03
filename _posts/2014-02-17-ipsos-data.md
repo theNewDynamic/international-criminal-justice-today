@@ -25,7 +25,7 @@ In addition, the survey examined support for American membership in the ICC. Sup
 
 Almost one half (44%) of those familiar with the ICC believe that the United States should become more involved in the ICC by providing more resources, but without becoming a full member of the court.
 
-*February 2014 Custom Questions: Kenyan Situation*
+*February 2014 Custom Questions: Kenya Situation*
 
 Before their election to high office in Kenya in 2013, the Prosecutor of the International Criminal Court (ICC) charged President Uhuru Kenyatta and Deputy President William Ruto for participation in mass atrocities after Kenya’s violent elections of 2008. Both men have argued that they deserve temporary immunity from prosecution while in office. Both the American public and those aware of the ICC believe strongly (63% and 66%, respectively) that sitting Heads of State should not have immunity during their time in office. 
 

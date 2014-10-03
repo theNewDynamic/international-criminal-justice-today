@@ -8,21 +8,11 @@ section: events-archive
 {% assign events = site.posts | where: 'category', 'event'  %}
 
 <div class="row">
-  <h2>Event Recaps</h2>
-  <hr />
-  {% for news in events  | group_by: 'date' %}
+  <h2 style="margin-bottom:2em;">Event Recaps</h2>
 
-    <a class="article-background" href="{{ news.url }}" style="margin-bottom:4em;">
-    <h6 style="margin-top:-25px;">{{ news.date | date: "%B, %Y" }}</h6>
-      {% if news.featured_image %}
-        <div class="background" style="background-image:url(/assets/img/{{ news.featured_image }});">
-        </div>
-        {% else %}
-        <div class="background" style="background-image:url(/assets/img/icc-default.jpg);">
-        </div>
-      {% endif %}
-      <h3>{{ news.title }}</h3>
-    </a>
+  {% for news in events  | group_by: 'date' %}
+{% include articles/event-recaps.html %}
+
   {% endfor %}
 </div>
 

@@ -73,15 +73,9 @@ section: page
   </aside>
 </div><!--  //layout-news -->
 <div class="row">
-  <h2>Event Recaps</h2>
+  <h2 style="margin-bottom:2em;">Event Recaps</h2>
   {% for news in events limit:6 %}
-    <a class="article-background" href="{{ news.url }}">
-      {% if news.featured_image %}
-        <div class="background" style="background-image:url(/assets/img/{{ news.featured_image }});">
-        </div>
-      {% endif %}
-      <h3>{{ news.title }}</h3>
-    </a>
+    {% include articles/event-recaps.html %}
   {% endfor %}
   <h5><a href="/events/">See All Past Events</a></h5>
 </div>

@@ -25,6 +25,6 @@ Examples of credibility intervals for different base sizes are below. Ipsos does
 
 ---
 
-_1 __ Bayesian Data Analysis, Second Edition, Andrew Gelman, John B. Carlin, Hal S. Stern, Donald B. Rubin, Chapman & Hall/CRC | ISBN: 158488388X | 2003_
+_1 __ Bayesian Data Analysis, Second Edition, Andrew Gelman, John B. Carlin, Hal S. Stern, Donald B. Rubin, Chapman & Hall/CRC | ```ISBN: 158488388X``` | 2003_
 
 _2 __Kish, L. (1992). Weighting for unequal Pi . Journal of Official, Statistics, 8, 2, 183200._

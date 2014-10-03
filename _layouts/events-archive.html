@@ -5,30 +5,24 @@ section: events-archive
 
 
 
-{% assign events      = site.posts | where: 'category', 'event' %}
+{% assign events = site.posts | where: 'category', 'event'  %}
 
 <div class="row">
   <h2>Event Recaps</h2>
-  {% for news in events %}
-    <a class="article-background" href="{{ news.url }}">
+  <hr />
+  {% for news in events  | group_by: 'date' %}
+
+    <a class="article-background" href="{{ news.url }}" style="margin-bottom:4em;">
+    <h6 style="margin-top:-25px;">{{ news.date | date: "%B, %Y" }}</h6>
       {% if news.featured_image %}
         <div class="background" style="background-image:url(/assets/img/{{ news.featured_image }});">
+        </div>
+        {% else %}
+        <div class="background" style="background-image:url(/assets/img/icc-default.jpg);">
         </div>
       {% endif %}
       <h3>{{ news.title }}</h3>
     </a>
   {% endfor %}
 </div>
-<div class="row dark-background script-only hidden">
-  <div class="column-2-wide">
-    {% include global/twitter-list.html %}
-  </div>
-  <div class="column-2-wide">
-    <blockquote class="twitter-tweet" data-partner="tweetdeck">
-      <p>
-        <a href="https://twitter.com/hashtag/ICC?src=hash">#ICC</a> still a deterrent despite setbacks <a href="http://t.co/CQl43Q9vNW">http://t.co/CQl43Q9vNW</a> <a href="http://t.co/heB9dl2Fxn">http://t.co/heB9dl2Fxn</a>
-      </p>&mdash; ABA-ICC Project (@ABAICCProject) <a href="https://twitter.com/ABAICCProject/status/510434610288017408">September 12, 2014</a>
-    </blockquote>
 
-  </div>
-</div>

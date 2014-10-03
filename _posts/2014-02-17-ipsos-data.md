@@ -1,7 +1,7 @@
 ---
 title: "Februrary 2014 Ipsos Pollling Data"
 category: Polling-data
-excerpt: This quarter's polling data shows that not too many North Americans know what the ICC is, but would support it if they did.
+excerpt: "Among American with knowledge of the International Criminal Court, desire for more support, but unsure if the U.S. should join the Court."
 video: qmt9hDOv5VE
 ---
 

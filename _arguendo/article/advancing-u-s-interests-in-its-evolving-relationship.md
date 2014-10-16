@@ -20,4 +20,4 @@ Further, the two sides could enter into an Article 98(2) non-surrender agreement
 
 There are further steps the United States could take over the next several years that would point to ultimate ratification of the Rome Statute by the U.S. Senate and the President.  But the ones described here are reasonable and common sense endeavors that will be worthwhile regardless of Washington’s posture towards actually joining the ICC.
 
-*David Scheffer is the Mayer Brown/Robert A. Helman Professor of Law at Northwestern University School of Law and former U.S. Ambassador at Large for War Crimes Issues (1997-2001).  He led the U.S. delegation in U.N. talks creating the International Criminal Court.  He is the author of "All the Missing Souls: A Personal History of the War Crimes Tribunals" (Princeton University Press, 2012).*
+

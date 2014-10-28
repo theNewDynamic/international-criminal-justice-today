@@ -10,9 +10,7 @@ splash_height: 525px
 category: event
 ---
 On October 27, 2014, the American Bar Association (ABA) International Criminal Court (ICC) Project in conjunction with the Washington Working Group on the ICC and hosted by U.S. Senator Barbara Boxer (D-CA) organized a U.S. Senate briefing on the
-ICC. The off-the-record event featured remarks by the Prosecutor of the ICC, Fatou Bensouda and U.S. Ambassador at-large for Global Criminal Justice
-,Stephen Rapp, with introductory comments by senior counsel of the ABA Center for Human Rights and director of the ABA-ICC Project, Kip Hale. Madame Prosecutor Bensouda started the event with enlightening 
-comments about the status of the Kenya cases at the ICC, in particular the lack of cooperation from the Kenya government and the type of information already presented. Madame Prosecutor continued her remarks about on-going atrocities
+ICC. The off-the-record event featured remarks by the Prosecutor of the ICC, Fatou Bensouda and U.S. Ambassador at-large for Global Criminal Justice, Stephen Rapp, with introductory comments by senior counsel of the ABA Center for Human Rights and director of the ABA-ICC Project, Kip Hale. In her remarks, Madame Prosecutor Bensouda began discussing the status of the Kenya cases at the ICC, in particular the lack of cooperation from the Kenya government and clarifying the type of information already before the Court. Madame Prosecutor continued her remarks about on-going atrocities
 in Syria and Iraq, specifically discussing roadblocks and avenues for her office to exert jurisdiction. She concluded with discussing details of her office's new Policy on Sexual and Gender-Based Crimes,
 stating her personal as well as the Office of the Prosecutors' professional commitment to combating these crimes. 
 

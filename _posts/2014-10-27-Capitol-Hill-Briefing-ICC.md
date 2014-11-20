@@ -3,7 +3,7 @@ venue: "U.S. Senate Foreign Relations Committee Room"
 title: "U.S. Senate Briefing on the International Criminal Court"
 date: "2014-10-27 12:00:00"
 date: "2014-10-27 12:00:00"
-sponsor: "Washington Working Group on the ICC; American Bar Association International Criminal Court Project"
+sponsor: "Washington Working Group on the International Criminal Court; American Bar Association International Criminal Court Project"
 participants: "Ms. Fatou Bensouda, Prosecutor of the International Criminal Court; Mr. Stephen J. Rapp, U.S. Ambassador at-large for Global Criminal Justice; moderated by Mr. Kip Hale, Senior Counsel of American Bar Association (ABA) Center for Human Rights and Director of ABA International Criminal Court Project"
 featured: true
 splash_height: 525px

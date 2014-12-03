@@ -25,3 +25,31 @@
  last_name: "Weiner"
  image: "headinshot-weiner.jpg"
  bio: "Allen S. Weiner is Senior Lecturer in Law at Stanford Law School, where he serves as Director of the Program in International and Comparative Law. He previously served as an Attorney-Adviser in the U.S. Department of State and Counselor for Legal Affairs at the U.S. Embassy in The Hague."
+
+- 
+ name: "Professor David Bosco"
+ last_name: "Bosco"
+ board: true
+ image: 
+ bio: Professor David Bosco is an assistant professor at American University's School of International Service and a contributing editor at Foreign Policy magazine. He is a past Fulbright Scholar and senior editor at Foreign Policy magazine.  He formerly served as a political analyst and journalist in Bosnia and Herzegovina and as deputy director of a joint United Nations/NATO project on repatriating refugees in Sarajevo. He is author of Five to Rule Them All (Oxford University Press, 2009), a history of the UN Security Council. He recently completed Rough Justice(Oxford University Press, 2014), an examination of the International Criminal Court's first decade.
+
+- 
+ name: "Professor M. Kamari Clarke"
+ last_name: "Clarke"
+ board: true
+ image: 
+ bio: Professor M. Kamari Clarke is a professor of Anthropology and International and Area Studies at Yale University.  She is also the Chair of the Yale Council on African Studies (with a courtesy appointment in African American Studies). She graduated with a B.A. in Political Science from Concordia University in 1988.  Her graduate work was completed in the United States – an M.A. was from the Department of Anthropology at The New School for Social Research, a Master in the Study of Law from Yale University (MSL), and a Ph.D. (1997) from the University of California, Santa-Cruz.  
+ 
+ -
+ name: "Ottilia Anna Maunganidze"
+ last_name: "Maunganidze"
+ image:
+ bio: Ms. Ottilia Anna Maunganidze is a Researcher the Institute for Security Studies (ISS) with a focus on emerging threats. At ISS, she helps to inform institutional strategy, and also undertakes research and provides technical assistance support to the Transnational Threats and International Crime (TTIC) division of the ISS. Her areas of interest are international criminal justice, international human rights law, and criminal justice responses to complex crimes and transnational threats. 
+ 
+ -
+  name: "Professor Beth Van Schaack"
+ last_name: "Van Schaack"
+ image: 
+ bio: Professor Beth Van Schaack is a Visiting Professor at the Stanford Law School after stepping down as Deputy to the Ambassador-at-Large for War Crimes Issues in the Office of Global Criminal Justice of the U.S. Department of State.  In that capacity, she helped to advise the Secretary of State and the Under Secretary for Civilian Security, Democracy and Human Rights on the formulation of U.S. policy regarding the prevention of and accountability for mass atrocities. Prior to her State Department appointment, Van Schaack was Professor of Law at Santa Clara UniversitySchool of Law, and was also a law clerk with the Office of the Prosecutor of the International Criminal Tribunal for the Former Yugoslavia.  
+ 
+ -

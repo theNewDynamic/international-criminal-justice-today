@@ -1,6 +1,6 @@
 {
   "name": "jquery-cycle2",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "homepage": "https://github.com/malsup/cycle2",
   "authors": [
     "malsup <malsup@gmail.com>"
@@ -21,11 +21,11 @@
     "test",
     "tests"
   ],
-  "_release": "2.1.5",
+  "_release": "2.1.6",
   "_resolution": {
     "type": "version",
-    "tag": "2.1.5",
-    "commit": "45fde557e8fb4c2d59a9667ba744b63a0da9916c"
+    "tag": "2.1.6",
+    "commit": "4b48add7aa0d41d9c735d13f8dc72033f7866e37"
   },
   "_source": "git://github.com/malsup/cycle2.git",
   "_target": "^2.1.5",

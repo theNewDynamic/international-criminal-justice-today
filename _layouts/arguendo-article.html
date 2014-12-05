@@ -4,7 +4,7 @@ section: arguendo-article
 ---
 {% assign  collection = site.collections.arguendo %}
 {% assign  questions = site.arguendo | where: 'type', 'question' | sort: 'date' | reverse %}
-{% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
+{% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse  %}
 
 
 <div class="layout has-layout">

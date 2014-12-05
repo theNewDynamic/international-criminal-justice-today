@@ -1,6 +1,8 @@
 {% capture the_collection %}arguendo{% endcapture %}
 {% assign  questions = site.[the_collection] | where: 'type', 'question' | sort: 'date' | reverse %}
-{% for article in questions reverse  | limit: 10 %}
+
+
+{% for article in questions reverse  | limit: 1 %}
   {% capture the_question %}{{ article.title }}{% endcapture %}
   {% capture the_question_link %}{{ article.url }}{% endcapture %}
   {% capture summary %}{{ article.content }}{% endcapture %}
@@ -11,6 +13,8 @@
       <br />
     </div>
  {% endfor %}
+
+
   {% for article in articles %}
       {% capture  the_author %}{{ article.author }}{% endcapture %}
 

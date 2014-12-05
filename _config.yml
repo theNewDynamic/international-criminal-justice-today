@@ -63,4 +63,4 @@ defaults:
     path: "arguendo/question"
     type: arguendo
    values:
-    layout: arguendo
+    layout: arguendo-question

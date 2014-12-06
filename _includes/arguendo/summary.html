@@ -7,7 +7,7 @@
   {% capture the_question_link %}{{ article.url }}{% endcapture %}
   {% capture summary %}{{ article.content }}{% endcapture %}
   {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
-		<h3 class="h5" style="margin-bottom:.75em;"><a href="{{article.url}}">{{the_question}}</a></h3>
+		<h3 class="h5" style="margin-bottom:.75em;"><a href="/arguendo/">{{the_question}}</a></h3>
     <div id="content_arguendo">
       {{summary}}
       <br />
@@ -20,7 +20,7 @@
 
         {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
       {% if article.question == {{the_question}} %}
-        <a class="grid-item grid-item-big grid-item-list {% cycle 'dark' ,'light' %}" href="{{ the_question_link }}">
+        <a class="grid-item grid-item-big grid-item-list {% cycle 'dark' ,'light' %}" href="{{ article.url }}">
               {% for author in authors %}
                 {% if author.image %}
                   <figure class="figure-display-80px tooltip-item">

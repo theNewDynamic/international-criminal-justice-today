@@ -28,11 +28,19 @@ While some African countries have in the past relied on AU decisions on the ICC 
 Much has been said about the negative relationship between the AU and the ICC, with little focus on efforts by African countries to promote international criminal justice. The reality remains that international crimes are committed on the African continent and mechanisms that promote both peace and justice should be supported. The focus should rightly be on ensuring that victims see justice being served – whether it is at the international or domestic level.
 
 [^1]: International Military Tribunal at Nuremeberg. See: The London Declaration of 8 August 1945 on the Agreement for the Prosecution and Punishment of Major War Criminals of the European Axis. Annexed to this agreement was the Charter of the International Military Tribunal; Benjamin Ferencz, “The experience of Nuremberg” in Dinah Shelton (ed) *International Crimes, Peace and Human Rights: The Role of the International Criminal Court* (Transnational Publishers 2009); Richard Overy “The Nuremberg trials: International law in the making” in Phillipe Sands (ed) *From Nuremberg to The Hague: The Future of International Criminal Justice* (CUP 2003).
+
 [^2]: CS Igwe, “The ICC's favourite customer: Africa and international criminal law” (2008) *CILSA* 40, 294. However, other situations were under preliminary examination by the Office of Prosecutor in Afghanistan, Colombia, Chad, Georgia, Guinea; in this regard see Manisuli Ssenyonjo, “The International Criminal Court arrest warrant decision for President Al Bashir of Sudan” (2010) 59(1) *International and Comparative Law Quarterly* 205.
+
 [^3]: S Dersso, “The International Criminal Court's Africa problem” (2013), [http://www.aljazeera.com/indepth/opinion/2013/06/201369851918549.html](http://www.aljazeera.com/indepth/opinion/2013/06/201369851918549.html) accessed 11 June 2013.
+
 [^4]: D Tladi, “The African Union and the International Criminal Court: The Battle for the Soul of International Law” (2009) 34 *SAYIL* 57.
+
 [^5]: AU Assembly Decision on the Meeting of African States Parties to the Rome Statute of the International Criminal Court Assembly/AU/Dec.245(XIII) Rev.1. On the other hand, human rights organizations welcomed the ICC arrest warrant. See Human Rights Watch, “ICC: Bashir Warrant Is Warning to Abusive Leaders” (4 March 2009) [http://www.hrw.org/en/news/2009/03/04/icc-bashir-warrant-warning-abusive-leaders](http://www.hrw.org/en/news/2009/03/04/icc-bashir-warrant-warning-abusive-leaders); Amnesty International, ‘”CC Issues Arrest Warrant for Sudanese President Al Bashir” (4 March 2009) [http://www.amnesty.org/es/node/9632]( http://www.amnesty.org/es/node/9632).
+
 [^6]: See Kenya’s *International Crimes Act* 2008 which came into operation on 1 January 2009. The others include South Africa and Uganda.
+
 [^7]: F Bensouda, “ISS Seminar: Setting the record straight: the ICC’s new Prosecutor responds to African concerns, Pretoria” (*ISS*, 10 October 2012) [http://www.issafrica.org/eventitem.php?EID=864]( http://www.issafrica.org/eventitem.php?EID=864) accessed 19 March 2013.
+
 [^8]: The incoming president of the ASP will be an African.
+
 [^9]: OA Maunganidze and A Louw, “Mali: Implications of Another African Case As Mali Self-Refers to the ICC” (*ISS Today*, 24 July 2012).

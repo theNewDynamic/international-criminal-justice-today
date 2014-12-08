@@ -32,9 +32,11 @@ aside h2 {
 
 h3 {
   font-size: $base-font-size * 1.75; // 16 * 1.75 = 28px
-
-
-
+}
+article h3 {
+  font-size: $base-font-size * 1.5; // 16 * 1.75 = 28px
+  margin-top: $header-line-height;
+  margin-bottom: $header-line-height * .5;
 }
 
 h4, .h4 {

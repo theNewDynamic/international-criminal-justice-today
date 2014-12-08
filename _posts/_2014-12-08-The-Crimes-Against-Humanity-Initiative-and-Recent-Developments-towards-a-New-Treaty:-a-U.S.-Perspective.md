@@ -1,9 +1,13 @@
 ---
-title: "The Crimes Against Humanity Initiative and Recent Developments towards a New Treaty: a U.S. Perspective"
-category: Opinion
-authors: sadat
+published: true
+title: Next Steps for a Crimes Against Humanity Treaty
 category: opinion
+authors: sadat
+author: a
+pull_quote: null
 ---
+
+# The Crimes Against Humanity Initiative and Recent Developments towards a New Treaty: a U.S. Perspective
 
 Although the international community has made significant progress with respect to the prevention and prosecution of international atrocity crimes, particularly with the establishment of the International Criminal Court (ICC) in 1998, much more remains to be done at both the national and international levels.  In particular, crimes against humanity – which were prosecuted at Nuremberg – remain outside the normal enforcement structures of international and domestic criminal law for many states, including the United States, even though crimes against humanity represent a bigger scourge to the international community than genocide and war crimes.  In July 2014, an important milestone was achieved when the United Nations International Law Commission (ILC) moved the topic of crimes against humanity from its Long-Term Programme of Work to its active agenda and appointed Professor Sean Murphy as Special Rapporteur. This was a crucial step in filling a normative gap that has persisted despite the development of international criminal law during the past decades:  the absence of a comprehensive global treaty on crimes against humanity.  To close this gap in the global justice regime, there is both a need for U.S. federal legislation on crimes against humanity, and a new global convention on the same. 
 The Need for U.S. Federal Legislation 
@@ -59,6 +63,3 @@ In due course, the Commission is expected to send a complete set of draft treaty
   Id.
   Id.
   Id.
-
-
-

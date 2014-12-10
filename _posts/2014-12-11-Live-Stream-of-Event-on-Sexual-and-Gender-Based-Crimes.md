@@ -1,6 +1,6 @@
 ---
 title: "Livestream - Sexual and Gender Based Crimes with ICC Prosecutor"
-category: news
+category: "news"
 excerpt: "ABA-ICC Project sponsors discussion between ICC Prosecutor Fatou Bensouda and Ambassador David Scheffer at Council on Foreign Relations"
 video: "C<iframe width="560" height="315" src="//www.youtube.com/embed/vUjQgdLKHJI" frameborder="0" allowfullscreen></iframe>"
 ---

@@ -5,7 +5,7 @@ excerpt: "Among American with knowledge of the International Criminal Court, des
 video: _ZaZvFd1D0k 
 published: true
 ---
-### heading
+### Americans Continue to Support Involvement with the International Criminal Court (ICC)
 
 ---
 
@@ -13,9 +13,7 @@ published: true
 
 ---
 
-###Americans Continue to Support Involvement with the International Criminal Court (ICC)
-
-####Despite this Support, Some Oppose the US Becoming a Full Member of the Court 
+#####Despite this Support, Some Oppose the US Becoming a Full Member of the Court 
 
 Americans continue to have fairly low self-reported knowledge of the International Criminal Court (ICC) and its work, although they also show a clear tendency to support the general tenets of the organization, according to a new survey of over 1,000 US adults conducted on behalf of the American Bar Association. When asked what they know about the ICC, over half of Americans (64%) report knowing “nothing at all” about it, while just over one in ten (15%) report knowing a great deal or a fair amount about the ICC. 
 

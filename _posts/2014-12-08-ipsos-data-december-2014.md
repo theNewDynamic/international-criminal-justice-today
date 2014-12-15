@@ -4,7 +4,7 @@ category: Polling-data
 excerpt: "Among American with knowledge of the International Criminal Court, desire for more support, but unsure if the U.S. should join the Court."
 video: _ZaZvFd1D0k 
 published: true
----
+
 ### Americans Continue to Support Involvement with the International Criminal Court (ICC)
 
 ---
@@ -16,6 +16,8 @@ Americans continue to have fairly low self-reported knowledge of the Internation
 Almost three in five (59%) indicate that they ‘don’t know’ if the US is a current member of the ICC during this wave of the study.  Of those individuals who know at least a little bit about the ICC, nearly two thirds (63%) believe that the United States is currently a member, up slightly from a similar study conducted in February (52%).
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/42734074" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+---
 
 *Perceptions of the Court and Its Work*
 

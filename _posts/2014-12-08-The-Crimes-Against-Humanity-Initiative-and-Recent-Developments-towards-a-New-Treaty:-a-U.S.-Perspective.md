@@ -3,7 +3,7 @@ title: "Next Steps for a Crimes Against Humanity Treaty"
 category: Opinion
 authors: leila-nadya-sadat
 category: opinion
-pull_quote: "In particular, crimes against humanity – which were prosecuted at Nuremberg – remain outside the normal enforcement structures of international and domestic criminal law for many states, including the United States, even though crimes against humanity represent a bigger scourge to the international community than genocide and war crimes."
+pull_quote: "In particular, crimes against humanity – which were prosecuted at Nuremberg – remain outside the normal enforcement structures of international and domestic criminal law for many states, including the United States. This omission is particularly conspicuous given that crimes against humanity can occur during peacetime or war, and most “atrocities” are legally prosecuted at international tribunals as crimes against humanity rather than war crimes or genocide."
 ---
 ### The Crimes Against Humanity Initiative and Recent Developments towards a New Treaty: a U.S. Perspective
 

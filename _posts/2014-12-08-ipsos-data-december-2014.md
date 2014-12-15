@@ -4,7 +4,7 @@ category: Polling-data
 excerpt: "Among American with knowledge of the International Criminal Court, desire for more support, but unsure if the U.S. should join the Court."
 video: _ZaZvFd1D0k 
 published: true
-
+---
 ### Americans Continue to Support Involvement with the International Criminal Court (ICC)
 
 ---

@@ -6,15 +6,12 @@ section: opinion-archive
 
 
   
-<div class="row">
-<h2>Opinion Pieces published on International Criminal Justice Today</h2>
-<hr />
-
-
-  <div class="list-filter" style="">
+    <div class="row">
+        <h2>Opinion Pieces published on International Criminal Justice Today</h2>
+        <hr />
       {% for article in opinion limit:60 %}
         {% if article.category != 'event' and article.category != 'Polling-data'  %}
-          <a href="{{ article.url }}" class="article" style="width:45%;float:left;margin-right:3%;">
+          <a href="{{ article.url }}" class="article boxed">
           <span class="category hidden">{{ article.category | slugify }}</span>
             <div class="heading{% if article.featured_image %} article-background{% endif %}" {% if article.featured_image %}style="background-position:center center;background-image:url(/assets/img/{{ article.featured_image }});background-size:cover;"{% endif %}>
               <h6 class="heading-small {{ article.category | slugify }}">{{ article.category}}</h6>
@@ -28,5 +25,5 @@ section: opinion-archive
         {% endif %}
       {% endfor %}
     </div>
-</div>
+
 

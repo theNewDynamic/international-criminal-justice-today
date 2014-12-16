@@ -231,3 +231,12 @@ figure.figure-display-80px {
 body.home figure.figure-display-80px{
   margin-right:18px;
 }
+
+
+.boxed {
+  @include media($large-screen) {
+    float: left;
+    width: 45%;
+    margin-right:3%;
+  }
+}

@@ -8,7 +8,7 @@ participants: "Madame Prosecutor Fatou Bensouda, Prosecutor of the International
 featured: true
 category: event
 video: vUjQgdLKHJI
-featured_image: event-Prosecuting-Sexual-and-Gender-Based-Crimes.jpg
+featured_image: event-Prosecuting-Sexual-and-Gender-Based-Crimes_v2.jpg
 ---
 
 On December 11, 2014, the Council on Foreign Relations (CFR) and the American Bar Association's International Criminal Court Project co-sponsored an event entitled "*Prosecuting Sexual and Gender-Based Violence: New Directions in International Criminal Justice*" hosted at the CFR in New York City. This event featured a discussion between Madame Prosecutor of the International Criminal Court (ICC), Fatou Bensouda (The Gambia) and Ambassador David Scheffer, UN Secretary-General's Special Expert on UN Assistance to the Khmer Rouge Trials, and former U.S. Ambassador at-large for War Crimes Issues. 

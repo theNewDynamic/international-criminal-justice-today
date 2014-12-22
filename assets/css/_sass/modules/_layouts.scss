@@ -233,7 +233,7 @@ body.home figure.figure-display-80px{
 }
 
 
-a.boxed, .article .boxed {
+a.boxed, .boxed {
   margin-bottom:3em;
   @include media($medium-screen) {
     display: block;

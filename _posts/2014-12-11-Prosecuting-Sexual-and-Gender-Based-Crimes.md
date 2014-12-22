@@ -7,7 +7,7 @@ sponsor: "Council on Foreign Relations; American Bar Association's International
 participants: "Ms. Fatou Bensouda, Prosecutor of the International Criminal Court; Ambassador David Scheffer, Secretary-General's Special Expert on UN Assistance to the Khmer Rouge Trials, United Nations; former U.S. Ambassador at-large for War Crimes Issues"
 featured: true
 category: event
-video: v=vUjQgdLKHJI
+video: watch?v=vUjQgdLKHJI
 
 ---
 

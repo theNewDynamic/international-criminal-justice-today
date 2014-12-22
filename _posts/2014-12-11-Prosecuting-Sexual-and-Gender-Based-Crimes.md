@@ -16,6 +16,7 @@ The well-attended evening event focused on the ICC Office of the Prosecutor's ne
 
 Please find a *transcript* of the event [here](http://www.cfr.org/global/prosecuting-sexual-gender-based-violence-new-directions-international-criminal-justice/p33991), *downloadable audio8 [here](http://www.cfr.org/international-law/prosecuting-sexual-gender-based-violence-new-directions-international-criminal-justice/p33988)as well as video above and pictures below.  
 
+<object width="800" height="600"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157649873565031%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157649873565031%2F&set_id=72157649873565031&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157649873565031%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157649873565031%2F&set_id=72157649873565031&jump_to=" width="800" height="600"></embed></object>
 
 
 

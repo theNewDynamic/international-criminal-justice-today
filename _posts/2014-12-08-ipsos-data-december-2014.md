@@ -10,7 +10,7 @@ published: true
 ---
 
 #####Despite this Support, Some Oppose the US Becoming a Full Member of the Court 
-
+---
 Americans continue to have fairly low self-reported knowledge of the International Criminal Court (ICC) and its work, although they also show a clear tendency to support the general tenets of the organization, according to a new survey of over 1,000 US adults conducted on behalf of the American Bar Association. When asked what they know about the ICC, over half of Americans (64%) report knowing “nothing at all” about it, while just over one in ten (15%) report knowing a great deal or a fair amount about the ICC. 
 
 Almost three in five (59%) indicate that they ‘don’t know’ if the US is a current member of the ICC during this wave of the study.  Of those individuals who know at least a little bit about the ICC, nearly two thirds (63%) believe that the United States is currently a member, up slightly from a similar study conducted in February (52%).

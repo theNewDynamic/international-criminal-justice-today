@@ -31,6 +31,7 @@ The survey also explored possible reasons for opposition to the work of the ICC 
 Despite these concerns, nearly four in ten (37%) support the United States becoming more involved or fully joining the ICC. Among those who are familiar of the ICC, over half (59%) believe that the United States should be more involved or fully join the ICC.  At the same time, a quarter of both the general public (25%) and those familiar with the ICC (24%) believe that the United State should not fully join the ICC. 
 
 While there is some opposition to full membership, over half of those familiar with the ICC (56%) believe that the United States should continue to dedicate resources such as satellite photos to the Court.  Nearly as many (49%) support the United States becoming more involved, without becoming a full member, while four in ten (41%) support the United States becoming a full member.
+
 ---
 #####*December 2014 Custom Questions: ISIS/The Islamic State Situation*	
 ---

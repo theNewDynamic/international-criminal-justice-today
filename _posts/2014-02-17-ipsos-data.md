@@ -10,6 +10,8 @@ video: qmt9hDOv5VE
 
 Broadly speaking, Americans have fairly low self-reported knowledge of the International Criminal Court (ICC) and its work, although they also show a clear tendency to support the general tenets of the organization. When asked what they know about the ICC, over half of Americans (60%) report knowing “nothing at all” about it, while just over one in ten (12%) report knowing a great deal or a fair amount about the ICC, according to a new survey of 1,000 adults conducted on behalf of the American Bar Association (ABA) ICC Project. Almost two-third (64%) indicate that they ‘don’t know’ if the US is a current member of the ICC. Of those individuals who know at least a little bit about the ICC over half (52%) erroneously believe that the United States is currently a member. 
 
+---
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/37109069" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 ---
 

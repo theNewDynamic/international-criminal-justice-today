@@ -19,6 +19,7 @@ Broadly speaking, Americans have fairly low self-reported knowledge of the Inter
 Despite low knowledge of the ICC, support for the work of the Court is strong, and the US public appears to favor US involvement in these issues. Six in ten Americans (60%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities”, and this rises to seven in ten (71%) among people who know something about the ICC. Furthermore, almost half (47%) of Americans, and 60% of those who know something about the Court, agree that the US should “dedicate US resources (financial, military, intelligence, etc) to international organizations that support human rights and that hold individuals responsible for mass atrocities”. 
 
 The survey also explored possible reasons for opposition to the work of the ICC among the American public, and in both cases fewer than a quarter of the population agreed with the statements tested. Support for these statements increased with knowledge about the ICC, but did not reach a majority. Just under a quarter (24%) agree that joining an organization like the ICC could hurt the United States’ autonomy, and this rises to two in five (39%) among Americans who report knowing more about the ICC. Similarly, one in five (21%) agree that it is “not in our best interests to dedicate US resources” to organizations like the ICC – and this rises to almost a third (30%) among those with more knowledge of the Court. 
+
 ---
 
 #####*ICC Membership and the United States*
@@ -26,6 +27,7 @@ The survey also explored possible reasons for opposition to the work of the ICC 
 In addition, the survey examined support for American membership in the ICC. Support for the US becoming more involved or fully joining the ICC is just over one third (34%) among the American public. Among Americans who are more aware of the ICC, over half (52%) believe that the United States should be more involved or fully join the ICC. However, both the public at large and those with greater reported knowledge of the ICC have some reservations about joining. A quarter of each population believe that the United State should not fully join the ICC.  
 
 Almost one half (44%) of those familiar with the ICC believe that the United States should become more involved in the ICC by providing more resources, but without becoming a full member of the court.
+
 ---
 
 #####*February 2014 Custom Questions: Kenya Situation*

@@ -19,19 +19,19 @@ Almost three in five (59%) indicate that they ‘don’t know’ if the US is a 
 
 ---
 
-*Perceptions of the Court and Its Work*
+######*Perceptions of the ICC and Its Work*
 
 Despite this lack of familiarity with the ICC , support for the work of the Court remains strong, and the American public appears to favor US involvement in these issues. Six in ten (60%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities,” which rises to just under seven in ten (69%) among those who know something about the ICC, consistent with the findings from earlier this year. Furthermore, nearly half (48%) of Americans, including 59% of those who know something about the Court, agree that the US should “dedicate US resources (financial, military, intelligence, etc.) to international organizations that support human rights and that hold individuals responsible for mass atrocities.”  
 
 The survey also explored possible reasons for opposition to the work of the ICC among the American public. Levels of concern increase with knowledge about the ICC, but do not reach a majority. Just under a quarter of US adults (23%) agree that joining an organization like the ICC could hurt the United States’ autonomy, with over a third (36%) of those who are more familiar with the ICC agreeing. Similarly, one in five (20%) agree that it is “not in our best interests to dedicate US resources” to organizations like the ICC, including nearly a third (30%) of those with more knowledge of the Court. These findings are on par with the sentiments expressed in the February survey.
 
-*ICC Membership and the United States*
+#####*ICC Membership and the United States*
 
 Despite these concerns, nearly four in ten (37%) support the United States becoming more involved or fully joining the ICC. Among those who are familiar of the ICC, over half (59%) believe that the United States should be more involved or fully join the ICC.  At the same time, a quarter of both the general public (25%) and those familiar with the ICC (24%) believe that the United State should not fully join the ICC. 
 
 While there is some opposition to full membership, over half of those familiar with the ICC (56%) believe that the United States should continue to dedicate resources such as satellite photos to the Court.  Nearly as many (49%) support the United States becoming more involved, without becoming a full member, while four in ten (41%) support the United States becoming a full member.
 
-*ISIS/The Islamic State Situation*	
+######*December 2014 Custom Questions: ISIS/The Islamic State Situation*	
 
 The International Criminal Court is investigating whether charges can be brought against citizens of ICC member countries for international atrocity crimes committed in support of ISIS/The Islamic State. Current member countries of the ICC include key US allies, such as the United Kingdom, France, Jordan, and Tunisia. The United States is not a member of the ICC and, therefore, is not obligated to cooperate with any investigations by the ICC. At present, US law prohibits the United States from allocating funds to the ICC, voluntarily or otherwise. 
 

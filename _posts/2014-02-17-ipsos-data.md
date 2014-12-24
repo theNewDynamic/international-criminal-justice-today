@@ -13,7 +13,7 @@ Broadly speaking, Americans have fairly low self-reported knowledge of the Inter
 <iframe src="//www.slideshare.net/slideshow/embed_code/37109069" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 ---
 
-#####*Perceptions of the ICC and Its Work*
+######*Perceptions of the ICC and Its Work*
 
 Despite low knowledge of the ICC, support for the work of the Court is strong, and the US public appears to favor US involvement in these issues. Six in ten Americans (60%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities”, and this rises to seven in ten (71%) among people who know something about the ICC. Furthermore, almost half (47%) of Americans, and 60% of those who know something about the Court, agree that the US should “dedicate US resources (financial, military, intelligence, etc) to international organizations that support human rights and that hold individuals responsible for mass atrocities”. 
 
@@ -31,7 +31,9 @@ Before their election to high office in Kenya in 2013, the Prosecutor of the Int
 
 Additionally, both the President and Deputy President have maintained that they should be able to participate in their trial at the ICC either through video conference or through their attorneys, due to the nature of their positions. Over one half of the US public and those with stronger knowledge of the ICC believe that the individuals should be required to attend their trials in person (51% and 58%, respectively). While nearly six in ten with more knowledge of Court believe that these individuals should be required to attend their trials in person, almost one quarter (24%) believe that they should be able to attend via video conference, compared with less than two in ten (18%) members of the American public. 
 
+
 ---
+
 
 **Methodology and Technical Details**
 

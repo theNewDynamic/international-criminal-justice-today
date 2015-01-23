@@ -1,7 +1,7 @@
 ---
 title: "December 2014 Ipsos Polling Data"
 category: Polling-data
-excerpt: "Among American with knowledge of the International Criminal Court, desire for more support, but unsure if the U.S. should join the Court."
+excerpt: "Americans Continue to Support Involvement with the International Criminal Court (ICC)"
 video: _ZaZvFd1D0k 
 published: true
 ---

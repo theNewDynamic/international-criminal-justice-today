@@ -1,5 +1,5 @@
 ---
-title: "The Distinguished Navanethem Pillay Joins the ABA-ICC Project Board of Advisors"
+title: "The Honorable Navanethem Pillay Joins the ABA-ICC Project Board of Advisors"
 category: news
 pull_quote: "The American Bar Association Center for Human Rights is pleased that Judge Pillay, an eminent international jurist and human rights advocate, has decided to join the ABA-ICC Project Board of Advisors to share her vast experience, good judgment and passion in advancing the cause of international justice and human rights protection."
 pull_quote_attribution: "Michael Greco"

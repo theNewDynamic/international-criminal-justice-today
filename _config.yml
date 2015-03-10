@@ -57,7 +57,7 @@ defaults:
     path: "arguendo/article"
     type: arguendo
    values:
-    layout: article-arguendo
+    layout: arguendo-article
   -
    scope:
     path: "arguendo/question"

@@ -20,7 +20,7 @@ Americans are continuing to report a lack of knowledge concerning the ICC and it
 
 Notwithstanding this lack of familiarity with the ICC, Americans support the idea of the United States being involved with international institutions that have a direct impact on human rights and provide justice for those who commit mass atrocities. Moreover, support for both participation and resource allocation seems to have increased slightly over the past year:
 
-Nearly two-thirds of Americans (64%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities.”  This is an increase from 60% over the past two waves of this research, conducted in February and December 2014. The number jumps to over seven in ten (73%) among individuals who know something about the ICC.
+Nearly two-thirds of Americans (64%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities." This is an increase from 60% over the past two waves of this research, conducted in February and December 2014. The number jumps to over seven in ten (73%) among individuals who know something about the ICC.
 
 Furthermore,  over half (53%, up from 47% and 48% in the last two waves) of Americans agree that the US should “dedicate US resources (financial, military, intelligence, etc.) to international organizations that support human rights and that hold individuals responsible for mass atrocities.”  The starkest demographic contrast on this metric is found regarding education, where agreement with the statement is notably higher among those with college degrees (60%) compared to those without (47%). 
 
@@ -36,7 +36,7 @@ Almost a quarter of Americans (23%) oppose US membership in the ICC.  Opposition
 
 ---
 
-#####*February 2014 Custom Questions: Palestine’s Membership and the ICC*
+#####*April 2015 Custom Questions: Palestine’s Membership and the ICC*
 ---
 As of April 1st, 2015, the Palestinian Authority became a member of the International Criminal Court.  The United States and Israel have taken positions against the Palestinian Authority joining the ICC, stating that the Palestinian Authority’s lack of statehood makes it ineligible to join the ICC.  Further, Israel believes that Palestinian Authority’s membership harms the peace process and contributes to the perceived politicization of the Court, while the Palestinians believe this is one step closer to rectify perceived injustices and to gaining statehood. As a result of Palestine’s membership, both Israel and Palestine are open to investigation for possible international atrocity crimes committed on Palestinian territory. However, because Israel is not a member of the ICC, it is not obligated to cooperate with the ICC. 
 

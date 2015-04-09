@@ -12,7 +12,7 @@ Americans are continuing to report a lack of knowledge concerning the ICC and it
 
 ---
 
-<<iframe src="//www.slideshare.net/slideshow/embed_code/46783389" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/46783389" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 ---
 
 #####*Perceptions of the Court and Its Work*

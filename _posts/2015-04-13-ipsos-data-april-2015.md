@@ -7,6 +7,7 @@ published: true
 ---
 
 ### Increases in Americans' support for the International Criminal Court (ICC), and Palestinian membership in the ICC.
+
 ---
 
 According to the latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project, Americans are continuing to report a lack of knowledge concerning the ICC and its work.    Nearly three-fifths (59%) of Americans report knowing “nothing at all” about the ICC when asked, and just over one in ten US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge spans educations levels with both college educated and non-degree holders reporting a fairly low level of knowledge. However, almost one in five (19%) of 18-34 year olds report knowing “a fair amount” or “great deal,” as compared to the 5% of over-55s who say the same.

@@ -1,7 +1,9 @@
 ---
 title: "April 2015 Ipsos Polling Data"
 category: Polling-data
-excerpt: "Increases in Americans' support for the International Criminal Court (ICC), and Palestinian membership in the ICC." published: true
+excerpt: "Increases in Americans' support for the International Criminal Court (ICC), and Palestinian membership in the ICC."
+video: _ZaZvFd1D0k 
+published: true
 ---
 
 ### Increases in Americans' support for the International Criminal Court (ICC), and Palestinian membership in the ICC.

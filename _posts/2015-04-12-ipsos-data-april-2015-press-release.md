@@ -1,10 +1,10 @@
 ---
-title: "Most Recent ABA’s ICC Project/Ipsos Polling Finds Positive Opinions on Palestinian Membership at the ICC"
+title: "Ipsos Poll Finds Positive American Opinions on Palestine and the ICC"
 category: news
 pull_quote: "Of those aware of the ICC, 35% thought there was a positive long-term impact on the peace process. Furthermore, more Americans than not believe that Palestine’s membership at the ICC advances international justice."
 ---
 
-###Recent ABA’s ICC Project/Ipsos Polling Finds Positive Opinions on Palestinian Membership at the ICC
+###Most Recent ABA’s ICC Project/Ipsos Polling Finds Positive Opinions on Palestinian Membership at the ICC
 
 ---
 

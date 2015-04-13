@@ -6,7 +6,7 @@ video: _ZaZvFd1D0k
 published: true
 ---
 
-### Increases in Americans' support for the International Criminal Court (ICC), and Palestinian membership in the ICC.
+### Increases in Americans' opinions of the International Criminal Court (ICC), and signs of support for Palestinian membership in the ICC.
 
 ---
 

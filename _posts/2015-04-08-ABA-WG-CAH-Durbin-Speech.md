@@ -10,7 +10,7 @@ published: true
 
 ---
 
-Chicago, Illinois, April 10, 2015 – In a speech at Northwestern University School of Law, U.S. Senator Dick Durbin (D-Illinois) announced his intention to reintroduce Crimes Against Humanity (CAH) legislation in Congress, referring to the lack of such legislation as a “legal loophole”. In his speech, Senator Durbin laid out the history of Congresional successes in "building the law" on mass human rights violations. Yet, he stressed that more work needs to be done, particularly on CAH, “[d]espite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II … in Pol Pot’s Cambodia, Rwanda, the former Yugoslavia, Sierra Leone and elsewhere … there is no U.S. law prohibiting crimes against humanity.” For this and other reasons, Senator Durbin announced his intention "to reintroduce the Crimes Against Humanity Act" in Congress. 
+Chicago, Illinois, April 10, 2015 – In a [speech](http://www.law.northwestern.edu/about/news/newsdisplay.cfm?ID=712) at Northwestern University School of Law, U.S. Senator Dick Durbin (D-Illinois) announced his intention to reintroduce Crimes Against Humanity (CAH) legislation in Congress, referring to the lack of such legislation as a “legal loophole”. In his speech, Senator Durbin laid out the history of Congresional successes in "building the law" on mass human rights violations. Yet, he stressed that more work needs to be done, particularly on CAH, “[d]espite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II … in Pol Pot’s Cambodia, Rwanda, the former Yugoslavia, Sierra Leone and elsewhere … there is no U.S. law prohibiting crimes against humanity.” For this and other reasons, Senator Durbin announced his intention "to reintroduce the Crimes Against Humanity Act" in Congress. 
 
 ---
 
@@ -40,6 +40,11 @@ The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](htt
 - [Kip Hale](http://www.aba-icc.org/the-aba-icc-project/project-staff/) (staff), ABA Center for Human Rights 
 
 ---
+
+<object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&set_id=72157652009355555&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&set_id=72157652009355555&jump_to=" width="700" height="525"></embed></object>
+
+---
+
 Please find more information about Senator Durbin's speech at the Northwestern University School of Law [webpage](http://www.law.northwestern.edu/about/news/newsdisplay.cfm?ID=712). 
 
 ---
@@ -48,4 +53,4 @@ The American Bar Association’s (ABA) International Criminal Court Project is a
 
 ---
 
-<object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&set_id=72157652009355555&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&set_id=72157652009355555&jump_to=" width="700" height="525"></embed></object>
+

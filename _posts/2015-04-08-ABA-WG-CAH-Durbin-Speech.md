@@ -1,5 +1,5 @@
 ---
-title: "Senator Durbin to Reintroduce Crimes Against Humanity Legislation; ABA Working Group Supports This Initiative"
+title: "Senator Durbin's Speech Highlights ABA Working Group on Crimes Against Humanity"
 category: News
 excerpt: "Increases in Americans' support for the International Criminal Court (ICC), as well as some support for Palestinian membership in the ICC."
 published: true

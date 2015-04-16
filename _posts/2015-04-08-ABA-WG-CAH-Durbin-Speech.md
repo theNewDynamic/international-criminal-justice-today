@@ -49,7 +49,7 @@ Please find more information about Senator Durbin's speech at the Northwestern U
 
 ---
 
-The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA's ICC Project can be found at its [website](http://www.aba-icc.org/). 
+The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. Please visit the ABA's ICC Project [website](http://www.aba-icc.org/) for more information. 
 
 ---
 

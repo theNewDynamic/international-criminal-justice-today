@@ -6,7 +6,7 @@ pull_quote: "Despite longstanding U.S. support for the prosecution of crimes aga
 pull_quote_attribution: "U.S. Senator Dick Durbin (D-Illinois)"
 published: true
 ---
-###Senator Durbin to Reintroduce Crimes Against Humanity Legislation; ABA Working Group on Crimes Against Humanity Commends This Initiative 
+###Senator Durbin to Reintroduce Crimes Against Humanity Legislation; Chair of the ABA Working Group on Crimes Against Humanity Commends Durbin's Initiative 
 
 ---
 
@@ -18,7 +18,7 @@ Senator Durbin's initiative to reintroduce CAH legislation coincides with the re
 
 ---
 
-The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after [passage](http://www.international-criminal-justice-today.org/news/2014/09/12/aba-urges-us-government-to-act-on-crimes-against-humanity/) of ABA [policy](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) on CAH.  The inugural members of the Working Group are as follows (alphabetical order):
+The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after [passage](http://www.international-criminal-justice-today.org/news/2014/09/12/aba-urges-us-government-to-act-on-crimes-against-humanity/) of ABA [policy](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) on CAH. The Working Group had its first meeting on April 15, 2015 in Washington, D.C. The inugural members of the Working Group are as follows (alphabetical order):
 
 
 - [Thomas Bishop](http://tannerbishop.com/_images/_documents/Thomas-E-Bishop.pdf), Tanner & Bishop

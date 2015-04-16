@@ -19,7 +19,7 @@ The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](htt
 - [Thomas Bishop](http://tannerbishop.com/_images/_documents/Thomas-E-Bishop.pdf), Tanner & Bishop
 - [Ambassador Lee Feinstein](http://info.law.indiana.edu/faculty-research/faculty-staff/profiles/faculty/feinstein-lee-a.shtml), Indiana University School of Global and International Studies
 - [Ambassador Thomas Graham Jr.](http://www.ltbridge.com/leadership/boarddirectors/thomas-graham), Lightbridge 
-- [Michael S. Greco](http://www.klgates.com/michael-s-greco/)(*Ex Officio*), K&L Gates 
+- [Michael S. Greco](http://www.klgates.com/michael-s-greco/) (*Ex Officio*), K&L Gates 
 - [Representative Lee H. Hamilton](http://www.centeroncongress.org/lee-h-hamilton-biography), Center on Congress at Indiana University
 - [Brenda Hollis](http://www.rscsl.org/RSCSL-Officials.html), Prosecutor of the Special Court for Sierra Leone
 - [Colonel William K. Lietzau](http://www.defense.gov/bios/biographydetail.aspx?biographyid=246), PAE
@@ -27,16 +27,16 @@ The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](htt
 - [Alberto J. Mora](https://www.law.upenn.edu/live/files/2306-alberto-mora-bio), Wal-Mart International Division
 - [Kele Onyejekwe](https://www.linkedin.com/in/keleconyejekwe), Office of Appellate Public Defenders, U.S. Virgin Islands
 - [Professor Leila Sadat](https://law.wustl.edu/faculty/pages.aspx?id=390), Washington University Law School
-- [Ambassador David J. Scheffer](http://www.law.northwestern.edu/faculty/profiles/DavidScheffer/)(Chair), Northwestern University School of Law 
+- [Ambassador David J. Scheffer](http://www.law.northwestern.edu/faculty/profiles/DavidScheffer/) (Chair), Northwestern University School of Law 
 - [Kenneth Scott](http://www.stl-tsl.org/en/about-the-stl/biographies/actors-contempt-cases/3587-kenneth-scott-amicus-curiae-prosecutor-stl-14-05-and-stl-14-06), Amicus Prosecutor at the Special Tribunal for Lebanon
 - [Neal R. Sonnet](http://www.sonnettlaw.com/neal-r-sonnett.html), Law Office of Neal R. Sonnet, P.A. 
 - [Professor Juliet Sorensen](http://www.law.northwestern.edu/faculty/profiles/JulietSorensen/), Northwestern University School of Law 
 - [William H. Taft IV](http://www.friedfrank.com/index.cfm?pageID=42&itemID=620&more=1), Fried Frank
-- [Kip Hale](http://www.aba-icc.org/the-aba-icc-project/project-staff/), ABA Center for Human Rights (staff)
+- [Kip Hale](http://www.aba-icc.org/the-aba-icc-project/project-staff/) (staff), ABA Center for Human Rights 
 
 ---
 Please find more information about Senator Durbin's speech at the Northwestern University School of Law [webpage](http://www.law.northwestern.edu/about/news/newsdisplay.cfm?ID=712). 
 
 ---
 
-The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA-ICC Project can be found at its website. 
+The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA-ICC Project can be found at its [website](http://www.aba-icc.org/). 

@@ -13,8 +13,9 @@ Chicago, Illinois, April 10, 2015 – In a speech at Northwestern University Sch
 
 Senator Durbin's initiative to reintroduce CAH legislation coincides with the recently formed ABA Working Group on CAH. In his speech, Senator Durban congratulated two Northwestern Law professors for their selection to the ABA Working Group, “[l]et me also say congratulations to both Ambassador [David] Scheffer and Professor [Juliet] Sorensen for their selection as members of the American Bar Association’s new Working Group on Crimes Against Humanity.”  
 
+---
 
-The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after [passage](http://www.international-criminal-justice-today.org/news/2014/09/12/aba-urges-us-government-to-act-on-crimes-against-humanity/) of ABA's [policy](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) on CAH.  The inugural members of the Working Group are as follows (alphabetical order):
+The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after [passage](http://www.international-criminal-justice-today.org/news/2014/09/12/aba-urges-us-government-to-act-on-crimes-against-humanity/) of ABA [policy](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) on CAH.  The inugural members of the Working Group are as follows (alphabetical order):
 
 
 - [Thomas Bishop](http://tannerbishop.com/_images/_documents/Thomas-E-Bishop.pdf), Tanner & Bishop

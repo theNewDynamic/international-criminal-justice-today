@@ -1,7 +1,7 @@
 ---
 title: "Senator Durbin's Speech Highlights ABA Working Group on Crimes Against Humanity"
 category: News
-excerpt: "Increases in Americans' support for the International Criminal Court (ICC), as well as some support for Palestinian membership in the ICC."
+excerpt: "Despite longstanding U.S. support for the prosecution of crimes against humanity (internationally)… there is no U.S. law prohibiting crimes against humanity."
 published: true
 ---
 ###Senator Durbin to Re-Introduce Crimes Against Humanity Legislation; ABA Working Group on Crimes Against Humanity Supports This Initiative 

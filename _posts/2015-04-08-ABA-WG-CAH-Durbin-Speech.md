@@ -8,8 +8,11 @@ published: true
 ---
 ###Senator Durbin to Reintroduce Crimes Against Humanity Legislation; ABA Working Group on Crimes Against Humanity Supports This Initiative 
 
+---
+
 Chicago, Illinois, April 10, 2015 – In a speech at Northwestern University School of Law, U.S. Senator Dick Durbin (D-Illinois) announced his intention to reintroduce Crimes Against Humanity (CAH) legislation in Congress, referring to the lack of CAH legislation as a “legal loophole”. In his speech, Senator Durbin laid out the history of Congresional successes in "building the law" on mass human rights violations. Yet, he stressded that more work needs to be done, particularly on CAH, “[d]espite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II … in Pol Pot’s Cambodia, Rwanda, the former Yugoslavia, Sierra Leone and elsewhere … there is no U.S. law prohibiting crimes against humanity.” For this reason, Senator Durbin announced his intention "to reintroduce the Crimes Against Humanity Act" in Congress. 
 
+---
 
 Senator Durbin's initiative to reintroduce CAH legislation coincides with the recently formed ABA Working Group on CAH. In his speech, Senator Durban congratulated two Northwestern Law professors for their selection to the ABA Working Group, “[l]et me also say congratulations to both Ambassador [David] Scheffer and Professor [Juliet] Sorensen for their selection as members of the American Bar Association’s new Working Group on Crimes Against Humanity.”  
 

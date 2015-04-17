@@ -14,11 +14,10 @@ Chicago, Illinois, April 10, 2015 – In a [speech](http://www.law.northwestern.
 
 ---
 
-Senator Durbin's initiative to reintroduce CAH legislation coincides with the recently formed ABA Working Group on CAH. In his speech, Senator Durban congratulated two Northwestern Law professors for their selection to the ABA Working Group, “[l]et me also say congratulations to both Ambassador [David] Scheffer and Professor [Juliet] Sorensen for their selection as members of the American Bar Association’s new Working Group on Crimes Against Humanity.” Commenting on the Senator's speech, the Chair of the Working Group, Ambassador David Scheffer, said, "Senator Durbin once again is taking the lead in the Senate to ensure that there exists no impunity gap in U.S. law for those who commit atrocity crimes.  His previous legislation on genocide, child soldiers, and human trafficking has set the stage for bringing to justice those who perpetrate crimes against humanity." 
+<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/2rallr36vw?canonicalUrl=https%3A%2F%2Fnorthwesternlaw.wistia.com%2Fmedias%2F2rallr36vw&canonicalTitle=Senator%20Dick%20Durbin%20Announces%20Proposed%20Human%20Rights%20Legislation%20at%20Northwestern%20Law%20-%20northwesternlaw" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="270"></iframe>
 
 ---
-
-<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/2rallr36vw?canonicalUrl=https%3A%2F%2Fnorthwesternlaw.wistia.com%2Fmedias%2F2rallr36vw&canonicalTitle=Senator%20Dick%20Durbin%20Announces%20Proposed%20Human%20Rights%20Legislation%20at%20Northwestern%20Law%20-%20northwesternlaw" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="270"></iframe>
+Senator Durbin's initiative to reintroduce CAH legislation coincides with the recently formed ABA Working Group on CAH. In his speech, Senator Durban congratulated two Northwestern Law professors for their selection to the ABA Working Group, “[l]et me also say congratulations to both Ambassador [David] Scheffer and Professor [Juliet] Sorensen for their selection as members of the American Bar Association’s new Working Group on Crimes Against Humanity.” Commenting on the Senator's speech, the Chair of the Working Group, Ambassador David Scheffer, said, "Senator Durbin once again is taking the lead in the Senate to ensure that there exists no impunity gap in U.S. law for those who commit atrocity crimes.  His previous legislation on genocide, child soldiers, and human trafficking has set the stage for bringing to justice those who perpetrate crimes against humanity." 
 
 ---
 

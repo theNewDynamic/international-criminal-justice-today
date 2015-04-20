@@ -6,7 +6,6 @@ section: arguendo-article
 {% assign  questions = site.arguendo | where: 'type', 'question' | sort: 'date' | reverse %}
 {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse  %}
 
-
 <div class="layout has-layout">
   {% include articles/article.html collection="arguendo" %}
   <section class="side-right">

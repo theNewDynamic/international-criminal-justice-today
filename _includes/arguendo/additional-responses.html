@@ -9,9 +9,19 @@
 
         <div class="copy">
           <h4 class="h5">
-            {% for author in authors %}
-              {{author.name}}
-            {% endfor %}
+            {% if article.author %}
+              {% for author in authors %}
+                {{author.name}}
+              {% endfor %}
+            {% elsif article.authors %}
+              
+            {% for page_author in article.authors %}
+                {% for author in site.data.people  %}
+                  {% if author.last_name == page_author %}
+              {{author.name}}<br />
+              {% endif %} 
+              {% endfor %}{% endfor %}
+            {% endif %}
           </h4>
           <div class="space-below"><small>{{article.title}}</small></div>
         </div>

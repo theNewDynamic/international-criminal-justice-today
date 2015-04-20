@@ -1,22 +1,16 @@
 <!-- TODO: Move authors into single authors yaml fild along with others on the site -->
-
-{% capture  the_author %}{{ page.author }}{% endcapture %}
-{% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
-
-{% for author in authors %}
-  <h2 class="h4">
-    {% for author in authors  %}
-      {{author.name}}
+{% if page.author %}
+  {% capture  the_author %}{{ page.author }}{% endcapture %}
+  {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
+  {% for author in authors %}
+    {% include arguendo/format-bio.html %}
+  {% endfor %}
+{% elsif page.authors %}
+  {% for page_author in page.authors %}
+    {% for author in site.data.people  %}
+      {% if author.last_name == page_author %}
+        {% include arguendo/format-bio.html %}
+      {% endif %}
     {% endfor %}
-  </h2>
-  <br />
-  {% if author.image %}
-    <figure class="bio">
-      <img src="/assets/img/{{author.image}}">
-    </figure>
-  {% endif %}
-
-<div class="copy" style="color:#777; ">
-{{ author.bio | markdownify }}
-</div>
-{% endfor %}
+  {% endfor %}
+{% endif %}

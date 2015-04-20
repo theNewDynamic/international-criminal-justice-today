@@ -21,14 +21,30 @@
         {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
       {% if article.question == {{the_question}} %}
         <a class="grid-item grid-item-big grid-item-list {% cycle 'dark' ,'light' %}" href="{{ article.url }}">
-              {% for author in authors %}
-                {% if author.image %}
-                  <figure class="figure-display-80px tooltip-item">
-                    <img src="{{ site.image_path }}{{author.image}}">
-                  </figure>
+              {% if article.author %}
+                {% for author in authors %}
+                  {% if author.image %}
+                    <figure class="figure-display-80px tooltip-item">
+                      <img src="{{ site.image_path }}{{author.image}}">
+                    </figure>
+                  {% endif %}
+                {% endfor %}
+              {% elsif article.authors %}
+                {% for page_author in article.authors %}
+                  {% for author in site.data.people  %}
+                    {% if author.last_name == page_author %}
+                      {% if author.image %}
+                    <figure class="figure-display-80px tooltip-item">
+                      <img src="{{ site.image_path }}{{author.image}}">
+                    </figure>
+                  {% endif %}
+                    {% endif %} 
+                  {% endfor %}
+                {% endfor %} 
+              {% endif %}
 
-                {% endif %}
-              {% endfor %}
+
+
 
               {% comment %}<strong>{{article.title}}</strong>{% endcomment %}
 

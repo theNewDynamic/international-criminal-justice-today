@@ -9,7 +9,7 @@ category: event
 featured_image: event-atrocity-accountability-syria-1600x900.jpg
 ---
 
-On April 14, 2015, the American Bar Association (ABA) Center for Human Rights and its International Criminal Court Project hosted a closed-door meeting of experts entitled “Atrocity Accountability in Syria: What Criminal Investigations Have Uncovered ”, which featured a distinguished panel including Ambassador Stephen J. Rapp, U.S. Ambassador-at-Large for Global Criminal Justice, Professor Larry D. Johnson, Professor of Law at Columbia Law School and former U.N. Assistant Secretary-General for Legal Affairs, Dr. William Wiley, Executive Director of the Commission for International Justice and Accountability (CIJA), and Chris Engels, Head of Operations for CIJA. Senior Counsel of the ABA Center for Human Rights and the Director of the ABA-ICC Project, Kip Hale, moderated the discussion.
+On April 14, 2015, the American Bar Association (ABA) Center for Human Rights and its International Criminal Court Project hosted a closed-door meeting of experts entitled “Atrocity Accountability in Syria: What Criminal Investigations Have Uncovered ”, which featured a distinguished panel including Ambassador Stephen J. Rapp, U.S. Ambassador-at-Large for Global Criminal Justice, Professor Larry D. Johnson, Professor of Law at Columbia Law School and former U.N. Assistant Secretary-General for Legal Affairs, Dr. William Wiley, Executive Director of the Commission for International Justice and Accountability (CIJA), and Chris Engels, Head of Regime Crimes Team for CIJA. Senior Counsel of the ABA Center for Human Rights and the Director of the ABA-ICC Project, Kip Hale, moderated the discussion.
 
 ---
 

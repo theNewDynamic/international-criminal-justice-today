@@ -1,7 +1,7 @@
 ---
 title: “Support for witness protection in international criminal tribunals”
 date: 2014-04-17 12:00:00
-question: "How can the international community best support the need to protect witnesses in international criminal trials?"
+question: "Support for witness protection in international criminal tribunals"
 author: "Chaikel"
 layout: arguendo-article
 ---

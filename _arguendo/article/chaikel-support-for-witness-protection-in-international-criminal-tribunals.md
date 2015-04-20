@@ -1,5 +1,5 @@
 ---
-title: Addressing the witness protection challenge at the ICC
+title: Addressing the Witness Protection Challenge at the ICC
 date: 2014-04-17 12:00:00
 question: "How can the international community best support the need to protect witnesses in international criminal trials?"
 author: "Chaikel"

@@ -1,5 +1,5 @@
 ---
-title: “After Kenya: Lessons for Witness Protection”
+title: “After Kenya, Lessons for Witness Protection”
 date: 2014-04-17 12:00:00
 question: "How can the international community best support the need to protect witnesses in international criminal trials?"
 # author: "Koenig, Stover, Cody"

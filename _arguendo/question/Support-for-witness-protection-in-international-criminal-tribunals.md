@@ -1,5 +1,5 @@
 ---
-title: "Support for witness protection in international criminal tribunals"
+title: "How can the international community best support the need to protect witnesses in international criminal trials?"
 type: question
 date: 2015-04-17 12:00:00
 layout: arguendo-question

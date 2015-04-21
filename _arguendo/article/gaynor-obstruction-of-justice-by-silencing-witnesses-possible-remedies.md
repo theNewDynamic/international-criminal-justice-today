@@ -1,5 +1,5 @@
 ---
-title: "Obstruction of Justice by Silencing Witnesses; Possible Remedies
+title: "Obstruction of Justice by Silencing Witnesses Possible Remedies
 date: 2014-04-17 12:00:00
 question: "How can the international community best support the need to protect witnesses in international criminal trials?"
 author: "Gaynor"

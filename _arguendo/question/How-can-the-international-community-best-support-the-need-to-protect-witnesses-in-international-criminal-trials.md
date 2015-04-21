@@ -1,5 +1,5 @@
 ---
-title: "How can the international community best support the need to protect witnesses in international atrociy crime trials?"
+title: "How can the international community best support the need to protect witnesses in international atrocity crime trials?"
 type: question
 date: 2015-04-17 12:00:00
 layout: arguendo-question

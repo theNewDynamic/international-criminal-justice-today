@@ -7,6 +7,9 @@
         {{ collection.description }}
       </h2>
     {% endif %}
+    {% if page.url != '/arguendo/' %}
+    {% include arguendo/format-arguendo-main-page-link.html %}
+    {% endif %}
     </header>
   </article>
 

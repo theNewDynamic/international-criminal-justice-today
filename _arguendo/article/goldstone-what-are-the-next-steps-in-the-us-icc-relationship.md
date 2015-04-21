@@ -1,5 +1,5 @@
 ---
-title: "Only Two Decades Ago there was No International Criminal Justice"
+title: "Only Two Decades Ago There Was No International Criminal Justice"
 question: "What are the next steps in the US-ICC relationship?"
 author: Goldstone
 layout: arguendo-article

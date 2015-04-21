@@ -30,18 +30,10 @@ for the Arguendo landing page: displays question with the list of responses. Eac
         {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
         {% if article.question == {{the_question}} %}
           <a class="grid-item {% cycle 'dark' ,'light' %}" href="{{ article.url }}">
-            {% for author in authors %}
-              {% if author.image %}
-                <figure class="figure-display-80px">
-                  <img src="/assets/img/{{author.image}}">
-                </figure>
-              {% endif %}
-            {% endfor %}
+            {% include arguendo/format-authors.html %}
             <div class="copy">
               <h3 class="h5">
-                {% for author in authors %}
-                  {{author.name}}
-                {% endfor %}
+                {% include arguendo/format-authors-names.html %}
               </h3>
               <small>{{article.title}}</small>
             </div>

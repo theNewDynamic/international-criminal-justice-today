@@ -1,0 +1,24 @@
+{% capture  the_author %}{{ article.author }}{% endcapture %}
+{% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
+
+{% if article.author %}
+{% for author in authors %}
+  {% if author.image %}
+    <figure class="figure-display-80px tooltip-item">
+      <img src="{{ site.image_path }}{{author.image}}">
+    </figure>
+  {% endif %}
+{% endfor %}
+{% elsif article.authors %}
+{% for page_author in article.authors %}
+  {% for author in site.data.people  %}
+    {% if author.last_name == page_author %}
+      
+        <figure class="figure-display-80px tooltip-item">
+          <img src="{{ site.image_path }}{{author.image}}">
+        </figure>
+  
+    {% endif %} 
+  {% endfor %}
+{% endfor %} 
+{% endif %}

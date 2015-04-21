@@ -1,27 +1,14 @@
 <section class="responses">
   <h3 class="space-below">Additional Responses</h3>
   {% for article in articles %}
-    {% capture  the_author %}{{ article.author }}{% endcapture %}
-    {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
+    
     {% if article.question == {{the_question}} %}
       {% unless article.url == page.url %}
       <a class="grid-item {% cycle 'dark' ,'light' %}" href="{{ article.url }}">
 
         <div class="copy">
           <h4 class="h5">
-            {% if article.author %}
-              {% for author in authors %}
-                {{author.name}}
-              {% endfor %}
-            {% elsif article.authors %}
-              
-            {% for page_author in article.authors %}
-                {% for author in site.data.people  %}
-                  {% if author.last_name == page_author %}
-              {{author.name}}<br />
-              {% endif %} 
-              {% endfor %}{% endfor %}
-            {% endif %}
+            {% include arguendo/format-authors-names.html %}
           </h4>
           <div class="space-below"><small>{{article.title}}</small></div>
         </div>

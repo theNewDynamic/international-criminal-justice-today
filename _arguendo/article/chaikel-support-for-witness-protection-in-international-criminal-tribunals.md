@@ -1,5 +1,5 @@
 ---
-title: Addressing the Witness Protection Challenge at the ICC
+title: Recent Advancements and Remaining Gaps in Addressing the Witness Protection Challenge at the ICC
 date: 2014-04-17 12:00:00
 question: "How can the international community best support the need to protect witnesses in international atrocity crime trials?"
 author: "Chaikel"

@@ -13,12 +13,12 @@
 {% for page_author in article.authors %}
   {% for author in site.data.people  %}
     {% if author.last_name == page_author %}
-      
+
         <figure class="figure-display-80px tooltip-item">
           <img src="{{ site.image_path }}{{author.image}}">
         </figure>
-  
-    {% endif %} 
+
+    {% endif %}
   {% endfor %}
-{% endfor %} 
+{% endfor %}
 {% endif %}

@@ -4,9 +4,9 @@ date: 2014-04-17 12:00:00
 question: "How can the international community best support the need to protect witnesses in international atrocity crime trials?"
 # author: "Koenig, Stover, Cody"
 authors:
+ - Koenig
  - Cody
  - Stover
- - Koenig
 layout: arguendo-article
 ---
 

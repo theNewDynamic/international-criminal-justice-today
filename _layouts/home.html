@@ -17,7 +17,7 @@ section: page
       <button id="filter-news" class="news">News</button>
       <button id="filter-opinion" class="opinion">Opinion</button>  <!-- <button class="event">Events</button> -->
     </div>
-    {% for news in events limit:5 %}
+    {% for news in events limit:0 %}
       {% assign post_date = news.date | date: "%Y%m%d" %}
       {% if post_date > todays_date %}
         <h6 class="notice">Event: {{ news.date | date: "%A, %b %d %Y" }}</h6>

@@ -32,7 +32,7 @@ The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](htt
 - [Brenda Hollis](http://www.rscsl.org/RSCSL-Officials.html), Prosecutor of the Special Court for Sierra Leone
 - [Colonel William K. Lietzau](http://www.defense.gov/bios/biographydetail.aspx?biographyid=246), PAE
 - [Tod Lindberg](http://www.hoover.org/profiles/tod-lindberg), Hoover Institution
-- [Alberto J. Mora](https://www.law.upenn.edu/live/files/2306-alberto-mora-bio), Wal-Mart International Division
+- [Alberto J. Mora](http://projects.iq.harvard.edu/people/alberto-mora), Harvard Kennedy School - Carr Center for Human Rights Policy
 - [Kele Onyejekwe](https://www.linkedin.com/in/keleconyejekwe), Office of Appellate Public Defenders, U.S. Virgin Islands
 - [Professor Leila Sadat](https://law.wustl.edu/faculty/pages.aspx?id=390), Washington University Law School
 - [Ambassador David J. Scheffer](http://www.law.northwestern.edu/faculty/profiles/DavidScheffer/) (Chair), Northwestern University School of Law 

@@ -40,7 +40,7 @@ The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](htt
 - [Neal R. Sonnet](http://www.sonnettlaw.com/neal-r-sonnett.html), Law Office of Neal R. Sonnet, P.A. 
 - [Professor Juliet Sorensen](http://www.law.northwestern.edu/faculty/profiles/JulietSorensen/), Northwestern University School of Law 
 - [William H. Taft IV](http://www.friedfrank.com/index.cfm?pageID=42&itemID=620&more=1), Fried Frank
-- [Kip Hale](http://www.aba-icc.org/the-aba-icc-project/project-staff/) (staff), ABA Center for Human Rights 
+- [Kip Hale](http://www.aba-icc.org/staff/kip-hale/) (staff), ABA Center for Human Rights 
 
 ---
 

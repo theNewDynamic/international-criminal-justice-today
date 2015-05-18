@@ -24,6 +24,7 @@ Senator Durbin's initiative to reintroduce CAH legislation coincides with the re
 The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after [passage](http://www.international-criminal-justice-today.org/news/2014/09/12/aba-urges-us-government-to-act-on-crimes-against-humanity/) of ABA [policy](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) on CAH. The Working Group had its first meeting on April 15, 2015 in Washington, D.C. The inaugural members of the Working Group are as follows (alphabetical order):
 
 
+- [Representative Howard L. Berman](https://www.cov.com/en/biographies/b/howard-berman) Covington & Burling LLP
 - [Thomas Bishop](http://tannerbishop.com/_images/_documents/Thomas-E-Bishop.pdf), Tanner & Bishop
 - [Ambassador Lee Feinstein](http://info.law.indiana.edu/faculty-research/faculty-staff/profiles/faculty/feinstein-lee-a.shtml), Indiana University School of Global and International Studies
 - [Ambassador Thomas Graham Jr.](http://www.ltbridge.com/leadership/boarddirectors/thomas-graham), Lightbridge 

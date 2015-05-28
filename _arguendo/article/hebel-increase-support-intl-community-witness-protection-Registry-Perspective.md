@@ -35,6 +35,7 @@ This triangular approach would allow for the strengthening of the relevant natio
 
 ---
 #####CONCLUSION
+
 ---
 This contribution is written at a critical [moment](http://www.international-criminal-justice-today.org/event/2014/06/02/practical-challenges-icc/) for the Registry, when its [ReVision](http://www.ijmonitor.org/2014/07/icc-registrar-discusses-restructuring-and-need-for-larger-budget/), a project meant to Review its structure as well as to define a new Vision for the implementation of its mandate, is about to be finalised. The creation within the Registry of a new division that will deal exclusively with external relations, cooperation, and field operations, and to which the Victims and Witnesses Unit is integrated, is an indication of the strong willingness to reinforce the Registry’s capacity to face, among others, this cooperation challenge. Together with the new alternatives currently being developed as described above, this strengthened and broader approach will hopefully provide positive results in the near future. 
 

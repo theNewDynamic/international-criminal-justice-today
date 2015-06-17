@@ -8,8 +8,8 @@ published: true
 ---
 
 Chicago, Illinois, April 10, 2015 - In a [speech](http://www.law.northwestern.edu/about/news/newsdisplay.cfm?ID=712) at Northwestern University School of Law, U.S. Senator Dick Durbin (D-Illinois) announced his intention to reintroduce Crimes Against Humanity (CAH) legislation in Congress, referring to the lack of such legislation as a "legal loophole." Senator Durbin's speech laid out the history of Congressional successes in "building the law" on mass human rights violations. Yet he stressed that more work needs to be done, particularly on CAH. "Despite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II, Pol Pot's Cambodia, Rwanda, the Former Yugoslavia, Sierra Leone, and elsewhere, there is not U.S. law prohibiting crimes against humanity," said Senator Durbin. For this and other reasons, Senator Durbin announced his intention to reintroduce the Crimes Against Humanity Act in Congress. 
----
 
+---
 
 <iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/2rallr36vw?canonicalUrl=https%3A%2F%2Fnorthwesternlaw.wistia.com%2Fmedias%2F2rallr36vw&canonicalTitle=Senator%20Dick%20Durbin%20Announces%20Proposed%20Human%20Rights%20Legislation%20at%20Northwestern%20Law%20-%20northwesternlaw" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="270"></iframe>
 

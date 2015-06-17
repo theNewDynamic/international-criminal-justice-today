@@ -1,5 +1,5 @@
 ---
-title: "Current Accountability Options for Crimes Under International Law Committed in Syria"
+title: "Current Accountability Options for International Crimes Committed in Syria"
 category: News
 excerpt: "The ABA's ICC Project held a discussion with members of the Syria Justice and Accountability Center on their recent study of accountability options in Syria."
 published: true

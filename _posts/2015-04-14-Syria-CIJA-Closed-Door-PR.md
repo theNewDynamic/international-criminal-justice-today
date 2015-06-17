@@ -1,7 +1,7 @@
 ---
 title: "Atrocity Accountability in Syria: What Criminal Investigations Have Uncovered"
 category: News
-excerpt: "ABA holds experts closed-door Meeting on results of international atrocity crimes investigations in Syria and discus how these investigations may affect policy in Syria and the region."
+excerpt: "The ABA held an expert closed-door meeting on the results of international atrocity crimes investigations in Syria and how these investigations may affect policy in Syria and the region."
 published: true
 ---
 

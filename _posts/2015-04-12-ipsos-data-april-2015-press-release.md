@@ -1,6 +1,7 @@
 ---
 title: "Ipsos Poll Finds Positive American Opinions on Palestine and the ICC"
-category: news
+category: News
+excerpt: "The most recent ABA-ICC Project/Ipsos polling found positive American opinions on Palestinian membership at the ICC and an uptick in American support of the ICC."
 pull_quote: "Of those aware of the ICC, 35% thought there was a positive long-term impact on the peace process. Furthermore, more Americans than not believe that Palestine’s membership at the ICC advances international justice."
 ---
 

@@ -6,9 +6,6 @@ pull_quote: "Despite longstanding U.S. support for the prosecution of crimes aga
 pull_quote_attribution: "U.S. Senator Dick Durbin (D-Illinois)"
 published: true
 ---
-###Senator Durbin to Reintroduce Crimes Against Humanity Legislation; Chair of the ABA Working Group on Crimes Against Humanity Commends Durbin's Initiative 
-
----
 
 Chicago, Illinois, April 10, 2015 – In a [speech](http://www.law.northwestern.edu/about/news/newsdisplay.cfm?ID=712) at Northwestern University School of Law, U.S. Senator Dick Durbin (D-Illinois) announced his intention to reintroduce Crimes Against Humanity (CAH) legislation in Congress, referring to the lack of such legislation as a “legal loophole”. Senator Durbin’s speech laid out the history of Congressional successes in “building the law” on mass human rights violations. Yet, he stressed that more work needs to be done, particularly on CAH. “Despite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II, in Pol Pot’s Cambodia, in Rwanda, the former Yugoslavia, Sierra Leone and elsewhere, there is no U.S. law prohibiting crimes against humanity,” said Senator Durbin. For this and other reasons, Senator Durbin announced his intention to reintroduce the Crimes Against Humanity Act in Congress.
 ---

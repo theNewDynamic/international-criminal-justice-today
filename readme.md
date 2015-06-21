@@ -1,33 +1,43 @@
-# The Website for the ABA-ICC Project
+webhook-starter
+===============
+Barebones Webhook starter file to include grunt and bower components for Bourbon, Neat, and Bitters, plus normalize-scss, and a minimal print stylesheet.
 
-Created by Bud Parr at Sonnet Media in conjunction with the American Bar Association Center for Human Rights with the support of the Embassy of the Kingdom of the Netherlands.
-
-
-Types of post pages: video, splash, no image, featured image
-
-### post flags
-
-splash_image: local filename of image for splash area at top of page
-splash_position:
-splash_height: height of splash image area, in pixels: e.g. 425px
-featured: true (shows on main page slideshow)
-featured_image: local filename of image above article
-authors: twitter handle of authors on data page (if they have a bio in data/authors.yaml)
-author: text name of author (will not be listed on contributors page)
-comments: false (to not show comments on the page)
-video: xxxxxxxx (id# of youtube video, shows in hero)
-pull_Quote: puts a quote up top, in the right aside
-pull_quote_attribution: attribution for above pull_quote
-
-
-category: Event, News, Opinion
+Modeled from [webhook/webhook-theme-preprocessor](https://github.com/webhook/webhook-theme-preprocessor)
 
 
 
-
-#### Events
-sponsor:
-venue:
-participants:
+```$ wh -f [firebase_name] -s [server_ip] create [sitename]```
 
 
+```$ cd [sitename]```
+
+
+Update your .firebase.conf file
+
+
+```$ npm install --save-dev grunt-sass html5shiv jquery node-bourbon node-neat node-sass normalize-opentype.css normalize.scss respond.js```
+
+
+```$ wh -f [firebase_name] -s [server_ip] serve```
+
+
+In your browser, load <http://localhost:2002/> and click on "Looking for the CMS?" and Choose "Start from a theme"
+
+
+Find "Load remote theme" and add:  
+<https://github.com/budparr/webhook-starter/archive/master.zip>
+
+Step 7    
+```$ cd sass && gem install bitters```
+
+```$ bitters install```
+
+Optional  
+add static/cms.css to pages/cms.html
+
+
+---
+
+TODO: 
+Refine content sections  
+Refine theme initial layout (fork to a theme)

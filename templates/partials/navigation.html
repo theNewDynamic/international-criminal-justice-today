@@ -1,43 +1,28 @@
-<header class="navigation" role="banner">
+<header class="navigation">
   <div class="navigation-wrapper">
-    <a href="javascript:void(0)" class="logo">
-      <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png" alt="Logo Image">
-    </a>
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
-        <li class="nav-link"><a href="javascript:void(0)">Products</a></li>
-        <li class="nav-link"><a href="javascript:void(0)">About Us</a></li>
-        <li class="nav-link"><a href="javascript:void(0)">Contact</a></li>
-        <li class="nav-link more"><a href="javascript:void(0)">More</a>
-          <ul class="submenu">
-            <li><a href="javascript:void(0)">Submenu Item</a></li>
-            <li><a href="javascript:void(0)">Another Item</a></li>
-            <li class="more"><a href="javascript:void(0)">Item with submenu</a>
-              <ul class="submenu">
-                <li><a href="javascript:void(0)">Sub-submenu Item</a></li>
-                <li><a href="javascript:void(0)">Another Item</a></li>
-              </ul>
-            </li>
-            <li class="more"><a href="javascript:void(0)">Another submenu</a>
-              <ul class="submenu">
-                <li><a href="javascript:void(0)">Sub-submenu</a></li>
-                <li><a href="javascript:void(0)">An Item</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </nav>
-    <div class="navigation-tools">
-      <div class="search-bar">
-        <form role="search">
-          <input type="search" placeholder="Enter Search" />
-          <button type="submit">
-            <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/search-icon.png" alt="Search Icon">
-          </button>
-        </form>
-      </div>
+    <div class="logo">
+    <!--   <img src="{{ site.image_path }}PC_PrgIntComparativeLaw_3C_RGB_Hzt.png"> -->
+      <a href="/">
+      <img src="{{ site.image_path }}logo-aba-icc_144xb.png" alt="">
+      <span class="mobile-heading">International Criminal Justice Today</span>
+      </a>
     </div>
+    <a href="" class="navigation-menu-button js-menu-trigger" id="js-mobile-menu">&#9776; MENU</a>
+
+    <div class="nav">
+      <ul id="navigation-menu">
+        <li class="nav-link">
+          <a href="/" class="site-heading">
+            International Criminal Justice Today
+          </a>
+        </li>
+        <!-- <li class="nav-link"><a href="javascript:void(0)">Arguendo</a></li>
+        <li class="nav-link"><a href="javascript:void(0)">More</a></li> -->
+      </ul>
+    </div>
+
   </div>
+
 </header>
+
+{% include "templates/partials/nav-sliding-menu.html" %}

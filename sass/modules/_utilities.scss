@@ -1,22 +1,64 @@
-img, aside img {
-  max-width: 100%;
+
+body, .content {
+  background-color:$base-background-color;
+  //margin-top: $navigation-height; //use this only if nav-top is position:fixed
 }
 
-hr {
-  margin:1em auto;
-  border: 0;
-  border-top: 1px solid #EEEEEE;
+.content_grid {
+  clear: both;
+  //margin-top: 800px;
 }
 
-sup, sub {
-//@include adjust-font-size-to($kappa);
- vertical-align: baseline;
- position: relative;
- top: -0.4em;
+body.black .main{
+  opacity:0.1;
+  transition: opacity .7s ease-in-out;
+   -moz-transition: opacity .7s ease-in-out;
+   -webkit-transition: opacity .7s ease-in-out;
+  @include media ($large-screen) {
+    //opacity:1;
+  }
+
 }
-sub { top: 0.4em; }
 
+iframe {
+  text-align: center;
+  margin: 3em 10%;
+}
 
-.hidden-js, .hidden {
-  display: none;
+// MAP stuff
+iframe.map {
+  margin: 0;
+  padding: 0;
+  background-color:#73b6e6;
+  z-index: -100;
+}
+
+body.map header.navigation {
+  //margin-bottom: -20px;
+}
+
+.top {
+  margin-top:1em;
+}
+
+// .main {
+//   padding-top:2em;
+//   @include media ($large-screen) {
+//     padding-top:0;
+//   }
+// }
+
+.black-label {
+  background-color:rgba(0,0,0,0.69);padding:.35em .4em;
+  width:auto;
+}
+
+h2 a > i {
+  font-size: $base-font-size * .5; // 16 * 1.5 = 24px
+  visibility: hidden;
+}
+h2 a:hover > i {
+  visibility: visible;
+
+  @include animation(scale 1.0s ease-in, slide 2.0s ease);
 }

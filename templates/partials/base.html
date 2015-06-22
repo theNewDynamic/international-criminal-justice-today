@@ -59,14 +59,17 @@
   {% endif %}
 <body id="container">
 <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    <div class="wrapper">
   {% include "templates/partials/navigation.html" %}
-  
+    
+    {% include "templates/partials/hero.html" %}
     <section class="content">
       <div id="start-of-content" class="accessibility-aid"></div>
         {% block content %}
         {% endblock %}
       </section>
-  
+      <div class="push"></div>
+  </div>
   {% include "templates/partials/footer.html" %}
   {% include "templates/partials/scripts.html" %}
 </body>

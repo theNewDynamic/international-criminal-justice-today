@@ -1,0 +1,16 @@
+{% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block hero %}
+{% endblock %}
+
+{% block content %}
+  <div class="layout has-layout">
+    {% include "templates/partials/format-article.html" %}
+    <section class="side-right">
+      {% block sidebar %}
+        {% include "templates/partials/format-sidebar.html" %}
+      {% endblock %}
+    </section>
+  </div>
+{% endblock %}
+

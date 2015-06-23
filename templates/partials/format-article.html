@@ -1,0 +1,19 @@
+<article class="hentry">  
+  {% if item.name %} {# //TODO: Removing this for now because it's in the hero area #}
+    <header>   
+      {% if item.start_date %}{#  // Event Specific #}
+        <strong>Event Date: {% include "templates/partials/format-event-dates.html" %}</strong>
+      {% endif %}
+      <h1 class="entry-title">{{ item.name }}</h1>
+      {% if item._type == 'news' || item._type == 'opinion' %}
+        <small> {{ item.publish_date|date('F d Y') }}</small>
+      {% endif %}
+    </header>
+  {% endif %}
+  <div class="entry-content prose columns-2">
+    {% if item.image %}
+      <img src="{{ item.image|imageSize(300) }}" style="float:left;margin:10px 18px 4px 0;" />
+    {% endif %}
+    {{ item.copy|safe }}
+  </div>  
+</article>

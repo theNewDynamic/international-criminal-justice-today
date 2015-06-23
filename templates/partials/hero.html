@@ -1,0 +1,48 @@
+
+
+{% if item.featured_image %}
+  {% set featured_image = item.featured_image %}
+
+{% else %}
+
+{% set featured_image = object.featured_image %}
+{% endif %}
+
+
+  <div class="has-layout cycle-slideshow" data-cycle-slides="section" data-cycle-fx="fadeout" data-cyle-timeout="1200" data-cycle-speed="1400" data-cycle-manual-speed="100" data-cycle-pause-on-hover="true">
+
+
+
+  {% set featured_news = cms.events|where('featured_image') %}
+
+
+    {% for news in featured_news|slice(5,10)  %}
+    {% if news.featured_image %}{% set featured_image = news.featured_image|imageCrop(1200, 400) %}{% endif %}
+      {% set title = news.name %}
+      
+  
+
+      <section class="hero" style="background-image:url({{ featured_image }});background-size:1200px;height:395px;{% if loop.index0 > 0 %} display:none;{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}" id="post-{{ forloop.index0 }}">
+        
+
+        <div class="hero-inner">
+          <div class="hero-copy">
+            <a href="{{ url(news) }}">
+              <h1>{{title}}</h1>
+            </a>
+           </div>
+        </div>
+      
+
+      </section>
+    
+
+
+    {% endfor %}
+
+
+
+
+
+  </div>
+

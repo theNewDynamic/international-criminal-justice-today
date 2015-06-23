@@ -1,4 +1,4 @@
-@import '../libs/neat/neat-helpers'; // or '../neat/neat-helpers' when not in Rails
+@import "neat-helpers"; // or "../neat/neat-helpers" when not in Rails
 // Neat Overrides
 ///////////////////////////////////////////////////////////////////////////////
 // $column: 90px;
@@ -14,12 +14,12 @@ $wide-screen: em(1600);
 
 
 //// viewport breakpoints idea from sassparilla, vp= viewport
-$a-vp: em(300);	// first viewport
-$b-vp: em(420);	// up one -
-$c-vp: em(600);	// up two
-$d-vp: em(900);	// up three
-$e-vp: em(1100);	// up four
-$f-vp: em(1300);	// up five
+$a-vp: em(300); // first viewport
+$b-vp: em(420); // up one -
+$c-vp: em(600); // up two
+$d-vp: em(900); // up three
+$e-vp: em(1100);  // up four
+$f-vp: em(1300);  // up five
 $ie-fixed-vp: em(980);    // Viewport for IE fixed width
 
 

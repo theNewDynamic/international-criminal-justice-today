@@ -25,7 +25,13 @@ aside h2, aside .h4 {
   margin-bottom: 1em;
 }
 
+// .wrapper {
+//   @include outer-container;
+// }
 
+.box {
+ @include row(); 
+}
 .row {
   @include row();
    @include padding(1em);
@@ -35,6 +41,14 @@ aside h2, aside .h4 {
 
   margin-top: 5em;
 }
+
+.column-4-wide {
+  @include span-columns(12);
+  @include media($normal-screen-up) {
+    @include span-columns(3 of 12);
+  }
+}
+
 
 .column-3-wide {
   @include span-columns(12);
@@ -47,6 +61,13 @@ aside h2, aside .h4 {
   @include span-columns(12);
   @include media($normal-screen-up) {
     @include span-columns(6 of 12);
+  }
+}
+
+.column-1-wide {
+  @include span-columns(12);
+  @include media($normal-screen-up) {
+    @include span-columns(9 of 12);
   }
 }
 

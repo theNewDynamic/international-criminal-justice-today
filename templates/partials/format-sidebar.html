@@ -1,0 +1,44 @@
+{% include "templates/partials/format-pull-quote.html" %}
+{% if item._type == 'about' %}
+  {% set data = cms.about %}
+  {% set data = data|sort('name', true) %}
+{% elseif item._type == 'pollingdata' %}  
+  {% set data = cms.pollingdata %}
+  {% set data = data|sort('publish_date', true) %}
+{% endif %}
+
+{% if data %}
+  {% for object in data %}
+    {% if getCurrentUrl() != url(object) %}
+      <h5>
+        <a href="{{ url(object) }}">
+          {{ object.name }}
+        </a>
+      </h5>
+      {% if object.excerpt %}
+        {{ object.excerpt }}<hr />
+      {% endif %}
+      <br />
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+
+
+    
+    
+    
+
+    
+      <hr style="width:100%;margin:3em 0;" />
+      <div class="sharing">
+        {% include "templates/partials/format-sharing.html" %}
+      </div>
+    
+    
+    {# {% unless page.comments == false %}
+        <hr style="width:100%;margin:3em 0;" />
+        <!-- <h4>COMMENTS</h4> -->
+      {% include articles/comments.html %}
+    {% endunless %}
+   #}

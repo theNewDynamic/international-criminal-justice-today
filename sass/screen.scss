@@ -1,127 +1,51 @@
 // REQUIRED
-@import "libs/_normalize";
-@import "libs/bourbon/bourbon";
-@import "base/base";
-@import "libs/neat/neat";
+@import 
+"../node_modules/normalize.scss/normalize",
+"../node_modules/normalize-opentype.css/normalize-opentype",
+"bourbon",
+"neat",
+"base/base",
+"modules/utilities-iframes",
+"modules/utilities-accessibility";
 
-//LIBS
+
+// LIBS
 @import "libs/font-icons";
 
-// BASIC MODULES
-@import "modules/accessibility";
-@import "modules/article";
-@import "modules/twitter";
-@import "modules/quotes";
-@import "modules/refills/nav-top";
-@import "modules/refills/hero";
-@import "modules/refills/footer";
-@import "modules/refills/sliding-menu-top";
-
-// OPTIONAL MODULES
-@import "modules/layouts";
-@import "modules/aba";
-@import "modules/list-news";
-@import "modules/footnotes";
-//@import "modules/tooltip";
-@import "modules/iframe-embed";
-
-.notice {
-  color: $red;
-}
-
-.link-utility {
-  font-family: $sans-serif;
-  text-transform: uppercase;
-  font-size:70%;
-}
-
-.caption {
-	font-size: 90%;
-	font-style: italic;
-}
-
-.space-below {
-	margin-bottom:1em;
-}
-
-.hidden {
-  display: none;
-}
-
-.space-below-big {
-	margin-bottom:3em;
-	display:block;
-}
-
-header.navigation ul li.nav-link a.site-heading {
-	letter-spacing: 0.0625em;
-	//color:white;
-
-	font-size:1.5em;
-	text-transform:uppercase;
-
-	font-family: $brand-font;
-	font-weight:300;
-}
-
-.item {
-	float: left;
-	width:225px;
-}
-.section-heading {
-  margin-bottom:.25em;
-}
-.section-heading a {
-  color: $blackish;
-}
-
-
-small, .small {
-  font-size: 80%;
-}
-
-.dark-background {
-	background-color: $blue;
-}
-
-// .section-heading {
-// 	border-bottom: 4px solid $base-accent-color;
-// 	margin-bottom: 1em;
-// }
-
-// h2.section-heading {
-// 	padding-bottom: 0;
-// }
-
-.sharing, #disqus_thread {
-	opacity: 0.3;
-}
-.sharing:hover,
- #disqus_thread:hover {
-	zoom: 1;
-        filter: alpha(opacity=100);
-        opacity: 1;
-        -webkit-transition: opacity .55s ease-in-out;
-        -moz-transition: opacity .55s ease-in-out;
-        -ms-transition: opacity .55s ease-in-out;
-        -o-transition: opacity .55s ease-in-out;
-        transition: opacity .55s ease-in-out;
-}
-
-// h3 a {
-// 	color: $blue;
-// }
-
-//
-.at-share-tbx-element .at-share-btn .at300bs {
-	border-radius: 50%;
-}
+// MODULES
+@import 
+"modules/aba",
+"modules/article",
+"modules/footer",
+"modules/footnotes",
+"modules/hero",
+"modules/layouts",
+"modules/list-news",
+"modules/nav-top",
+"modules/quotes",
+"modules/sharing",
+"modules/sliding-menu-top",
+"modules/twitter";
 
 figure {
   margin: 0; //overrides normalize
 }
 
-
 *[id*='filter-'] {
   margin-right: .5em;
+}
+
+body, .content {
+  background-color:$base-background-color;
+  //margin-top: $navigation-height; //use this only if nav-top is position:fixed
+}
+
+h2 a > i {
+  font-size: $base-font-size * .5; // 16 * 1.5 = 24px
+  visibility: hidden;
+}
+h2 a:hover > i {
+  visibility: visible;
+
+  @include animation(scale 1.0s ease-in, slide 2.0s ease);
 }

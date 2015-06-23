@@ -1,0 +1,19 @@
+
+
+.sharing, #disqus_thread {
+  opacity: 0.3;
+}
+.sharing:hover,
+ #disqus_thread:hover {
+  zoom: 1;
+        filter: alpha(opacity=100);
+        opacity: 1;
+        -webkit-transition: opacity .55s ease-in-out;
+        -moz-transition: opacity .55s ease-in-out;
+        -ms-transition: opacity .55s ease-in-out;
+        -o-transition: opacity .55s ease-in-out;
+        transition: opacity .55s ease-in-out;
+}
+.at-share-tbx-element .at-share-btn .at300bs {
+  border-radius: 50%;
+}

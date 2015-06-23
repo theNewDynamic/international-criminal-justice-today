@@ -1,0 +1,17 @@
+{% if item.venue %}
+  <div style="width:100%;margin-bottom:1em;">
+    <strong>Venue: {{ item.venue }} </strong>
+  </div>
+{% endif %}
+
+{% if item.sponsor %}
+  <div style="width:100%;margin-bottom:1em;">
+    <strong>Sponsor:</strong> {{ item.sponsor|safe }}
+  </div>
+{% endif %}
+{% if item.participants %}
+  <div style="padding:1em;background-color:#fff;clear:both;">
+    <h5>Participants</h5>
+    <small>{{ item.participants|safe }}</small>
+</div>
+{% endif %}

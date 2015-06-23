@@ -1,0 +1,8 @@
+{% if item.pull_quote %}
+  <blockquote class="pull_quote">
+    {{ item.pull_quote }}
+  </blockquote>
+  {% if item.pull_quote_attribution %}
+    <p class="pull_quote_attribution">— {{ item.pull_quote_attribution }}</p>
+  {% endif %}
+{% endif %}

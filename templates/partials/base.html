@@ -24,6 +24,7 @@
   <link href='/static/css/screen.css{% if bust_cache == 'yes' %}?generated={{ current_unix_date }}{% endif %}' rel='stylesheet' type="text/css" />
 
     {% include "templates/partials/meta-data.html" %}
+     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
     <!--[if lt IE 9]>
         <script>
@@ -57,12 +58,17 @@
 
     </script>
   {% endif %}
+  <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7044452/658144/css/fonts.css" />
+
+ </head> 
 <body id="container">
 <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+  
+    {% include "templates/partials/navigation.html" %}    
     <div class="wrapper">
-  {% include "templates/partials/navigation.html" %}
-    
-    {% include "templates/partials/hero.html" %}
+    {% block hero %}
+      {% include "templates/partials/hero.html" %}
+    {% endblock %}
     <section class="content">
       <div id="start-of-content" class="accessibility-aid"></div>
         {% block content %}

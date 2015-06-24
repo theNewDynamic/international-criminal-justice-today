@@ -1,4 +1,7 @@
 <header>   
   <h1 class="entry-title">{{ item.name }}</h1>
 <small> {% include "templates/partials/format-publish-date.html" %}</small>
+{% if item.author %}<br />
+  {% include "templates/partials/authors-byline.html" %}
+{% endif %}
 </header>

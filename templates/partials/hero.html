@@ -16,13 +16,13 @@
   {% set featured_news = cms.events|where('featured_image') %}
 
 
-    {% for news in featured_news|slice(5,10)  %}
-    {% if news.featured_image %}{% set featured_image = news.featured_image|imageCrop(1200, 400) %}{% endif %}
+    {% for news in featured_news|slice(2,4)  %}
+    {% if news.featured_image %}{% set featured_image = news.featured_image|imageSize(1600, 'auto') %}{% endif %}
       {% set title = news.name %}
       
   
 
-      <section class="hero" style="background-image:url({{ featured_image }});background-size:1200px;height:395px;{% if loop.index0 > 0 %} display:none;{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}" id="post-{{ forloop.index0 }}">
+      <section class="hero" style="background-image:url({{ featured_image }});{% if loop.index0 > 0 %} display:none;{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}" id="post-{{ forloop.index0 }}">
         
 
         <div class="hero-inner">

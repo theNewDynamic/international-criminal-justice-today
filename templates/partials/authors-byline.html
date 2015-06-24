@@ -1,0 +1,17 @@
+{% if item.author %}
+  {% set authors = item.author %}
+{% elseif object.author %}
+  {% set authors = object.author %}
+{% endif %}
+
+{% if authors %}
+  by 
+  {% for authors in authors %}
+    {% if no_link == true %}
+    {{ authors.name }}
+    {% else %}
+    <a href="{{ url(authors) }}">{{ authors.name }}</a>
+    {% endif %}
+    {% include "templates/partials/snippet-list-items.html" %}
+  {% endfor %}
+{% endif %}

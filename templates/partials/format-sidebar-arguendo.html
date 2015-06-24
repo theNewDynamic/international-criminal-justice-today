@@ -1,0 +1,31 @@
+{% if item.author %}
+  {% set authors = item.author %}
+    {% include "templates/partials/arguendo-authors.html" %}
+{% endif %}
+
+{% set this_question = item.question %}
+{% set additional_responses = cms.arguendoarticle|where('question', this_question) %}
+{% set additional_responses = additional_responses|sort('publish_date', true) %}
+
+  {% if additional_responses %}
+    <h3 style="margin:1em 0;">Additional Responses</h3>
+    {% for object in additional_responses %}
+      {% if getCurrentUrl() != url(object) %}
+        <div class="box" style="margin-bottom:1em;">
+          {% include "templates/partials/format-arguendo-responses.html" %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+    
+
+      <div class="sharing">
+        {% include "templates/partials/sharing.html" %}
+      </div>
+
+
+      {% include "templates/partials/comments.html" %}
+
+    
+  

@@ -1,0 +1,17 @@
+<header>   
+  <h2><a href="/arguendo/" class="black">Arguendo</a></h2>
+    {% if item.question %}
+      <h4>
+        <a href="{{ url(item.question) }}" style="color:#666;">
+          {{ item.question.name }}
+        </a>
+      </h4>
+      <hr />
+    {% endif %}  
+    <h1 class="entry-title">
+      {{ item.name }}
+    </h1>
+    <small> 
+      {% include "templates/partials/format-publish-date.html" %}
+    </small>
+</header>

@@ -1,0 +1,42 @@
+<div class="layout-arguendo-landing">
+      <article class="hentry" style="min-height:600px;" id="{{ url(object) }}">
+        <header>
+          <h2 class="entry-title">
+            <a href="{{ url(object) }}">
+              {{ name }}
+            </a>
+          </h2>
+          <small>
+            {% include "templates/partials/format-publish-date.html" %}
+          </small>
+        </header>
+        <div class="entry-content prose columns-2">
+          {{ copy|safe }}<!--  question summary -->
+        </div>
+      </article>
+      <section class="side-right">
+        {% if arguendoarticle_question %}
+          {% set articles = arguendoarticle_question %}
+          {% for object in articles %}
+            <a href="{{ url(object) }} " class="grid-item dark box">
+              {% for author in object.author %}
+                {% set names = author.name %}              
+                <h4 class="h5" style="display:inline;">
+                  {{ author.name}}{% include "templates/partials/snippet-list-items.html" %}
+                </h4>
+                <div class="column-4-wide">
+                  {% if author.image %}
+                    {% if loop.index0 == '0' %}
+                      <img src="{{ author.image|imageCrop(80,80) }}">
+                    {% endif %}
+                  {% endif %}
+                </div>  
+              {% endfor %}
+              <div class="column-1-wide">
+                {{ object.name }}
+              </div>
+            </a>
+          {% endfor %} 
+        {% endif %}
+      </section>
+    </div>

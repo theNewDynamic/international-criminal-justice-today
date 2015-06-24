@@ -1,5 +1,5 @@
 {% include "templates/partials/format-pull-quote.html" %}
-{% if item._type == 'about' %}
+{% if item._type == 'about' || item._type == 'contributors' || getCurrentUrl() == '/contributors/' %}
   {% set data = cms.about %}
   {% set data = data|sort('name', true) %}
 {% elseif item._type == 'pollingdata' %}  
@@ -32,10 +32,15 @@
     
       <hr style="width:100%;margin:3em 0;" />
       <div class="sharing">
-        {% include "templates/partials/format-sharing.html" %}
+        {% include "templates/partials/sharing.html" %}
       </div>
     
     
+
+      {% include "templates/partials/comments.html" %}
+
+    
+  
     {# {% unless page.comments == false %}
         <hr style="width:100%;margin:3em 0;" />
         <!-- <h4>COMMENTS</h4> -->

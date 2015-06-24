@@ -1,0 +1,15 @@
+{% for object in authors %}
+  <div class="box">
+    <h2 class="h4">
+      <a href="{{ url(object) }}">{{ object.name }}</a>
+    </h2>
+    {% if object.image %}
+      <figure class="wy-figure-left">
+        <img src="{{ object.image|imageCrop(120,120) }}">
+      </figure>
+    {% endif %}
+    {% if object.copy %}
+      {{ object.copy|safe }}
+    {% endif %}
+  </div>
+{% endfor %}

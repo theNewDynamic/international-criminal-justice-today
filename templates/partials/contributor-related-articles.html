@@ -1,0 +1,16 @@
+{% if object.arguendoarticle_author || object.opinion_author %}
+  {% set related_articles = merge(object.arguendoarticle_author, object.opinion_author) %}
+ {% elseif item.arguendoarticle_author || item.opinion_author %}
+  {% set related_articles = merge(item.arguendoarticle_author, item.opinion_author) %}
+{% endif %}
+{% if related_articles %}
+  <ul>
+    {% for article in related_articles %}
+      <li>
+        <a href="{{ url(article) }}">
+          {{ article.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

@@ -1,78 +1,50 @@
 {% extends "templates/partials/base.html" %}
 {% block title %}{% parent %} - contributors{% endblock %}
-
+{% block hero %}{% endblock %}
 {% block content %}
   {% set contributors = cms.contributors %}
   {% set contributors = contributors|sort('last_name') %}
   {% set contributors = paginate(contributors, 50) %}
-    
-  <div class="layout has-layout">
-    <article class="hentry">  
-
-
-
+  {% spaceless %}
+    <div class="layout has-layout">
+      <article class="hentry">  
         <header>             
-          <h1 class="entry-title">Contributors</h1>          
+          <h1 class="entry-title">Contributors</h1>       
         </header>
-
-
-
-      <div class="entry-content prose">
-        {% for object in contributors %}
-        <div class="box" style="margin-bottom:4em;">
-         {% if object.name %}         
-          <h2 style="margin-bottom:.5em;">{{ object.name }}</h2>
-        {% endif %}
-
-          
-          <div class="column-4-wide">
-          {% if object.image %}  <img src="{{ object.image|imageCrop(150, 150) }}" style="margin-top:8px;" />{% endif %}
-          
-          </div>
-          
-        
-        <div class="column-1-wide justified">
-          {% if object.copy %}
-            
-              <small>{{ object.copy|safe }}</small>
-            
-          {% endif %}
-
-
-            {% if object.arguendoarticle_author || object.opinion_author %}
-
-            {% set articles = merge(object.arguendoarticle_author, object.opinion_author) %}
-
-
-        
-
-              <ul>
-            {% for article in articles %}
-
-              <li><a href="{{ url(article) }}">{{ article.name }}</a></li>
-            {% endfor %}
-              </ul>
-            {% endif %}
-        </div>
-          
-          </div>
-          <hr />
-        {% endfor %}
-      </div>  
-
-  </article>
-
-
-  
-
-    <section class="side-right">
-      {% block sidebar %}
-        {% include "templates/partials/format-sidebar.html" %}
-      {% endblock %}
-    </section>
-  </div>
+        <div class="entry-content prose">
+          {% for object in contributors %}
+            <div class="box" style="margin-bottom:4em;">
+              {% if object.name %}         
+                <h2 class="h4" style="margin-bottom:.5em;">
+                  <a href="{{ url(object) }}" class="black">
+                    {{ object.name }}
+                  </a>
+                </h2>
+              {% endif %}
+              <div class="column-4-wide">
+                {% if object.image %}
+                  <img src="{{ object.image|imageCrop(150, 150) }}" style="margin-top:11px;" />
+                {% endif %}
+              </div>
+              <div class="column-1-wide">
+                {% if object.copy %}
+                  <small>{{ object.copy|safe }}</small>
+                {% endif %}
+                <small>{% include "templates/partials/contributor-related-articles.html" %}</small>
+              </div>
+            </div>{# //END box #}
+            <hr />
+          {% endfor %}
+        </div>  
+      </article>
+      <section class="side-right">
+        {% block sidebar %}
+          {% include "templates/partials/format-sidebar.html" %}
+        {% endblock %}
+      </section>
+    </div>
+  {% endspaceless %}
 {% endblock %}
 
 
 
-  

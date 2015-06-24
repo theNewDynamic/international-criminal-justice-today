@@ -24,3 +24,9 @@
 .is-stats .accessibility-aid:focus {
     top: 34px
 }
+
+.screen-reader-text { /* Reusable, toolbox kind of class */
+position: absolute;
+top: -9999px;
+left: -9999px;
+}

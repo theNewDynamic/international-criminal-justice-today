@@ -6,15 +6,12 @@
 {% block content %}
   <div class="layout has-layout">
     <article class="hentry">  
-      {% include "templates/partials/format-article-header.html" %}
+      {% include "templates/partials/format-article-header-arguendo.html" %}
       {% include "templates/partials/format-article.html" %}
-      <div class="entry-content">
-        {% include "templates/partials/contributor-related-articles.html" %}
-      </div>
     </article>
     <section class="side-right">
       {% block sidebar %}
-        {% include "templates/partials/format-sidebar.html" %}
+        {% include "templates/partials/format-sidebar-arguendo.html" %}
       {% endblock %}
     </section>
   </div>

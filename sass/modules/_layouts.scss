@@ -31,6 +31,9 @@ aside h2, aside .h4 {
 
 .box {
  @include row(); 
+ img {
+  margin:10px 0 0 0;
+ }
 }
 .row {
   @include row();
@@ -165,47 +168,30 @@ aside h2, aside .h4 {
 }
 
 .layout-arguendo-landing {
-@include outer-container;
+  @include outer-container;
   //margin-top:$navigation-height;
   background-color: darken($content-color-background, 3%);
   margin-bottom: 4em;
-
-    article {
-      @include span-columns(12); //padding, etc in modules/_article
+  article {
+    @include span-columns(12); //padding, etc in modules/_article
   }
   section.side-right {
     @include span-columns(12);
-    padding: 0;
+    //padding: 0;
   }
   .grid-item {
-    //padding: 1em;
+    padding: 1em;
     width:100%;
     clear:both;
     display:block;
-    min-height: 150px;
+    //min-height: 150px;
     position: relative;
   }
-  figure {
-    //min-height: 90px;
-    width:80px;
-    position: absolute;
-    top: 1em;
-    left: 1em;
-
-  }
-  .copy {
-    position: absolute;
-    left: 110px;
-    top: 1em;
-    padding-right:.5em;
-  }
+  
   a.grid-item:hover {
     background-color:#ccc;
   }
   @include media($large-screen) {
-    .grid-item {
-      min-height: 120px;
-    }
     article {
       @include span-columns(8 of 12);
       @include omega;
@@ -215,7 +201,7 @@ aside h2, aside .h4 {
       @include omega;
       padding: 3em 0;
       font-family: $sans-serif;
-      font-size: 90%;
+      font-size: .875em;
     }
   }
 }
@@ -232,23 +218,23 @@ figure.bio {
 }
 
 
-figure.figure-display-80px{
-  display:inline-block;
-  height:80px;
-  width:80px;
-  overflow:hidden;
-  background-color: #000;
-  border-radius:3px;
-  img {
-    width:100%;
-    border-radius:3px;
-    min-height:80px;
-  }
-  img:hover {
-    @include transition (all 0.2s ease-in-out);
-    opacity: .7;
-  }
-}
+// figure.figure-display-80px {
+//   display:inline-block;
+//   height:80px;
+//   width:80px;
+//   overflow:hidden;
+//   background-color: #000;
+//   border-radius:3px;
+//   img {
+//     width:100%;
+//     border-radius:3px;
+//     min-height:80px;
+//   }
+//   img:hover {
+//     @include transition (all 0.2s ease-in-out);
+//     opacity: .7;
+//   }
+// }
 
 body.home figure.figure-display-80px{
   margin-right:18px;

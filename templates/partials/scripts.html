@@ -1,11 +1,11 @@
 <script type="text/javascript">
 function downloadJSAtOnload() {
-  // var element = document.createElement("script");
-  // element.src = "/assets/js/concatenate-scripts.js";
-  // document.body.appendChild(element);
+  var element = document.createElement("script");
+  element.src = "/static/javascript/dist/scripts-concatenated.min.js";
+  document.body.appendChild(element);
 
   var element_addthis = document.createElement("script");
-  element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
+  element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{ cms.global.add_this_id}}{% endif %}";
   document.body.appendChild(element_addthis);
 }
 if (window.addEventListener)
@@ -13,5 +13,29 @@ window.addEventListener("load", downloadJSAtOnload, false);
 else if (window.attachEvent)
 window.attachEvent("onload", downloadJSAtOnload);
 else window.onload = downloadJSAtOnload;
+
+ var disqus_shortname = '{{ cms.global.disqus_short_name}}'; // required: replace example with your forum shortname
+    var disqus_identifier = '{{ getSetting('site_url') }}{{ url(item) }}';
+    var disqus_title = '{{ item.name }}';
+
+
+// DISQUS DATA - PAGE DATA LOADED ABOVE
+
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+
+/* * * COUNT DON'T EDIT BELOW THIS LINE * * */
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+
+
+
 </script>
 

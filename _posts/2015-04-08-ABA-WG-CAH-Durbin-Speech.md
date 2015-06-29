@@ -21,6 +21,7 @@ Senator Durbin’s initiative to reintroduce CAH legislation coincides with the 
 The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after [passage](http://www.international-criminal-justice-today.org/news/2014/09/12/aba-urges-us-government-to-act-on-crimes-against-humanity/) of ABA [policy](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) on CAH. The Working Group had its first meeting on April 15, 2015 in Washington, D.C. The inaugural members of the Working Group are as follows (alphabetical order):
 
 
+- [Kelly Askin](http://www.ushmm.org/confront-genocide/speakers-and-events/biography/kelly-dawn-askin), International Criminal Justice Expert
 - [Representative Howard L. Berman](https://www.cov.com/en/biographies/b/howard-berman), Covington & Burling LLP
 - [Thomas Bishop](http://tannerbishop.com/_images/_documents/Thomas-E-Bishop.pdf), Tanner & Bishop
 - [Ambassador Lee Feinstein](http://info.law.indiana.edu/faculty-research/faculty-staff/profiles/faculty/feinstein-lee-a.shtml), Indiana University School of Global and International Studies
@@ -38,6 +39,7 @@ The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](htt
 - [Neal R. Sonnet](http://www.sonnettlaw.com/neal-r-sonnett.html), Law Office of Neal R. Sonnet, P.A. 
 - [Professor Juliet Sorensen](http://www.law.northwestern.edu/faculty/profiles/JulietSorensen/), Northwestern University School of Law 
 - [William H. Taft IV](http://www.friedfrank.com/index.cfm?pageID=42&itemID=620&more=1), Fried Frank
+- [Judge Patricia Whalen](http://iawj-womenjudges.org/hon-patricia-whalen/), Special Advisor to the Court of Bosnia and Herzegovina
 - [Kip Hale](http://www.aba-icc.org/staff/kip-hale/) (staff), ABA Center for Human Rights 
 
 ---

@@ -1,9 +1,0 @@
-img.logo-aba {
-  display: none;
-  @include media($medium-screen-up) {
-    display: inline-block;
-    position:fixed !important;
-    bottom:46px  !important;
-    left:20px  !important;
-  }
-}

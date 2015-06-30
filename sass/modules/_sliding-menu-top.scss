@@ -24,8 +24,8 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
   font-family: $sans-serif;
 font-family:$heading-font-family;
   @include position(fixed, 0px auto 0px 0px);
-  @include size(100% 480px);
-  @include transform(translateY(-480px));
+  @include size(100% 500px);
+  @include transform(translateY(-500px));
   @include transition(all .25s linear);
   background: $sliding-menu-background;
   padding: 0 2em;
@@ -35,8 +35,8 @@ font-family:$heading-font-family;
   color: $sliding-menu-color;
 
     @include media ($horizontal-bar-mode) {
-      @include size(100% 250px);
-      @include transform(translateY(-250px));
+      @include size(100% 280px);
+      @include transform(translateY(-280px));
     }
 
   .sliding-menu-content-inner {
@@ -60,6 +60,9 @@ font-family:$heading-font-family;
       @include span-columns(12);
       @include media ($medium-screen-up) {
         @include span-columns(5 of 12);
+        p {
+          margin-top:0;
+        }
       }
     }
     .column-right {

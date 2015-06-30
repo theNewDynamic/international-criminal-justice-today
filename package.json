@@ -40,6 +40,7 @@
     "grunt-sass": "^1.0.0",
     "html5shiv": "^3.7.2",
     "jquery": "^2.1.4",
+    "list.js": "^1.1.1",
     "node-bourbon": "^4.2.3",
     "node-neat": "^1.7.2",
     "node-sass": "^3.2.0",

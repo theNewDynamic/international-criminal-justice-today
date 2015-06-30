@@ -16,7 +16,7 @@
   background-position: center center;
   background-size: cover;
   //padding-bottom: 4em;
-  background-color:white;// lighten($blue, 2%);//#484644;
+  background-color:$blue;//lighten($navigation-background, 5%);//#484644;
   //background-attachment: fixed;
   //margin-top: 40px * -1;
   //padding-top:$navigation-height;
@@ -24,36 +24,36 @@
   position: relative;
   //margin-top: $navigation-height;
   height: auto;
-  min-height: 540px;
+    min-height: 500px;
 
 z-index: 100;
-  // .hero-logo img {
-  //   height: 3em;
-  //   margin-bottom: 2.5em;
-  // }
+  .hero-logo img {
+    height: 3em;
+    margin-bottom: 2.5em;
+  }
 
   .hero-inner {
-    //height:525px;
+    height:525px;
     height: auto;
-    min-height: 540px;
+    min-height: 500px;
     @include outer-container;
     @include clearfix;
     //padding: 3em;
-    margin: 2em auto auto auto;
+    margin: auto;
     text-align: center;
     color: $hero-color;
     position: relative;
 
     background-repeat: no-repeat;
     background-position: center center;
-    //background-size: 100%;
+    background-size: cover;
 
 
-    // button {
-    //   @include button(simple, $base-background-color);
-    //   font-size: $base-font-size;
-    //   outline: none;
-    // }
+    button {
+      @include button(simple, $base-background-color);
+      font-size: $base-font-size;
+      outline: none;
+    }
 
 
 

@@ -1,7 +1,14 @@
-<header>   
-  <h1 class="entry-title">{{ item.name }}</h1>
-<small> {% include "templates/partials/format-publish-date.html" %}</small>
-{% if item.author %}<br />
-  {% include "templates/partials/authors-byline.html" %}
+{% if item.featured_image %}
+  <img src="{{ item.featured_image|imageSize(820, 'auto') }}" style="width:100%;" class="featured_image">
 {% endif %}
+<header>   
+  <h1 class="entry-title">
+    {{ item.name }}
+  </h1>
+  <small>
+    {% include "templates/partials/format-publish-date.html" %}
+  </small>
+  {% if item.author %}<br />
+    {% include "templates/partials/authors-byline.html" %}
+  {% endif %}
 </header>

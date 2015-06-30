@@ -1,4 +1,4 @@
-{% for object in articles|slice(0,7) %}        
+
     <a href="{{ url(object) }}" class="article">
       <span class="category hidden">{{ object._type|capitalize }}</span>
       <div class="heading{% if object.featured_image %} article-background{% endif %}" {% if object.featured_image %}style="background-position:center center;background-image:url({{ object.featured_image|imageCrop(292, 292) }});background-size:cover;"{% endif %}>
@@ -11,5 +11,4 @@
         {{ object.excerpt|striptags|truncate(255) }}
       </div>
     </a>    
-  {% endfor %}
-  <h6><a href="/news/">All News</a>&nbsp;|&nbsp;<a href="/opinion/">All Opinion</a></h6>
+  

@@ -4,7 +4,7 @@
 {% set pollingdata = pollingdata|sort('publish_date', true) %}
   {% for article in pollingdata|slice(0,3) %}
     <h6 class="inline">
-      <a href="{{ article.url }}">
+      <a href="{{ url(article) }}">
         {{ article.name }}: </a></h6>
       <p class="small inline">{{ article.excerpt|safe }}</p>
     <hr />

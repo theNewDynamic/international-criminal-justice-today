@@ -1,41 +1,53 @@
-{# ------------------------------------------------------- #}
-
-{# YOUR HOMEPAGE #}
-
-{# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
-{# http://paularmstrong.github.io/swig/docs/tags/ #}
-
-{# Learn about calling data into Webhook pages here: #}
-{# http://www.webhook.com/docs/template-rules-and-filters/ #}
-
-{# ------------------------------------------------------- #}
-
-{# Confused what extends and blocks do? Watch a primer: #}
-{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
 {% extends "templates/partials/base.html" %}
-
-{# This sets our page <title>. It will append "- Homepage" to the site title defined in base. #}
-{% block title %}{% parent %} - Homepage{% endblock %}
+{% block title %}{% parent %} - Home{% endblock %}
 
 {% block content %}
+  {% set articles = merge(cms.opinion, cms.news) %}
+  {% set articles = articles|sort('publish_date', true) %}
+  {% set events   = cms.events %}
+  {% set events   = events|sort('publish_date', true) %}
+  
+{# {% set todays_date = site.time | date: "%Y%m%d" %} #}
 
-  <h1>Hello world!</h1>
 
-  <p>This is your homepage, located at /pages/index.html.</p>
+<div class="layout-home has-layout">
 
-  <p><a href="/cms/">Looking for the CMS?</a></p>
+  <section id="container-filter" class="featured-box">
+    {% include "templates/partials/filter-buttons.html" %}
+    <div class="list-filter">
+      {% for object in articles|slice(0,7) %}        
+        {% include "templates/partials/format-list-articles.html" %}
+      {% endfor %}
+        <h6><a href="/news/">All News</a>&nbsp;|&nbsp;<a href="/opinion/">All Opinion</a></h6>
+    </div>
+  </section>
+  
+  <aside>    
+    <div class="content-top">
+      {% include "templates/partials/arguendo-summary.html" %}
+    </div>
 
-  {# If you have at least content page type, we show a list. #}
-  {% if cms_types|size !== 0 %}
+    <div class="content-middle script-only hidden">
+      {% include "templates/partials/tumblr-headlines.html" %}
+    </div>
 
-    <h3>Content types you've created in the CMS so far.</h3>
+    <div class="content-bottom">      
+      {% include "templates/partials/ipsos-summary.html" %}
+    </div>
+  </aside>
+</div><!--  //layout-news -->
 
-    <ul>
-    {% for type in cms_types %}
-      <li><a href="{{ url(type) }}">{{ type.name }}</a></li>
-    {% endfor %}
-    </ul>
 
-  {% endif %}
+<div class="row">
+  <h2 style="margin-bottom:2em;">Event Recaps</h2>
+  {% for object in events|slice(0,6) %}
+    {% include "templates/partials/format-boxes-events.html" %}
+  {% endfor %}
+  <h5><a href="/events/">See All Past Events</a></h5>
+</div>
+
+<div class="row dark-background script-only">
+  {% include "templates/partials/row-social.html" %}
+</div>
 
 {% endblock %}

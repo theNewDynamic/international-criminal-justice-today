@@ -10,7 +10,9 @@
 <div class="row">
   <h2>{% block page_title %}News Pieces published on International Criminal Justice Today{% endblock %}</h2>
   <hr />
+  {% for object in content_type %}
   {% include "templates/partials/format-list-articles.html" %}
+  {% endfor %}
 </div>
 
 

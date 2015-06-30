@@ -1,15 +1,12 @@
-{% for object in content_type %}
-    {% if object.category != 'event' and object.category != 'Polling-data'  %}
-      <a href="{{ url(object) }}" class="article boxed">
-        <span class="category hidden">{{ object._type }}</span>
-          <div class="heading{% if object.featured_image %} article-background{% endif %}" {% if object.featured_image %}style="background-position:center center;background-image:url(/assets/img/{{ object.featured_image|imageSize(400, 'auto') }});background-size:cover;"{% endif %}>
-          <h6 class="heading-small {{ object._type }}">{{ object._type|capitalize }}</h6>
-          <h3 style="margin:auto;">{{ object.name }}</h3>
-          {# {% include authors.html %} #}
-        </div>
-        <div class="lede">
-          {{ object.excerpt|safe}}
-        </div>
-      </a>
-    {% endif %}
-  {% endfor %}
+<a href="{{ url(object) }}" class="article">
+  <span class="category hidden">{{ object._type }}</span>
+  <div class="heading{% if object.featured_image %} article-background{% endif %}" {% if object.featured_image %}style="background-position:center center;background-image:url({{ object.featured_image|imageCrop(292, 292) }});background-size:cover;"{% endif %}>
+    <h6 class="heading-small {{ object._type }}">{{ object._type|capitalize }}</h6>
+    <h3 class="h4" style="margin:auto;">{{ object.name }}</h3>
+    {% set no_link = true %}
+     <small> {% include "templates/partials/authors-byline.html" with no_link %}</small>
+  </div>
+  <div class="lede">
+    {{ object.excerpt|striptags|truncate(255) }}
+  </div>
+</a> 

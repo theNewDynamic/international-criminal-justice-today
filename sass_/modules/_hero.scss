@@ -1,0 +1,115 @@
+.hero {
+  $hero-background-top: darken($blue, 10);
+  $hero-background-bottom: adjust-hue($hero-background-top, -30);
+  $hero-color: white;
+  $gradient-angle: 10deg;
+  //$hero-image: '/assets/img/globe-desaturated-opacity44.png';
+  //$hero-image: '/assets/img/globe.jpg';
+  //$hero-image: 'https://scontent-a-lga.xx.fbcdn.net/hphotos-xaf1/t31.0-8/10404058_280789842116943_6606161463078225670_o.jpg';
+  //$hero-image: 'https://cloud.githubusercontent.com/assets/8195536/4017107/74e408ca-2a3c-11e4-9085-8e46b81daea6.png';
+  //$hero-image: 'https://cloud.githubusercontent.com/assets/8195536/4017730/2c7e6d26-2a43-11e4-9f7c-f7672f0e23b1.jpg';
+  //$hero-image: '/assets/img/9646322891_a33ba29d0b_o.jpg';
+  //$hero-image: '/assets/img/judge-hans-peter-kaul.jpg';
+   //@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  //padding-bottom: 4em;
+  background-color:white;// lighten($blue, 2%);//#484644;
+  //background-attachment: fixed;
+  //margin-top: 40px * -1;
+  //padding-top:$navigation-height;
+  height:525px;
+  position: relative;
+  //margin-top: $navigation-height;
+  height: auto;
+  min-height: 540px;
+
+z-index: 100;
+  // .hero-logo img {
+  //   height: 3em;
+  //   margin-bottom: 2.5em;
+  // }
+
+  .hero-inner {
+    //height:525px;
+    height: auto;
+    min-height: 540px;
+    @include outer-container;
+    @include clearfix;
+    //padding: 3em;
+    margin: 2em auto auto auto;
+    text-align: center;
+    color: $hero-color;
+    position: relative;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    //background-size: 100%;
+
+
+    // button {
+    //   @include button(simple, $base-background-color);
+    //   font-size: $base-font-size;
+    //   outline: none;
+    // }
+
+
+
+
+
+  .hero-copy {
+   
+
+    text-align: left;
+    //background-color: rgba(2,21,31,0.7);
+    padding:1.2em;
+    border-radius: 4px;
+    width:36%;
+    //float:left;
+    //margin-top:22%;
+    position: absolute;
+
+    top: 150px;
+    left: 0;
+    @include media($large-screen) {
+      top: 220px;
+    }
+      h1 {
+        font-size: 1.5em;
+        margin-bottom: 0;
+        color:$light-gray;
+          text-shadow: 1px 1px 0 #000;
+
+        @include media($large-screen) {
+          font-size: 1.8em;
+
+          //padding: 1em;
+
+
+        }
+      }
+      p {
+        font-family: $serif;
+        margin: auto;
+        margin-bottom: 3em;
+        font-weight: 200;
+        line-height: 1.4em;
+
+        @include media($large-screen) {
+          font-size: 1.1em;
+          max-width: 40%;
+
+        }
+      }
+    }
+
+
+
+
+
+
+
+  }
+}

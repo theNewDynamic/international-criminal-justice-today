@@ -23,27 +23,21 @@
   {% endfor %}
 {% endif %}
 
+{% if item.venue %}
+  {% set copy = 'Venue' %}
+ <h5>Venue</h5> {{ item.venue|markdown }}
+{% endif %}
+{% if item.sponsor %}
+  <h5>Sponsor</h5>{{ item.sponsor|markdown }}
+{% endif %}
 
+{% if item.participants %}
+  <h5>Participants</h5>{{ item.participants|markdown }}
+{% endif %}
 
-    
-    
-    
+<hr style="width:100%;margin:3em 0;" />
+<div class="sharing">
+  {% include "templates/partials/sharing.html" %}
+</div>
 
-    
-      <hr style="width:100%;margin:3em 0;" />
-      <div class="sharing">
-        {% include "templates/partials/sharing.html" %}
-      </div>
-    
-    
-
-      {% include "templates/partials/comments.html" %}
-
-    
-  
-    {# {% unless page.comments == false %}
-        <hr style="width:100%;margin:3em 0;" />
-        <!-- <h4>COMMENTS</h4> -->
-      {% include articles/comments.html %}
-    {% endunless %}
-   #}
+{% include "templates/partials/comments.html" %}

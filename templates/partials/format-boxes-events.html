@@ -1,6 +1,6 @@
 <a class="article-background" href="{{ url(object) }}" style="margin-bottom:4em;">
   <h6 style="margin-top:-25px;">
-    {% include "templates/partials/format-event-dates.html" %}
+    {% include "templates/partials/format-publish-date.html" %}
   </h6>
   {% if object.featured_image %}
     <div class="background" style="background-image:url({{ object.featured_image|imageSize(400, 'auto') }});">

@@ -6,9 +6,13 @@ http://flickity.metafizzy.co
 
 /* big buttons, no circle */
 .flickity-prev-next-button {
-  width: 100px;
-  height: 100px;
-  background: transparent;
+  display: none;
+  @include media($normal-screen-up) {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background: transparent;
+  }
 }
 .flickity-prev-next-button:hover {
   background: transparent;

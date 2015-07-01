@@ -33,7 +33,7 @@ module.exports = function(grunt) {
     },
  concat: {
     dist: {
-      src: ['node_modules/flickity/dist/flickity.pkgd.min.js' ,'static/javascript/*.js'],
+      src: ['node_modules/jquery/dist/jquery.min.js','node_modules/list.js/dist/list.min.js','node_modules/flickity/dist/flickity.pkgd.min.js' ,'static/javascript/*.js'],
       dest: 'static/javascript/dist/scripts-concatenated.js',
     },
     modernize: {

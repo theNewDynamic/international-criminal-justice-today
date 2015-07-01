@@ -1296,8 +1296,7 @@ html, body {
   position: relative;
   margin-top: 70px;
   z-index: 100;
-  overflow-x: scroll;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 .hero h1, .hero .caption {

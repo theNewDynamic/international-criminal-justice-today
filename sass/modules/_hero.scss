@@ -28,9 +28,9 @@
     //min-height: 650px;
     
     z-index: 100;
-
-    overflow-x: scroll;   
-    overflow-y: hidden;   
+    overflow: hidden;
+    // overflow-x: scroll;   
+    // overflow-y: hidden;   
   //white-space: nowrap;
 
   h1, .caption {

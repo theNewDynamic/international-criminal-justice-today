@@ -13,20 +13,18 @@
 <div class="layout-home has-layout">
 
   <section id="container-filter" class="featured-box">
-    
-    {% include "templates/partials/arguendo-summary-full.html" %}
+    {% include "templates/partials/filter-buttons.html" %}
+    <div class="list-filter">
+      {% for object in articles|slice(0,7) %}        
+        {% include "templates/partials/format-list-articles.html" %}
+      {% endfor %}
+        <h6><a href="/news/">All News</a>&nbsp;|&nbsp;<a href="/opinion/">All Opinion</a></h6>
+    </div>
   </section>
   
   <aside>    
     <div class="content-top">
-      
-
-      <div class="list-filter">
-      {% for object in articles|slice(0,7) %}        
-      {#   {% include "templates/partials/format-list-articles.html" %} #}
-      {% endfor %}
-        <h6><a href="/news/">All News</a>&nbsp;|&nbsp;<a href="/opinion/">All Opinion</a></h6>
-    </div>
+      {% include "templates/partials/arguendo-summary.html" %}
     </div>
 
     <div class="content-middle">

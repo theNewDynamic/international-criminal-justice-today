@@ -54,6 +54,7 @@
     }
   }
   .static-banner {
+    background-color: lighten($blue, 3%);
     text-align:center;
     img {
       width:300px;

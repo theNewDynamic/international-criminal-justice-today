@@ -37,6 +37,7 @@
     "grunt-simple-watch": "~0.1.2"
   },
   "devDependencies": {
+    "flickity": "^1.1.0",
     "grunt-sass": "^1.0.0",
     "html5shiv": "^3.7.2",
     "jquery": "^2.1.4",

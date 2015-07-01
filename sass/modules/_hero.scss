@@ -20,22 +20,57 @@
   //background-attachment: fixed;
   //margin-top: 40px * -1;
   //padding-top:$navigation-height;
-  height:525px;
+  margin-top:1.75em;
+  height:565px;
   position: relative;
-  //margin-top: $navigation-height;
-  height: auto;
-    min-height: 500px;
+  margin-top: $navigation-height;
+    //height: auto;
+    //min-height: 650px;
+    
+    z-index: 100;
 
-z-index: 100;
+    overflow-x: scroll;   
+    overflow-y: hidden;   
+  //white-space: nowrap;
+
+  h1, .caption {
+    font-size: 1.1em;
+    margin-bottom: 0;
+    color:$light-gray;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.8);
+    position: absolute;
+    bottom:2%;
+    left:2%;
+    padding:.375em;
+    background-color:rgba(0,0,0,0.7);
+    font-family: $heading-font-family;
+  }
+
+
+  .gallery-cell, .static-banner {
+    //background-color:red;
+    //width: 25%;
+    width: 425px;
+    margin-right:.75em;
+    //margin-bottom: .5em;
+    margin-top:10px;
+    height: 545px;
+    .is-selected {
+    background: #ED2;
+}
+  h1 {
+
+  }
+  }
   .hero-logo img {
     height: 3em;
     margin-bottom: 2.5em;
   }
 
   .hero-inner {
-    height:525px;
-    height: auto;
-    min-height: 500px;
+    //height:525px;
+    
+    height: 565px;
     @include outer-container;
     @include clearfix;
     //padding: 3em;
@@ -61,12 +96,12 @@ z-index: 100;
 
   .hero-copy {
    
-
+z-index: 1000000;
     text-align: left;
     //background-color: rgba(2,21,31,0.7);
     padding:1.2em;
     border-radius: 4px;
-    width:36%;
+    //width:36%;
     //float:left;
     //margin-top:22%;
     position: absolute;
@@ -83,7 +118,7 @@ z-index: 100;
           text-shadow: 1px 1px 0 #000;
 
         @include media($large-screen) {
-          font-size: 1.8em;
+          //font-size: 1.8em;
 
           //padding: 1em;
 

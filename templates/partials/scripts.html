@@ -1,8 +1,9 @@
+<script src="/static/javascript/dist/scripts-concatenated.min.js" async></script>
 <script type="text/javascript">
 function downloadJSAtOnload() {
-  var element = document.createElement("script");
-  element.src = "/static/javascript/dist/scripts-concatenated.min.js";
-  document.body.appendChild(element);
+  // var element = document.createElement("script");
+  // element.src = "/static/javascript/dist/scripts-concatenated.min.js";
+  // document.body.appendChild(element);
 
   var element_addthis = document.createElement("script");
   element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{ cms.global.add_this_id}}{% endif %}";

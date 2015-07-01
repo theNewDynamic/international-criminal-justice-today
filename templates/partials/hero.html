@@ -7,22 +7,45 @@
   {% set featured_news = featured_news|sort('publish_date', true) %}
 
 <div class="hero">
-  {% for news in featured_news|slice(0,1)  %}
+<div class="gallery js-flickity" data-flickity-options='{ 
+  "cellAlign": "left",
+  "imagesLoaded": true, 
+  "wrapAround": true,
+  "percentPosition": false,
+  "autoPlay": true
+
+  }'>
+  {% for news in featured_news|slice(0,7)  %}
     {% if news.featured_image %}
-      {% set featured_image = news.featured_image.url %}
+      {% set featured_image = news.featured_image|imageCrop(425,545) %}
     {% endif %}
     {% set title = news.name %}    
-    <div class="hero-inner" style="background-image:url({{ featured_image }});{% if loop.index0 > 0 %} display:none;{% endif %}{% if page.splash_position %}background-position: center {{ page.splash_position }};{% endif %}" id="post-{{ forloop.index0 }}">
-      <div class="hero-copy">
-        <a href="{{ url(news) }}">
-          <h1>{{title}}</h1>
-        </a>
-      </div>
-    </div>
+    
+
+{# <div class="static-banner"><img src="/static/images/PC_PrgIntComparativeLaw_3C_RGB_Hzt.png" style="width:320px;margin-top:.75em;">        </div> #}
+
+<a href="{{ url(news) }}" class="gallery-cell">
+
+  <img src="{{ featured_image }}" class="gallery-cell-image" alt="{{title}}">
+
+  <span class="caption">{{ title }}</span>
+</a>
+
+
+
   {% endfor %}
+
+
+
+</div>
+{# <h1 class="caption">&nbsp;</h1> #}
 </div>
 
+{# 
 
-
-
-
+"contain": true , 
+   "freeScroll": true,
+  
+  
+  "percentPosition": false
+ #}

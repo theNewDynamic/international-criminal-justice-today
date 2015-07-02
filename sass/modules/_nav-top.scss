@@ -39,13 +39,14 @@ header.navigation {
 .mobile-heading {
   display: inline-block;
   top: 26px;
-  left: 5px;
+  left: 20px;
   line-height:1.2;
   position: absolute;
   width: 60%;
   color: #f7f7f7;
   @include media($horizontal-bar-mode) {
     display: none;
+    left: 5px;
   }
 }
 
@@ -87,12 +88,13 @@ header.navigation {
     font-weight: 700;
     line-height: $navigation-height;
     margin: 0;
-    margin-right: 50px;
+    margin-right: 25px;
     padding-right: 1em;
     text-transform: uppercase;
 
     @include media ($horizontal-bar-mode) {
       //display: none;
+      margin-right: 50px;
     }
 
     &:hover {

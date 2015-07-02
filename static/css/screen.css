@@ -744,7 +744,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-  font-size: 2.5em;
+  font-size: 2em;
+}
+
+@media screen and (min-width: 56.25em) {
+  h1, .h1 {
+    font-size: 2.375em;
+  }
 }
 
 h2 {
@@ -761,7 +767,7 @@ h3 {
 }
 
 article h3 {
-  font-size: 2.1875em;
+  font-size: 2.078125em;
   margin-top: 1.25em;
   margin-bottom: 0.625em;
 }
@@ -2151,7 +2157,7 @@ header.navigation .logo-alt img {
 header.navigation .mobile-heading {
   display: inline-block;
   top: 26px;
-  left: 5px;
+  left: 20px;
   line-height: 1.2;
   position: absolute;
   width: 60%;
@@ -2161,6 +2167,7 @@ header.navigation .mobile-heading {
 @media screen and (min-width: 53.75em) {
   header.navigation .mobile-heading {
     display: none;
+    left: 5px;
   }
 }
 
@@ -2202,9 +2209,15 @@ header.navigation .navigation-menu-button {
   font-weight: 700;
   line-height: 70px;
   margin: 0;
-  margin-right: 50px;
+  margin-right: 25px;
   padding-right: 1em;
   text-transform: uppercase;
+}
+
+@media screen and (min-width: 53.75em) {
+  header.navigation .navigation-menu-button {
+    margin-right: 50px;
+  }
 }
 
 header.navigation .navigation-menu-button:hover {
@@ -2619,7 +2632,7 @@ body.splash #container-review-single {
 /* Blockquote styles */
 #container-review-single p, blockquote.pull_quote, blockquote.pull_quote p, .aside_quote {
   margin: 0 auto 1em auto;
-  font-size: 1.5rem;
+  font-size: 1.375rem;
   line-height: 1.4em;
   font-family: "Mercury SSm A", "Mercury SSm B", "Georgia", "Cambria", "Times New Roman", "Times", serif;
   font-style: normal;

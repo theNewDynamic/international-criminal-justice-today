@@ -1785,6 +1785,8 @@ article ol li {
 
 .formatted-box.hover, .formatted-box.focus {
   border-top: 4px solid #1b82c7;
+  -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.15);
 }
 
 .layout {

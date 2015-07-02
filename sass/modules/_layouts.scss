@@ -79,15 +79,15 @@ $aside-background-color: #fff;//$base-background-color
 
 
 .formatted-box {
-  border-top: 4px solid darken($light-gray, 3%);
-  //-webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
-  //box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+  border-top: 4px solid darken($light-gray, 3%);  
   background-color:darken($aside-background-color, 1%);
   border-radius:4px;
   padding:1.5em 2em 2em 2em;
   margin-bottom: 3em;
   &.hover, &.focus {
     border-top: 4px solid $base-link-color;
+    -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+  box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
   }
 }
 

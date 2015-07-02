@@ -1079,7 +1079,6 @@ img.logo-aba {
 }
 
 article {
-  background-color: #f2f2f2;
   margin: auto;
   max-width: 100%;
 }
@@ -1119,6 +1118,10 @@ article.hentry .entry-content {
 
 article header {
   margin-bottom: .5em;
+}
+
+article.darken {
+  background-color: #f2f2f2;
 }
 
 aside.sidebar-right {
@@ -1761,34 +1764,6 @@ article ol li {
   }
 }
 
-.box {
-  display: block;
-}
-
-.box::after {
-  clear: both;
-  content: "";
-  display: table;
-}
-
-.box img {
-  margin: 10px 0 0 0;
-}
-
-.formatted-box {
-  border-top: 4px solid #eaeaea;
-  background-color: #fcfcfc;
-  border-radius: 4px;
-  padding: 1.5em 2em 2em 2em;
-  margin-bottom: 3em;
-}
-
-.formatted-box.hover, .formatted-box.focus {
-  border-top: 4px solid #1b82c7;
-  -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.15);
-  box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.15);
-}
-
 .layout {
   max-width: 76.25em;
   margin-left: auto;
@@ -1936,7 +1911,30 @@ a.boxed, .boxed {
   }
 }
 
-.article-box {
+.box {
+  display: block;
+}
+
+.box::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.box img {
+  margin: 10px 0 0 0;
+}
+
+.formatted-box {
+  border-top: 4px solid #eaeaea;
+  background-color: #fcfcfc;
+  border-radius: 4px;
+  padding: 1.5em 2em 2em 2em;
+  margin-bottom: 3em;
+}
+
+.formatted-box.hover, .formatted-box.focus {
+  border-top: 4px solid #1b82c7;
   -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.15);
   box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.15);
 }
@@ -1948,8 +1946,6 @@ a.article-box {
   height: auto;
   background-color: white;
   border-radius: 2px;
-  position: relative;
-  border-bottom: 1px solid #e5e5e5;
   position: relative;
 }
 
@@ -2546,11 +2542,11 @@ header.navigation .search-bar .search-and-submit button[type=submit] img {
 }
 
 .site-heading {
-  padding-left: 2.125em;
+  padding-left: 0;
 }
 
-body.home .site-heading {
-  padding-left: 0;
+body.article .site-heading {
+  padding-left: 2.125em;
 }
 
 header.navigation ul li.nav-link a.site-heading {

@@ -386,11 +386,12 @@ header.navigation {
 
 .site-heading {
   // Aligns the site h1 heading with articles on interior pages.
-  padding-left: 2.125em;
+padding-left: 0;
 }
 
-body.home .site-heading {
-  padding-left: 0;
+body.article .site-heading {
+  
+    padding-left: 2.125em;
 }
 
 

@@ -1,0 +1,42 @@
+{% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block hero %}
+{% endblock %}
+
+{# {% set secondary_content = cms.opinion %}
+{% set secondary_content = secondary_content|sort('name', true) %}
+{% set primary_content = cms.news|sort('publish_date', true) %}
+{% set data = secondary_content %}
+ #}    
+
+
+{% block content %}
+
+{% set secondary_content = secondary_content|sort('publish_date', true) %}
+{% set primary_content = primary_content|sort('publish_date', true) %}
+{% set data = secondary_content %}
+{% set limit = '10' %}
+
+  <div class="layout has-layout row-top">
+    <article class="hentry article">    
+
+      <h2>
+      
+{{ page_title }}
+
+
+        
+      </h2>
+      <hr />
+      {% for object in primary_content %}
+        {% include "templates/partials/format-article-list.html" %}
+      {% endfor %}    
+    </article>
+    <section class="side-right">
+      {% block sidebar %}
+        <h3 class="section-heading">Latest {{ secondary_title }} Pieces</h3>
+        {% include "templates/partials/nav-sidebar.html" %}
+      {% endblock %}
+    </section>
+  </div>
+{% endblock %}

@@ -3,10 +3,12 @@
 {% block hero %}
   {% include "templates/partials/hero-internal.html" %}
 {% endblock %}
+{% set page_class = 'article' %}
+
 
 {% block content %}
   <div class="layout has-layout">
-    <article class="hentry article">  
+    <article class="hentry article darken">  
       {% include "templates/partials/format-article-header.html" %}
       {% include "templates/partials/format-article.html" %}
       <div class="entry-content">

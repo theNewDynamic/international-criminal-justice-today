@@ -1,8 +1,34 @@
-.article-box {
-  //border-top: 4px solid desaturate(darken($base-accent-color, 10), 20);
-  -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
-  box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+//SPECIAL FORMATTING FOR ARTICLE BOXES AND EVENT LISTINGS
+
+
+.box {
+ @include row(); 
+ img {
+  margin:10px 0 0 0;
+ }
 }
+
+
+.formatted-box {
+  border-top: 4px solid darken($light-gray, 3%);  
+  background-color:darken($aside-background-color, 1%);
+  border-radius:4px;
+  padding:1.5em 2em 2em 2em;
+  margin-bottom: 3em;
+  &.hover, &.focus {
+    border-top: 4px solid $base-link-color;
+    -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+  box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+  }
+}
+
+
+
+// .article-box {
+//   //border-top: 4px solid desaturate(darken($base-accent-color, 10), 20);
+//   -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+//   box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+// }
 
 
 // .article and .article-background work together to create a background image overlay
@@ -14,8 +40,7 @@ a.article-box {
   height: auto;
   background-color: white;
   border-radius: 2px;
-  position: relative;
-  border-bottom: 1px solid darken($light-gray, 5%);
+  //////border-bottom: 1px solid darken($light-gray, 5%);
   position: relative;
   h3 {
     clear: both;

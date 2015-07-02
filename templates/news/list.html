@@ -1,35 +1,9 @@
-{% extends "templates/partials/base.html" %}
-{% block title %}{% parent %} - {{ item.name }}{% endblock %}
-{% block hero %}
-{% endblock %}
+{% extends "templates/partials/base-news-listing.html" %}
+{% block title %}{% parent %} - News{% endblock %}
 
-{% block content %}
-  <div class="has-layout row-top">
-    {% set content_type = cms.news %}
-    {% set content_type = content_type|sort('publish_date', true) %}
-    <div class="row">
-      <h2>
-        {% block page_title %}News published on International Criminal Justice Today{% endblock %}
-      </h2>
-      <hr />
-      {% for object in content_type %}
-        {% include "templates/partials/format-article-list.html" %}
-      {% endfor %}
-    </div>
-  </div>
-{% endblock %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+{% set secondary_content = cms.opinion %}
+{% set primary_content = cms.news %}
+{% set data = secondary_content %}
+{% set limit = '10' %}
+{% set page_title = 'News' %}
+{% set secondary_title = 'Opinion' %}

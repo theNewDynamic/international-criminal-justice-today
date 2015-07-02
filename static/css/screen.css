@@ -1776,12 +1776,15 @@ article ol li {
 }
 
 .formatted-box {
-  -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.15);
-  box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.15);
+  border-top: 4px solid #eaeaea;
   background-color: #fcfcfc;
   border-radius: 4px;
   padding: 1.5em 2em 2em 2em;
   margin-bottom: 3em;
+}
+
+.formatted-box.hover, .formatted-box.focus {
+  border-top: 4px solid #1b82c7;
 }
 
 .layout {

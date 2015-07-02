@@ -21,12 +21,12 @@
                   </a>
                 </h2>
               {% endif %}
-              <div class="column-4-wide">
+              <div class="columns-3">
                 {% if object.image %}
                   <img src="{{ object.image|imageCrop(150, 150) }}" style="margin-top:11px;" />
                 {% endif %}
               </div>
-              <div class="column-1-wide">
+              <div class="columns-9">
                 {% if object.copy %}
                   <small>{{ object.copy|safe }}</small>
                 {% endif %}

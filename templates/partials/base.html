@@ -61,20 +61,18 @@
   <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7044452/658144/css/fonts.css" />
 
  </head> 
-<body id="container">
+<body id="container" {% if page_class %}class="{{ page_class }}"{% endif %}>
 <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
-  
+ 
     {% include "templates/partials/navigation.html" %}    
     <div class="wrapper">
-    {% block hero %}
-      {% include "templates/partials/hero.html" %}
-    {% endblock %}
+    {% block hero %}{% include "templates/partials/hero.html" %}{% endblock %}
     <section class="content">
       <div id="start-of-content" class="accessibility-aid"></div>
         {% block content %}
         {% endblock %}
       </section>
-      <div class="push"></div>
+      {# <div class="push"></div> #}
   </div>
   {% include "templates/partials/footer.html" %}
   {% include "templates/partials/scripts.html" %}

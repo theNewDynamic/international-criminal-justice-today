@@ -1,8 +1,14 @@
 {% extends "templates/partials/base.html" %}
+{% set page_class = 'home' %}
 {% block title %}{% parent %} - Home{% endblock %}
 
 {% block content %}
+  {% spaceless %} 
   {% set articles = merge(cms.opinion, cms.news) %}
+  {% set opinion = cms.opinion|sort('publish_date', true) %}
+  {% set opinon_count = '2' %}
+  {% set news = cms.news|sort('publish_date', true) %}
+  {% set news_count = '2' %}
   {% set articles = articles|sort('publish_date', true) %}
   {% set events   = cms.events %}
   {% set events   = events|sort('publish_date', true) %}
@@ -10,46 +16,69 @@
 {# {% set todays_date = site.time | date: "%Y%m%d" %} #}
 
 
-<div class="layout-home has-layout">
-
-  <section id="container-filter" class="featured-box">
-    
-    {% include "templates/partials/arguendo-summary-full.html" %}
+<div class="has-layout">
+  <section class="formatted-box">       
+    {% for object in articles|slice(5,1) %}        
+      <h2 class="section-heading">{{ object._type|capitalize }}</h2> 
+      {% include "templates/partials/format-article-list-excerpt-authorphoto.html" %}        
+    {% endfor %}
   </section>
-  
-  <aside>    
-    <div class="content-top">
-      
-
-      <div class="list-filter">
-      {% for object in articles|slice(0,7) %}        
-      {#   {% include "templates/partials/format-list-articles.html" %} #}
-      {% endfor %}
-        <h6><a href="/news/">All News</a>&nbsp;|&nbsp;<a href="/opinion/">All Opinion</a></h6>
-    </div>
-    </div>
-
-    <div class="content-middle">
-      {% include "templates/partials/tumblr-headlines.html" %}
-    </div>
-
-    <div class="content-bottom">      
+  <div class="columns-7">
+    <section id="container-filter" class="formatted-box">
+      {% include "templates/partials/arguendo-summary-full.html" %}
+    </section>
+    <section class="formatted-box">
       {% include "templates/partials/ipsos-summary.html" %}
-    </div>
-  </aside>
-</div><!--  //layout-news -->
+    </section>        
+  </div>  
 
+  <div class="columns-5">
+    <section class="formatted-box">    
+      {% include "templates/partials/tumblr-headlines.html" %}      
+    </section>
+    <section class="formatted-box"> 
+      <h2 class="section-heading">Opinion</h2> 
+      {% for object in opinion|slice(0,opinon_count) %}        
+        {% include "templates/partials/format-article-list-excerpt.html" %}        
+      {% endfor %}
+      {% if opinion.length > opinon_count %}
+        <h6 class="text-right">
+          <a href="/opinion/">
+            all opinion
+          </a>
+        </h6>
+      {% endif %}
+    </section>
+    <section class="formatted-box"> 
+      <h2 class="section-heading">News</h2> 
+      {% for object in news|slice(0,news_count) %}        
+        {% include "templates/partials/format-article-list-excerpt.html" %}        
+      {% endfor %}
+      {% if news.length > news_count %}
+        <h6 class="text-right">
+          <a href="/news/">
+            all news
+          </a>
+        </h6>
+      {% endif %}
+    </section>
+  </div>
+</div>
 
-<div class="row">
+{# 
+
+<div class="row-padded push-down">
   <h2 style="margin-bottom:2em;">Event Recaps</h2>
   {% for object in events|slice(0,6) %}
     {% include "templates/partials/format-boxes-events.html" %}
   {% endfor %}
   <h5><a href="/events/">See All Past Events</a></h5>
 </div>
+ #}
 
-<div class="row dark-background script-only">
+
+<div class="row-padded background-dark script-only">
   {% include "templates/partials/row-social.html" %}
 </div>
-
+  {% endspaceless %} 
 {% endblock %}

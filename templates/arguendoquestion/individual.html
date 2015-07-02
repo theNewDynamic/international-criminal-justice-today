@@ -4,12 +4,11 @@
 {% endblock %}
 
 {% block content %}
-  {% include "templates/partials/format-header-arguendo.html" %}
-  
-  
+  <div class="has-layout">
+    {% include "templates/partials/format-header-arguendo.html" %}
     {% set name = item.name %}
     {% set copy = item.copy %}
     {% set arguendoarticle_question = item.arguendoarticle_question %}
-    {% include "templates/partials/format-list-arguendo.html" %}
-  
+    {% include "templates/partials/format-arguendo-list.html" %}
+  </div>
 {% endblock %}

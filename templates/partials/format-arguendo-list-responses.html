@@ -1,0 +1,18 @@
+<a href="{{ url(object) }} " class="grid-item dark box">
+  {% for author in object.author %}
+    {% set names = author.name %}              
+    <h4 class="h5" style="display:inline;">
+      {{ author.name}}{% include "templates/partials/snippet-list-items.html" %}
+    </h4>
+    <div class="columns-3">
+      {% if author.image %}
+        {% if loop.index0 == '0' %}
+          <img src="{{ author.image|imageCrop(110,110) }}">
+        {% endif %}
+      {% endif %}
+    </div>  
+  {% endfor %}
+  <div class="columns-9">
+    {{ object.name }}
+  </div>
+</a>

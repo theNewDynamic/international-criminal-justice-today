@@ -1,12 +1,8 @@
-<h2 class="section-heading"><a href="/ipsos-polling-data/">Ipsos Polling Data <span style="font-size:.625em;">(overview)</span></a></h2>
+<h2 class="section-heading">Ipsos Polling Data <a href="/ipsos-polling-data/" style="font-size:.625em;">(overview)</a></h2>
 {# <h3 class="h5" style="margin-bottom:.75em;"><a href="/ipsos-polling-data/">Overview</a></h3> #}
 {% set pollingdata = cms.pollingdata %}
 {% set pollingdata = pollingdata|sort('publish_date', true) %}
-  {% for article in pollingdata|slice(0,3) %}
-    <h6 class="inline">
-      <a href="{{ url(article) }}">
-        {{ article.name }}: </a></h6>
-      <p class="small inline">{{ article.excerpt|safe }}</p>
-    <hr />
+  {% for object in pollingdata|slice(0,3) %}
+    {% include "templates/partials/format-article-list-excerpt-inline.html" %}
   {% endfor %}
 

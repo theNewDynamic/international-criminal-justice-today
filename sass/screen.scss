@@ -20,6 +20,7 @@
 "modules/article",
 "modules/footer",
 "modules/footnotes",
+"modules/formatting",
 "modules/hero",
 "modules/layouts",
 "modules/list-news",
@@ -30,10 +31,6 @@
 "modules/slideshow",
 "modules/sliding-menu-top",
 "modules/twitter";
-
-.dark-background { //for home page row
-  background-color: $blue;
-}
 
 
 figure {

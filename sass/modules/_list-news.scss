@@ -1,4 +1,4 @@
-.article {
+.article-box {
   //border-top: 4px solid desaturate(darken($base-accent-color, 10), 20);
   -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
   box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
@@ -7,7 +7,7 @@
 
 // .article and .article-background work together to create a background image overlay
 
-a.article {
+a.article-box {
   padding: 0 1.5em 2em 1em;
   display: inline-block;
   width: 100%;
@@ -59,7 +59,7 @@ a.article {
   }
 }
 
-.article:hover {
+.article-box:hover {
   background-color: darken(white, 3%);
   //box-shadow: none;
 }
@@ -97,7 +97,7 @@ a.article {
   }
 }
 
-.article .article-background h3 {
+.article-box .article-background h3 {
   color: white;
 }
 

@@ -1,4 +1,4 @@
-<a href="{{ url(object) }}" class="article">
+<a href="{{ url(object) }}" class="article-box">
   <span class="category hidden">{{ object._type }}</span>
   <div class="heading{% if object.featured_image %} article-background{% endif %}" {% if object.featured_image %}style="background-position:center center;background-image:url({{ object.featured_image|imageCrop(292, 292) }});background-size:cover;"{% endif %}>
     <h6 class="heading-small {{ object._type }}">{{ object._type|capitalize }}</h6>

@@ -4,13 +4,17 @@
 {% endblock %}
 
 {% block content %}
-  {% include "templates/partials/format-header-arguendo.html" %}
+
+<div class="has-layout">
+    {% include "templates/partials/format-header-arguendo.html" %}
   {% set questions = cms.arguendoquestion %}
   {% set questions = questions|sort('publish_date', true) %}
   {% for object in questions %}
     {% set name = object.name %}
     {% set copy = object.copy %}
     {% set arguendoarticle_question = object.arguendoarticle_question %}
-    {% include "templates/partials/format-list-arguendo.html" %}
+    {% include "templates/partials/format-arguendo-list.html" %}
   {% endfor %}
+
+</div>
 {% endblock %}

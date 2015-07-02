@@ -1,0 +1,26 @@
+<div class="layout-arguendo-landing">
+  <article class="hentry" id="{{ url(object) }}">
+    <header>
+      <h2 class="entry-title">
+        <a href="{{ url(object) }}">
+          {{ name }}
+        </a>
+      </h2>
+      <small>
+        {% include "templates/partials/format-publish-date.html" %}
+      </small>
+    </header>
+    <div class="entry-content prose">
+      {{ copy|safe }}<!--  question summary -->
+    </div>
+  </article>
+  <section class="side-right background-light">
+    {% if arguendoarticle_question %}
+      {% set articles = arguendoarticle_question %}
+      {% for object in articles %}
+        {% include "templates/partials/format-arguendo-list-responses.html" %}
+      {% endfor %} 
+    {% endif %}
+  </section>
+<hr style="width:100%;margin:4em auto;" />
+</div>

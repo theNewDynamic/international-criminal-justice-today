@@ -2,14 +2,16 @@
 {% block title %}{% parent %} - events{% endblock %}
 {% block hero %}{% endblock %}
 {% block content %}
+  <div class="has-layout">
   {% set data = cms.events %}
   {% set data = data|sort('start_date', true) %}
   {% set data = paginate(data, 30) %}
-  <div class="row">
+  <div class="row push-down">
     <h2 style="margin-bottom:2em;">Event Recaps</h2>
     {% for object in data  %}
       {% include "templates/partials/format-boxes-events.html" %}
     {% endfor %}
   </div>
   {% include "templates/partials/paginator.html" %}
+  </div>
 {% endblock %}

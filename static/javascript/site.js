@@ -12,3 +12,13 @@
     $('.js-menu-screen').toggleClass('is-visible');
     e.preventDefault();
   });
+
+  $("#show-arguendo-extended").click(function(){
+  $("#content_arguendo").slideToggle('slow');
+
+});
+
+$("a#show-tumblr-extended").click(function(){
+  $("#content_tumblr-long").slideToggle('slow');
+  $("a#show-tumblr-extended").addClass('space-below-big');
+});

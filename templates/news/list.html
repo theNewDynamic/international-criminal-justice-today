@@ -4,18 +4,19 @@
 {% endblock %}
 
 {% block content %}
-  {% set content_type = cms.news %}
-  {% set content_type = content_type|sort('publish_date', true) %}
-
-<div class="row">
-  <h2>{% block page_title %}News published on International Criminal Justice Today{% endblock %}</h2>
-  <hr />
-  {% for object in content_type %}
-    {% include "templates/partials/format-list-articles.html" %}
-  {% endfor %}
-</div>
-
-
+  <div class="has-layout row-top">
+    {% set content_type = cms.news %}
+    {% set content_type = content_type|sort('publish_date', true) %}
+    <div class="row">
+      <h2>
+        {% block page_title %}News published on International Criminal Justice Today{% endblock %}
+      </h2>
+      <hr />
+      {% for object in content_type %}
+        {% include "templates/partials/format-article-list.html" %}
+      {% endfor %}
+    </div>
+  </div>
 {% endblock %}
 
 

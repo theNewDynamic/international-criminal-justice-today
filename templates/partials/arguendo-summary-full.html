@@ -1,32 +1,34 @@
 {% set questions = cms.arguendoquestion %}
 {% set questions = questions|sort('publish_date', true) %}
-
-<h2 class="section-heading"><a href="/arguendo/" class="black"><em>Arguendo</em> Roundtable</a></h2>        
-{% for object in questions|slice(0,1) %}
-  {% set name = object.name %}
-  {% set copy = object.copy %}
-  {% set arguendoarticle_question = object.arguendoarticle_question %}
-  <h3 class="h5" style="margin-bottom:.75em;">
-    <a href="/arguendo/">
-      {{ name }}
-    </a>
-  </h3>
-  <div id="content_arguendo">
-    <small>
-      {{ copy|safe }}
-    </small>
-    <br />
-  </div>
-  {% for article in arguendoarticle_question %}
-    {% for author in article.author %}
-      <a class="grid-item grid-item-big grid-item-list dark" href="{{ url(article) }}">
-        {% if author.image %}
-          <img src="{{ author.image|imageCrop(80,80) }}">                    
-        {% endif %}
+<div class="row">
+  <h2 class="section-heading"><a href="/arguendo/" class="black"><em>Arguendo</em> Roundtable</a></h2>        
+  {% for object in questions|slice(0,1) %}
+   {% set name = object.name %}
+   {% set copy = object.copy %}
+   {% set arguendoarticle_question = object.arguendoarticle_question %}    
+    <h3 class="h4">
+      <a href="/arguendo/">
+        {{ name }}
+      </a>           
+    </h3>
+    <p class="text-right">
+      <a href="javascript:void(0)" id="show-arguendo-extended" style="color:black;font-size:.75em;">
+        <i class="icon-down-open">
+          summary
+        </i>
       </a>
-    {% endfor %}
+    </p>
+    <div id="content_arguendo" style="display:none;">
+      <small>
+        {{ copy|safe }}
+      </small>
+      <br />
+    </div>
+    {% if arguendoarticle_question %}
+      {% set articles = arguendoarticle_question %}
+      {% for object in articles %}
+        {% include "templates/partials/format-arguendo-list-responses.html" %}
+      {% endfor %} 
+    {% endif %}
   {% endfor %}
-  {#  <div style="width:80px;margin:auto;padding: 2em 0" >
-    <a href="javascript:void(0)" id="show-arguendo-extended"><i class="icon-down-open">expand</i></a>
-  </div> #}
-{% endfor %}
+</div>

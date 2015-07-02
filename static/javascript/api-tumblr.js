@@ -2,7 +2,7 @@
 
 
     $.ajax({
-        url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=3",
+        url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=1",
         dataType: 'jsonp',
         success: function(results){
           //console.log(results);
@@ -46,17 +46,6 @@
               });
             }
           });
-
-
-$("a#show-tumblr-extended").click(function(){
-  $("#content_tumblr-long").slideToggle('slow');
-  $("a#show-tumblr-extended").addClass('space-below-big');
-});
-
-$("a#show-arguendo-extended").click(function(){
-  $("#content_arguendo").slideToggle('slow');
-
-});
 
 
 //// SECOND, HIDDEN SET

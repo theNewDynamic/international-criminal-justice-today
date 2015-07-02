@@ -18,7 +18,7 @@
 
 <div class="has-layout">
   <section class="formatted-box">       
-    {% for object in articles|slice(5,1) %}        
+    {% for object in opinion|slice(0,1) %}        
       <h2 class="section-heading">{{ object._type|capitalize }}</h2> 
       {% include "templates/partials/format-article-list-excerpt-authorphoto.html" %}        
     {% endfor %}
@@ -38,7 +38,7 @@
     </section>
     <section class="formatted-box"> 
       <h2 class="section-heading">Opinion</h2> 
-      {% for object in opinion|slice(0,opinon_count) %}        
+      {% for object in opinion|slice(1,opinon_count) %}        
         {% include "templates/partials/format-article-list-excerpt.html" %}        
       {% endfor %}
       {% if opinion.length > opinon_count %}

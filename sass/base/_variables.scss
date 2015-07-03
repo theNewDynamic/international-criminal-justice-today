@@ -1,9 +1,10 @@
 // Typography
-$sans-serif: $helvetica;
-//$serif: 'Mercury SSm A', 'Mercury SSm B', $georgia;
+
+$helvetica: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
 $palatino:  Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+$sans-serif: $helvetica;
 $serif: $palatino;
-$base-font-family: $helvetica, 'Avenir 45 Book', sans-serif;
+$base-font-family: $helvetica;
 $brand-font: 'Verlag A', 'Verlag B','Roboto',ff-tisa-web-pro, $sans-serif;
 $heading-font-family: $brand-font;
 // font-family: 'Avenir 35 Light'

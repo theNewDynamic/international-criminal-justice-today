@@ -1,11 +1,15 @@
 // Typography
 $sans-serif: $helvetica;
-$serif: 'Mercury SSm A', 'Mercury SSm B', $georgia;
-//$serif: $georgia;
-$base-font-family: $serif;
+//$serif: 'Mercury SSm A', 'Mercury SSm B', $georgia;
+$palatino:  Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+$serif: $palatino;
+$base-font-family: $helvetica, 'Avenir 45 Book', sans-serif;
 $brand-font: 'Verlag A', 'Verlag B','Roboto',ff-tisa-web-pro, $sans-serif;
 $heading-font-family: $brand-font;
-
+// font-family: 'Avenir 35 Light'
+// font-family: 'Avenir 85 Heavy'
+// font-family: 'Avenir 45 Book'
+// font-family: 'Avenir 65 Medium'
 
 
 // Sizes

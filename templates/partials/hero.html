@@ -8,6 +8,7 @@
   {% set featured_news = featured_news|sort('publish_date', true) %}
   <div class="hero">
     <div class="gallery js-flickity" data-flickity-options='{ "cellAlign": "left","imagesLoaded": true, "wrapAround": true, "percentPosition": false, "autoPlay": 7200 }'>
+    {% if featured_news %}
       {% for news in featured_news|slice(0,7)  %}
         {% if news.featured_image %}
           {% set featured_image = news.featured_image|imageCrop(425,545) %}
@@ -21,9 +22,10 @@
         {% endif %}
         <a href="{{ url(news) }}" class="gallery-cell">
           <img src="{{ featured_image }}" class="gallery-cell-image" alt="{{title}}">
-          <span class="caption">{{ title }}</span>
+          {% if title %}<span class="caption">{{ title }}</span>{% endif %}
         </a>
       {% endfor %}
+      {% endif %}
     </div>
   </div>
 {% endspaceless %} 

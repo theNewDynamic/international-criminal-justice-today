@@ -18,7 +18,7 @@
 </h3>
 {% set no_link = false %}
   <small> {% include "templates/partials/authors-byline.html" with no_link %}</small>  
-  <p class="small">{{ object.excerpt|striptags|truncate(355) }}</p>
+  <p>{{ object.excerpt|striptags|truncate(355) }}</p>
   </div>
 
 

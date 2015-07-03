@@ -1,4 +1,4 @@
-<a href="{{ url(object) }} " class="grid-item dark box">
+<a href="{{ url(object) }} " class="grid-item dark box{% if loop.index == '1' || loop.index == '3' || loop.index == '5' %} light_gray{% else %} lightest_gray{% endif %}">
   {% for author in object.author %}
     {% set names = author.name %}              
     <h4 class="h5" style="display:inline;">

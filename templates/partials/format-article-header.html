@@ -8,7 +8,7 @@
   <small>
     {% include "templates/partials/format-publish-date.html" %}
   </small>
-  {% if item.author %}<br />
-    {% include "templates/partials/authors-byline.html" %}
+  {% if item.author %}
+    <p>{% include "templates/partials/authors-byline.html" %}</p>
   {% endif %}
 </header>

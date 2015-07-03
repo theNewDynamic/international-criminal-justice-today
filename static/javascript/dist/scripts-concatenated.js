@@ -42,7 +42,7 @@ void 0===c?d&&"get"in d&&null!==(e=d.get(a,b))?e:(e=n.find.attr(a,b),null==e?voi
 
 
               if(item.description) {
-                  $('<small>' + description + '</small>').appendTo('#content_tumblr');
+                  $('<p>' + description + '</p>').appendTo('#content_tumblr');
                 };
 
                 if(item.text) {
@@ -91,7 +91,7 @@ void 0===c?d&&"get"in d&&null!==(e=d.get(a,b))?e:(e=n.find.attr(a,b),null==e?voi
 
 
                     if(item.description) {
-                        $('<small>' + description + '</small>').appendTo('#content_tumblr-long');
+                        $('<p>' + description + '</p>').appendTo('#content_tumblr-long');
                       };
 
                       if(item.text) {

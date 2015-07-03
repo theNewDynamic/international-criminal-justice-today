@@ -24,7 +24,7 @@
 
 
               if(item.description) {
-                  $('<small>' + description + '</small>').appendTo('#content_tumblr');
+                  $('<p>' + description + '</p>').appendTo('#content_tumblr');
                 };
 
                 if(item.text) {
@@ -73,7 +73,7 @@
 
 
                     if(item.description) {
-                        $('<small>' + description + '</small>').appendTo('#content_tumblr-long');
+                        $('<p>' + description + '</p>').appendTo('#content_tumblr-long');
                       };
 
                       if(item.text) {

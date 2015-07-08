@@ -1,0 +1,5 @@
+{% if object._type == 'pollingdata' %}
+  {% set content_type = polling_data %}
+{% else %}    
+  {% set content_type = object._type|capitalize %}
+{% endif %}

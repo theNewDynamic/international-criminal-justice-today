@@ -1,0 +1,28 @@
+{# <h6 class="heading-small {{ object._type }}">{{ object._type|capitalize }}</h6>  #}
+<div class="row">
+  <div class="columns-2">
+  {% if object.author %}
+    {% for author in object.author %}      
+      {% if author.image %}
+        <img src="{{ author.image|imageCrop(180,180) }}">                    
+      {% endif %}      
+    {% endfor %}
+  {% elseif object.featured_image %}
+    <img src="{{ object.featured_image|imageCrop(180,180) }}">                    
+  {% endif %}
+  </div>
+  <div class="columns-10">
+    <h3 class="h4">
+      <a href="{{ url(object) }}">
+        {{ object.name }}
+      </a>
+    </h3>
+    {% set no_link = false %}
+    <small>
+      {% include "templates/partials/authors-byline.html" with no_link %}
+    </small>  
+    <p>
+      {{ object.excerpt|striptags|truncate(355) }}
+    </p>
+  </div>
+</div>

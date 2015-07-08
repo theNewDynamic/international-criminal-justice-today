@@ -4,7 +4,7 @@
 
 {% block content %}
   {% spaceless %} 
-  {% set articles = merge(cms.opinion, cms.news) %}
+  {% set articles = merge(cms.opinion, cms.news, cms.pollingdata) %}
   {% set opinion = cms.opinion|sort('publish_date', true) %}
   {% set opinon_count = '2' %}
   {% set news = cms.news|sort('publish_date', true) %}
@@ -18,7 +18,7 @@
 
 <div class="has-layout">
   <section class="formatted-box">       
-    {% for object in opinion|slice(0,1) %}        
+    {% for object in articles|slice(0,1) %}        
       <h2 class="section-heading">{{ object._type|capitalize }}</h2> 
       {% include "templates/partials/format-article-list-excerpt-authorphoto.html" %}        
     {% endfor %}

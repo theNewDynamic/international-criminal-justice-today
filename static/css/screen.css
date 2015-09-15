@@ -2892,6 +2892,16 @@ http://flickity.metafizzy.co
   outline: 5px auto -webkit-focus-ring-color;
 }
 
+.gallery-cell-image {
+  transition: opacity 0.4s;
+  opacity: 0;
+}
+
+.gallery-cell-image.flickity-lazyloaded,
+.gallery-cell-image.flickity-lazyerror {
+  opacity: 1;
+}
+
 .sliding-menu-button {
   border: 1px solid lightgray;
   border-radius: 3px;

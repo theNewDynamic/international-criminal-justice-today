@@ -1,13 +1,22 @@
 <footer class="footer-2">
   <div class="footer-logo">
-    <img src="/static/images/logo-aba.png" alt="" class="logo-aba">
+    <a href="http://www.americanbar.org/"><img src="/static/images/logo-aba.png" alt="" class="logo-aba"></a>
   </div>
     <ul>
-      <li>&copy;&nbsp;<a href="http://www.americanbar.org/">ABA, All Rights Reserved</a> </li>
+    {#   <li>&copy;&nbsp;<a href="http://www.americanbar.org/">ABA, All Rights Reserved</a> </li>
 <li><a href="http://www.americanbar.org/utility/privacy.html">Privacy Policy</a> </li>
 <li><a href="http://www.americanbar.org/utility/codeofconduct.html">Code of Conduct</a> </li>
 <li><a href="http://www.americanbar.org/utility/copyright.html">Copyright</a> </li>
 <li><a href="http://www.americanbar.org/utility/terms.html">ABA Terms of Use</a></li>
+ #}
+      {% for page in global.footer_links %}        
+          <li tabindex="{{loop.index}}">
+            <a href="{{ url(page.page) }}">
+              {{ page.text|safe }}
+            </a>
+          </li>        
+      {% endfor %}  
+
 
 
     </ul>

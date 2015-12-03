@@ -2,5 +2,9 @@
 {% if item.image %}
   <img src="{{ item.image|imageSize(300) }}" style="float:left;margin:10px 18px 4px 0;" />
 {% endif %}
+{% if item.embed_deck %}
+  {{ item.embed_deck |safe }}
+{% endif %}
+
 {{ item.copy|safe }}
-</div>  
+</div>

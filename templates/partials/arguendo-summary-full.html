@@ -1,32 +1,32 @@
 {% set questions = cms.arguendoquestion %}
 {% set questions = questions|sort('publish_date', true) %}
 <div class="row">
-  <h2 class="section-heading"><a href="/arguendo/" class="black"><em>Arguendo</em> Roundtable</a></h2>        
+  <h2 class="section-heading"><a href="/arguendo/" class="black"><em>Arguendo</em> Roundtable</a></h2>
   {% for object in questions|slice(0,1) %}
    {% set name = object.name %}
    {% set copy = object.copy %}
-   {% set arguendoarticle_question = object.arguendoarticle_question %}    
+   {% set arguendoarticle_question = object.arguendoarticle_question %}
     <h3 class="h4">
       <a href="/arguendo/">
         {{ name }}
-      </a>           
-    </h3>    
+      </a>
+    </h3>
       <p>
         <a href="javascript:void(0)" id="show-arguendo-extended" style="color:black;font-size:.75em;">
           <i class="icon-down-open">
             summary
           </i>
         </a>
-      </p>    
-    <div id="content_arguendo" style="display:none;">      
+      </p>
+    <div id="content_arguendo" style="display:none;">
         {{ copy|safe }}
       <br />
     </div>
     {% if arguendoarticle_question %}
-      {% set articles = arguendoarticle_question %}
+      {% set articles = arguendoarticle_question|sort('publish_date', true) %}
       {% for object in articles %}
         {% include "templates/partials/format-arguendo-list-responses.html" %}
-      {% endfor %} 
+      {% endfor %}
     {% endif %}
   {% endfor %}
 </div>

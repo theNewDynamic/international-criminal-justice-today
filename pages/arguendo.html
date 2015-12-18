@@ -12,7 +12,7 @@
   {% for object in questions %}
     {% set name = object.name %}
     {% set copy = object.copy %}
-    {% set arguendoarticle_question = object.arguendoarticle_question %}
+    {% set arguendoarticle_question = object.arguendoarticle_question|sort('publish_date', true) %}
     {% include "templates/partials/format-arguendo-list.html" %}
   {% endfor %}
 

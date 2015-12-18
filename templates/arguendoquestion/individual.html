@@ -8,7 +8,7 @@
     {% include "templates/partials/format-header-arguendo.html" %}
     {% set name = item.name %}
     {% set copy = item.copy %}
-    {% set arguendoarticle_question = item.arguendoarticle_question %}
+    {% set arguendoarticle_question = item.arguendoarticle_question|sort('publish_date', true) %}
     {% include "templates/partials/format-arguendo-list.html" %}
   </div>
 {% endblock %}

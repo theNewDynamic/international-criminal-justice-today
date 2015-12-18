@@ -5,5 +5,5 @@
   {% set publish_date = item.publish_date %}
 {% endif %}
 <time datetime="{{ publish_date|date('Y-m-d') }}">
-  {{ publish_date|date('F d Y') }}
+  {{ publish_date|date('F jS, Y') }}
 </time>

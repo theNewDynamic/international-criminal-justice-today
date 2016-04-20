@@ -1,0 +1,159 @@
+$aside-background-color: #fff;//$base-background-color
+
+.has-layout {
+  margin-top: $navigation-height * 1;
+  clear: both;
+  @include outer-container;
+}
+
+.row-top {
+  margin-top: $navigation-height * 2;
+}
+
+.row {
+  @include row();
+}
+
+.row-padded {
+  @include row();
+  @include padding(1em);
+  @include media($normal-screen-up) {
+    @include padding(5em 7em);
+  }
+}
+
+
+@mixin columns-count($full-width-columns) {
+  @include span-columns(12);
+    @include media($normal-screen-up) {
+      @include span-columns($full-width-columns of 12);
+  }
+}
+
+.columns-1-5, {
+  @include columns-count(1.5)
+}
+.columns-2, {
+  @include columns-count(2)
+}
+
+.columns-3, {
+  @include columns-count(3)
+}
+.columns-4 {
+  @include columns-count(4)
+}
+.columns-5 {
+  @include columns-count(5)
+}
+
+.columns-6 {
+  @include columns-count(6)
+}
+.columns-7 {
+  @include columns-count(7)
+}
+.columns-8 {
+  @include columns-count(8)
+}
+.columns-9 {
+  @include columns-count(9)
+}
+.columns-10 {
+  @include columns-count(10)
+}
+.columns-10-5 {
+  @include columns-count(10.5)
+}
+.columns-11 {
+  @include columns-count(11)
+}
+
+
+
+
+// primary article layout
+.layout {
+  //margin-top:$navigation-height;
+@include outer-container;
+  article {
+      @include span-columns(12); //padding, etc in modules/_article
+  }
+  section.side-right {
+    @include span-columns(12);
+    padding: 2em;
+  }
+  @include media($large-screen) {
+    article {
+      @include span-columns(8 of 12);
+    }
+    section.side-right {
+      @include span-columns(4 of 12);
+      padding: 4em 2em;
+      font-family: $sans-serif;
+      font-size: 90%;
+    }
+  }
+}
+
+.layout-arguendo-landing {
+  //margin-top:$navigation-height;
+  background-color: darken($content-color-background, 3%);
+  margin-bottom: 4em;
+  article {
+    @include span-columns(12); //padding, etc in modules/_article
+  }
+  section.side-right {
+    @include span-columns(12);
+    //padding: 0;
+  }
+  @include media($large-screen) {
+    article {
+      @include span-columns(8 of 12);
+      @include omega;
+    }
+    section.side-right {
+      @include span-columns(4 of 12);
+      @include omega;
+      padding: 3em 0;
+      font-family: $sans-serif;
+      font-size: .875em;
+    }
+  }
+}
+
+  .grid-item {
+    padding: 1em;
+    width:100%;
+    clear:both;
+    display:block;
+    //min-height: 150px;
+    position: relative;
+  }
+  
+  a.grid-item:hover {
+    background-color:#ccc;
+  }
+
+
+figure.bio {
+  float: left;
+  margin: 8px 12px 2px 0;
+
+  img {
+    //border: 4px solid #ccc;
+    max-width:120px;
+    border-radius:2px;
+  }
+}
+
+
+a.boxed, .boxed {
+  margin-bottom:3em;
+  @include media($medium-screen) {
+    display: block;
+    float: left;
+    width: 45%;
+    margin-right:3%;
+  }
+}

@@ -1,0 +1,18 @@
+---
+title: "U.S. Senate Briefing on The International Criminal Court"
+published: true
+date: 2014-10-27T16:47:00.000Z
+category: news
+description: "The American Bar Association’s (ABA) International Criminal Court (ICC) Project and Washington Working Group on the ICC (WICC) will hold a briefing today with the Prosecutor of the ICC, Fatou Bensouda, and U.S. Ambassador at-large for Global Criminal Justice, Stephen Rapp. "
+pull_quote:
+pull_quote_attribution:
+featured_image_path:
+slug: 2014-10-27-us-senate-briefing-on-the-international-criminal-court
+---
+
+Washington D.C., Oct 27, 2014 – The American Bar Association’s (ABA) International Criminal Court (ICC) Project and Washington Working Group on the ICC (WICC) will hold a briefing today with the Prosecutor of the ICC, Fatou Bensouda, and U.S. Ambassador at-large for Global Criminal Justice, Stephen Rapp. The event will be hosted by U.S. Senator Barbara Boxer (D-CA). The issues to be covered at the event include the Kenya case at the ICC, Syria and Islamic State atrocities, the new ICC’s Policy on Sexual and Gender-Based Crimes, and U.S. government support for international criminal justice.
+
+The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA-ICC Project can be found at its [website](http://www.aba-icc.org/).
+
+To view the event recap, click [here](http://www.international-criminal-justice-today.org/event/2014/10/27/Capitol-Hill-Briefing-ICC/).
+

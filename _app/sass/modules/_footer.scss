@@ -1,0 +1,167 @@
+// Uncomment this for a sticky footer.
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -4em;
+}
+
+html, body {
+ height: 100%;
+}
+
+.footer-2, .push {
+  height: 17em;
+
+  @include media($large-screen) {
+    height: 6em;
+  }
+}
+
+.footer-2 {
+
+  $footer-background: darken($blue, 3%);
+  $footer-color: white;
+  $footer-link-color: transparentize($footer-color, .6);
+  $footer-disclaimer-color: transparentize($footer-color, .8);
+
+  background: $footer-background;
+  //padding: $base-line-height;
+  padding: 2em;
+  width: 100%;
+  font-family: $sans-serif;
+  font-size: 90%;
+  padding-left:5em;
+
+  .footer-logo {
+    margin-right: 1em;
+    margin-bottom: 1em;
+
+    @include media($large-screen) {
+      float: left;
+      margin-bottom: 0;
+    }
+  }
+
+  .footer-logo img {
+    height: 1.6em;
+  }
+
+  .footer-logo img {
+    height: 1.6em;
+  }
+
+
+
+
+
+  ul {
+    margin-bottom: 1em;
+    @include media($large-screen) {
+      float: left;
+      margin-left: 1em;
+      margin-bottom: 0;
+    }
+  }
+
+  ul li {
+    padding-right: 1em;
+    font-weight: 400;
+
+    @include media($large-screen) {
+      display: inline;
+      text-align: left;
+    }
+  }
+
+  ul li a {
+    color: $footer-link-color;
+
+    &:hover {
+      color: transparentize($footer-color, 0);
+    }
+  }
+
+  .footer-secondary-links {
+    @include media($large-screen) {
+      float: right;
+    }
+
+    li {
+      font-size: .8em;
+      font-weight: 400;
+    }
+
+    ul.footer-social {
+      margin-top: 1em;
+
+      @include media($large-screen) {
+        float: right;
+        margin-top: 0;
+      }
+
+      li {
+        float: left;
+        font-size: 1em;
+        padding-right: .7em;
+
+        &:last-child {
+          padding-right: 0;
+        }
+      }
+
+      img {
+        opacity: .7;
+        height: 1.6em;
+        padding: 1px;
+
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+
+.sponsor-logo img{
+      height: 40px;
+      margin-top: -12px;
+      margin-left: 30px;
+      p {
+        display: none;
+      }
+  }
+
+  body.home .sponsor-logo {
+    @include media($medium-screen-up) {
+      position: absolute;
+      top: 100px;
+      right: 50px;
+      height: 140px;
+      width: 290px;
+      padding: 1em 2em 2em 2em;
+
+      background-color: $blue;
+      background-color: rgba(18,31,37,0.95);
+      z-index: 10000000;
+
+      p {
+        //position:relative;
+        margin: 0 0 1.2em 0;
+        color: $medium-gray;
+        font-family: $serif;
+        padding: 0;
+      }
+
+      img {
+        // left: 0px;
+        // top:10px;
+        // position: absolute;
+        margin: 0;
+        height: 60px;
+        text-align: left;
+      }
+    }
+  }

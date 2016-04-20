@@ -1,0 +1,93 @@
+// Typography
+
+$helvetica: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+$palatino:  Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+$sans-serif: $helvetica;
+$serif: $palatino;
+$base-font-family: $helvetica;
+$brand-font: 'Verlag A', 'Verlag B','Roboto',ff-tisa-web-pro, $sans-serif;
+$heading-font-family: $brand-font;
+// font-family: 'Avenir 35 Light'
+// font-family: 'Avenir 85 Heavy'
+// font-family: 'Avenir 45 Book'
+// font-family: 'Avenir 65 Medium'
+
+
+// Sizes
+$base-font-size: 1em;
+$h1-font-size: $base-font-size * 2.375;
+$h2-font-size: $base-font-size * 2;
+$h3-font-size: $base-font-size * 1.75;
+$h4-font-size: $base-font-size * 1.5;
+$h5-font-size: $base-font-size * 1.25;
+$h6-font-size: $base-font-size;
+
+
+$base-line-height: 1.7;
+$unitless-line-height: $base-line-height / ($base-line-height * 0 + 1); // Strip units from line-height: https://developer.mozilla.org/en-US/docs/Web/CSS/line-height#Prefer_unitless_numbers_for_line-height_values
+$header-line-height: $base-font-size * 1.25;
+$heading-line-height: 1.2;
+$base-border-radius: em(3);
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+
+
+// Colors
+$blue: #121f25;//#192a33; //#222c38;
+$blue-light: #074b7b;
+$blue-dark: #041621;
+$blue-aba-logo: #1b82c7;
+$blackish: #191919;
+$dark-gray: #4c4c4c;
+$medium-gray: #999;
+$light-gray: #f2f2f2;
+$lightest-gray: #e3e3e3;
+$light-red: #FBE3E4;
+$light-yellow: #FFF6BF;
+$light-green: #E6EFC2;
+$red: #b23e3a;
+$black:#111;
+
+// Background Color
+$base-background-color: #f7f7f7;
+$navigation-background: $blue;
+
+// Font Colors
+$base-font-color: $dark-gray;
+$base-accent-color: $blue;
+
+// Link Colors
+$base-link-color: $blue-aba-logo;
+$hover-link-color: darken($base-accent-color, 15);
+$base-button-color: $base-link-color;
+$hover-button-color: $hover-link-color;
+
+// Border color
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+
+
+// Flash Colors
+$alert-color: $light-yellow;
+$error-color: $light-red;
+$notice-color: $light-yellow;
+$success-color: $light-green;
+$action-color: $blue;
+// Forms
+$form-border-color: $base-border-color;
+$form-border-color-hover: darken($base-border-color, 10);
+$form-border-color-focus: $base-accent-color;
+$form-border-radius: $base-border-radius;
+$form-box-shadow: inset 0 1px 3px rgba(0,0,0,0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px rgba(darken($form-border-color-focus, 5), 0.7);
+$form-font-size: $base-font-size;
+$form-font-family: $base-font-family;
+
+
+//////============
+$content-color-background: $light-gray;
+$navigation-height: 70px;
+

@@ -1,21 +1,30 @@
 url: http://www.international-criminal-justice-today.org/
-sitename: 'International Criminal Justice Today'
-description: 'ABA Center for Human Rights'
+title: 'International Criminal Justice Today'
+description: 'International Criminal Justice Today (ICJT) is an online periodical dedicated to news, opinion, and other current events about international criminal justice.'
+author: "ABA-ICC Project Staff"
 
-default_author: "ABA-ICC Project Staff"
+
+categories:
+  - news
+  - opinion
+
+
+# do not edit below this line
+version: 3.0.3
+
+
+
 
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
 port: 8088
 
-include: ['_pages']
-# relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
 exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'content-list.yaml']
-permalink: pretty
 
-image_path: '/assets/img/'
-# gems:
-  #- jekyll-sitemap
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # dev options (true/false)
 # if site is in production, 'production: true'
@@ -25,26 +34,38 @@ bust_css_cache: true
 
 # options (data)
 google_analytics_id: UA-51919693-4
-disqus_id:
+disqus_id: icjt
 addthis_id: "ra-54201ddc58a3be09"
-# CONTACT FORM http://getsimpleform.com/
-simple_form_api_token:
 
-sass:
-    style: :compressed
-    sass_dir: assets/css/_sass
 
-# source: content
-# TODO: Set default layouts for posts, pages, and arguendo, and ipsos
+
+# Content Definitions and Defaults
 
 collections:
- arguendo:
-  collection_name: "Arguendo"
-  output: true
-  description: "A regular online roundtable where experts from different perspectives discuss a pressing issue in international criminal justice."
-  main_page_link: "/arguendo/"
-  permalink: /:collection/:path/
-  class: arguendo
+  arguendo:
+    collection_name: "Arguendo"
+    output: true
+    description: "A regular online roundtable where experts from different perspectives discuss a pressing issue in international criminal justice."
+    main_page_link: "/arguendo/"
+    permalink: /:collection/:path/
+    class: arguendo
+  arguendo-questions:
+    output: true
+    permalink: /:collection/:path/
+  contributors:
+    output: true
+    permalink: /:collection/:path/
+  events:
+    output: true
+    permalink: /:collection/:path/
+  landing_pages:
+    output: true
+    permalink: /:collection/:path/
+  polling_data:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 defaults:
   -
@@ -64,3 +85,9 @@ defaults:
     type: arguendo
    values:
     layout: arguendo-question
+  -
+   scope:
+    path: ""
+    type: landing_pages
+   values:
+    layout: page

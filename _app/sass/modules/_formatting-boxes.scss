@@ -1,0 +1,248 @@
+//SPECIAL FORMATTING FOR ARTICLE BOXES AND EVENT LISTINGS
+
+
+.box {
+ @include row(); 
+ img {
+  margin:10px 0 0 0;
+ }
+}
+
+
+.formatted-box {
+  border-top: 4px solid darken($light-gray, 3%);  
+  background-color:darken($aside-background-color, 1%);
+  border-radius:4px;
+  padding:1.5em 2em 2em 2em;
+  margin-bottom: 3em;
+  &.hover, &.focus {
+    border-top: 4px solid $base-link-color;
+    -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+  box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+  }
+  p { 
+    margin-top: 0;
+  }
+  img {
+    margin-top: .75em;
+  }
+}
+
+
+
+// .article-box {
+//   //border-top: 4px solid desaturate(darken($base-accent-color, 10), 20);
+//   -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+//   box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
+// }
+
+
+// .article and .article-background work together to create a background image overlay
+
+a.article-box {
+  padding: 0 1.5em 2em 1em;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  background-color: white;
+  border-radius: 2px;
+  //////border-bottom: 1px solid darken($light-gray, 5%);
+  position: relative;
+  h3 {
+    clear: both;
+    //color: white;
+    color: $dark-gray;
+  }
+  .lede {
+    position:static;
+    bottom: 1em;
+    font-size: 90%;
+    padding:1em 0 2em 0;
+    //text-align: justify;
+    color: $dark-gray;
+  }
+  @include media($medium-screen-up) {
+    .lede {
+      position:absolute;
+      //background-color:wheat;
+      padding: 3em 3em 3em 1em;
+      top:0;
+      bottom: 0;
+      left:42%;
+    }
+    .heading {
+      width:42%;
+      padding: 0 1em 2em 1em;
+      //float: left;
+      position:absolute;
+      left:0;
+      top:0;
+      bottom:0;
+      //height: 100%;
+      //background-color:#ccc;
+    }
+    border-bottom: none;
+    min-height: 230px;
+    overflow: hidden;
+    //width: 48%;
+    //float: left;
+    margin: 0 0 2em 0;
+  }
+}
+
+.article-box:hover {
+  background-color: darken(white, 3%);
+  //box-shadow: none;
+}
+
+// ==== OVERLAY ====
+
+.article-background {
+  padding: 0 1.5em 2em 1em;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  background-color: white;
+  border-radius: 2px;
+  position: relative;
+  border-bottom: 1px solid darken($light-gray, 5%);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-color: darken($light-gray, 95%);
+  //background-color: rgba(0,0,0,.6);
+  // &:hover {
+  //   background-color: darken($light-gray, 5%);
+  // }
+  height: 250px;
+
+  h3 {
+    clear: both;
+    color: white;
+  }
+
+  @include media($medium-screen-up) {
+    border-bottom: none;
+    width: 30%;
+    float: left;
+    margin: 0 3% 2em 0;
+  }
+}
+
+.article-box .article-background h3 {
+  color: white;
+}
+
+ .article-background > .background {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    border-radius:2px;
+  }
+
+  .article-background > .background:hover {
+    opacity: 1;
+    @include transition (all 0.2s ease-in-out);
+  }
+  .article:hover h3 {
+  z-index: -100;
+}
+
+.article-background h3 {
+    color:white;
+    text-shadow: 1px 1px 0 #000;
+    position:absolute;
+    bottom:1em;
+    padding-right:1em;
+    left:.5625em;
+    z-index: 100;
+  }
+
+.heading-small {
+  float: left;
+  padding: .1875em .4375em .25em .5em;
+  background-color: $light-gray;
+  font-family: $sans-serif;
+  font-size: 90%;
+  margin-bottom: .75em;
+  border-radius: 0 0 3px 3px;
+
+}
+//
+
+
+//== category headings and buttons
+$news-color: lighten($blue-aba-logo, 5%);
+$opinion-color: lighten($red, 1%);
+
+.news, .opinion, .event {
+  z-index: 100000;
+  opacity: 1;
+}
+
+.news {
+  background-color: $news-color;
+  color: $light-gray;
+}
+
+.filter-buttons {
+  background-color:none;
+  font-family: $sans-serif;
+  font-size: 90%;
+  button {
+    font-family: $sans-serif;
+    font-size: 90%;
+    padding: .375em .5em;
+  }
+  button:hover {
+    background-color: darken($light-gray, 5%);
+    color: #191919;
+  }
+}
+
+button.news {
+  background: none;
+  color: $news-color;
+  border: 1px solid $news-color;
+}
+
+
+
+.opinion {
+
+  background-color: $opinion-color;
+  color: $light-gray;
+}
+
+button.opinion {
+  background:none;
+  color: $opinion-color;
+  border: 1px solid $opinion-color;
+}
+
+$event-color: #1cadcc;
+
+.event {
+  background-color: $event-color;
+  color: $light-gray;
+}
+
+button.event {
+  background: none;
+  color: $event-color;
+  border: 1px solid $event-color;
+}
+
+//== END category headings and buttons

@@ -1,0 +1,77 @@
+.hero {
+  $hero-color: white; 
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-color:$blue;
+  position: relative;
+  margin-top: $navigation-height;
+  z-index: 100;
+  overflow: hidden;
+  overflow-x: scroll;   
+  overflow-y: hidden;   
+  height: 420px;
+    @include media($normal-screen-up) {
+      height:565px;
+    }
+
+  h1, .caption {
+    font-size: 1.1em;
+    margin-bottom: 0;
+    color:$light-gray;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.8);
+    position: absolute;
+    bottom:2%;
+    left:2%;
+    padding:.375em;
+    background-color:rgba(0,0,0,0.7);
+    font-family: $heading-font-family;
+  }
+  h2 {
+    font-size: 1.1em;
+    margin-bottom: 0;
+    color:$light-gray;
+    position: absolute;
+    top:10%;
+    left:12%;
+    padding:.375em;
+    font-family: $heading-font-family;
+    text-align:left;
+  }
+
+  .gallery-cell, .static-banner {
+    display: inline-block;
+    width: 425px;
+    max-width: 100%;
+    margin-right:.75em;
+    margin-top:10px;
+    height: 375px;
+    @include media($normal-screen-up) {
+      height: 545px;
+    }
+    .is-selected {
+     background: #ED2;
+    }
+  }
+  .static-banner {
+    background-color: lighten($blue, 3%);
+    text-align:center;
+    img {
+      width:300px;
+      margin-top: 8em;
+    }
+  }
+  .hero-inner {
+    height: auto;
+    @include outer-container;
+    @include clearfix;
+    //padding: 3em;
+    margin: auto;
+    text-align: center;
+    color: $hero-color;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+}

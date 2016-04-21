@@ -59,9 +59,19 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+    collection_name: "Events"
   landing_pages:
     output: true
     permalink: '/:path/'
+  news:
+    output: true
+    permalink: /:collection/:path/
+    collection_name: "News"
+    include_in_news: true
+  opinion:
+    output: true
+    permalink: /:collection/:path/
+    collection_name: "Opinion"
   polling_data:
     output: true
     permalink: /:collection/:path/
@@ -92,6 +102,20 @@ defaults:
     type: landing_pages
    values:
     layout: page
+  -
+   scope:
+    path: ""
+    type: opinion
+   values:
+    layout: page
+    category: opinion
+  -
+   scope:
+    path: ""
+    type: news
+   values:
+    layout: page
+    category: opinion
 
 compress_html:
   ignore:

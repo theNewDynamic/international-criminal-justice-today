@@ -1,10 +1,13 @@
+{% assign collection = object.collection %}
+{% assign pageCollection = site.collections | where: "label", collection | first %}
+{% assign collectionName = pageCollection.collection_name  %}
 
 		<a href="{{ object.url }}" class="article-box formatted-box">
-		  <span class="category hidden">{{ object.category }}</span>
-			{% if object.featured_image_path %}
+      {% if object.featured_image_path %}
+
 		  <div class="heading article-background" style="background-position:center center;background-image:url({{ object.featured_image_path }});background-size:cover;">
 		    <h6 class="heading-small {{ object.category }}">
-					{{ object.category |capitalize }}
+					{{ collectionName }}
 				</h6>
 		  </div>
 		  <div class="lede">
@@ -20,8 +23,8 @@
 			{% else %}
 
 			<div class="heading">
-		    <h6 class="heading-small {{ object.category }}">
-					{{ object.category |capitalize }}
+		    <h6 class="heading-small {{ object.collection }}">
+						{{ collectionName }}
 				</h6>
 				<h3 class="h4" style="margin:auto;">
 					{{ object.title }}

@@ -3,29 +3,42 @@ layout: default
 type: page
 ---
 {% assign pageCategory = page.category %}
-{% assign primary_content = site.posts | where: 'category', pageCategory %}
+{% assign primaryContent = site.documents | where: 'collection', pageCategory | sort: 'date' | reverse %}
+{% if page.category == 'news' %} {% comment %} show opinion posts in sidebar on news page, but news everywhere else {% endcomment %}
+	{% assign secondaryContent = site.documents | where: 'collection', 'opinion' | sort: 'date' | reverse%}
+{% else %}
+	{% assign secondaryContent = site.documents | where: 'collection', 'news' | sort: 'date' | reverse%}
+{% endif %}
 
 
 <div id="start-of-content" class="layout has-layout row-top" style="min-height:100vh;">
+
 	<article class="hentry article">
 		<h2>
 			{{ page.title }}
 		</h2>
 		<hr />
-		{% for object in primary_content %}
+		{% for object in primaryContent %}
 			{% include _listing-articles.html %}
 		{% endfor %}
-
-
-
-
-
-
-
 	</article>
+
 	<section class="side-right">
+		{% if secondaryContent %}
+  		{% for object in secondaryContent limit: 7 %}
+		      <h5>
+						<small>
+							{{ object.category | capitalize }}
+						</small>
+						<br>
+		        <a href="{{ object.url }}">
+		          {{ object.title }}
+		        </a>
+		      </h5>
+		      <br />
 
-
-
+  		{% endfor %}
+		{% endif %}
 	</section>
+
 </div>

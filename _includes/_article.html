@@ -24,15 +24,13 @@
         <hr />
       {% endfor %}
     {% endif %}
-
-
     {% if page.subtitle %}
     <h2>
       {{page.subtitle}}
     </h2>
     {% endif %}
 
-    {% if page.collection == 'posts' %}
+    {% if page.collection == 'news' or page.collection == 'opinion' %}
       <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
         <small>
           {{ page.date | date:'%A %b %d, %Y' }}

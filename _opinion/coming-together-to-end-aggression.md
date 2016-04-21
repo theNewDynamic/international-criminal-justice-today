@@ -2,7 +2,6 @@
 title: "Coming Together to End Aggression"
 published: true
 date: 2016-02-03T09:30:00.000Z
-category: opinion
 contributors:
   - professor-mary-ellen-oconnell
 description: "Prof. O'Connell argues that activating the crime of aggression completes the International Criminal Court's project, and the U.S. should support this development, not hinder it. "

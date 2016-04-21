@@ -3,7 +3,7 @@ title: "This #17July, Invest in International Criminal Justice"
 published: true
 date: 2014-07-17T16:34:00.000Z
 category: opinion
-contributor:
+contributors:
   - christopher-kip-hale
 
 description: "The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur."

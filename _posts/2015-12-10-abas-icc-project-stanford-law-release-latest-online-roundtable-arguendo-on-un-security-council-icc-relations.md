@@ -3,7 +3,7 @@ title: "ABA's ICC Project & Stanford Law release latest online roundtable, Argue
 published: true
 date: 2015-12-10T14:51:00.000Z
 category: news
-description: "In answering the question, "What is the future of relations between the UN Security Council and the International Criminal Court?", several distinguished experts put forth thought-provoking as well as pragmatic ideas for advancing UNSC-ICC relations."
+description: "In answering the question, “What is the future of relations between the UN Security Council and the International Criminal Court?”, several distinguished experts put forth thought-provoking as well as pragmatic ideas for advancing UNSC-ICC relations."
 pull_quote:
 pull_quote_attribution:
 featured_image_path:
@@ -21,4 +21,3 @@ In answering the question, "_What is the future of relations between the UN Secu
 We encourage you to visit this latest _[Arguendo](http://www.international-criminal-justice-today.org/arguendo/question/what-is-the-future-of-relations-between-the-un-security-council-and-the-international-criminal-court/)_, and please comment with your ideas and responses.
 
 _The ABA's International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education, and practical legal assistance. More information about the ABA's ICC Project can be found at its [website](http://www.aba-icc.org/)._
-

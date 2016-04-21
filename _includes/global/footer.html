@@ -1,0 +1,41 @@
+<footer class="footer-2">
+  <div class="footer-logo">
+    <a href="http://www.americanbar.org/"><img src="{{ site.image_path }}/logo-aba.png" alt="" class="logo-aba"></a>
+  </div>
+    <ul>
+      {% for link in site.data.links-footer %}
+          <li>
+            <a href="{{ link.link }}">
+              {{ link.name }}
+            </a>
+          </li>
+      {% endfor %}
+
+
+
+    </ul>
+
+
+    <div class="footer-secondary-links">
+      <ul>
+        <li><a href="http://sonnetmedia.net">site by sonnet media</a></li>
+      </ul>
+      <ul class="footer-social">
+        <li>
+          <a href="https://www.facebook.com/ABAICCProject">
+            <img src="{{ site.image_path }}/facebook-logo-circle.png" alt="">
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/ABAICCProject">
+            <img src="{{ site.image_path }}/twitter-logo-circle.png" alt="">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/channel/UCyRtIKt81NeasMTO0vq3JBA">
+            <img src="{{ site.image_path }}/youtube-logo-circle.png" alt="">
+          </a>
+        </li>
+      </ul>
+    </div>
+</footer>

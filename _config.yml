@@ -37,7 +37,7 @@ google_analytics_id: UA-51919693-4
 disqus_id: icjt
 addthis_id: "ra-54201ddc58a3be09"
 
-
+image_path: /assets/images
 
 # Content Definitions and Defaults
 
@@ -72,22 +72,27 @@ defaults:
    scope:
     path: ''
    values:
-    layout: post
+    layout: page
   -
    scope:
     path: "arguendo/article"
     type: arguendo
    values:
-    layout: arguendo-article
+    layout: page
   -
    scope:
     path: "arguendo/question"
     type: arguendo
    values:
-    layout: arguendo-question
+    layout: page
   -
    scope:
     path: ""
     type: landing_pages
    values:
     layout: page
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false

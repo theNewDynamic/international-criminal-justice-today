@@ -1,0 +1,62 @@
+<script src="/assets/js/scripts.min.js" async></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54201ddc58a3be09" async="async"></script>
+<script type="text/javascript">
+  var disqus_shortname = '{{ cms.global.disqus_short_name}}'; // required: replace example with your forum shortname
+  var disqus_identifier = '{{ getSetting('site_url') }}{{ url(item) }}';
+  var disqus_title = '{{ item.name }}';
+
+
+  // DISQUS DATA - PAGE DATA LOADED ABOVE
+
+  (function() {
+  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+
+  /* * * COUNT DON'T EDIT BELOW THIS LINE * * */
+  (function () {
+  var s = document.createElement('script'); s.async = true;
+  s.type = 'text/javascript';
+  s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
+</script>
+
+{% if item.youtube_video_id %}
+  <script type="text/javascript">
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '480',
+          width: '640',
+          videoId: '{{ item.youtube_video_id }}',
+          playerVars: { 'autoplay': 0, 'controls': 0 },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+      function onPlayerReady(event) {
+      //  event.target.playVideo();
+      event.target.setVolume(100);
+      }
+
+      var done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+          //setTimeout(stopVideo, 6000);
+          done = true;
+        }
+      }
+      function stopVideo() {
+        player.stopVideo();
+      }
+  </script>
+{% endif %}

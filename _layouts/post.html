@@ -2,8 +2,13 @@
 layout: default
 section: post
 ---
-<div class="layout has-layout">
-	{% include articles/article.html %}
+
+{% include hero.html  %}
+
+{% comment %}
+
+<div id="start-of-content" class="layout has-layout">
+	 {% include articles/article.html %} 
 	<section class="side-right">
     {% include articles/pull-quote.html %}
 		{% include articles/article-meta.html %}
@@ -20,3 +25,5 @@ section: post
     {% endunless %}
 	</section>
 </div>
+
+ {% endcomment %}

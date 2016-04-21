@@ -1,7 +1,7 @@
 // REQUIRED
-@import 
+@import
 "../node_modules/normalize.scss/normalize",
-"../node_modules/normalize-opentype.css/normalize-opentype",
+"../node_modules/normalize-opentype.css/normalize-opentype.scss",
 "bourbon",
 "neat",
 "base/base",
@@ -15,7 +15,7 @@
 @import "libs/font-icons";
 
 // MODULES
-@import 
+@import
 "modules/aba",
 "modules/article",
 "modules/footer",

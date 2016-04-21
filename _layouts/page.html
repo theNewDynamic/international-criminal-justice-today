@@ -2,7 +2,8 @@
 layout: default
 section: page
 ---
-<div class="layout has-layout">
+{% include hero.html  %}
+<div id="start-of-content" class="layout has-layout">
 	<article class="hentry">
   {% if page.featured_image %}
     <img src="/assets/img/{{page.featured_image}}" style="width:100%;" class="featured_image">
@@ -19,7 +20,7 @@ section: page
   </header>
   <div class="entry-content prose columns-2 "><!--  //CONTENT -->
     {{ content }}
-   {% if page.include %}
+   {% if page.includeTK %}
       {% include {{page.include}} %}
     {% endif %}
     </div>

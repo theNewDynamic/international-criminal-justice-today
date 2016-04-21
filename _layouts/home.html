@@ -2,7 +2,11 @@
 layout: default
 section: page
 ---
-{% comment %}{% assign news = site.posts|where: 'category', 'News' %}{% endcomment %}
+{% include hero.html  %}
+
+{% comment %}
+
+<!-- assign news = site.posts|where: 'category', 'News' -->
 {% assign posts       = site.posts %}
 {% assign articles    = site.posts %}
 {% assign events      = site.posts | where: 'category', 'event' %}
@@ -10,7 +14,7 @@ section: page
 {% assign polling-data     = site.posts | where: 'category', 'Polling-data' %}
 
 {% assign todays_date = site.time | date: "%Y%m%d" %}
-<div class="layout-home has-layout">
+<div id="start-of-content" class="layout-home has-layout">
   <section id="container-filter" class="featured-box">
     <div class="filter-buttons script-only hidden" style="margin:1em auto 2em auto;">
       <button id="filter-clear" class="news">All</button>
@@ -92,3 +96,6 @@ section: page
 
   </div>
 </div>
+
+
+ {% endcomment %}

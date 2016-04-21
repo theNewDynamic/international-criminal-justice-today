@@ -3,7 +3,7 @@ title: "Richard Dicker"
 published: true
 last_name: "Dicker"
 description: "Director, Human Rights Watch's International Justice Program"
-featured_image_path: /uploads/1449594760991_RicharD_Dicker_WEB2013.jpg
+image_path: /uploads/1449594760991_RicharD_Dicker_WEB2013.jpg
 slug: richard-dicker
 ---
 

@@ -2,7 +2,7 @@ url: http://www.international-criminal-justice-today.org/
 title: 'International Criminal Justice Today'
 description: 'International Criminal Justice Today (ICJT) is an online periodical dedicated to news, opinion, and other current events about international criminal justice.'
 author: "ABA-ICC Project Staff"
-
+logo: /assets/images/logo-aba-icc_144xb.png
 
 categories:
   - news
@@ -21,6 +21,7 @@ port: 8088
 
 exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'content-list.yaml']
 
+permalink: none
 
 gems:
   - jekyll-sitemap

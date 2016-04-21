@@ -3,7 +3,7 @@ title: "Fergal Gaynor"
 published: true
 last_name: "Gaynor"
 description: ""
-featured_image_path: /uploads/1434895455576_icjt-arguendo-fergal-gaynor.jpg
+image_path: /uploads/1434895455576_icjt-arguendo-fergal-gaynor.jpg
 slug: fergal-gaynor
 ---
 

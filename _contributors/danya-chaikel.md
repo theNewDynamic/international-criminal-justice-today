@@ -3,7 +3,7 @@ title: "Danya Chaikel"
 published: true
 last_name: "Chaikel"
 description: ""
-featured_image_path: /uploads/1434895396282_icjt-arguendo-danya-chaikel.jpg
+image_path: /uploads/1434895396282_icjt-arguendo-danya-chaikel.jpg
 slug: danya-chaikel
 ---
 

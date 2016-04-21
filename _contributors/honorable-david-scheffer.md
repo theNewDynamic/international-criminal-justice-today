@@ -3,7 +3,7 @@ title: "Honorable David Scheffer"
 published: true
 last_name: "Scheffer"
 description: "Professor of Law, Northwestern University School of Law; Former US Ambassador at-Large for War Crimes Issues"
-featured_image_path: /uploads/1434894871577_1365092094-davidscheffer.png
+image_path: /uploads/1434894871577_1365092094-davidscheffer.png
 slug: honorable-david-scheffer
 ---
 

@@ -3,7 +3,7 @@ title: "Professor Mary Ellen O'Connell"
 published: true
 last_name: "O'Connell"
 description: "Robert and Marion Short Professor of Law and Research Professor of International Dispute Resolution—Kroc Institute for International Peace Studies, University of Notre Dame"
-featured_image_path: /uploads/1455219686830_oconnell.JPG
+image_path: /uploads/1455219686830_oconnell.JPG
 slug: professor-mary-ellen-oconnell
 ---
 

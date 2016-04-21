@@ -3,7 +3,7 @@ title: "Professor David Bosco"
 published: true
 last_name: "Bosco"
 description: ""
-featured_image_path: /uploads/1434895043595_bosco.jpg
+image_path: /uploads/1434895043595_bosco.jpg
 slug: professor-david-bosco
 ---
 

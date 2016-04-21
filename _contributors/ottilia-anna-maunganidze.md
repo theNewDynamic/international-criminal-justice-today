@@ -3,7 +3,7 @@ title: "Ottilia Anna Maunganidze"
 published: true
 last_name: "Maunganidze"
 description: ""
-featured_image_path: /uploads/1434895138798_maunganidze.jpg
+image_path: /uploads/1434895138798_maunganidze.jpg
 slug: ottilia-anna-maunganidze
 ---
 

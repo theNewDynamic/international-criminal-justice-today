@@ -3,7 +3,7 @@ title: "Honorable Richard J. Goldstone"
 published: true
 last_name: "Goldstone"
 description: "From 1994-96, chief prosecutor of the United Nations International Criminal Tribunals for the former Yugoslavia and Rwanda."
-featured_image_path: /uploads/1434894332493_headshot-richard-goldstone.jpg
+image_path: /uploads/1434894332493_headshot-richard-goldstone.jpg
 slug: honorable-richard-j-goldstone
 ---
 

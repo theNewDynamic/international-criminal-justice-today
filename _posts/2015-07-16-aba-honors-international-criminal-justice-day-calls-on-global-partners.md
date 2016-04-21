@@ -8,7 +8,7 @@ embed: https://www.flickr.com//photos/126209453@N05/sets/72157653630675054/show/
 pull_quote: "American Bar Association President William C. Hubbard acknowledged the global efforts, led by the International Criminal Court and the international community, to combat genocide, crimes against humanity and war crimes. "
 pull_quote_attribution: "American Bar Association"
 featured_image_path: /uploads/1437099963494_img_6608_19727676076_o.jpg
-slug: 2015-07-16-aba-honors-international-criminal-justice-day-calls-on-global-partners
+ 
 ---
 
 WASHINGTON, July 16, 2015 — In a statement to commemorate July 17 as International Criminal Justice Day, American Bar Association President William C. Hubbard acknowledged the global efforts, led by the International Criminal Court and the international community, to combat genocide, crimes against humanity and war crimes.

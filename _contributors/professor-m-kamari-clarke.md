@@ -3,7 +3,7 @@ title: "Professor M. Kamari Clarke"
 published: true
 last_name: "Clarke"
 description: ""
-featured_image_path: /uploads/1434895093653_clarke.jpg
+image_path: /uploads/1434895093653_clarke.jpg
 slug: professor-m-kamari-clarke
 ---
 

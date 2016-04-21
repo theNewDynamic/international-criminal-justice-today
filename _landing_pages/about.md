@@ -1,6 +1,7 @@
 ---
 title: "The ABA's ICC Project"
 published: true
+category: about
 permalink: "/about/the-aba-icc-project/"
 description: "​The American Bar Association's International Criminal Court Project (ABA's ICC Project) implements longstanding ABA policies on international criminal justice."
 include: "global/mailing-list.html"

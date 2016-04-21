@@ -3,7 +3,7 @@ title: "Leila Nadya Sadat"
 published: true
 last_name: "Sadat"
 description: " the Henry H. Oberschelp Professor, Israel Treiman Faculty Fellow and Director of the Whitney R. Harris World Law Institute at Washington University School of Law"
-featured_image_path: /uploads/1434900593294_Leila-Nadya-Sadat.jpg
+image_path: /uploads/1434900593294_Leila-Nadya-Sadat.jpg
 slug: leila-nadya-sadat
 ---
 

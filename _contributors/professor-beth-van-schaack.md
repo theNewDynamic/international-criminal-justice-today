@@ -3,7 +3,7 @@ title: "Professor Beth Van Schaack"
 published: true
 last_name: "Van Schaack"
 description: ""
-featured_image_path: /uploads/1434895184822_van-schaack.jpg
+image_path: /uploads/1434895184822_van-schaack.jpg
 slug: professor-beth-van-schaack
 ---
 

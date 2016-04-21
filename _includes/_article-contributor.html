@@ -1,0 +1,8 @@
+{% for object in page.contributor %}
+  {% assign contributors = site.contributors | where: 'slug', object %}
+  {% if contributors %}
+  {% if forloop.index > 1 and forloop.last %}and {% endif %}
+    {% for contributor in contributors %}
+      <a href="{{ contributor.url }}">{{ contributor.title }}</a>{% endfor %}{% unless forloop.last %}, {% endunless %}
+  {% endif %}
+{% endfor %}

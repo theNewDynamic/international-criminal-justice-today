@@ -3,7 +3,7 @@ title: "Professor Allen S. Weiner"
 published: true
 last_name: "Weiner"
 description: ""
-featured_image_path: /uploads/1434895005497_headinshot-weiner.jpg
+image_path: /uploads/1434895005497_headinshot-weiner.jpg
 slug: professor-allen-s-weiner
 ---
 

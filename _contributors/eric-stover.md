@@ -3,7 +3,7 @@ title: "Eric Stover"
 published: true
 last_name: "Stover"
 description: ""
-featured_image_path: /uploads/1434895350675_icjt-arguendo-eric-stover.jpg
+image_path: /uploads/1434895350675_icjt-arguendo-eric-stover.jpg
 slug: eric-stover
 ---
 

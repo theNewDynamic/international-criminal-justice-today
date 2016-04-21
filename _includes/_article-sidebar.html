@@ -1,0 +1,87 @@
+{% if page.pull_quote %}
+  <blockquote class="pull_quote">
+    {{ page.pull_quote }}
+  </blockquote>
+  {% if page.pull_quote_attribution %}
+    <p class="pull_quote_attribution">— {{ page.pull_quote_attribution }}</p>
+  {% endif %}
+{% endif %}
+<hr style="width:100%;margin:3em 0;" />
+
+
+
+
+{% if page.category == 'about' %}
+  {% assign pages = site.landing_pages | where: 'category', 'about' %}
+  {% for page_item in pages %}
+    {% unless page.url == page_item.url %}
+      <h5>
+        <a href="{{ page_item.url }}">
+          {{ page_item.title}}
+        </a>
+      </h5>
+      {% if page.description %}
+        {{ page.description | markdownify }}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+  <hr />
+{% endif %}
+
+{% if page.collection == 'contributors' %}
+  <h3>Articles</h3>
+
+<ul>
+
+
+  {% for object in site.posts %}
+
+
+    {% for contributor in object.contributor  %}
+
+    {% assign documents = site.posts | where: 'contributor', contributor %}
+
+    {% for object in documents %}
+
+    <h5>{{ object.title }}</h5>
+    {% endfor %}
+
+
+    {% endfor %}
+
+  {% endfor %}
+</ul>
+
+
+
+
+{% endif %}
+
+
+
+{% if page.url contains 'ipsos-polling-data' %}
+{% assign posts = site.posts | where: 'category', 'Polling-data' %}
+  <h3>Quarterly Reports</h3>
+  {% for page_item in posts %}
+
+    <h4>
+      <a href="{{ page_item.url }}">
+        {{ page_item.title}}
+      </a>
+    </h4>{{ page_item.excerpt }}<hr />
+
+  {% endfor %}
+
+
+
+
+{% endif %}
+
+
+<div class="sharing">
+  {% include _sharing.html %}
+</div>
+
+
+<hr />
+<div id="disqus_thread"></div>

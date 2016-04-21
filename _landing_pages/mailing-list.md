@@ -1,6 +1,7 @@
 ---
 title: Join our Mailing List
 published: true
+category: about
 permalink: /about/join-our-mailing-list/
 description: Enter your details below to keep up-to-date with the ABA-ICC Project.
 include: global/mailing-list.html

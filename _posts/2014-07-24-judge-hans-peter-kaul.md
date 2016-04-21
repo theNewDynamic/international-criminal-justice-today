@@ -7,7 +7,7 @@ description: "The American Bar Association (ABA) Center for Human Rights is sadd
 pull_quote: "Judge Kaul was an inspiring advocate, a gentle man, and a seminal figure in the creation and development of the ICC, the world’s permanent court for investigating and adjudicating the international atrocity crimes of genocide, crimes against humanity and war crimes."
 pull_quote_attribution: "Michael Greco"
 featured_image_path: /uploads/1434904639331_judge-hans-peter-kaul-1999x1200.jpg
-slug: 2014-07-24-judge-hans-peter-kaul
+ 
 ---
 
 The American Bar Association (ABA) Center for Human Rights is saddened by the passing of Judge Hans-Peter Kaul who recently retired as a judge of the International Criminal Court (ICC) in The Hague, The Netherlands and expresses condolences to his family, colleagues and friends.

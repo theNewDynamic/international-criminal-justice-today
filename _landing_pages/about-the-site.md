@@ -1,6 +1,7 @@
 ---
 title: About ICJT
 published: true
+category: about
 description: "International Criminal Justice Today (ICJT) is an online periodical dedicated to news, opinion, and other current events about international criminal justice."
 permalink: "/about/the-site/"
 layout: page

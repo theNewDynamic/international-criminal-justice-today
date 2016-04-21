@@ -7,7 +7,7 @@ description: " On the occasion of International Criminal Justice Day, the Americ
 pull_quote: " An effective international criminal justice system, led by the International Criminal Court (ICC) and national courts throughout the world, is indispensable to holding accountable and punishing those individuals who engage in atrocity crimes, to bringing justice to victims and their families, and to achieving lasting international peace and security."
 pull_quote_attribution: "ABA President William C. Hubbard"
 featured_image_path:
-slug: 2015-07-16-statement-of-aba-president-william-c-hubbard-on-international-criminal-justice-day-july-17-2015
+ 
 ---
 
 WASHINGTON, July 16, 2015 - On the occasion of International Criminal Justice Day, the American Bar Association (ABA) acknowledges the vitally important global efforts of the international community to combat the atrocity crimes of genocide, crimes against humanity, and war crimes. An effective international criminal justice system, led by the International Criminal Court (ICC) and national courts throughout the world, is indispensable to holding accountable and punishing those individuals who engage in atrocity crimes, to bringing justice to victims and their families, and to achieving lasting international peace and security.

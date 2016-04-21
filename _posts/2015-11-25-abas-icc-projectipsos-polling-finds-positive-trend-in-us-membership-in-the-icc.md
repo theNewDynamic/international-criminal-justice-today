@@ -7,7 +7,7 @@ description: "In addition to positive trend of support for U.S. membership in th
 pull_quote: " After four waves of polling over two years, there is a positive trend in Americans opinions on membership in the International Criminal Court (ICC), specifically a 5% increase in agreement with the statement, 'US should become a full member of the International Criminal Court and robustly support all of its work'."
 pull_quote_attribution:
 featured_image_path:
-slug: 2015-11-25-abas-icc-projectipsos-polling-finds-positive-trend-in-us-membership-in-the-icc
+ 
 ---
 
 ### ABA's ICC Project/Ipsos polling shows two-year positive trend of support for U.S. becoming a member of the International Criminal Court, and that most Americans believe South Africa should have arrested Sudan President

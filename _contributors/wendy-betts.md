@@ -3,7 +3,7 @@ title: "Wendy Betts"
 published: true
 last_name: "Betts"
 description: ""
-featured_image_path: /uploads/1434895487226_icjt-arguendo-wendy-betts.jpg
+image_path: /uploads/1434895487226_icjt-arguendo-wendy-betts.jpg
 slug: wendy-betts
 ---
 

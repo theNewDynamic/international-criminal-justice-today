@@ -3,19 +3,17 @@ title: "Coming Together to End Aggression"
 published: true
 date: 2016-02-03T09:30:00.000Z
 category: opinion
-contributor:
+contributors:
   - professor-mary-ellen-oconnell
-
 description: "Prof. O'Connell argues that activating the crime of aggression completes the International Criminal Court's project, and the U.S. should support this development, not hinder it. "
 pull_quote: "If it is in the interest of the U.S to re-gain its leadership on human rights, the best way to accomplish this is to advocate U.S. compliance with the law that protects human rights more than any other – the prohibition on aggression. Preventing the aggression amendments from entering into force will not foster human rights. Ending war will. "
 pull_quote_attribution: "Prof. Mary Ellen O'Connell"
 featured_image_path:
-slug: 2016-02-03-coming-together-to-end-aggression
 ---
 
 In a surprising development, two former State Department Legal Advisers from very different administrations are again taking a common stand on a high-profile human rights issue. John Bellinger from the Bush administration and Harold Koh from the Obama administration are both criticizing amendments to the International Criminal Court’s (ICC) Rome Statute that will add the crime of aggression to the court’s jurisdiction.[[1]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftn1) The crime of aggression, as will be discussed further below, involves the use of armed force in violation of the United Nations Charter. In 2014, the former legal advisers joined force to advocate for a change in U.S. policy to recognize more broadly that human rights obligations apply extraterritorially.[[2]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftn2)
 
-<figure data-type="image">[![](http://lh3.googleusercontent.com/_0YLiG2gO8qoyYTOKBkV98S8gLp1IuA_2YE9oUhSQhedjM7iFQ3bGyZ-W0_MmYkrA5S2LBXw2Hb7IpXYqnf_hXYIiwwA5sXz3A=s1200)](/webhook-uploads/1454463743336_MC3-8912.jpg)</figure>
+[![](http://lh3.googleusercontent.com/_0YLiG2gO8qoyYTOKBkV98S8gLp1IuA_2YE9oUhSQhedjM7iFQ3bGyZ-W0_MmYkrA5S2LBXw2Hb7IpXYqnf_hXYIiwwA5sXz3A=s1200)](/uploads/1454463743336_MC3-8912.jpg)
 
 These two positions, on the aggression amendments and extraterritoriality, are in fact deeply incompatible, and the international human rights community has reacted very differently to them. Many applauded the position on extraterritoriality but are denouncing the opposition to the aggression amendments. As a practical matter, too, the positions are different. The United States acts abroad in a myriad of ways, so changing the extraterritoriality policy will presumably have a major impact on United States overseas activities. By contrast, even if the aggression amendments come into force, the chance of an American ever being prosecuted is extremely remote. It bears asking why these prominent lawyers would spend their time warning of the negative consequences of something so unlikely to occur.
 
@@ -84,4 +82,3 @@ The world needs leadership on human rights. It especially needs a champion for t
 [[13]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftnref13) The International Court of Justice noted that both the United States and Nicaragua had referred to the United Nations Charter prohibition on the use of force in Article 2(4) as a _jus cogens_ norm. Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America), International Court of Justice, 27 June 1986, ICJ Reports (1986) 14, at 100-101 (para. 190).
 
 [[14]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftnref14) Clauss Kress and Leonie von Holtzendorff, _The Kampala Compromise on the Crime of Aggression_, 8 J. of J. Int’l Crim. Justice 1179, 1205 (2010).
-

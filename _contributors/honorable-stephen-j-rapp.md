@@ -3,7 +3,7 @@ title: "Honorable Stephen J. Rapp"
 published: true
 last_name: "Rapp"
 description: "Former Ambassador at-Large, Office of Global Criminal Justice, U.S. Department of State"
-featured_image_path: /uploads/1449596585749_vyt00165-168x168.jpg
+image_path: /uploads/1449596585749_vyt00165-168x168.jpg
 slug: honorable-stephen-j-rapp
 ---
 

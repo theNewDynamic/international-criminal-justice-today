@@ -3,7 +3,7 @@ title: "Herman von Hebel"
 published: true
 last_name: "Hebel"
 description: ""
-featured_image_path: /uploads/1434895521702_herman-von-hebel.jpg
+image_path: /uploads/1434895521702_herman-von-hebel.jpg
 slug: herman-von-hebel
 ---
 

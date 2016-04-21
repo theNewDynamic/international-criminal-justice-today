@@ -7,7 +7,7 @@ description: "“The Wrongs We Seek” - 9th Annual International Humanitarian L
 pull_quote:
 pull_quote_attribution:
 featured_image_path:
-slug: 2015-09-24-9th-annual-international-humanitarian-law-dialogs
+ 
 ---
 
 On August 31st and September 1 2015, international Prosecutors, Ambassadors, diplomats, and legal scholars from around the globe gathered at Chautauqua Institution in Jamestown, NY, for the 9th annual International Humanitarian Law Dialogs. Now in its ninth year the Annual International Humanitarian Law Dialogs is a historic gathering of the current and former prosecutors at international war crimes tribunals, renowned academics and law experts. This unique two-day event allows participants and the public to engage in a meaningful dialogue about issues related to modern international criminal law. <font>Hosted by the Robert H. Jackson Center, the dialogs feature prominent keynote speakers and roundtable discussions updates from the international prosecutors. They also include student sessions and breakout “porch sessions” on selected topics.</font>

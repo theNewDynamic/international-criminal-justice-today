@@ -1,61 +1,18 @@
 ---
 layout: default
-section: page
+type: page
 ---
+{% capture collection_name %}{{ include.collection }}{% endcapture %}
+{% assign collection = site.collections.[collection_name] %}
+{% assign the_question = page.question %}
+{% assign questions = site.[collection_name] | where: 'title', the_question  %}
 {% include hero.html  %}
-<div id="start-of-content" class="layout has-layout">
-	<article class="hentry">
-  {% if page.featured_image %}
-    <img src="/assets/img/{{page.featured_image}}" style="width:100%;" class="featured_image">
-  {% endif %}
-  <header>
-     {% if page.title %}
-    <h1 class="entry-title">{{page.title}}</h1>
-    {% endif %}
-    {% if page.subtitle %}
-    <h2>
-      {{page.subtitle}}
-    </h2>
-    {% endif %}
-  </header>
-  <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-    {{ content }}
-   {% if page.includeTK %}
-      {% include {{page.include}} %}
-    {% endif %}
-    </div>
+
+<div id="start-of-content" class="layout has-layout" style="min-height:100vh;">
+	<article class="hentry article darken" role="article">
+		{% include _article.html %}
   </article>
 	<section class="side-right">
-    {% if page.category == 'about' %}
-    {% assign pages = site.pages | where: 'category', 'about' %}
-      {% for page_item in pages %}
-        {% unless page.url == page_item.url %}
-        <h4>
-          <a href="{{ page_item.url }}">
-            {{ page_item.title}}
-          </a>
-        </h4><br />
-        {% endunless %}
-      {% endfor %}
-    {% endif %}
-    {% if page.url contains 'ipsos-polling-data' %}
-    {% assign posts = site.posts | where: 'category', 'Polling-data' %}
-      <h3>Quarterly Reports</h3>
-      {% for page_item in posts %}
-
-        <h4>
-          <a href="{{ page_item.url }}">
-            {{ page_item.title}}
-          </a>
-        </h4>{{ page_item.excerpt }}<hr />
-
-      {% endfor %}
-
-
-
-
-    {% endif %}
-
-
+		{% include _article-sidebar.html %}
 	</section>
 </div>

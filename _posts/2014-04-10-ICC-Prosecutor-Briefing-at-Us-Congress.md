@@ -7,7 +7,7 @@ description: "ICC Prosecutor Briefing at U.S. Congress"
 pull_quote:
 pull_quote_attribution:
 featured_image_path:
-slug: 2014-04-10-icc-prosecutor-briefing-at-us-congress
+ 
 ---
 
 Washington, D.C., Apr. 10, 2014 – Numerous legislative offices from Capitol Hill along with civil society representatives are to attend a private briefing with the Prosecutor of the ICC, Fatou Bensouda. Hosted by the American Bar Association’s (ABA) International Criminal Court (ICC) Project and in conjunction with Washington Working Group on the ICC, the event will be moderated by Mr. Kip Hale, senior counsel of the ABA Center for Human Rights and director of the ABA-ICC Project. The event will also include Professor Diane Orentlicher, American University Washington College of Law and former Deputy for War Crimes Issues in the U.S. Department of State (2009-2011), who will comment on U.S.-ICC relations.

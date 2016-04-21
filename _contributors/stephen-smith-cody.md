@@ -3,7 +3,7 @@ title: "Stephen Smith Cody"
 published: true
 last_name: "Cody"
 description: ""
-featured_image_path: /uploads/1434895316026_icjt-arguendo-stephen-cody-smith.jpg
+image_path: /uploads/1434895316026_icjt-arguendo-stephen-cody-smith.jpg
 slug: stephen-smith-cody
 ---
 

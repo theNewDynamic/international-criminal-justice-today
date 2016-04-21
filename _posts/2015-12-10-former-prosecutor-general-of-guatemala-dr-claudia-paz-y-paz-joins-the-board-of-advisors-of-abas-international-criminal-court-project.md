@@ -7,7 +7,7 @@ description: "Dr. Paz y Pay is an accomplished rule of law and human rights cham
 pull_quote: "Her pursuit of justice for atrocities committed during the armed conflict in Guatemala has contributed to one of the most important prosecutions of the 21st century. "
 pull_quote_attribution: "Michael S. Greco, Former ABA President and Chair of the ABA Center for Human Rights and the ABA's ICC Project Board of Advisors"
 featured_image_path:
-slug: 2015-12-10-former-prosecutor-general-of-guatemala-dr-claudia-paz-y-paz-joins-the-board-of-advisors-of-abas-international-criminal-court-project
+ 
 ---
 
 <figure data-type="image" class="wy-figure-left wy-figure-small">[![](http://lh3.googleusercontent.com/Go_ohr-Hv-miExKORnxeKRSjWuMgBwAh4EsgpJgMRidIGoKMTy3yc6aoF65IlF_ji4jAqGUajjYuK9-lHtLu9gUyjE6B1iNY=s300)](/webhook-uploads/1449751712307_Claudia_Paz_y_Paz.jpg)</figure>

@@ -7,7 +7,7 @@ description: "In answering the question, “What is the future of relations betw
 pull_quote:
 pull_quote_attribution:
 featured_image_path:
-slug: 2015-12-10-abas-icc-project-stanford-law-release-latest-online-roundtable-arguendo-on-un-security-council-icc-relations
+ 
 ---
 
 On the occasion of [Human Rights Day](http://www.un.org/en/events/humanrightsday/), the [American Bar Association's International Criminal Court (ICC) Project](http://www.aba-icc.org/) and [Stanford Law School Program in International and Comparative Law](https://law.stanford.edu/stanford-program-in-international-and-comparative-law/) are pleased to announce the release of the latest online expert roundtable, _[Arguendo](http://www.international-criminal-justice-today.org/arguendo/)_, this time on the future of relations between the UN Security Council (UNSC) and ICC.

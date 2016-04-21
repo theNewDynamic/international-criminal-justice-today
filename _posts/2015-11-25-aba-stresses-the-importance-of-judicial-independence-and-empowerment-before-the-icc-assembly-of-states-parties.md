@@ -7,7 +7,7 @@ description: "ABA also recalls its long-standing support of the ICC and its effo
 pull_quote: "The global non-governmental community to which the American Bar Association belongs must continue to support and advance the ICC's mandate, and to support the efforts of this august Assembly of States Parties and all its members to nurture the Court, to protect the Court’s independence, to resource it appropriately, and to ensure that its judicial orders are executed. "
 pull_quote_attribution: "Kip Hale - Senior Counsel of the ABA Center for Human Rights & Director of the ABA's ICC Project"
 featured_image_path:
-slug: 2015-11-25-aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties
+ 
 ---
 
 The Hague, The Netherlands, November 19, 2015 - Before the 14th Session of Assembly of States Parties (ASP) of the International Criminal Court (ICC), the American Bar Association (ABA) stressed the importance of judicial independence and robustly supporting courts, and urged the ASP to uphold these principles with respect to the ICC.

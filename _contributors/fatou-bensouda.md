@@ -3,7 +3,7 @@ title: "Fatou Bensouda"
 published: true
 last_name: "Bensouda"
 description: "Prosecutor of the International Criminal Court"
-featured_image_path: /uploads/1449749087166_ICC-Prosecutor%20(photo).jpg
+image_path: /uploads/1449749087166_ICC-Prosecutor%20(photo).jpg
 slug: fatou-bensouda
 ---
 

@@ -3,7 +3,7 @@ title: "Christopher 'Kip' Hale"
 published: true
 last_name: "Hale"
 description: "Senior counsel of American Bar Association (ABA) Center for Human Rights"
-featured_image_path:
+image_path:
 slug: christopher-kip-hale
 ---
 

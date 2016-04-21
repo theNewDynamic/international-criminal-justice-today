@@ -35,12 +35,10 @@
     <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7044452/658144/css/fonts.css" />
 </head>
 {% comment %}{{site.collections.[the_collection].class}}{% endcomment %}
-<body id="container" class="{% if page.class %}{{page.class}}{% endif %}{% if page.featured_image %} featured_image{% endif %}">
+<body id="container" class="{% if layout.type %}{{ layout.type }}{% endif %}{% if page.featured_image %} featured_image{% endif %}">
 <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
   {% include nav/nav-top.html  %}
-  <section class="content">
   {{content}}
-</section>
   {% include global/footer.html %}
   {% include global/scripts.html %}
 </body>

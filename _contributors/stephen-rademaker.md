@@ -3,7 +3,7 @@ title: "Stephen Rademaker"
 published: true
 last_name: "Rademaker"
 description: ""
-featured_image_path: /uploads/1434894915968_headshot-rademaker.jpg
+image_path: /uploads/1434894915968_headshot-rademaker.jpg
 slug: stephen-rademaker
 ---
 

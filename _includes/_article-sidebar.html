@@ -1,3 +1,4 @@
+
 {% if page.pull_quote %}
   <blockquote class="pull_quote">
     {{ page.pull_quote }}
@@ -28,33 +29,26 @@
   <hr />
 {% endif %}
 
+
+
+
 {% if page.collection == 'contributors' %}
-  <h3>Articles</h3>
-
-<ul>
-
-
-  {% for object in site.posts %}
-
-
-    {% for contributor in object.contributor  %}
-
-    {% assign documents = site.posts | where: 'contributor', contributor %}
-
-    {% for object in documents %}
-
-    <h5>{{ object.title }}</h5>
+  <h4>Articles by {{ page.title }}</h4>
+  {% assign documents = site.posts %}
+  <ul>
+    {% for object in documents  %}
+      {% if object.contributors[0] == page.slug or object.contributors[1] == page.slug or object.contributors[2] == page.slug %}
+        <li style="margin-bottom:1em;">
+          <a href="{{ object.url }}">
+            <strong>
+              {{ object.title }}
+            </strong>
+          </a>
+        </li>
+      {% endif %}
     {% endfor %}
-
-
-    {% endfor %}
-
-  {% endfor %}
-</ul>
-
-
-
-
+  </ul>
+  <hr />
 {% endif %}
 
 

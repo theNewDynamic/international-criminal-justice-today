@@ -1,8 +1,10 @@
-{% for object in page.contributor %}
+{% if page.contributors %}
+{% assign contributors = page.contributors %}
+{% else %}
+{% assign contributors = object.contributors %}
+{% endif %}
+{% if contributors %}
+{% for object in contributors %}
   {% assign contributors = site.contributors | where: 'slug', object %}
   {% if contributors %}
-  {% if forloop.index > 1 and forloop.last %}and {% endif %}
-    {% for contributor in contributors %}
-      <a href="{{ contributor.url }}">{{ contributor.title }}</a>{% endfor %}{% unless forloop.last %}, {% endunless %}
-  {% endif %}
-{% endfor %}
+  {% if forloop.index > 1 and forloop.last %}and {% endif %}{% for contributor in contributors %}{% if page.contributors %}<a href="{{ contributor.url }}">{{ contributor.title }}</a>{% else %}{{ contributor.title }}{% endif %}{% endfor %}{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}{% endif %}

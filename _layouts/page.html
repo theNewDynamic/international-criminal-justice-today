@@ -2,10 +2,9 @@
 layout: default
 type: page
 ---
-{% capture collection_name %}{{ include.collection }}{% endcapture %}
-{% assign collection = site.collections.[collection_name] %}
 {% assign the_question = page.question %}
 {% assign questions = site.[collection_name] | where: 'title', the_question  %}
+
 {% include hero.html  %}
 
 <div id="start-of-content" class="layout has-layout" style="min-height:100vh;">

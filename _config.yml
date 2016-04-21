@@ -61,7 +61,7 @@ collections:
     permalink: /:collection/:path/
   landing_pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: '/:path/'
   polling_data:
     output: true
     permalink: /:collection/:path/

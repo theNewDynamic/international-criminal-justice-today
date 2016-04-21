@@ -1,0 +1,13 @@
+<a class="article-background" href="{{ news.url }}" style="margin-bottom:4em;">
+  {% if page.url contains '/events/' %}
+    <h6 style="margin-top:-25px;">{{ news.date | date: "%B, %Y" }}</h6>
+  {% endif %}
+  {% if news.featured_image %}
+    <div class="background" style="background-image:url(/assets/img/{{ news.featured_image }});">
+    </div>
+  {% else %}
+    <div class="background" style="background-image:url(/assets/img/icc-default.jpg);">
+    </div>
+  {% endif %}
+  <h3>{{ news.title }}</h3>
+</a>

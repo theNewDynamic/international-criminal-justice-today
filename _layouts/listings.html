@@ -1,0 +1,31 @@
+---
+layout: default
+type: page
+---
+{% assign pageCategory = page.category %}
+{% assign primary_content = site.posts | where: 'category', pageCategory %}
+
+
+<div id="start-of-content" class="layout has-layout row-top" style="min-height:100vh;">
+	<article class="hentry article">
+		<h2>
+			{{ page.title }}
+		</h2>
+		<hr />
+		{% for object in primary_content %}
+			{% include _listing-articles.html %}
+		{% endfor %}
+
+
+
+
+
+
+
+	</article>
+	<section class="side-right">
+
+
+
+	</section>
+</div>

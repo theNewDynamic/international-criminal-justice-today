@@ -1,0 +1,37 @@
+
+		<a href="{{ object.url }}" class="article-box formatted-box">
+		  <span class="category hidden">{{ object.category }}</span>
+			{% if object.featured_image_path %}
+		  <div class="heading article-background" style="background-position:center center;background-image:url({{ object.featured_image_path }});background-size:cover;">
+		    <h6 class="heading-small {{ object.category }}">
+					{{ object.category |capitalize }}
+				</h6>
+		  </div>
+		  <div class="lede">
+				<h3 style="font-size:1.5em;margin:0;">
+					{{ object.title }}
+				</h3>
+				<small>
+					{% include _article-contributor.html %} <br />
+				</small>
+		    	{{ object.excerpt | strip_html | truncate: 155 }}
+		  </div>
+
+			{% else %}
+
+			<div class="heading">
+		    <h6 class="heading-small {{ object.category }}">
+					{{ object.category |capitalize }}
+				</h6>
+				<h3 class="h4" style="margin:auto;">
+					{{ object.title }}
+				</h3>
+		     <small>
+					 {% include _article-contributor.html %}
+				 </small>
+		  </div>
+		  <div class="lede">
+		    {{ object.excerpt | strip_html | truncate: 255 }}
+		  </div>
+		{% endif %}
+		</a>

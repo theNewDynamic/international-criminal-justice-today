@@ -3,14 +3,14 @@ title: "This #17July, Invest in International Criminal Justice"
 published: true
 date: 2014-07-17T16:34:00.000Z
 category: opinion
-contributor:
+contributors:
   - christopher-kip-hale
 
 description: "The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur."
 pull_quote: "The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur."
 pull_quote_attribution: "Kip Hale"
 featured_image_path:
-slug: 2014-07-17-this-17july-invest-in-international-criminal-justice
+ 
 ---
 
 July 17 marks [International Criminal Justice Day](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/pages/pr1018.aspx), when the international community reflects on its collective effort to end impunity for genocide, crimes against humanity, war crimes, and aggression – known jointly as international atrocity crimes.

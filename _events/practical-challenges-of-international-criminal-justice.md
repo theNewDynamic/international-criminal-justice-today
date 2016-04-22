@@ -6,7 +6,7 @@ description:
 sponsor: "American Bar Association-International Criminal Court Project"
 participants: "Mr. Herman von Hebel, Registrar of the International Criminal Court; Mr. Kip Hale, Senior Counsel, ABA Center for Human Rights & Director of the ABA-ICC Project"
 venue:
-video: "https://youtu.be/qPoNw2vBpTY"
+youtube_video_id: qPoNw2vBpTY
 featured_image_path:
 slug: practical-challenges-of-international-criminal-justice
 ---

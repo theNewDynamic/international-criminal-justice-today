@@ -6,7 +6,7 @@ description:
 sponsor: "American Bar Association Center for Human Rights and its International Criminal Court Project"
 participants: "Mark Lattimer, Director of the Ceasefire Center for Civilian Rights; Mohammad Al Abdallah, Executive Director of the Syria Justice and Accountability Center; Professor Jennifer Trahan, Associate Clinical Professor at New York University's Center for Global Affairs; Judge Patricia Wald (moderator), Former Chief Judge for the United States Court of Appeals for the District of Columbia and a former judge at the International Criminal Tribunal for the Former Yugoslavia"
 venue: "American Bar Association"
-video: "https://youtu.be/B6OxEGztIqI"
+youtube_video_id: B6OxEGztIqI
 featured_image_path:
 slug: a-step-towards-justice-current-accountability-options-for-crimes-under-international-law-committed-in-syria
 ---

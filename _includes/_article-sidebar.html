@@ -6,8 +6,9 @@
   {% if page.pull_quote_attribution %}
     <p class="pull_quote_attribution">— {{ page.pull_quote_attribution }}</p>
   {% endif %}
+  <hr style="width:100%;margin:3em 0;" />
 {% endif %}
-<hr style="width:100%;margin:3em 0;" />
+
 
 
 
@@ -28,7 +29,26 @@
   <hr />
 {% endif %}
 
-
+{% if page.collection == 'events' %}
+  {% if page.venue %}
+    <div style="width:100%;margin-bottom:1em;">
+      <h4>Venue:</h4>
+      <h5>{{ page.venue }} </h5>
+    </div>
+  {% endif %}
+  {% if page.sponsor %}
+    <div style="width:100%;margin-bottom:1em;">
+      <h4>Sponsor:</h4> {{ page.sponsor|safe }}
+    </div>
+  {% endif %}
+  {% if page.participants %}
+    <div style="padding:1em;background-color:#fff;clear:both;">
+      <h4>Participants</h4>
+      <small>{{ page.participants|safe }}</small>
+    </div>
+  {% endif %}
+  <hr />
+{% endif %}
 
 
 {% if page.collection == 'contributors' %}

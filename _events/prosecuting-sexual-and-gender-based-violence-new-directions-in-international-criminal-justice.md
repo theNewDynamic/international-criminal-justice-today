@@ -6,7 +6,7 @@ description:
 sponsor: "Council on Foreign Relations; American Bar Association's International Criminal Court Project"
 participants: "Madame Prosecutor Fatou Bensouda, Prosecutor of the International Criminal Court; Ambassador David Scheffer, Secretary-General's Special Expert on UN Assistance to the Khmer Rouge Trials, United Nations; former U.S. Ambassador at-large for War Crimes Issues"
 venue: "Council on Foreign Relations"
-video: "https://youtu.be/vUjQgdLKHJI"
+youtube_video_id: vUjQgdLKHJI
 featured_image_path: /uploads/1435714558048_event-Prosecuting-Sexual-and-Gender-Based-Crimes_v4.jpg
 slug: prosecuting-sexual-and-gender-based-violence-new-directions-in-international-criminal-justice
 ---

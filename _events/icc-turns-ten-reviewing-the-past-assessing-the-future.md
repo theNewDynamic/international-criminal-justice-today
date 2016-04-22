@@ -6,7 +6,7 @@ description:
 sponsor: "Stanford Law School; American Bar Association Center for Human Rights; American Society of International Law"
 participants: "Mr. Alan Wiener, Director of International & Comparative Law Institute at Stanford Law; Judge Cuno Tarfusser, Vice President, International Criminal Court; Ms. Shamila Batohi, Senior Legal Advisor of the Prosecutor, International Criminal Court; Mr. Stephen J. Rapp, U.S. Ambassador-at-Large, Office of Global Criminal Justice; Mr. Benjamin Ferencz, Former Prosecutor, Nuremberg Military Tribunals; Mr. Michael S. Greco, Chair, ABA Center for Human Rights and former President of the ABA; Professor David Kaye, Executive Director, International Human Rights Program at UCLA, School of Law; Professor Ruth Wedgwood, Director of the International Law and Organizations Program, The Paul H. Nitze School of Advanced International Studies, John Hopkins University"
 venue: "ICC - Stanford Conference"
-video: "https://youtu.be/tN5JJ8AsJoY"
+youtube_video_id: tN5JJ8AsJoY
 featured_image_path:
 slug: icc-turns-ten-reviewing-the-past-assessing-the-future
 ---

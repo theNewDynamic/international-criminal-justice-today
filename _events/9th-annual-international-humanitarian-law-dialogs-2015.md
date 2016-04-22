@@ -6,7 +6,7 @@ description:
 sponsor: "The American Bar Association; The American Red Cross; American Society of International Law; Case Western Reserve University School of Law; The Chautauqua Institution; Impunity Watch; intlawgrrl;International Bar Association; NYU Center for Global Affairs; The Planethood Foundation; The Robert H. Jackson Center; Syracuse University College of Law; Whitney R. Harris World Law Institute at Washington University School of Law; in association with the United States Holocaust Memorial Museum"
 participants: "Former and current chief prosecutors attending from the International Criminal Court, International Criminal Tribunal for the former Yugoslavia, International Criminal Tribunal for Rwanda, Special Court for Sierre Leone, and the Extraordinary Chambers in the Courts of Cambodia."
 venue: "Chautauqua Institution and The Athenaeum Hotel - Chautauqua, New York"
-video: "https://www.youtube.com/watch?v=_5G6nj6R2m8"
+youtube_video_id: _5G6nj6R2m8
 featured_image_path: /uploads/1443127902482_21466389016_bda2c2bd61_k.jpg
 slug: 9th-annual-international-humanitarian-law-dialogs-2015
 ---
@@ -36,4 +36,3 @@ Other highlights was the presentation of the _Joshua Heintz Award for Humanitari
 <figure data-type="embed"><object width="800" height="600"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157658332054450%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157658332054450%2F&amp;set_id=72157658332054450&amp;jump_to="> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=237555616"> <param name="allowFullScreen" value="true"><embed width="800" height="600" src="https://www.flickr.com/apps/slideshow/show.swf?v=237555616" type="application/x-shockwave-flash" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157658332054450%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157658332054450%2F&amp;set_id=72157658332054450&amp;jump_to="></object></figure>
 
 _The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education, and practical legal assistance. More information about the ABA-ICC Poject can be found at its_ [<u>_website_</u>](http://www.international-criminal-justice-today.org/news/current-accountability-options-for-international-crimes-committed-in-syria/aba-icc.org/)_._
-

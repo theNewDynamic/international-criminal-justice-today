@@ -6,7 +6,7 @@ description:
 sponsor: "Parliamentarians for Global Action; War Crimes Research Office, American University Washington College of Law; American Bar Association's International Criminal Court Project; Washington Working Group on the International Criminal Court"
 participants: "Opening Remarks: Congressman James P. McGovern, Co-Chair, Tom Lantos Human Rights Commission Panelists: Minou Tavarez Mirabal, Congresswoman from the Dominican Republic and President, Parliamentarians for Global Action; Jane Stromseth, Former Deputy to the Ambassador-at-Large for Global Criminal Justice, U.S. Department of State, and Professor, Georgetown University School of Law; James Stewart, Deputy Prosecutor, International Criminal Court Moderator Professor Susana SáCouto, Director, War Crimes Research Office, American University Washington College of Law"
 venue: "Tom Lantos Human Rights Commission - United States Congress"
-video: "https://youtu.be/hLaH9Aig3q4"
+youtube_video_id: hLaH9Aig3q4
 featured_image_path: /uploads/1456363165025_25129722876_012bfe6a21_o.jpg
 slug: seeking-justice-for-atrocities-how-the-international-criminal-court-could-advance-accountability-in-iraq-and-syria
 ---

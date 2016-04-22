@@ -6,7 +6,7 @@ description:
 sponsor: "The American Bar Association; The American Red Cross; American Society of International Law; Case Western Reserve University School of Law; The Chautauqua Institution; Impunity Watch; intlawgrrl;International Bar Association; NYU Center for Global Affairs; The Planethood Foundation; The Robert H. Jackson Center; Syracuse University College of Law; Whitney R. Harris World Law Institute at Washington University School of Law; in association with the United States Holocaust Memorial Museum"
 participants:
 venue:
-video: "https://youtu.be/ROjfkF1mCyQ"
+youtube_video_id: ROjfkF1mCyQ
 featured_image_path: /uploads/1434904854599_international-humanitarian-law-dialogues-1496.jpg
 slug: 8th-annual-international-humanitarian-law-dialogs-2014
 ---

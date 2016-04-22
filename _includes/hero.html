@@ -1,9 +1,9 @@
 {% if page.youtube_video_id %}
   {% assign video_width = page.video_width | default: '853' %}
-  {% assign video_height = video_width / 1.7777777778 %}
-  {% assign hero_height = video_height %}
-  <section class="hero" role="banner">
-    <!-- style="height:{{ hero_height }}px;" -->
+  {% assign video_height = video_width | divided_by: 1.7777777778 %}
+  {% assign hero_height = video_height | plus: 94 %}
+  <section class="hero" role="banner" style="min-height:{{ hero_height }}px;">
+    <!--  -->
     <div style="height:{{ video_height }}px;width:{{ video_width }}px;margin: 2em auto;">
       <div class="embed-container">
           <div id="player">

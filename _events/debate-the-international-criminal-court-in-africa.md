@@ -6,7 +6,7 @@ description:
 sponsor: "American University Council on African Studies"
 participants: "Mr. Michael S. Greco, former president, American Bar Association; Ms. Regina Njogu, Kenyan attorney; Mr. Stephen Arthur Lamony, Senior Adviser on American university, United Nations, and African Situations, Coalition for the International Criminal Court; Professor David Bosco, American University School of International Service"
 venue: "American University School of International Service"
-video: "https://youtu.be/XyYs7NzCsO8"
+youtube_video_id: XyYs7NzCsO8
 featured_image_path: /uploads/1434903709842_10404058_280789842116943_6606161463078225670_o.jpg
 slug: debate-the-international-criminal-court-in-africa
 ---

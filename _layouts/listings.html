@@ -19,6 +19,7 @@ type: page
 		</h2>
 		<hr />
 		{% for object in primaryContent %}
+			{% assign featured_image = object.featured_image_path %}
 			{% include _listing-articles.html %}
 		{% endfor %}
 	</article>

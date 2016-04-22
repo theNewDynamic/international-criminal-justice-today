@@ -2,10 +2,10 @@
 {% assign pageCollection = site.collections | where: "label", collection | first %}
 {% assign collectionName = pageCollection.collection_name  %}
 
-		<a href="{{ object.url }}" class="article-box formatted-box">
-      {% if object.featured_image_path %}
 
-		  <div class="heading article-background" style="background-position:center center;background-image:url({{ object.featured_image_path }});background-size:cover;">
+		<a href="{{ object.url }}" class="article-box formatted-box">
+      {% if featured_image %}
+		  <div class="heading article-background" style="background-position:center center;background-image:url({{ featured_image }});background-size:cover;">
 		    <h6 class="heading-small {{ object.category }}">
 					{{ collectionName }}
 				</h6>

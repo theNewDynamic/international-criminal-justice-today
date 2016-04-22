@@ -43,6 +43,13 @@ article h3 {
 
 h4, .h4 {
   font-size: $h4-font-size;
+  color:#666;
+  a {
+    color:#666;
+    &:hover {
+      color: #111;
+    }
+  }
 }
 
 h5, .h5 {
@@ -60,11 +67,11 @@ p {
 
 article.hentry {
   //font-size: $base-font-size * 1.125; // 16 * 1.125 = 18
-  
+
   p{
   font-size: $base-font-size * 1.0625; // 16 * 1.0625 = 17px
   line-height: 1.7;
-  text-align: justify;  
+  text-align: justify;
   }
 }
 
@@ -111,7 +118,7 @@ cite {
 
 .justified p {
   text-align: justify;
-} 
+}
 
 .caption {
   font-size: 90%;

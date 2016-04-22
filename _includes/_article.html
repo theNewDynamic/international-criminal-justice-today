@@ -24,10 +24,10 @@
         <hr />
       {% endfor %}
     {% endif %}
-    {% if page.subtitle %}
-    <h2>
-      {{page.subtitle}}
-    </h2>
+    {% if page.description %}
+    <h4>
+      {{page.description}}
+    </h4>
     {% endif %}
 
     {% if page.collection == 'news' or page.collection == 'opinion' %}

@@ -11,7 +11,6 @@
 
 
 
-
 {% if page.category == 'about' %}
   {% assign pages = site.landing_pages | where: 'category', 'about' %}
   {% for page_item in pages %}
@@ -34,7 +33,7 @@
 
 {% if page.collection == 'contributors' %}
   <h4>Articles by {{ page.title }}</h4>
-  {% assign documents = site.posts %}
+  {% assign documents = site.documents %}
   <ul>
     {% for object in documents  %}
       {% if object.contributors[0] == page.slug or object.contributors[1] == page.slug or object.contributors[2] == page.slug %}
@@ -53,22 +52,20 @@
 
 
 
-{% if page.url contains 'ipsos-polling-data' %}
-{% assign posts = site.posts | where: 'category', 'Polling-data' %}
-  <h3>Quarterly Reports</h3>
-  {% for page_item in posts %}
-
+{% if page.slug == 'ipsos-polling-data' %}
+  {% assign data = site.polling_data | sort: date | reverse %}
+  <h3>
+    Quarterly Reports
+  </h3>
+  {% for object in data %}
     <h4>
-      <a href="{{ page_item.url }}">
-        {{ page_item.title}}
+      <a href="{{ object.url }}">
+        {{ object.title }}
       </a>
-    </h4>{{ page_item.excerpt }}<hr />
-
+    </h4>
+    {{ object.description | markdownify }}
+    <hr />
   {% endfor %}
-
-
-
-
 {% endif %}
 
 
@@ -78,4 +75,7 @@
 
 
 <hr />
-<div id="disqus_thread"></div>
+
+{% unless page.comments == false %}
+  <div id="disqus_thread"></div>
+{% endunless %}

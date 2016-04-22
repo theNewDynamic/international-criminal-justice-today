@@ -25,12 +25,10 @@ type: page
 
 	<section class="side-right">
 		{% if secondaryContent %}
+
   		{% for object in secondaryContent limit: 7 %}
+			{% if forloop.index == 1 %}<h3>Latest {{ object.category | capitalize }} Articles</h3>{% endif %}
 		      <h5>
-						<small>
-							{{ object.category | capitalize }}
-						</small>
-						<br>
 		        <a href="{{ object.url }}">
 		          {{ object.title }}
 		        </a>

@@ -102,6 +102,7 @@ defaults:
     type: landing_pages
    values:
     layout: page
+    comments: false
   -
    scope:
     path: ""

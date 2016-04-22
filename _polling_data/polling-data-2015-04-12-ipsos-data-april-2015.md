@@ -4,7 +4,7 @@ published: true
 date: 2015-04-12T17:01:00.000Z
 description: "Increases in Americans' support for the International Criminal Court (ICC), as well as some support for Palestinian membership in the ICC."
 video: "https://youtu.be/Hua5INP_CAU"
-embed_deck: " <iframe src="//www.slideshare.net/slideshow/embed_code/key/py8mN45YjMJ4gt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""></iframe> "
+embed_deck: " <iframe src='//www.slideshare.net/slideshow/embed_code/key/py8mN45YjMJ4gt' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe> "
 featured_image_path: /uploads/1436320456524_palestine.jpg
 slug: polling-data-2015-04-12-ipsos-data-april-2015
 ---
@@ -62,4 +62,3 @@ _- These slides also contain some data filtered on just those respondents report
 _- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio._ _- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error._
 
 _February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos._
-

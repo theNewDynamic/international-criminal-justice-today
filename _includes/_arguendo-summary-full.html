@@ -1,0 +1,26 @@
+<h2 class="section-heading"><a href="/arguendo/" class="black"><em>Arguendo</em> Roundtable</a></h2>
+
+ {% for object in arguendo-question limit:1 %}
+  {% assign name = object.title %}
+  {% assign copy = object.content %}
+  {% assign slug = object.slug %}
+   <h3 class="h4">
+     <a href="/arguendo/">
+       {{ name }}
+     </a>
+   </h3>
+     <p>
+       <a href="javascript:void(0)" id="show-arguendo-extended" style="color:black;font-size:.75em;">
+         <i class="icon-down-open">
+           summary
+         </i>
+       </a>
+     </p>
+   <div id="content_arguendo" style="display:none;">
+       {{ copy | markdownify }}
+     <br />
+   </div>
+
+    {% include _arguendo-response-list.html %}
+
+ {% endfor %}

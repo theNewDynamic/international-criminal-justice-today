@@ -67,12 +67,11 @@ collections:
     output: true
     permalink: /:collection/:path/
     collection_name: "News"
-    include_in_news: true
   opinion:
     output: true
     permalink: /:collection/:path/
     collection_name: "Opinion"
-  polling_data:
+  polling-data:
     output: true
     permalink: /:collection/:path/
 
@@ -110,13 +109,22 @@ defaults:
    values:
     layout: page
     category: opinion
+    include_in_news: true
   -
    scope:
     path: ""
     type: news
    values:
     layout: page
-    category: opinion
+    category: news
+    include_in_news: true
+  -
+   scope:
+    path: ""
+    type: polling-data
+   values:
+    layout: page
+    include_in_news: true
 
 compress_html:
   ignore:

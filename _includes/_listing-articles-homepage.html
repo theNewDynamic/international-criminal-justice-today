@@ -9,9 +9,9 @@
 
 		  </div>
 		  <div class="lede">
-				<h2 class="{% if title_size > 125 %}h4{% endif %}" style="margin:0;">
+				<h3 class="{% if title_size > 125 %}h4{% endif %}" style="margin:0;">
 					{{ object.title | markdownify | remove: '<p>' | remove: '</p>'  }}
-				</h2>
+				</h3>
 				<small>
 					{% include _article-contributor.html %} <br />
 				</small>
@@ -20,9 +20,9 @@
 
 			{% else %}
 
-			<h2 class="{% if title_size > 125 %}h3{% endif %}" style="margin:.5em auto;">
+			<h3 class="{% if title_size > 125 %}h3{% endif %}" style="margin:.5em auto;">
 				{{ object.title }}
-			</h2>
+			</h3>
 			 <p>
 				 {% include _article-contributor.html %}
 			 </p>

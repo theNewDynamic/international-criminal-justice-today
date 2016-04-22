@@ -15,9 +15,7 @@ slug: polling-data-2015-11-25-november-2015-ipsos-polling-data
 
 * * *
 
-<figure data-type="image" class="wy-figure-left wy-figure-small">![](http://lh3.googleusercontent.com/TPCOC5xmMaJmOHffIzf1CiXSZN9nDNZndvJHPbYAyo6byMXOpIuPVMgDMHL5p_FTPFZj8NNXYTEJhDD1yeoQvHoG0OlUezJc=s300)</figure>
-
-The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows no significant shift in American knowledge concerning the ICC and its work. Nearly two-thirds (63%) of Americans report knowing “nothing at all” about the ICC when asked, and 15% of US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge is fairly consistent across demographic groups, with younger people slightly more likely to indicate they know more about the ICC.
+![](http://lh3.googleusercontent.com/TPCOC5xmMaJmOHffIzf1CiXSZN9nDNZndvJHPbYAyo6byMXOpIuPVMgDMHL5p_FTPFZj8NNXYTEJhDD1yeoQvHoG0OlUezJc=s300) The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows no significant shift in American knowledge concerning the ICC and its work. Nearly two-thirds (63%) of Americans report knowing “nothing at all” about the ICC when asked, and 15% of US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge is fairly consistent across demographic groups, with younger people slightly more likely to indicate they know more about the ICC.
 
 Almost two-thirds (64%) indicate that they ‘don’t know’ if the United States is a current member of the ICC, although this halves to under a third (31%) among those individuals who know at least a little bit about the ICC.
 
@@ -29,11 +27,9 @@ Furthermore, while just over one in five (22%) agreed that the “US should beco
 
 While these findings are _indicative only_ and should be treated with caution, they do suggest the possibility of a slow shift in American attitudes on this issue.
 
-<figure data-type="image">[![](http://lh3.googleusercontent.com/fCyPg1L01pGNyHqPJoj6ft22YJWSO69JA6OQSFTBfK3mYecrZTKQU-ML__FARGWwZSvW3Rbv0V1Tnbexd8VaLHo4140HbP6w=s1200)](/webhook-uploads/1448469265939_Ipsos_Tracking_US-ICC.png)
+![Trend on U.S. Membership in the ICC](/uploads/1448469265939_Ipsos_Tracking_US-ICC.png)
 
-<figcaption>Trend on U.S. Membership in the ICC</figcaption>
-
-</figure>
+_Trend on U.S. Membership in the ICC_
 
 Notwithstanding their lack of familiarity with the ICC,[[1]](file:///C:/Users/ABALoaner/Downloads/Ipsos%20ABA%20ICC%20Factum%2011.21.15.docx#_ftn1) Americans remain very supportive of the idea of the United States being involved with international institutions that have a direct impact on human rights and provide justice for those who commit mass atrocities. A majority (60%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities.”
 
@@ -68,4 +64,3 @@ _- These slides also contain some data filtered on just those respondents report
 _- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio._ _- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error._
 
 _February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos._
-

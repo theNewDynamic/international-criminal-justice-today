@@ -47,13 +47,12 @@ collections:
   arguendo:
     collection_name: "Arguendo"
     output: true
-    description: "A regular online roundtable where experts from different perspectives discuss a pressing issue in international criminal justice."
     main_page_link: "/arguendo/"
     permalink: /:collection/:path/
     class: arguendo
   arguendo-questions:
     output: true
-    permalink: /:collection/:path/
+    permalink: /arguendo/question/:path/
   contributors:
     output: true
     permalink: /:collection/:path/
@@ -87,16 +86,16 @@ defaults:
     layout: page
   -
    scope:
-    path: "arguendo/article"
+    path: ""
     type: arguendo
    values:
-    layout: page
+    layout: arguendo-response
   -
    scope:
-    path: "arguendo/question"
-    type: arguendo
+    path: ""
+    type: arguendo-questions
    values:
-    layout: page
+    layout: arguendo-question
   -
    scope:
     path: ""

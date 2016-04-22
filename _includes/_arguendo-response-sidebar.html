@@ -1,0 +1,41 @@
+{% assign contributorList = page.contributors %}
+{% for contributor in contributorList %}
+  {% assign contributors = site.contributors | where: 'slug', contributor %}
+  {% for object in contributors  %}
+    <div class="box">
+      <h2 class="h4">
+        <a href="{{ url(object) }}">{{ object.title }}</a>
+      </h2>
+      {% if object.image_path %}
+        <figure class="wy-figure-left">
+          <img src="{{ site.image_url}}{{ object.image_path }}?w=120&h=120&fit=clamp&exp=1">
+        </figure>
+      {% endif %}
+      {% if object.content %}
+        {{ object.content | markdownify }}
+      {% endif %}
+    </div>
+  {% endfor %}
+{% endfor %}
+
+<div class="row">
+  <h3 style="margin:1em 0;">
+    Additional Responses
+  </h3>
+  {% assign slug = page.arguendo-question %}
+  {% include _arguendo-response-list.html %}
+</div>
+
+<hr style="margin-bottom:7em;" />
+
+
+<div class="sharing">
+  {% include _sharing.html %}
+</div>
+
+
+<hr />
+
+{% unless page.comments == false %}
+  <div id="disqus_thread"></div>
+{% endunless %}

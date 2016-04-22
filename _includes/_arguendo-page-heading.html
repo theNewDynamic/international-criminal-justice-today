@@ -1,0 +1,24 @@
+<header>
+  <h1>
+    Arguendo
+  </h1>
+  {% if page.arguendo-question %}
+    <h4>
+      <a href="{{ question.url }}" style="color:#666;">
+        {{ description }}
+      </a>
+    </h4>
+    <hr />
+  {% else %}
+    <h2 class="h5">
+      {{ description }}
+    </h2>
+    {% if page.url != '/arguendo/' %}
+      <h6>
+        <a href="/arguendo/">
+          Arguendo Main
+        </a>
+      </h6>
+    {% endif %}
+  {% endif %}
+</header>

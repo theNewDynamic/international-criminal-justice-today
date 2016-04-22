@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: $header-line-height;
   margin: 0 0 .3125em 0;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
-  color: $blue;
+  //color: $blue;
 }
 
 h1, .h1 {
@@ -45,7 +45,7 @@ h4, .h4 {
   font-size: $h4-font-size;
 }
 h4 {
-  color:#666;
+  //color:#666;
   a {
     color:#666;
     &:hover {

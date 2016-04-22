@@ -13,7 +13,7 @@ type: home
 {% include hero-home.html  %}
 
 <div class="has-layout">
-  <section class="formatted-boxTK">
+  <section class="no-formatted-box">
     {% for object in news_featured limit:1 offset:0 %}
       {% assign featured_image = object.featured_image_path %}
       {% include _listing-articles-homepage.html %}
@@ -23,16 +23,18 @@ type: home
 
 
   <div class="columns-7">
+    <h2 class="section-heading"><a href="/arguendo/" class="black"><em>Arguendo</em> Roundtable</a></h2>
     <section id="container-filter" class="formatted-box">
       <div class="row">
         {% include _arguendo-summary-full.html %}
       </div>
 
     </section>
+    <h2 class="section-heading">
+      Ipsos Polling Data <a href="/ipsos-polling-data/" style="font-size:.625em;">(overview)</a>
+    </h2>
     <section class="formatted-box">
-      <h2 class="section-heading">
-        Ipsos Polling Data <a href="/ipsos-polling-data/" style="font-size:.625em;">(overview)</a>
-      </h2>
+
         {% for object in polling-data limit: 3 | sort: 'date', 'last' %}
         {% assign featured_image = object.featured_image_path %}
           <h2>
@@ -56,7 +58,7 @@ type: home
   <div class="columns-5">
 
 
-    <section class="formatted-box">
+    <section class="no-formatted-box">
       {% include stream-tumblr.html %}
     </section>
 

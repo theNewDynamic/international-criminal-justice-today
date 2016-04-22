@@ -16,7 +16,7 @@
               var source_title = item.source_title;
               //$("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
               if(item.title && item.post_url) {
-                  $('<h4><a href="' + item.url +   '" target="_blank">' +  item.title + '</a> <small><i class="icon-link-ext" style="font-size:.625em;"></i></small> </h4>').appendTo('#content_tumblr');
+                  $('<h3><a href="' + item.url +   '" target="_blank">' +  item.title + '</a> <small><i class="icon-link-ext" style="font-size:.625em;"></i></small> </h3>').appendTo('#content_tumblr');
                     }
                     else if(item.title) {
                       $('<h4>' + item.title + '</h4>').appendTo('#content_tumblr');
@@ -65,7 +65,7 @@
                     var source_title = item.source_title;
                     //$("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
                     if(item.title && item.post_url) {
-                        $('<h4><a href="' + item.url +   '" target="_blank">' +  item.title + '</a> <small><i class="icon-link-ext" style="font-size:.625em;"></i></small> </h4>').appendTo('#content_tumblr-long');
+                        $('<h3><a href="' + item.url +   '" target="_blank">' +  item.title + '</a> <small><i class="icon-link-ext" style="font-size:.625em;"></i></small> </h3>').appendTo('#content_tumblr-long');
                           }
                           else if(item.title) {
                             $('<h4>' + item.title + '</h4>').appendTo('#content_tumblr-long');

@@ -2,7 +2,7 @@
 
 
 .box {
- @include row(); 
+ @include row();
  img {
   margin:10px 0 0 0;
  }
@@ -10,7 +10,7 @@
 
 
 .formatted-box {
-  border-top: 4px solid darken($light-gray, 3%);  
+  border-top: 4px solid darken($light-gray, 3%);
   background-color:darken($aside-background-color, 1%);
   border-radius:4px;
   padding:1.5em 2em 2em 2em;
@@ -20,7 +20,7 @@
     -webkit-box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
   box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.15);
   }
-  p { 
+  p {
     margin-top: 0;
   }
   img {
@@ -65,7 +65,7 @@ a.article-box {
     .lede {
       position:absolute;
       //background-color:wheat;
-      padding: 3em 3em 3em 1em;
+      padding: 1em 3em 3em 1em;
       top:0;
       bottom: 0;
       left:42%;

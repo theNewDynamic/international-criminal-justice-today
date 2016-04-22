@@ -1,5 +1,5 @@
 .hero {
-  $hero-color: white; 
+  $hero-color: white;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -8,11 +8,11 @@
   margin-top: $navigation-height;
   z-index: 100;
   overflow: hidden;
-  overflow-x: scroll;   
-  overflow-y: hidden;   
+  overflow-x: scroll;
+  overflow-y: hidden;
   height: 420px;
     @include media($normal-screen-up) {
-      height:565px;
+      height:465px;
     }
 
   h1, .caption {
@@ -46,8 +46,9 @@
     margin-right:.75em;
     margin-top:10px;
     height: 375px;
+    background-color:$blue;
     @include media($normal-screen-up) {
-      height: 545px;
+      height: 445px; //bumped down from 545 April 22, 2016
     }
     .is-selected {
      background: #ED2;

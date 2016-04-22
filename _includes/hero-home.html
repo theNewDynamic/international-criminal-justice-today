@@ -8,17 +8,20 @@
           {% assign featured_image = object.featured_image_path %}
           {% assign title = object.title %}
 
-        {% if forloop.index0 == '2' %}
+        {% if forloop.index0 == 2 %}
           <div class="static-banner">
             <h2><em>International Criminal Justice Today</em> is a Partnership with</h2>
             <img data-flickity-lazyload="{{ site.image_path }}/PC_PrgIntComparativeLaw_3C_RGB_Hzt.png">
           </div>
         {% endif %}
+        {% if featured_image %}
 
         <a href="{{ object.url }}" class="gallery-cell">
-          <img data-flickity-lazyload="{{ site.image_url}}{{ featured_image }}?w=425&h=545&fit=clamp&exp=1" class="gallery-cell-image" alt="{{title}}">
+          <img data-flickity-lazyload="{{ site.image_url}}{{ featured_image }}?w=425&h=445&fit=clamp&exp=1" class="gallery-cell-image" alt="{{title}}">
           {% if title %}<span class="caption">{{ title }}</span>{% endif %}
         </a>
+
+        {% endif %}
 
       {% endfor %}
 

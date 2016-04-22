@@ -35,8 +35,8 @@ font-family:$heading-font-family;
   color: $sliding-menu-color;
 
     @include media ($horizontal-bar-mode) {
-      @include size(100% 280px);
-      @include transform(translateY(-280px));
+      @include size(100% 300px);
+      @include transform(translateY(-300px));
     }
 
   .sliding-menu-content-inner {

@@ -2,7 +2,7 @@
 
 
     $.ajax({
-        url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=1",
+        url: "https://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=1",
         dataType: 'jsonp',
         success: function(results){
           //console.log(results);
@@ -50,7 +50,7 @@
 
 //// SECOND, HIDDEN SET
           $.ajax({
-              url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=10&offset=1",
+              url: "https://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=10&offset=1",
               dataType: 'jsonp',
               success: function(results){
                 //console.log(results);

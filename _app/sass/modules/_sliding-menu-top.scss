@@ -24,8 +24,8 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
   font-family: $sans-serif;
 font-family:$heading-font-family;
   @include position(fixed, 0px auto 0px 0px);
-  @include size(100% 89vh);
-  @include transform(translateY(-89vh));
+  @include size(100% 92vh);
+  @include transform(translateY(-92vh));
   @include transition(all .25s linear);
   background: $sliding-menu-background;
   padding: 0 2em;
@@ -50,9 +50,12 @@ font-family:$heading-font-family;
       color: $lightest-gray;
     }
     .logo {
-        @include span-columns(1 of 12);
+        @include span-columns(2.5 of 12);
         img {
           max-width: 100%;
+        }
+        @include media ($medium-screen-up) {
+          @include span-columns(1 of 12);
         }
     }
 

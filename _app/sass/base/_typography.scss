@@ -67,6 +67,25 @@ p {
   margin: 0 0 ($base-line-height * .5);
 }
 
+
+// HOME PAGE HEADINGS
+body.home h1, body.home h2, body.home h3, body.home h4, body.home h5, body.home h6 {
+  padding-left: .5em;
+  padding-right: .5em;
+  @include media($xlarge-screen-up) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+body.home .formatted-box h2, body.home .formatted-box h3, body.home .formatted-box h4, body.home .formatted-box h5, body.home .formatted-box h6  {
+
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+
 article.hentry {
   //font-size: $base-font-size * 1.125; // 16 * 1.125 = 18
 

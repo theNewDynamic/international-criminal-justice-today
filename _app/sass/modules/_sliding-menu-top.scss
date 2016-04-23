@@ -24,8 +24,8 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
   font-family: $sans-serif;
 font-family:$heading-font-family;
   @include position(fixed, 0px auto 0px 0px);
-  @include size(100% 500px);
-  @include transform(translateY(-500px));
+  @include size(100% 89vh);
+  @include transform(translateY(-89vh));
   @include transition(all .25s linear);
   background: $sliding-menu-background;
   padding: 0 2em;

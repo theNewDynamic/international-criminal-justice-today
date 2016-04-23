@@ -7,12 +7,12 @@ description: "In answering the question, “What is the future of relations betw
 pull_quote:
 pull_quote_attribution:
 featured_image_path:
- 
+
 ---
 
 On the occasion of [Human Rights Day](http://www.un.org/en/events/humanrightsday/), the [American Bar Association's International Criminal Court (ICC) Project](http://www.aba-icc.org/) and [Stanford Law School Program in International and Comparative Law](https://law.stanford.edu/stanford-program-in-international-and-comparative-law/) are pleased to announce the release of the latest online expert roundtable, _[Arguendo](http://www.international-criminal-justice-today.org/arguendo/)_, this time on the future of relations between the UN Security Council (UNSC) and ICC.
 
-[![](http://lh3.googleusercontent.com/8jMVyAIyu2i2u19v7iAv6bFnSU8cYP8gQB9a1kVdPnqvdiqwZEe4Ui32I7qHTLJk4vEItzlh5xlGY0pCNvfvPaWwCI7XuRZd=s1200)](/webhook-uploads/1449776044322_Arguendo_UNSC_ICC.png)
+![](/uploads/1449776044322_Arguendo_UNSC_ICC.png)
 
 To discuss this critical relationship in international criminal justice, a highly distinguished panel was assembled: Fatou Bensouda, Prosecutor of the ICC; Honorable Navanethem Pillay, former UN High Commissioner for Human Rights; Honorable Stephen J. Rapp, former US Ambassador at-Large, Global Criminal Justice at US State Department; and Richard Dicker, Director of Human Rights Watch's International Justice Program.
 

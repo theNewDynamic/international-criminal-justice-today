@@ -15,7 +15,7 @@ slug: polling-data-2015-11-25-november-2015-ipsos-polling-data
 
 * * *
 
-![](http://lh3.googleusercontent.com/TPCOC5xmMaJmOHffIzf1CiXSZN9nDNZndvJHPbYAyo6byMXOpIuPVMgDMHL5p_FTPFZj8NNXYTEJhDD1yeoQvHoG0OlUezJc=s300) The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows no significant shift in American knowledge concerning the ICC and its work. Nearly two-thirds (63%) of Americans report knowing “nothing at all” about the ICC when asked, and 15% of US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge is fairly consistent across demographic groups, with younger people slightly more likely to indicate they know more about the ICC.
+![](/uploads/image-ipsos.jpg) The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows no significant shift in American knowledge concerning the ICC and its work. Nearly two-thirds (63%) of Americans report knowing “nothing at all” about the ICC when asked, and 15% of US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge is fairly consistent across demographic groups, with younger people slightly more likely to indicate they know more about the ICC.
 
 Almost two-thirds (64%) indicate that they ‘don’t know’ if the United States is a current member of the ICC, although this halves to under a third (31%) among those individuals who know at least a little bit about the ICC.
 

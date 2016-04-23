@@ -44,6 +44,10 @@ header.navigation {
   position: absolute;
   width: 60%;
   color: #f7f7f7;
+
+  @include media($medium-screen-up) {
+    left: 110px;
+  }
   @include media($horizontal-bar-mode) {
     display: none;
     left: 5px;
@@ -392,7 +396,7 @@ padding-left: 0;
 }
 
 body.article .site-heading {
-  
+
     padding-left: 2.125em;
 }
 

@@ -73,7 +73,7 @@ collections:
     collection_name: "Opinion"
   polling-data:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:year/:month/:day/:path/
 
 
 

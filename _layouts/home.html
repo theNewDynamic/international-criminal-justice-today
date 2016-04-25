@@ -3,7 +3,7 @@ layout: default
 type: home
 ---
 {% assign articles = site.documents | where: 'include_in_news', true %}
-{% assign polling-data = site.polling-data %}
+{% assign polling-data = site.polling-data | sort: 'date', 'last'| reverse %}
 {% assign arguendo-question = site.arguendo-questions | sort: 'date' | reverse %}
 {% assign news = site.news | where: 'featured', -true | sort: 'date' | reverse  %}
 {% assign news_featured = articles | where: 'featured', true | sort: 'date' | reverse  %}
@@ -40,7 +40,7 @@ type: home
     <section class="formatted-box">
 
 
-        {% for object in polling-data limit: 3 | sort: 'date', 'last' %}
+        {% for object in polling-data limit: 3   %}
         {% assign featured_image = object.featured_image_path %}
           <h2>
             <a href="{{object.url}}">

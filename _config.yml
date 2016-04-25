@@ -130,3 +130,4 @@ compress_html:
   ignore:
     envs: [development]
   profile: false
+  comments: ['//', '']

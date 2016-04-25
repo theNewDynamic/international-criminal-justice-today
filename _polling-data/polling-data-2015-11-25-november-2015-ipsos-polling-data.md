@@ -1,5 +1,5 @@
 ---
-title: "November 2015 Ipsos Polling Data"
+title: "November 2015 Ipsos Polling Results"
 published: true
 date: 2015-11-25T16:37:00.000Z
 description: "Research finds a slow but steady trend over the past two years in favor of greater US involvement in the ICC. "

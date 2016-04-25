@@ -1,5 +1,5 @@
 ---
-title: "April 2015 Ipsos Polling Data"
+title: "April 2015 Ipsos Polling Results"
 published: true
 date: 2015-04-12T17:01:00.000Z
 description: "Increases in Americans' support for the International Criminal Court (ICC), as well as some support for Palestinian membership in the ICC."

@@ -1,5 +1,5 @@
 ---
-title: "December 2014 Ipsos Polling Data"
+title: "December 2014 Ipsos Polling Results"
 published: true
 date: 2014-12-08T17:49:00.000Z
 description: "Americans Continue to Support Involvement with the International Criminal Court (ICC)"

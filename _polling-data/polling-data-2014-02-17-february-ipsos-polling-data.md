@@ -1,5 +1,5 @@
 ---
-title: "February 2014 Ipsos Polling Data"
+title: "February 2014 Ipsos Polling Results"
 published: true
 date: 2014-02-17T17:07:00.000Z
 description: "Among Americans with knowledge of the International Criminal Court, desire for more support, but unsure if the U.S. should join the Court."

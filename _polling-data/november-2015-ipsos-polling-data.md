@@ -6,7 +6,7 @@ description: "Research finds a slow but steady trend over the past two years in 
 video:
 embed_deck:
 featured_image_path:
-slug: polling-data-2015-11-25-november-2015-ipsos-polling-data
+slug: november-2015-ipsos-polling-data
 ---
 
 ### Stable Awareness of the Work of the International Criminal Court (ICC), with Early Indicators of Increasing American Support for ICC Membership

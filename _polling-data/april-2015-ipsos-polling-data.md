@@ -6,7 +6,7 @@ description: "Increases in Americans' support for the International Criminal Cou
 youtube_video_id: Hua5INP_CAU
 embed_deck: " <iframe src='//www.slideshare.net/slideshow/embed_code/key/py8mN45YjMJ4gt' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe> "
 featured_image_path: /uploads/1436320456524_palestine.jpg
-slug: polling-data-2015-04-12-ipsos-data-april-2015
+slug: april-2015-ipsos-polling-data
 ---
 
 ### Results show uptick in American opinions on the International Criminal Court (ICC), and signs of support for Palestinian membership in the ICC.

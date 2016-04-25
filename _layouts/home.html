@@ -31,9 +31,12 @@ type: home
 
     </section>
     <h2 class="section-heading">
+
       Ipsos Polling <a href="/ipsos-polling-data/" style="font-size:.625em;">(overview)</a>
     </h2>
+    <img src="/uploads/logo-ipsospublicaffairs.png" alt="" />
     <section class="formatted-box">
+
 
         {% for object in polling-data limit: 3 | sort: 'date', 'last' %}
         {% assign featured_image = object.featured_image_path %}

@@ -14,8 +14,14 @@
             <img data-flickity-lazyload="{{ site.image_path }}/PC_PrgIntComparativeLaw_3C_RGB_Hzt.png">
           </div>
         {% endif %}
-        {% if featured_image %}
 
+        {% if forloop.index0 == 3 %}
+          <a href="/ipsos-polling-data/" class="static-image">
+        <img data-flickity-lazyload="/assets/images/ipsos-card-425x445.png">
+          </a>
+        {% endif %}
+
+        {% if featured_image %}
         <a href="{{ object.url }}" class="gallery-cell">
           <img data-flickity-lazyload="{{ site.image_url}}/{{ featured_image }}?w=425&h=445&fit=clamp&exp=1" class="gallery-cell-image" alt="{{title}}">
           {% if title %}<span class="caption">{{ title }}</span>{% endif %}

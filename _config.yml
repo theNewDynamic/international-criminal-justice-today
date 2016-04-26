@@ -127,11 +127,11 @@ defaults:
     include_in_news: true
 
 compress_html:
-  clippings: all
+#  clippings: all
   comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [development]
-  blanklines: false
-  profile: true
-  startings: [html, head, body]
+#  endings: all
+#  ignore:
+#    envs: [development]
+#  blanklines: false
+#  profile: true
+#  startings: [html, head, body]

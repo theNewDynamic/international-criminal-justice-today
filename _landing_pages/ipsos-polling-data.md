@@ -2,7 +2,7 @@
 title: Ipsos Polling
 published: true
 featured_image_path: /uploads/logo-ipsospublicaffairs.png
-description: 'For Americans with some knowledge of the International Criminal Court, desire to see more US support, but unsure if U.S. should join the Court just yet.'
+description:
 slug: ipsos-polling-data
 ---
 
@@ -19,8 +19,8 @@ The [American Bar Association's International Criminal Court (ICC) Project](http
 
 **Clifford Young** President, Ipsos Public Affairs
 
-[clifford.young@ipsos.com](mailto:clifford.young@ipsos.com)
+[&#099;&#108;&#105;&#102;&#102;&#111;&#114;&#100;&#046;&#121;&#111;&#117;&#110;&#103;&#064;&#105;&#112;&#115;&#111;&#115;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#099;&#108;&#105;&#102;&#102;&#111;&#114;&#100;&#046;&#121;&#111;&#117;&#110;&#103;&#064;&#105;&#112;&#115;&#111;&#115;&#046;&#099;&#111;&#109;)
 
 **Julia Clark** Vice President, Ipsos Public Affairs
 
-[Julia.Clark@ipsos.com](mailto:Julia.Clark@ipsos.com)
+[&#074;&#117;&#108;&#105;&#097;&#046;&#067;&#108;&#097;&#114;&#107;&#064;&#105;&#112;&#115;&#111;&#115;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#074;&#117;&#108;&#105;&#097;&#046;&#067;&#108;&#097;&#114;&#107;&#064;&#105;&#112;&#115;&#111;&#115;&#046;&#099;&#111;&#109;)

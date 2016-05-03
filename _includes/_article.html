@@ -42,9 +42,11 @@
       {% include _article-contributor.html %}
     {% endif %}
   </header>
-  <div class="entry-content prose">
+  <div class="entry-content">
     {% if page.image_path %}
         <img src="{{page.image_path }}" style="max-height:300px;float:left;margin:.25em 1em .25em 0;" class="featured_image" />
     {% endif %}
-    {{ content }}
+    <div class="prose">
+      {{ content }}
+    </div>
   </div>

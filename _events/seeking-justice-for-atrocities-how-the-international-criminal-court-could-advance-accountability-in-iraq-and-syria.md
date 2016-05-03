@@ -1,15 +1,16 @@
 ---
-title: "Seeking Justice for Atrocities: How the International Criminal Court Could Advance Accountability in Iraq and Syria"
+title: 'Seeking Justice for Atrocities: How the International Criminal Court Could Advance Accountability in Iraq and Syria'
 published: true
 date: 2016-02-10T19:51:00.000Z
 description:
 sponsor: "Parliamentarians for Global Action; War Crimes Research Office, American University Washington College of Law; American Bar Association's International Criminal Court Project; Washington Working Group on the International Criminal Court"
-participants: "Opening Remarks: Congressman James P. McGovern, Co-Chair, Tom Lantos Human Rights Commission Panelists: Minou Tavarez Mirabal, Congresswoman from the Dominican Republic and President, Parliamentarians for Global Action; Jane Stromseth, Former Deputy to the Ambassador-at-Large for Global Criminal Justice, U.S. Department of State, and Professor, Georgetown University School of Law; James Stewart, Deputy Prosecutor, International Criminal Court Moderator Professor Susana SáCouto, Director, War Crimes Research Office, American University Washington College of Law"
-venue: "Tom Lantos Human Rights Commission - United States Congress"
+participants: 'Opening Remarks: Congressman James P. McGovern, Co-Chair, Tom Lantos Human Rights Commission Panelists: Minou Tavarez Mirabal, Congresswoman from the Dominican Republic and President, Parliamentarians for Global Action; Jane Stromseth, Former Deputy to the Ambassador-at-Large for Global Criminal Justice, U.S. Department of State, and Professor, Georgetown University School of Law; James Stewart, Deputy Prosecutor, International Criminal Court Moderator Professor Susana SáCouto, Director, War Crimes Research Office, American University Washington College of Law'
+venue: Tom Lantos Human Rights Commission - United States Congress
 youtube_video_id: hLaH9Aig3q4
 featured_image_path: /uploads/1456363165025_25129722876_012bfe6a21_o.jpg
 slug: seeking-justice-for-atrocities-how-the-international-criminal-court-could-advance-accountability-in-iraq-and-syria
 ---
+
 
 On February 10, the [Tom Lantos Human Rights Commission](https://humanrightscommission.house.gov/) of the United States Congress hosted a very well-attended [panel briefing](https://humanrightscommission.house.gov/events/hearings/seeking-justice-atrocities-how-international-criminal-court-could-advance) on the potential role that the International Criminal Court (ICC) could play in achieving justice for atrocity crimes committed in Syria and Iraq. The briefing began with opening remarks by co-chair of the Tom Lantos Human Rights Commission, U.S. Representative [James P. McGovern (D-Mass)](http://mcgovern.house.gov/), who stressed that on-going mass atrocities in Syria and Iraq demand justice, and that the ICC and other avenues for accountability must be pursued.
 
@@ -19,9 +20,8 @@ Her presentation was followed by remarks from Dr. [Jane Stromseth](https://www.l
 
 The final panelist was [James Stewart](https://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/Pages/DeputyProsecutor.aspx) (Canada), the Deputy Prosecutor of the [ICC](https://www.icc-cpi.int/EN_Menus/icc/Pages/default.aspx). In his remarks, Deputy Prosecutor Stewart discussed the jurisdictional limitations that prevent the ICC from having jurisdiction in Syria and Iraq, but highlighted on-going efforts to determine if foreign fighters of the so-called Islamic State whose nationality puts them within the ICC's jurisdiction were sufficiently responsible enough to warrant investigation by the Court. He also confirmed that the ICC was continuing to look into whether alleged atrocity crimes committed by the Islamic State in Libya - where the Court [does have jurisdiction](http://www.aba-icc.org/country/libya/) pursuant to an U.N. Security Council referral - could lead to a formal investigation.
 
-The moderator of the panel briefing was Professor [Susana SáCouto](https://www.wcl.american.edu/faculty/sacouto/), Director of the [War Crimes Research Office](https://www.wcl.american.edu/warcrimes/) at the American University Washington College of Law. Prof. SáCouto oversaw numerous and insightful questions from the audience that included congressional staffers, representatives from various non-governmental organizations, and the general public.
+The moderator of the panel briefing was Professor [Susana S&aacute;Couto](https://www.wcl.american.edu/faculty/sacouto/), Director of the [War Crimes Research Office](https://www.wcl.american.edu/warcrimes/) at the American University Washington College of Law. Prof. S&aacute;Couto oversaw numerous and insightful questions from the audience that included congressional staffers, representatives from various non-governmental organizations, and the general public.
 
 Sponsors of the panel briefing were Parliamentarians for Global Action, War Crimes Research Office at American University Washington College of Law, American Bar Association's International Criminal Court Project and the [Washington Working Group on the International Criminal Court](http://washingtonicc.org/).
 
-<figure data-type="embed">[![Congressional Briefing: “Seeking Justice for Atrocities: How the International Criminal Court Could Advance Accountability in Iraq and Syria.”](https://farm2.staticflickr.com/1569/25062791421_2bcca08aee_k.jpg)](https://www.flickr.com/photos/100958218@N06/albums/72157664716080602 "Congressional Briefing: “Seeking Justice for Atrocities: How the International Criminal Court Could Advance Accountability in Iraq and Syria.”")</figure>
-
+<figure data-type="embed">https://www.flickr.com/photos/100958218@N06/albums/72157664716080602&nbsp;</figure>

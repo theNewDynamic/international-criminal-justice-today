@@ -15,6 +15,15 @@
 				<small>
 					{% include _article-contributor.html %} <br />
 				</small>
+				{% if object.featured %}
+
+				{% if object.description %}
+					{{ object.description | truncate: 140 | markdownify  }}
+
+				{% endif %}
+				{% endif %}
+
+
 
 		  </div>
 

@@ -32,7 +32,7 @@ The massive crimes committed in Syria demand a comprehensive and thorough soluti
 
 Signed by:
 
-Professor M. Cherif Bassiouni
+[Professor M. Cherif Bassiouni](https://www.aba-icc.org/board-of-advisors/prof-mcherif-bassiouni/)
 
 Honorable Judge Thomas Buergenthal
 

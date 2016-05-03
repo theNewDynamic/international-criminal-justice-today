@@ -1,8 +1,10 @@
 ---
-title: Members of the Board of Advisors
+title: "Members of the ABA's ICC Project Board of Advisors"
 published: true
-last_name: Koenig
+last_name: Board
 description:
-image_path: /uploads/1434895282357_icjt-arguendo-alex-koenig.jpg
-slug: alexa-koenig
+image_path:
+slug: project-board
 ---
+
+

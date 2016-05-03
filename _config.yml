@@ -125,13 +125,3 @@ defaults:
    values:
     layout: page
     include_in_news: true
-
-compress_html:
-#  clippings: all
-  comments: ["<!-- ", " -->"]
-#  endings: all
-#  ignore:
-#    envs: [development]
-#  blanklines: false
-#  profile: true
-#  startings: [html, head, body]

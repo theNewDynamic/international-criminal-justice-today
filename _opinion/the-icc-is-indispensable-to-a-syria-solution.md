@@ -38,7 +38,7 @@ Signed by:
 
 [Professor Donald M. Ferencz](https://www.aba-icc.org/board-of-advisors/prof-donald-m-ferencz/)
 
-[Honorable Justice Richard Goldstone](https://www.aba-icc.org/board-of-advisors/hon-richard-j-goldstone/)
+[Honorable Justice Richard J. Goldstone](https://www.aba-icc.org/board-of-advisors/hon-richard-j-goldstone/)
 
 [Honorable Ambassador Thomas Graham Jr.](https://www.aba-icc.org/board-of-advisors/hon-thomas-graham-jr/)
 

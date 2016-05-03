@@ -5,7 +5,7 @@ date: 2016-05-03T12:00:00.000Z
 category: news
 contributors:
   - members-of-the-board-of-advisors
-description:
+description: The ICC is a permanent and central part of the international landscape and should be a part of any effort to combat impunity in Syria.
 pull_quote: '[T]he House’s rejection of a role for the ICC is both bad policy and contrary to the US’s approach to the ICC under both the Obama and Bush administrations.'
 pull_quote_attribution:
 featured_image_path: /maxresdefault (1).jpg

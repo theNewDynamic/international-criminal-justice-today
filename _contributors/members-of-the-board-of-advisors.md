@@ -4,7 +4,7 @@ published: true
 last_name: Board
 description:
 image_path:
-slug: project-board
+slug: members-of-the-board-of-advisors
 ---
 
 

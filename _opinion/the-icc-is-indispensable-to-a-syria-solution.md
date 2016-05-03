@@ -50,7 +50,7 @@ Signed by:
 
 [Dr. Claudia Paz y Paz](https://www.aba-icc.org/board-of-advisors/dr-claudia-paz-y-paz/)
 
-[Honorable Ambassador Stephen Rapp](https://www.aba-icc.org/board-of-advisors/hon-stephen-j-rapp/)
+[Honorable Ambassador Stephen J. Rapp](https://www.aba-icc.org/board-of-advisors/hon-stephen-j-rapp/)
 
 [Honorable Ambassador David Scheffer](https://www.aba-icc.org/board-of-advisors/hon-david-scheffer/)
 

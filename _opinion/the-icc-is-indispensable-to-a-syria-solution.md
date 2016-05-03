@@ -1,6 +1,7 @@
 ---
 title: The ICC is Indispensable to a Syria Solution
 published: true
+featured: true
 date: 2016-05-03T12:00:00.000Z
 category: news
 contributors:

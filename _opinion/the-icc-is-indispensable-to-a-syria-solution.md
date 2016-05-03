@@ -34,23 +34,23 @@ Signed by:
 
 [Professor M. Cherif Bassiouni](https://www.aba-icc.org/board-of-advisors/prof-mcherif-bassiouni/)
 
-Honorable Judge Thomas Buergenthal
+[Honorable Judge Thomas Buergenthal](https://www.aba-icc.org/board-of-advisors/hon-thomas-buergenthal/)
 
-Honorable Hans Corell
+[Honorable Hans Corell](https://www.aba-icc.org/board-of-advisors/hon-hans-corell/)
 
-Professor Donald M. Ferencz
+[Professor Donald M. Ferencz](https://www.aba-icc.org/board-of-advisors/prof-donald-m-ferencz/)
 
-Honorable Justice Richard Goldstone
+[Honorable Justice Richard Goldstone](https://www.aba-icc.org/board-of-advisors/hon-richard-j-goldstone/)
 
-Honorable Ambassador Thomas Graham Jr.
+[Honorable Ambassador Thomas Graham Jr.](https://www.aba-icc.org/board-of-advisors/hon-thomas-graham-jr/)
 
-Michael S. Greco
+[Michael S. Greco](https://www.aba-icc.org/board-of-advisors/michael-s-greco/)
 
-Honorable Judge Gabrielle McDonald
+[Honorable Judge Gabrielle Anne Kirk McDonald](https://www.aba-icc.org/board-of-advisors/hon-gabrielle-anne-kirk-mcdonald/)
 
-Professor Michael Newton
+[Professor Michael Newton](https://www.aba-icc.org/board-of-advisors/prof-michael-newton/)
 
-Dr. Claudia Paz y Paz
+[Dr. Claudia Paz y Paz](https://www.aba-icc.org/board-of-advisors/dr-claudia-paz-y-paz/)
 
 Honorable Ambassador Stephen Rapp
 

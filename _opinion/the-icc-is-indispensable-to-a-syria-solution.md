@@ -1,8 +1,8 @@
 ---
 title: The ICC is Indispensable to a Syria Solution
-published: true
+published: false
 date: 2016-05-01T12:00:00.000Z
-category:
+category: news
 contributors:
 description:
 pull_quote:
@@ -52,12 +52,12 @@ Signed by:
 
 [Dr. Claudia Paz y Paz](https://www.aba-icc.org/board-of-advisors/dr-claudia-paz-y-paz/)
 
-Honorable Ambassador Stephen Rapp
+[Honorable Ambassador Stephen Rapp](https://www.aba-icc.org/board-of-advisors/hon-stephen-j-rapp/)
 
-Ambassador David Scheffer
+[Honorable Ambassador David Scheffer](https://www.aba-icc.org/board-of-advisors/hon-david-scheffer/)
 
-Honorable Ambassador Thomas Siebert
+[Honorable Ambassador Thomas Siebert](https://www.aba-icc.org/board-of-advisors/hon-thomas-siebert/)
 
-Honorable Judge Patricia Wald
+[Honorable Judge Patricia Wald](https://www.aba-icc.org/board-of-advisors/hon-patricia-wald/)
 
-Professor Alex Whiting
+[Professor Alex Whiting](https://www.aba-icc.org/board-of-advisors/alex-whiting/)

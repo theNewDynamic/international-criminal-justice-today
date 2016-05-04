@@ -7,10 +7,10 @@ layout: null
 {% endif %}
 
 
-{"name":"{{ post_title }}","allday":"{{ post.allday }}",
+{"title":"{{ post_title }}",
 "date":"{{ post.date | date: "%Y-%m-%d"  | downcase }} 12:00:00 -0400",
-"url":"{{ site.url }}{{ post.url }}",
+"recap_link":"{{ site.url }}{{ post.url }}",
 "category": "{{ post.category }}",
-"description":"{{ post.description | markdownify | strip_newlines }}",
+"content":"{{ post.description | markdownify | strip_newlines }}",
 "featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"}
 {% endfor %}]}

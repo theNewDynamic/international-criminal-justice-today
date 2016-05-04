@@ -14,3 +14,8 @@ layout: null
 "content":"{{ post.description | markdownify | strip_newlines }}"{% if post.featured_image_path  %},
 "featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"{% endif %}}
 {% endfor %}]}
+{% comment %}
+need to add in events.
+find a way to publish other site if this updated
+and deploy where we can use plugins
+{% endcomment %}

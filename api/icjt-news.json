@@ -1,0 +1,16 @@
+---
+layout: null
+---
+{"news": [{% assign first = true %}{% for post in site.news reversed %}{% if first == false %},{% endif %}{% if first == true %}{% assign first = false %}{% endif %}
+{% if post.title %}
+	{% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
+{% endif %}
+
+
+{"name":"{{ post_title }}","allday":"{{ post.allday }}",
+"date":"{{ post.date | date: "%Y-%m-%d"  | downcase }} 12:00:00 -0400",
+"url":"{{ site.url }}{{ post.url }}",
+"category": "{{ post.category }}",
+"description":"{{ post.description | markdownify | strip_newlines }}",
+"featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"}
+{% endfor %}]}

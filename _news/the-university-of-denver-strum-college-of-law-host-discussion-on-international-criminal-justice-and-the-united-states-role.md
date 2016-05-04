@@ -3,7 +3,7 @@ title: "The University of Denver Strum College of Law Host Discussion on Interna
 published: true
 date: 2014-02-20T17:12:00.000Z
 category: news
-description: "The University of Denver Sturm College of Law (DU Law) will welcome Mr. Kip Hale, senior counsel at the American Bar Association (ABA) Center for Human Rights and director of the ABA’s International Criminal Court (ICC) Project, to speak on international criminal justice and the United States’ past, present, and future role in the field."
+description: "The University of Denver Sturm College of Law (DU Law) will welcome Mr. Kip Hale, senior counsel at the American Bar Association (ABA) Center for Human Rights, and director of the ABA’s International Criminal Court (ICC) Project, to speak on international criminal justice and the United States’ past, present, and future role in the field."
 pull_quote:
 pull_quote_attribution:
 featured_image_path:

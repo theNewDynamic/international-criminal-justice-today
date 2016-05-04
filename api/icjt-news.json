@@ -11,6 +11,6 @@ layout: null
 "date":"{{ post.date | date: "%Y-%m-%d"  | downcase }} 12:00:00 -0400",
 "recap_link":"{{ site.url }}{{ post.url }}",
 "category": "{{ post.category }}",
-"content":"{{ post.description | markdownify | strip_newlines }}",
-"featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"}
+"content":"{{ post.description | markdownify | strip_newlines }}"{% if post.featured_image_path  %},
+"featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"{% endif %}}
 {% endfor %}]}

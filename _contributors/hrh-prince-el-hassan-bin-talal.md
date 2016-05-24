@@ -3,7 +3,7 @@ title: HRH Prince El Hassan bin Talal
 published: false
 last_name:
 description:
-image_path: /_contributors/hrh.png
+image_path: /uploads/hrh.png
 slug:
 ---
 

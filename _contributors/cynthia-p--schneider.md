@@ -1,10 +1,10 @@
 ---
 title: Cynthia P. Schneider
 published: false
-last_name: Koenig
+last_name: Schneider
 description:
-image_path: /uploads/1434895282357_icjt-arguendo-alex-koenig.jpg
-slug: alexa-koenig
+image_path:
+slug:
 ---
 
 

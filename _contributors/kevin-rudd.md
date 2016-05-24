@@ -3,7 +3,7 @@ title: Kevin Rudd
 published: false
 last_name: Rudd
 description:
-image_path: /_contributors/kevinrudd.jpg
+image_path: /uploads/kevinrudd.jpg
 slug: kevin-rudd
 ---
 

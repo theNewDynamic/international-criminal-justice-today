@@ -1,9 +1,9 @@
 ---
 title: Irina Bokova
 published: false
-last_name:
+last_name: Bokova
 description:
-image_path:
+image_path: /uploads/irinabokova.jpg
 slug:
 ---
 

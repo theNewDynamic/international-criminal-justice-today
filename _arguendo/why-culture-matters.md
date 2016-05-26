@@ -10,10 +10,10 @@ slug:
 ---
 
 
-*Salt comes from the north, gold from the south, and silver from the country
-<br>Of the white men, but the word of God and the treasures of&nbsp;
-<br>Wisdom are only to be found in Timbuktu.&nbsp;*
-<br>[—West African proverb](http://www.brookings.edu/blogs/up-front/posts/2014/06/10-timbuktu-music-heritage-culture-mali-schneider)
+> *Salt comes from the north, gold from the south, and silver from the country
+> <br>Of the white men, but the word of God and the treasures of&nbsp;
+> <br>Wisdom are only to be found in Timbuktu.&nbsp;*
+> <br>[—West African proverb](http://www.brookings.edu/blogs/up-front/posts/2014/06/10-timbuktu-music-heritage-culture-mali-schneider)
 
 The International Criminal Court has taken a critical step in protecting the “wisdom” of Timbuktu, and, by extension, providing legal protection for cultural heritage everywhere. &nbsp;In a historic case, the ICC will try Ahmad al-Faqi-al-Mahdi as a war criminal for allegedly causing damage to a mosque, shrines, and manuscripts in Timbuktu.&nbsp; For the first time, the destruction of cultural heritage will be considered by ICC judges as a war crime, setting a precedent with far-reaching ramifications. Mark Ellis, chief executive of International Bar Association, [captured](http://www.theguardian.com/law/2016/feb/28/iccs-first-cultural-destruction-trial-to-open-in-the-hague) the significance of the ICC’s action: “ ….the destruction of cultural heritage is not a second-rate crime. It’s part of an atrocity to erase a people. I hope it will act as a deterrent to similar acts in other countries.”
 

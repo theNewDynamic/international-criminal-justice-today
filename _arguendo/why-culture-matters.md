@@ -31,7 +31,11 @@ But the invaders did serious damage to the shrines in the cemetery at the entran
 
 For Manny Ansar, founding Director of Timbuktu’s renowned *Festival Au Desert*, which drew thousands of fans and musicians including Bono, Jimmy Buffet, and Robert Plant to listen to and jam with Mali’s music greats, the mausoleums represent a historic symbol of his cultural patrimony. The origin of the mausoleums stems from Timbuktu’s nomadic past, when Bedouins would mark the graves of important figures with large stones so that worshippers could find the spot amidst the vast shifting sands of the desert.
 
-The buildings themselves—simple, unadorned mud brick buildings—are unimpressive architecturally.But it is the symbolic value of the shrines as the living testaments to Timbuktu’s history that matters to the local inhabitants.&nbsp; Attacking the shrines was like attacking the ancestors of the Timbuktuans.
+The buildings themselves—simple, unadorned mud brick buildings—are unimpressive architecturally. But it is the symbolic value of the shrines as the living testaments to Timbuktu’s history that matters to the local inhabitants.&nbsp; Attacking the shrines was like attacking the ancestors of the Timbuktuans.
+<br>
+<br>![](/uploads/versions/cps---x----3264-2448x---.jpg)
+
+> ###### Ambassador Schneider, third from right, with the guides,&nbsp; historians,&nbsp; and&nbsp; traditional builders&nbsp; from&nbsp; Timbuktu in front of the shrine they restored.
 
 Fortunately, Irina Bokova, Secretary General of UNESCO (who has also contributed an article to this *Arguendo* roundtable), understood the value of these simple structures to the traumatized inhabitants of Timbuktu, not to mention the world. She [noted](http://www.cnn.com/2012/07/02/opinion/unesco-mali-opinion/) that “[a]ttacks against cultural heritage are attacks against the very identity of communities. Attacks on the past make reconciliation much harder in the future.”&nbsp; Bokova raised funds from a host of international donors to have the shrines rebuilt, following traditional techniques. Together with the Imam of the Djinguereber mosque, she celebrated the inauguration of the reconstructed shrines in July of 2015.&nbsp;
 
@@ -40,3 +44,5 @@ Rebuilding the shrines represents an important first step towards restoring Timb
 For the people of Timbuktu, culture is as important as the air they breathe. When told of the occupiers’ ban against music, Fadimata Walet Oumar, lead singer of the Tuareg musical group *Tartit*, [declared](http://www.theywillhavetokillusfirst.com/), “[t]hey’ll have to kill us first.”&nbsp; Manny Ansar informed&nbsp; me that although some in Timbuktu find it strange that a trial about cultural heritage is taking place before anyone has been held accountable for the human rights abuses during the occupation, Timbuktuans, nonetheless, welcome the global recognition of the seminal importance of their city’s knowledge, culture, and art that bringing Ahmad al-Faqi-al-Mahdi to justice provides.&nbsp;
 
 As the world’s cultural heritage is being systematically attacked by ISIS, the ICC case against Ahmad al-Faqi-al-Mahdi sets an essential precedent. Hopefully, other perpetrators will be captured, and still more will be deterred before more irreplaceable testimonies to our civilization are destroyed.
+
+![](/uploads/versions/cartoon---x----610-404x---.jpg)

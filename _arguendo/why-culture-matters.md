@@ -10,7 +10,7 @@ slug:
 ---
 
 
-*Salt comes from the north, gold from the south, and silver from the country\*\*
+*Salt comes from the north, gold from the south, and silver from the country
 <br>Of the white men, but the word of God and the treasures of&nbsp;
 <br>Wisdom are only to be found in Timbuktu.&nbsp;*
 <br>[—West African proverb](http://www.brookings.edu/blogs/up-front/posts/2014/06/10-timbuktu-music-heritage-culture-mali-schneider)

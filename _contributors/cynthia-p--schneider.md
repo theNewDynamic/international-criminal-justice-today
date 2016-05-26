@@ -3,7 +3,7 @@ title: Cynthia P. Schneider
 published: false
 last_name: Schneider
 description:
-image_path:
+image_path: /uploads/cynthia-schneider_0.jpg
 slug: cynthia-schneider
 ---
 

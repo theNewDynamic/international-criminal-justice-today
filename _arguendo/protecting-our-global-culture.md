@@ -1,10 +1,12 @@
 ---
 title: Protecting our Global Culture
-published: true
+published: false
 date: 2014-11-21T15:17:00.000Z
-arguendo-question: african-union-and-international-criminal-justice-where-does-it-go-from-here
+arguendo-question: what-is-the-significance-of-the-iccs-war-crime-charges-of-attacks-on-cultural-property-in-mali
 contributors:
-  - professor-m-kamari-clarke
+  - kevin-rudd
 description:
-slug: accountability-and-the-expansion-of-the-criminal-jurisdiction-of-the-african-court
+slug:
 ---
+
+

@@ -2,7 +2,7 @@
 title: November 2015 Ipsos Polling Results
 published: true
 date: 2015-11-25T16:37:00.000Z
-description: Research finds a slow but steady trend over the past two years in favor of greater US involvement in the ICC.
+description: 'Research finds a slow but steady trend over the past two years in favor of greater U.S. involvement in the International Criminal Court (ICC), with public support for international arrest warrants for Heads of State.'
 video:
 embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/dYQQ8aeP79MuRg' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
 featured_image_path: /uploads/bashir.jpg
@@ -10,13 +10,7 @@ slug: november-2015-ipsos-polling-data
 ---
 
 
-### Stable Awareness of the Work of the International Criminal Court (ICC), with Early Indicators of Increasing American Support for ICC Membership
-
-##### And Public Support for International Arrest Warrants for Heads of State, Regardless of Immunity Laws
-
----
-
-The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows no significant shift in American knowledge concerning the ICC and its work. Nearly two-thirds (63%) of Americans report knowing “nothing at all” about the ICC when asked, and 15% of US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge is fairly consistent across demographic groups, with younger people slightly more likely to indicate they know more about the ICC.
+<br>The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows no significant shift in American knowledge concerning the ICC and its work. Nearly two-thirds (63%) of Americans report knowing “nothing at all” about the ICC when asked, and 15% of US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge is fairly consistent across demographic groups, with younger people slightly more likely to indicate they know more about the ICC.
 
 Almost two-thirds (64%) indicate that they ‘don’t know’ if the United States is a current member of the ICC, although this halves to under a third (31%) among those individuals who know at least a little bit about the ICC.
 
@@ -50,7 +44,7 @@ The second question focused on the issue of Bashir and his visit to South Africa
 
 ---
 
-[[1]](file:///C:/Users/ABALoaner/Downloads/Ipsos%20ABA%20ICC%20Factum%2011.21.15.docx#_ftnref1)The ICC was subsequently defined for respondents as follows: The International Criminal Court (ICC) is the world’s only permanent international tribunal created by a treaty for the purpose of investigating and prosecuting war crimes, genocide, and crimes against humanity (mass atrocities). Currently, 123 countries are members of the International Criminal Court. The United States formally announced in 2002 that it would not become a member of the International Criminal Court for a multitude of reasons, including questions about the court’s jurisdiction and structure.
+[[1]](file:///C:/Users/ABALoaner/Downloads/Ipsos%20ABA%20ICC%20Factum%2011.21.15.docx#_ftnref1) The ICC was subsequently defined for respondents as follows: The International Criminal Court (ICC) is the world’s only permanent international tribunal created by a treaty for the purpose of investigating and prosecuting war crimes, genocide, and crimes against humanity (mass atrocities). Currently, 123 countries are members of the International Criminal Court. The United States formally announced in 2002 that it would not become a member of the International Criminal Court for a multitude of reasons, including questions about the court’s jurisdiction and structure.
 <br>&nbsp;
 
 **Methodology and Technical Details**

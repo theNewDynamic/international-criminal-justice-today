@@ -5,7 +5,7 @@ date: 2014-02-17T17:07:00.000Z
 description: 'Among Americans with knowledge of the International Criminal Court, desire for more support, but unsure if the U.S. should join the Court.'
 video:
 embed_deck:
-featured_image_path:
+featured_image_path: /uploads/uhuruto110214.jpg
 slug: february-2014-ipsos-polling-data
 ---
 

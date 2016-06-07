@@ -4,7 +4,7 @@ published: true
 date: 2015-11-25T16:37:00.000Z
 description: Research finds a slow but steady trend over the past two years in favor of greater US involvement in the ICC.
 video:
-embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/NXeSz3A0crYm3c' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
+embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/dYQQ8aeP79MuRg' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
 featured_image_path: /uploads/bashir.jpg
 slug: november-2015-ipsos-polling-data
 ---

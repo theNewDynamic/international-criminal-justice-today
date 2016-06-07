@@ -4,7 +4,7 @@ published: true
 date: 2015-11-25T16:37:00.000Z
 description: Research finds a slow but steady trend over the past two years in favor of greater US involvement in the ICC.
 video:
-embed_deck: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/NXeSz3A0crYm3c" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ElizabethWhite54/aba-icc-november-2015" title="ABA ICC November 2015" target="_blank">ABA ICC November 2015</a> </strong> from <strong><a href="//www.slideshare.net/ElizabethWhite54" target="_blank">Elizabeth White</a></strong> </div>'
+embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/ABST54jO0uvtWR' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
 featured_image_path: /uploads/bashir.jpg
 slug: november-2015-ipsos-polling-data
 ---

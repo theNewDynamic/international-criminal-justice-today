@@ -33,8 +33,7 @@ Almost one half (44%) of those familiar with the ICC believe that the United Sta
 Before their election to high office in Kenya in 2013, the Prosecutor of the International Criminal Court (ICC) charged President Uhuru Kenyatta and Deputy President William Ruto for participation in mass atrocities after Kenya’s violent elections of 2008. Both men have argued that they deserve temporary immunity from prosecution while in office. Both the American public and those aware of the ICC believe strongly (63% and 66%, respectively) that sitting Heads of State should not have immunity during their time in office.
 
 Additionally, both the President and Deputy President have maintained that they should be able to participate in their trial at the ICC either through video conference or through their attorneys, due to the nature of their positions. Over one half of the US public and those with stronger knowledge of the ICC believe that the individuals should be required to attend their trials in person (51% and 58%, respectively). While nearly six in ten with more knowledge of Court believe that these individuals should be required to attend their trials in person, almost one quarter (24%) believe that they should be able to attend via video conference, compared with less than two in ten (18%) members of the American public.
-
----
+<br>&nbsp;
 
 **Methodology and Technical Details**
 

@@ -2,10 +2,10 @@
 title: November 2015 Ipsos Polling Results
 published: true
 date: 2015-11-25T16:37:00.000Z
-description: 'Research finds a slow but steady trend over the past two years in favor of greater US involvement in the ICC. '
+description: Research finds a slow but steady trend over the past two years in favor of greater US involvement in the ICC.
 video:
 embed_deck:
-featured_image_path:
+featured_image_path: /uploads/bashir.jpg
 slug: november-2015-ipsos-polling-data
 ---
 
@@ -15,8 +15,6 @@ slug: november-2015-ipsos-polling-data
 ##### And Public Support for International Arrest Warrants for Heads of State, Regardless of Immunity Laws
 
 ---
-
-![](/uploads/image-ipsos.jpg)
 
 The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows no significant shift in American knowledge concerning the ICC and its work. Nearly two-thirds (63%) of Americans report knowing “nothing at all” about the ICC when asked, and 15% of US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge is fairly consistent across demographic groups, with younger people slightly more likely to indicate they know more about the ICC.
 

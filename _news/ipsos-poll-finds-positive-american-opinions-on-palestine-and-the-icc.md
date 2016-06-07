@@ -16,7 +16,7 @@ Washington, D.C., April 13, 2015 – Today, the ABA’s ICC Project released the
 
 ---
 
-For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](http://bit.ly/1yk3r93).
+For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](https://www.international-criminal-justice-today.org/polling-data/2015/04/12/april-2015-ipsos-polling-data/).
 
 ---
 

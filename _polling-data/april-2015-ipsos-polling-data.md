@@ -41,8 +41,7 @@ A quarter (24%) of Americans believe that Palestine’s membership at the ICC ad
 The survey also asked Americans to respond on the question of short- and long-term impacts on the peace process of possible ICC investigation of atrocity crime allegations committed as part of the Israel-Palestine conflict. On balance, 48% of the public think that investigations into conflict incidents will have a good or neutral impact on the peace process in the long term, but the figure is lower (43%) for the short term.
 
 And when asked explicitly whether they believe Palestine’s membership will help or hurt the peace process, more than half (53%) say they don’t know, and the remainder are equally divided between ‘help’ (24%) and ‘hurt’ (23%).
-
----
+<br>&nbsp;
 
 **Methodology and Technical Details**
 

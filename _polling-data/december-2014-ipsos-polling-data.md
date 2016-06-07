@@ -2,7 +2,7 @@
 title: December 2014 Ipsos Polling Results
 published: true
 date: 2014-12-08T17:49:00.000Z
-description: Americans Continue to Support Involvement with the International Criminal Court (ICC)
+description: 'Americans continue to support involvement with the International Criminal Court (ICC), with some opposition to the U.S. becoming a full member of the Court.'
 youtube_video_id:
 embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/ABST54jO0uvtWR' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
 featured_image_path: /uploads/isis flag.jpg
@@ -10,15 +10,7 @@ slug: december-2014-ipsos-polling-data
 ---
 
 
-### Americans Continue to Support Involvement with the International Criminal Court (ICC)
-
----
-
-##### Despite this Support, Some Oppose the US Becoming a Full Member of the Court
-
----
-
-Americans continue to have fairly low self-reported knowledge of the International Criminal Court (ICC) and its work, although they also show a clear tendency to support the general tenets of the organization, according to a new survey of over 1,000 US adults conducted on behalf of the American Bar Association. When asked what they know about the ICC, over half of Americans (64%) report knowing “nothing at all” about it, while just over one in ten (15%) report knowing a great deal or a fair amount about the ICC.
+<br>Americans continue to have fairly low self-reported knowledge of the International Criminal Court (ICC) and its work, although they also show a clear tendency to support the general tenets of the organization, according to a new survey of over 1,000 US adults conducted on behalf of the American Bar Association. When asked what they know about the ICC, over half of Americans (64%) report knowing “nothing at all” about it, while just over one in ten (15%) report knowing a great deal or a fair amount about the ICC.
 
 Almost three in five (59%) indicate that they ‘don’t know’ if the US is a current member of the ICC during this wave of the study. Of those individuals who know at least a little bit about the ICC, nearly two thirds (63%) believe that the United States is currently a member, up slightly from a similar study conducted in February (52%).
 

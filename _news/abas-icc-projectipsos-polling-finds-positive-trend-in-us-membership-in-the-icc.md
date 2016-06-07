@@ -18,7 +18,7 @@ This most recent poll also asked Americans about South Africa's - an ICC State P
 
 ---
 
-For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](http://bit.ly/1Hndpva).
+For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](https://www.international-criminal-justice-today.org/polling-data/2015/11/25/november-2015-ipsos-polling-data/).
 
 ---
 

@@ -5,7 +5,7 @@ featured: false
 date: 2016-04-01T12:00:00.000Z
 description:
 video:
-embed_deck:
+embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/A9ytFtUVUqiUOu' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
 featured_image_path: /uploads/bemba-tc.jpg
 ---
 

@@ -20,7 +20,7 @@ The latest survey of over 1,000 US adults conducted on behalf of the American Ba
 
 Almost two-thirds (64%) indicate that they ‘don’t know’ if the United States is a current member of the ICC, although this halves to under a third (31%) among those individuals who know at least a little bit about the ICC.
 
-*Perceptions of the Court and US Membership*
+##### *Perceptions of the Court and US Membership*
 
 This fourth wave of the research does find that there has been a slow but steady trend over the past two years towards increasing US involvement in the ICC. The wave-to-wave changes are too small to be statistically significant on their own, but the shift in attitudes over time is notable in the chart overleaf. Indeed, the percent of Americans who agree that “the US should become more engaged and involved in the ICC without becoming a member by making all forms of our vast governmental resources available to support the work of the ICC” has shifted from 28% in February 2014 to 33%, a steady increase over the past two years.
 
@@ -30,7 +30,7 @@ While these findings are *indicative only* and should be treated with caution, t
 
 ![Trend on U.S. Membership in the ICC](/uploads/1448469265939_Ipsos_Tracking_US-ICC.png)
 
-*Trend on U.S. Membership in the ICC*
+##### *Trend on U.S. Membership in the ICC*
 
 Notwithstanding their lack of familiarity with the ICC,[[1]](file:///C:/Users/ABALoaner/Downloads/Ipsos%20ABA%20ICC%20Factum%2011.21.15.docx#_ftn1) Americans remain very supportive of the idea of the United States being involved with international institutions that have a direct impact on human rights and provide justice for those who commit mass atrocities. A majority (60%) agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities.”
 
@@ -40,7 +40,7 @@ However, concerns do exist, with a quarter (24%) expressing concern that “join
 
 In addition, one in five (20%) simply do not agree that it is in “our best interests to dedicate US resources (financial, military, intelligence, etc.)” to supporting the work of the ICC.
 
-*International Arrest Warrants and the African Union Conference*
+##### *International Arrest Warrants and the African Union Conference*
 
 This wave of the survey asked two questions focused on the issue of the ICC’s arrest warrant for the President of Sudan, Omar al-Bashir for his alleged participation in genocide and other international atrocity crimes in Darfur, and his attendance at the African Union Conference and the immunity from arrest he received there as a visiting Head of State.
 
@@ -54,7 +54,7 @@ The second question focused on the issue of Bashir and his visit to South Africa
 
 ---
 
-Methodology and Technical Details
+**Methodology and Technical Details**
 
 *-These are some of the findings of an Ipsos poll conducted on behalf of the American Bar Association from April 2-6, 2015. The previous waves of the study were conducted from February 21-24, 2014 and from December 4-8, 2014. For these surveys, Ipsos undertook online surveys of 1,005; 1,005; and 1,004 adults, respectively. Weighting then employed to balance demographics and ensure that the sample’s composition reflects that of the U.S. adult population according to Census data and to provide results intended to approximate the sample universe. Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio. The credibility interval for a sample size of 1,004 is +3.5 percentage points. All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error. [appendix](http://www.international-criminal-justice-today.org/ipsos-appendix/).*
 
@@ -64,4 +64,4 @@ Methodology and Technical Details
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.* *- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*February 2014 &copy; 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

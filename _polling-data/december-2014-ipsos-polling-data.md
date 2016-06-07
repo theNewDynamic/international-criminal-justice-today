@@ -5,7 +5,7 @@ date: 2014-12-08T17:49:00.000Z
 description: Americans Continue to Support Involvement with the International Criminal Court (ICC)
 youtube_video_id:
 embed_deck:
-featured_image_path:
+featured_image_path: /uploads/isis flag.jpg
 slug: december-2014-ipsos-polling-data
 ---
 

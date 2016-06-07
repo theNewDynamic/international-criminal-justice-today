@@ -10,7 +10,7 @@ slug: april-2015-ipsos-polling-data
 ---
 
 
-According to the latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project, Americans are continuing to report a lack of knowledge concerning the ICC and its work. Nearly three-fifths (59%) of Americans report knowing “nothing at all” about the ICC when asked, and just over one in ten US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge spans educations levels with both college educated and non-degree holders reporting a fairly low level of knowledge. However, almost one in five (19%) of 18-34 year old
+According to the latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project, Americans are continuing to report a lack of knowledge concerning the ICC and its work. Nearly three-fifths (59%) of Americans report knowing “nothing at all” about the ICC when asked, and just over one in ten US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge spans educations levels with both college educated and non-degree holders reporting a fairly low level of knowledge.
 
 ##### *Perceptions of the Court and Its Work*
 

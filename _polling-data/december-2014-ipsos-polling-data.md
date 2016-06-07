@@ -41,8 +41,7 @@ The International Criminal Court is investigating whether charges can be brought
 Despite these laws, a majority of Americans that have some knowledge of the ICC (55%) support amending US law to allow for the allocations of funds to the ICC to assist in ISIS/The Islamic State investigations, while 28% believe that the US should not get involved in prosecuting individuals who have committed atrocity crimes as part of ISIS/The Islamic State. Among the general public, support for amending laws to allow the US to find the ICC is slightly lower (42%).
 
 When framed differently – pointing out concerns that if the US was to assist the ICC, the Court may one day also target American citizens or citizens of our allies (such as Israel) – attitudes are similar. A majority (55%) of those familiar with the ICC still support the United States amending its current laws in order to help fun or assist in the potential investigations against ISIS/The Islamic State supporters, while 27% feel that the US shouldn’t get involved. Among the general public, support for changing US law to allow funding of the ICC shifts downward to just less than four out of ten (39%).
-
----
+<br>&nbsp;
 
 **Methodology and Technical Details**
 

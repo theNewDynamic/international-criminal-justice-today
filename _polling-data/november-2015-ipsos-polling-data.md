@@ -51,8 +51,7 @@ The second question focused on the issue of Bashir and his visit to South Africa
 ---
 
 [[1]](file:///C:/Users/ABALoaner/Downloads/Ipsos%20ABA%20ICC%20Factum%2011.21.15.docx#_ftnref1)The ICC was subsequently defined for respondents as follows: The International Criminal Court (ICC) is the world’s only permanent international tribunal created by a treaty for the purpose of investigating and prosecuting war crimes, genocide, and crimes against humanity (mass atrocities). Currently, 123 countries are members of the International Criminal Court. The United States formally announced in 2002 that it would not become a member of the International Criminal Court for a multitude of reasons, including questions about the court’s jurisdiction and structure.
-
----
+<br>&nbsp;
 
 **Methodology and Technical Details**
 

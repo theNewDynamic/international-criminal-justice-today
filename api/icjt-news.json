@@ -3,16 +3,17 @@ layout: null
 ---
 {"news": [{% assign first = true %}{% for post in site.news %}{% if first == false %},{% endif %}{% if first == true %}{% assign first = false %}{% endif %}
 {% if post.title %}
-	{% capture post_title %}{{post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
+	{% capture post_title %}{{ post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
 {% endif %}
 
 
-{"title":"{{ post_title }}",
-"date":"{{ post.date | date: "%Y-%m-%d"  | downcase }} 12:00:00 -0400",
-"recap_link":"{{ site.url }}{{ post.url }}",
-"category": "{{ post.category }}",
-"content":"{{ post.description | markdownify | strip_newlines }}"{% if post.featured_image_path  %},
-"featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"{% endif %}}
+{
+  {% if post_title %}"title":"{{ post_title }}",{% endif %}
+{% if post.date %}"date":"{{ post.date | date: "%Y-%m-%d"  | downcase }} 12:00:00 -0400",{% endif %}
+{% if site.url %}"recap_link":"{{ site.url }}{{ post.url }}",{% endif %}
+{% if post.category %}"category": "{{ post.category }}",{% endif %}
+{% if post.description %}"content":"{{ post.description | markdownify | strip_newlines }}"{% if post.featured_image_path  %},{% endif %}
+{% if site.url %}"featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"{% endif %}{% endif %}}
 {% endfor %}]}
 {% comment %}
 need to add in events.

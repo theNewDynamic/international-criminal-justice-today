@@ -26,21 +26,13 @@ Furthermore, over half (53%, up from 47% and 48% in the last two waves) of Ameri
 
 The survey also explored possible reasons for opposition to the work of the ICC among the American public. Only one in five Americans (20%) agree that “joining international organizations concerned with human rights and holding individuals accountable for mass atrocities is a risk to the US because it could hurt our autonomy”. Among those who are familiar with the ICC, this number rises to 30%. Men are more likely than women to have concerns about US autonomy, with 26% of men compared to 15% of women agreeing. The contrast is even starker when the data is filtered to just those who know something about the ICC: 36% of men agree that US autonomy would be threatened, compared to 20% of women.
 
----
-
 ##### *ICC Membership and the United States*
-
----
 
 Despite over half (53%) of all of those surveyed supporting the US dedicating resources to the organizations like the ICC, fewer than two in five (37%) support the United States becoming more involved or fully joining the ICC. Over two in five (43%) adults aged 18-34 support the US joining the ICC, compared to a third (34%) of those age 55+.
 
 Almost a quarter of Americans (23%) oppose US membership in the ICC. Opposition is higher among men (28%) than women (19%), and among older (29% of those 55+) compared to younger (one in five 18-54s) individuals. While there is some opposition to full membership, over two in five (43%) believe that the United States should continue to provide moderate resources to the court, like satellite photos, while not becoming a full member. Of those aware of the ICC, nearly one half (47%) support becoming more engaged with the ICC, including making federal government resources available, without becoming a full member of the Court.
 
----
-
 ##### *April 2015 Custom Questions: Palestine’s Membership and the ICC*
-
----
 
 As of April 1st, 2015, the Palestinian Authority became a member of the International Criminal Court. The United States and Israel have taken positions against the Palestinian Authority joining the ICC, stating that the Palestinian Authority’s lack of statehood makes it ineligible to join the ICC. Further, Israel believes that Palestinian Authority’s membership harms the peace process and contributes to the perceived politicization of the Court, while the Palestinians believe this is one step closer to rectify perceived injustices and to gaining statehood. As a result of Palestine’s membership, both Israel and Palestine are open to investigation for possible international atrocity crimes committed on Palestinian territory. However, because Israel is not a member of the ICC, it is not obligated to cooperate with the ICC.
 

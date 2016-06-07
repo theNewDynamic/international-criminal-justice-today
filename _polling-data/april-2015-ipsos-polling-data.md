@@ -2,17 +2,13 @@
 title: April 2015 Ipsos Polling Results
 published: true
 date: 2015-04-12T17:01:00.000Z
-description: "Increases in Americans' support for the International Criminal Court (ICC), as well as some support for Palestinian membership in the ICC."
+description: "Increases in Americans' support for the International Criminal Court (ICC), as well as some support for Palestinian membership in the Court."
 youtube_video_id:
 embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/py8mN45YjMJ4gt' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
 featured_image_path: /uploads/1436320456524_palestine.jpg
 slug: april-2015-ipsos-polling-data
 ---
 
-
-### Results show uptick in American opinions on the International Criminal Court (ICC), and signs of support for Palestinian membership in the ICC.
-
----
 
 According to the latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project, Americans are continuing to report a lack of knowledge concerning the ICC and its work. Nearly three-fifths (59%) of Americans report knowing “nothing at all” about the ICC when asked, and just over one in ten US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge spans educations levels with both college educated and non-degree holders reporting a fairly low level of knowledge. However, almost one in five (19%) of 18-34 year old
 

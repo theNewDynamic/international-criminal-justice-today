@@ -4,7 +4,7 @@ published: true
 date: 2014-12-08T17:49:00.000Z
 description: 'Americans continue to support involvement with the International Criminal Court (ICC), with some opposition to the U.S. becoming a full member of the Court.'
 youtube_video_id:
-embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/ABST54jO0uvtWR' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
+embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/25ii2ybxohnFM' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
 featured_image_path: /uploads/isis flag.jpg
 slug: december-2014-ipsos-polling-data
 ---
@@ -33,7 +33,7 @@ The International Criminal Court is investigating whether charges can be brought
 Despite these laws, a majority of Americans that have some knowledge of the ICC (55%) support amending US law to allow for the allocations of funds to the ICC to assist in ISIS/The Islamic State investigations, while 28% believe that the US should not get involved in prosecuting individuals who have committed atrocity crimes as part of ISIS/The Islamic State. Among the general public, support for amending laws to allow the US to find the ICC is slightly lower (42%).
 
 When framed differently – pointing out concerns that if the US was to assist the ICC, the Court may one day also target American citizens or citizens of our allies (such as Israel) – attitudes are similar. A majority (55%) of those familiar with the ICC still support the United States amending its current laws in order to help fun or assist in the potential investigations against ISIS/The Islamic State supporters, while 27% feel that the US shouldn’t get involved. Among the general public, support for changing US law to allow funding of the ICC shifts downward to just less than four out of ten (39%).
-<br>&nbsp;
+<br>
 
 **Methodology and Technical Details**
 
@@ -45,4 +45,4 @@ When framed differently – pointing out concerns that if the US was to assist t
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.* *- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*February 2014 &copy; 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

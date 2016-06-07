@@ -10,7 +10,7 @@ slug: february-2014-ipsos-polling-data
 ---
 
 
-### Americans Support Continued Involvement with the International Criminal Court
+### &nbsp;
 
 ---
 
@@ -22,21 +22,13 @@ Despite low knowledge of the ICC, support for the work of the Court is strong, a
 
 The survey also explored possible reasons for opposition to the work of the ICC among the American public, and in both cases fewer than a quarter of the population agreed with the statements tested. Support for these statements increased with knowledge about the ICC, but did not reach a majority. Just under a quarter (24%) agree that joining an organization like the ICC could hurt the United States’ autonomy, and this rises to two in five (39%) among Americans who report knowing more about the ICC. Similarly, one in five (21%) agree that it is “not in our best interests to dedicate US resources” to organizations like the ICC – and this rises to almost a third (30%) among those with more knowledge of the Court.
 
----
-
 ##### *ICC Membership and the United States*
-
----
 
 In addition, the survey examined support for American membership in the ICC. Support for the US becoming more involved or fully joining the ICC is just over one third (34%) among the American public. Among Americans who are more aware of the ICC, over half (52%) believe that the United States should be more involved or fully join the ICC. However, both the public at large and those with greater reported knowledge of the ICC have some reservations about joining. A quarter of each population believe that the United State should not fully join the ICC.
 
 Almost one half (44%) of those familiar with the ICC believe that the United States should become more involved in the ICC by providing more resources, but without becoming a full member of the court.
 
----
-
 ##### *February 2014 Custom Questions: Kenya Situation*
-
----
 
 Before their election to high office in Kenya in 2013, the Prosecutor of the International Criminal Court (ICC) charged President Uhuru Kenyatta and Deputy President William Ruto for participation in mass atrocities after Kenya’s violent elections of 2008. Both men have argued that they deserve temporary immunity from prosecution while in office. Both the American public and those aware of the ICC believe strongly (63% and 66%, respectively) that sitting Heads of State should not have immunity during their time in office.
 
@@ -54,6 +46,6 @@ Additionally, both the President and Deputy President have maintained that they 
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.* *- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*February 2014 &copy; 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
 
 ---

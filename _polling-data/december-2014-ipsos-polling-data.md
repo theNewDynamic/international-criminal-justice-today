@@ -4,7 +4,7 @@ published: true
 date: 2014-12-08T17:49:00.000Z
 description: 'Americans continue to support involvement with the International Criminal Court (ICC), with some opposition to the U.S. becoming a full member of the Court.'
 youtube_video_id:
-embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/25ii2ybxohnFM' width='595' height='485' frameborder='0' align=center marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
+embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/25ii2ybxohnFM' width='595' height='485' frameborder='0' align=middle marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
 featured_image_path: /uploads/isis flag.jpg
 slug: december-2014-ipsos-polling-data
 ---

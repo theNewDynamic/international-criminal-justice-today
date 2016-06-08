@@ -3,7 +3,7 @@ title: 2014 International Humanitarian Law Dialogs
 published: true
 date: 2014-08-24T16:38:00.000Z
 category: news
-description: 2014 International Humanitarian Law Dialogs
+description:
 pull_quote:
 pull_quote_attribution:
 featured_image_path:

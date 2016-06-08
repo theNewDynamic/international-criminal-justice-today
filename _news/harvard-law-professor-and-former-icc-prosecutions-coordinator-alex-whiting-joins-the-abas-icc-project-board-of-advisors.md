@@ -22,4 +22,4 @@ Prof. Whiting also has extensive domestic criminal experience as a U.S. federal 
 
 Prof. Whiting attended Yale College and Yale Law School, and clerked for Judge Eugene H. Nickerson of the Federal District Court for the Eastern District of New York.
 
-*The ABA's International Criminal Court Project is an independent initiative of the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) that advances international criminal justice and US-ICC relations through advocacy, education, and practical legal assistance. More information about the ABA's ICC Project can be found at its [website](http://www.aba-icc.org/).*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA's ICC Project can be found at its [website](http://www.aba-icc.org/).*

@@ -6,8 +6,8 @@ date: 2016-06-08T01:00:00.000Z
 category: news
 contributors:
 description:
-pull_quote:
-pull_quote_attribution: Over half of the US public believe that the ICC is a good example of female empowerment and a similar number believe that the United States should support the ICC because it is aligned with American values.
+pull_quote: Over half of the US public believe that the ICC is a good example of female empowerment and a similar number believe that the United States should support the ICC because it is aligned with American values.
+pull_quote_attribution:
 featured_image_path:
 featured_image_attribution:
 ---

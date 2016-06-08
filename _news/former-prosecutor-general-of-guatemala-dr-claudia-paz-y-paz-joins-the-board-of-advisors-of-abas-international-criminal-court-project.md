@@ -10,7 +10,7 @@ featured_image_path: /uploads/1449751712307_Claudia_Paz_y_Paz.jpg
 ---
 
 
-The American Bar Association (ABA) Center for Human Rights is pleased to announce that former Prosecutor General of Guatemala, Dr. Claudia Paz y Paz, has joined the [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/) of ABA’s International Criminal Court (ICC) Project.
+Washington D.C., Dec. 10, 2015 - The American Bar Association (ABA) Center for Human Rights is pleased to announce that former Prosecutor General of Guatemala, Dr. Claudia Paz y Paz, has joined the [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/) of ABA’s International Criminal Court (ICC) Project.
 
 In 2010, [Dr. Paz y Paz](http://www.aba-icc.org/board-of-advisors/dr-claudia-paz-y-paz/) became the first female prosecutor general of Guatemala, and thereafter one of the world’s most noteworthy human rights and rule of law champions for her remarkable efforts to achieve justice for victims of atrocity crimes. In addition to achievements prosecuting organized crime in Guatemala, she also enhanced the Guatemala Public Ministry’s efforts to prosecute human rights cases, most notably a high profile genocide case against former Guatemala dictator, Efra&iacute;n Rios Montt. This trial was the world’s first genocide trial against a head of state adjudicated in a national court.
 

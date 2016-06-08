@@ -20,4 +20,4 @@ Michael S. Greco, former president of the American Bar Association and Chair of 
 
 Ms. Pillay’s full bio may be accessed [here](http://www.ohchr.org/EN/AboutUs/Pages/NaviPillay.aspx/). The membership of the ABA-ICC Board of Advisors may be accessed [here](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/).
 
-[The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its website.](http://www.aba-icc.org/)
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](http://www.aba-icc.org/).*

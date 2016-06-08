@@ -18,4 +18,4 @@ The ABA calls upon all nations – including the United States – to enhance th
 
 # JusticeMatters #17July
 
-*The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education, and practical legal assistance. More information about the ABA-ICC Project can be found at its [website](http://www.aba-icc.org/).*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA's ICC Project can be found at its [website](http://www.aba-icc.org/).*

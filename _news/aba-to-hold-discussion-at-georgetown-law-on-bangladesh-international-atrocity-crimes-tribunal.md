@@ -3,7 +3,7 @@ title: ABA to Hold Discussion at Georgetown Law on Bangladesh International Atro
 published: true
 date: 2014-02-25T17:13:00.000Z
 category: news
-description: ABA to Hold Discussion at Georgetown Law on Bangladesh International Atrocity Crimes Tribunal
+description:
 pull_quote:
 pull_quote_attribution:
 featured_image_path:

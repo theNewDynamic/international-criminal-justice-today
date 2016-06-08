@@ -19,7 +19,7 @@ This quarterly polling also asked Americans for their opinions on rape and sexua
 
 <div align="center"><hr align="center" size="2" width="100%" /></div>
 
-For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling <u><a href="https://www.international-criminal-justice-today.org/polling-data/2016/04/01/april-2016-ipsos-polling-results/">report</a>.</u>
+For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](https://www.international-criminal-justice-today.org/polling-data/2016/04/01/april-2016-ipsos-polling-results/).
 
 <div align="center"><hr align="center" size="2" width="100%" /></div>
 

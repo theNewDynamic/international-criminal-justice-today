@@ -3,7 +3,7 @@ title: Practical Challenges of International Criminal Justice
 published: true
 date: 2014-05-21T16:32:00.000Z
 category: news
-description: Practical Challenges of International Criminal Justice
+description:
 pull_quote:
 pull_quote_attribution:
 featured_image_path:

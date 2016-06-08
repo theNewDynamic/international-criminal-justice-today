@@ -3,7 +3,7 @@ title: 9th Annual International Humanitarian Law Dialogs
 published: true
 date: 2015-09-24T20:20:00.000Z
 category: news
-description: '“The Wrongs We Seek” - 9th Annual International Humanitarian Law Dialogs, August 31st and September 1st 2015. Encouraging encourage States and the international community to fulfill the promise of international law they created and to advance the field of International Humanitarian Law.'
+description:
 pull_quote:
 pull_quote_attribution:
 featured_image_path:
@@ -16,4 +16,4 @@ On August 31st and September 1 2015, international Prosecutors, Ambassadors, dip
 
 <font><font> This year&rsquo;s conference was titled &ldquo;The Wrongs We Seek&rdquo; commemorated the anniversary of the Srebrenica Massacre (1995) and the opening of the International Military Tribunal at Nuremberg (1945). The culminating event of the 9th annual Law Dialogs was the issuance of the ninth Chautauqua Declaration. Betsy Andersen, the Director of the American Bar Association's Rule of Law Initiative moderated the signing of the Declaration. The American Bar Association is a proud co-sponsor of the Dialogs. More information on the 9th Annual International Humanitarian Dialogs can be found <a href="https://www.international-criminal-justice-today.org/events/9th-annual-international-humanitarian-law-dialogs-2015/">here</a>. </font></font>
 
-*The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education, and practical legal assistance. More information about the ABA-ICC Project can be found at its [website](http://www.aba-icc.org/).*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](http://www.aba-icc.org/).*

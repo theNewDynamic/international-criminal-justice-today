@@ -8,7 +8,7 @@ contributors:
 description: '…a clear majority of Americans (68%) support the Court’s principles, agreeing that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities.”'
 pull_quote: Over half of the US public believe that the ICC is a good example of female empowerment and a similar number believe that the United States should support the ICC because it is aligned with American values.
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/bemba-tc-700.jpg
 featured_image_attribution:
 ---
 

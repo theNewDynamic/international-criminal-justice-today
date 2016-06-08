@@ -10,7 +10,7 @@ featured_image_path:
 ---
 
 
-The Hague, The Netherlands, November 19, 2015 - Before the 14th Session of Assembly of States Parties (ASP) of the International Criminal Court (ICC), the American Bar Association (ABA) stressed the importance of judicial independence and robustly supporting courts, and urged the ASP to uphold these principles with respect to the ICC.
+The Hague, The Netherlands, Nov. 19, 2015 - Before the 14th Session of Assembly of States Parties (ASP) of the International Criminal Court (ICC), the American Bar Association (ABA) stressed the importance of judicial independence and robustly supporting courts, and urged the ASP to uphold these principles with respect to the ICC.
 
 ![](/uploads/1448509997894_ASP%202.JPG)
 

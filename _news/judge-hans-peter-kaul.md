@@ -10,7 +10,7 @@ featured_image_path: /uploads/1434904639331_judge-hans-peter-kaul-1999x1200.jpg
 ---
 
 
-The American Bar Association (ABA) Center for Human Rights is saddened by the passing of Judge Hans-Peter Kaul who recently retired as a judge of the International Criminal Court (ICC) in The Hague, The Netherlands and expresses condolences to his family, colleagues and friends.
+Washington D.C., July 24, 2014 - The American Bar Association (ABA) Center for Human Rights is saddened by the passing of Judge Hans-Peter Kaul who recently retired as a judge of the International Criminal Court (ICC) in The Hague, The Netherlands and expresses condolences to his family, colleagues and friends.
 
 Judge Kaul was an inspiring advocate, a gentle man, and a seminal figure in the creation and development of the ICC, the world’s permanent court for investigating and adjudicating the international atrocity crimes of genocide, crimes against humanity and war crimes. An experienced diplomat of Germany who served his country and fellow citizens in a number of important diplomatic postings around the world, Judge Kaul in 1998 was a German delegate to the Rome Conference at which representatives from nearly 150 nations produced the Rome Statue that created the ICC, and was a prominent negotiator during deliberations of the Statute’s provisions. When the ICC began its operations in 2002 he was elected a judge of the Court by the Assembly of States Parties, a position he held for eleven years. Judge Kaul was also elected by his peers to serve as the ICC’s Second Vice-President during the period 2009-2012.
 

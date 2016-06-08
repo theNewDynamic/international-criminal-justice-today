@@ -10,7 +10,7 @@ featured_image_path:
 ---
 
 
-On the occasion of [Human Rights Day](http://www.un.org/en/events/humanrightsday/), the [American Bar Association's International Criminal Court (ICC) Project](http://www.aba-icc.org/) and [Stanford Law School Program in International and Comparative Law](https://law.stanford.edu/stanford-program-in-international-and-comparative-law/) are pleased to announce the release of the latest online expert roundtable, *[Arguendo](http://www.international-criminal-justice-today.org/arguendo/)*, this time on the future of relations between the UN Security Council (UNSC) and ICC.
+Washington D.C., Dec. 10, 2015 - On the occasion of [Human Rights Day](http://www.un.org/en/events/humanrightsday/), the [American Bar Association's International Criminal Court (ICC) Project](http://www.aba-icc.org/) and [Stanford Law School Program in International and Comparative Law](https://law.stanford.edu/stanford-program-in-international-and-comparative-law/) are pleased to announce the release of the latest online expert roundtable, *[Arguendo](http://www.international-criminal-justice-today.org/arguendo/)*, this time on the future of relations between the UN Security Council (UNSC) and ICC.
 
 ![](/uploads/1449776044322_Arguendo_UNSC_ICC.png)
 

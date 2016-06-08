@@ -1,5 +1,5 @@
 ---
-title: 'Ending impunity for war crimes on cultural heritage: the Mali Case'
+title: 'Ending Impunity for War Crimes on Cultural Heritage: the Mali Case'
 published: false
 date: 2014-11-21T15:17:00.000Z
 arguendo-question: what-is-the-significance-of-the-iccs-war-crime-charges-of-attacks-on-cultural-property-in-mali

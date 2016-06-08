@@ -1,6 +1,6 @@
 ---
 title: April 2016 Ipsos Polling Results
-published: false
+published: true
 featured: false
 date: 2016-04-01T12:00:00.000Z
 description: 'More Americans believe the United States should dedicate resources to the International Criminal Court (ICC), with broad public support for defining sexual violence as a war crime.'

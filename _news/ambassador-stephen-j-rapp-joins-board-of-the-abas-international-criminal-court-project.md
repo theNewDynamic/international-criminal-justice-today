@@ -3,7 +3,7 @@ title: "Ambassador Stephen J. Rapp Joins Board of the ABA's International Crimin
 published: true
 date: 2015-11-03T00:17:00.000Z
 category: news
-description: "Ambassador Rapp is a preeminent leader in the field of international criminal justice, and will enhance the ABA's ICC Project's distinguished international Board of Advisors."
+description:
 pull_quote: 'We are delighted to welcome Ambassador Rapp to the Project’s Board of Advisors. He brings vast international criminal law expertise, insight, leadership and sound judgment that will enhance our distinguished international Board of Advisors and its important guiding role for the Project.'
 pull_quote_attribution: "Michael S. Greco, Former ABA President and Chair of the ABA Center for Human Rights and the ABA's ICC Project Board of Advisors"
 featured_image_path:
@@ -11,6 +11,8 @@ featured_image_path:
 
 
 ![](/uploads/rapp-sm.jpg)
+
+#### Ambassador Rapp is a preeminent leader in the field of international criminal justice, and will enhance the ABA's ICC Project's distinguished international Board of Advisors.
 
 Washington D.C., Nov. 3, 2015 - The American Bar Association (ABA) Center for Human Rights is pleased to announce that Ambassador Stephen J. Rapp, former U.S. Ambassador at-large for War Crimes Issues in the State Department’s Office of Global Criminal Justice, has joined the [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/) of ABA’s International Criminal Court (ICC) Project.
 

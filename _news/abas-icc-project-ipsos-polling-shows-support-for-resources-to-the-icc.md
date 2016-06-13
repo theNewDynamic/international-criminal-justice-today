@@ -13,7 +13,7 @@ featured_image_attribution:
 ---
 
 
-#### New poll finds Americans are supportive of dedication resources to the ICC and their work to combat rape as a war crime.
+#### New poll finds Americans are supportive of dedication of resources to the ICC and their work to combat rape as a war crime.
 
 Washington, D.C., June 8, 2016 – In anticipation of the Prosecutor of the International Criminal Court (ICC) upcoming [briefing](http://www.un.org/sg/spokesperson/weekahead/) before the United Nations Security Council on the situation in Darfur/Sudan, the [American Bar Associations’ (ABA) ICC Project](http://www.aba-icc.org/) today released the results of its most recent polling on Americans’ opinions on the ICC and recent related events. Done in partnership with [Ipsos Public Affairs](http://www.ipsos-na.com/research/public-affairs/), the results show a continued positive trend in American support for the ICC, including a 5% increase from the [November 2015 polling data](https://www.international-criminal-justice-today.org/polling-data/2015/11/25/november-2015-ipsos-polling-data/) that the United States government should dedicate financial, military, intelligence, and other resources to the ICC. In addition, a clear majority of Americans (68%) support the Court’s principles, agreeing that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities.”
 

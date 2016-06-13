@@ -3,14 +3,14 @@ title: "The Honorable Navanethem Pillay Joins ABA's International Criminal Court
 published: true
 date: 2015-02-25T17:57:00.000Z
 category: news
-description: The ABA’s ICC Project is pleased to announce that renowned international jurist and human rights activist Navanethem Pillay has joined the Project’s Board of Advisors.
+description:
 pull_quote: 'The American Bar Association Center for Human Rights is pleased that Judge Pillay, an eminent international jurist and human rights advocate, has decided to join the ABA-ICC Project Board of Advisors to share her vast experience, good judgment and passion in advancing the cause of interational justice and human rights protection.'
 pull_quote_attribution: Michael Greco
 featured_image_path:
 ---
 
 
-![](/uploads/1434905799265_pillay-400x504.jpg)
+#### The ABA’s ICC Project is pleased to announce that renowned international jurist and human rights activist Navanethem Pillay has joined the Project’s Board of Advisors![](/uploads/1434905799265_pillay-400x504.jpg)
 
 Washington, D.C., Feb. 25, 2015 - The American Bar Association’s International Criminal Court Project is pleased to announce that Navanethem (Navi) Pillay has joined the Project’s distinguished Board of Advisors. Ms. Pillay has a long and distinguished career in international criminal justice and human rights advocacy. From 2008 to 2014, she served as United Nations High Commissioner for Human Rights. She served as a judge on the International Criminal Court from 2003 to 2008. In addition, she served as a judge at the International Criminal Tribunal for Rwanda from 1995-2003 and served as President of the Tribunal for her last four years there.
 

@@ -3,12 +3,14 @@ title: 'Former Prosecutor General of Guatemala, Dr. Claudia Paz y Paz, Joins the
 published: true
 date: 2015-12-10T13:00:00.000Z
 category: news
-description: 'Dr. Paz y Pay is an accomplished rule of law and human rights champion, and spearheaded the world’s first genocide trial against a head of state in a national court.'
-pull_quote: 'Her pursuit of justice for atrocities committed during the armed conflict in Guatemala has contributed to one of the most important prosecutions of the 21st century. '
+description:
+pull_quote: Her pursuit of justice for atrocities committed during the armed conflict in Guatemala has contributed to one of the most important prosecutions of the 21st century.
 pull_quote_attribution: "Michael S. Greco, Former ABA President and Chair of the ABA Center for Human Rights and the ABA's ICC Project Board of Advisors"
 featured_image_path: /uploads/1449751712307_Claudia_Paz_y_Paz.jpg
 ---
 
+
+#### Dr. Paz y Pay is an accomplished rule of law and human rights champion, and spearheaded the world’s first genocide trial against a head of state in a national court
 
 Washington D.C., Dec. 10, 2015 - The American Bar Association (ABA) Center for Human Rights is pleased to announce that former Prosecutor General of Guatemala, Dr. Claudia Paz y Paz, has joined the [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/) of ABA’s International Criminal Court (ICC) Project.
 

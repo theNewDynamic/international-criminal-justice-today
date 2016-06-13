@@ -10,7 +10,7 @@ featured_image_path:
 ---
 
 
-#### Discussion of accomplishments and shortcomings of Bangladesh international atrocity crimes tribunal
+#### ABA will host an upcoming discussion of the accomplishments and shortcomings of Bangladesh international atrocity crimes tribunal.
 
 Washington, D.C., Feb. 25, 2014 – The American Bar Association’s (ABA) International Criminal Court (ICC) Project will hold a discussion today at Georgetown Law on the accomplishments and shortcomings of the Bangladesh international atrocity crimes tribunal. Michael Greco, former ABA president and chair of the ABA's ICC Project, will moderate a discussion between U.S. Ambassador for Global Criminal Justice, Stephen Rapp, Mr. Toby Cadman, a distinguished international criminal defense attorney, and a representative of the Bangladesh government.
 

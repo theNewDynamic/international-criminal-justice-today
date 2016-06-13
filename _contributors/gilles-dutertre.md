@@ -1,10 +1,10 @@
 ---
 title: Gilles Dutertre
 published: false
-last_name: Koenig
+last_name: Dutertre
 description:
 image_path:
-slug: alexa-koenig
+slug: gilles-dutertre
 ---
 
 

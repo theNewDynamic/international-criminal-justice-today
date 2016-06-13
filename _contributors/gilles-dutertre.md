@@ -1,8 +1,10 @@
 ---
 title: Gilles Dutertre
-published: true
+published: false
 last_name: Koenig
 description:
-image_path: /uploads/1434895282357_icjt-arguendo-alex-koenig.jpg
+image_path:
 slug: alexa-koenig
 ---
+
+

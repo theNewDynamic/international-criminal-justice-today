@@ -5,12 +5,14 @@ featured: true
 date: 2016-02-25T16:55:00.000Z
 category: news
 contributors:
-description: "As one of the foremost authorities and practitioners in the field of international criminal justice, Prof. Whiting is excellent addition to the Board of Advisors and will undoubtedly help fulfill the ABA's ICC Project's mission. "
+description:
 pull_quote: 'Prof. Whiting brings to the Project’s Board of Advisors innovative thinking, extensive practical experience, sound judgment and a long held commitment to international criminal justice. He will enhance significantly our ability to achieve the Project’s mandate, particularly as it relates to greater cooperation between the US and the ICC.'
 pull_quote_attribution: "Michael S. Greco, Chair of the ABA's ICC Project"
 featured_image_path: /uploads/1456415687776_1D2B9579.jpg
 ---
 
+
+#### As one of the foremost authorities and practitioners in the field of international criminal justice, Prof. Whiting is excellent addition to the Board of Advisors and will undoubtedly help fulfill the ABA's ICC Project's mission.
 
 Washington D.C., Feb. 25, 2016 - The American Bar Association (ABA) Center for Human Rights is pleased to announce that Professor [Alex Whiting](http://www.aba-icc.org/board-of-advisors/alex-whiting/), Professor of Practice at [Harvard Law School](http://hls.harvard.edu/) and former Prosecutions Coordinator at the [International Criminal Court](https://www.icc-cpi.int/EN_Menus/icc/Pages/default.aspx) (ICC), has joined the [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/) of the [ABA’s ICC Project](http://www.aba-icc.org).
 

@@ -1,5 +1,5 @@
 ---
-title: 'ABA honors International Criminal Justice Day, calls on global partners'
+title: ABA honors International Criminal Justice Day
 published: true
 date: 2015-07-16T13:20:00.000Z
 category: news
@@ -10,6 +10,8 @@ pull_quote_attribution: American Bar Association
 featured_image_path: /uploads/1437099963494_img_6608_19727676076_o.jpg
 ---
 
+
+#### ABA President Hubbard calls on global partners to increase support of domestic and international atrocity accountability efforts
 
 Washington D.C., July 16, 2015 — In a statement to commemorate July 17 as International Criminal Justice Day, American Bar Association President William C. Hubbard acknowledged the global efforts, led by the International Criminal Court (ICC) and the international community, to combat genocide, crimes against humanity and war crimes.
 

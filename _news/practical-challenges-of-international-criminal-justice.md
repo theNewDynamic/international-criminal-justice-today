@@ -10,6 +10,8 @@ featured_image_path:
 ---
 
 
+#### ICC Registrar to discuss challenges
+
 Washington D.C., June 2, 2014 – The Registrar of the International Criminal Court (ICC), Herman Von Hebel, will attend a discussion today at the American Bar Association (ABA) on the practical challenges facing the ICC. Hosted by the ABA’s ICC Project and moderated by its director, Kip Hale, the conversation will cover relevant issues such as victim reparations, defense counsel issues, and witness protection.
 
 To view the event recap, click [here](https://www.international-criminal-justice-today.org/events/practical-challenges-of-international-criminal-justice/).

@@ -10,7 +10,7 @@ featured_image_path:
 ---
 
 
-#### Mr. Kip Hale will discuss the evolution of international criminal justice and US involvement
+#### Mr. Kip Hale will discuss the evolution of international criminal justice and US involvement.
 
 Denver, Colorado, Feb. 20, 2014 – The University of Denver Sturm College of Law (DU Law) will welcome Mr. Kip Hale, senior counsel at the American Bar Association (ABA) Center for Human Rights and director of the ABA’s International Criminal Court (ICC) Project, to speak on international criminal justice and the United States’ past, present, and future role in the field. Sponsored by DU Law’s International Law Society and Ved Nanda Center for International and Comparative Law, the talk will cover the development of international criminal justice from Nuremberg to Rome, and the US’ influence on the field throughout this evolution.
 

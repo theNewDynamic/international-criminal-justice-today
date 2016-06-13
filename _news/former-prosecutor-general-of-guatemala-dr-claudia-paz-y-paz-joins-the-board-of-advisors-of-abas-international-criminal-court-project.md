@@ -10,7 +10,7 @@ featured_image_path: /uploads/1449751712307_Claudia_Paz_y_Paz.jpg
 ---
 
 
-#### Dr. Paz y Pay is an accomplished rule of law and human rights champion, and spearheaded the world’s first genocide trial against a head of state in a national court
+#### Dr. Paz y Pay is an accomplished rule of law and human rights champion.
 
 Washington D.C., Dec. 10, 2015 - The American Bar Association (ABA) Center for Human Rights is pleased to announce that former Prosecutor General of Guatemala, Dr. Claudia Paz y Paz, has joined the [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/) of ABA’s International Criminal Court (ICC) Project.
 

@@ -10,7 +10,7 @@ featured_image_path:
 ---
 
 
-#### The ABA's ICC Project held a discussion with members of the Syria Justice and Accountability Center on their recent study of accountability options in Syria
+#### &nbsp;ABA's ICC Project held a discussion with members of the Syria Justice and Accountability Center on their recent study of accountability options in Syria.
 
 Washington, D.C., May 12, 2015 - Mark Lattimer, Director of the Ceasefire Center for Civilian Rights; Mohammad Al Abdallah, Executive Director of the Syria Justice and Accountability Center (SJAC); and Jennifer Trahan, Associate Clinical Professor at New York University’s Center for Global Affairs will attend a discussion today at the American Bar Association (ABA) on potential accountability options for international crimes committed in Syria. Hosted by the ABA’s International Criminal Court Project and moderated by Judge Patricia Wald, the former Chief Judge for the United States Court of Appeals for the District of Columbia and a former judge at the International Criminal Tribunal for the Former Yugoslavia, the conversation will cover the feasibility and potential impacts of potential accountability options such as international, hybrid, and foreign domestic tribunals.
 

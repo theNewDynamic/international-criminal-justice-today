@@ -10,7 +10,7 @@ featured_image_path:
 ---
 
 
-#### The ABA’s ICC Project is pleased to announce that renowned international jurist and human rights activist Navanethem Pillay has joined the Project’s Board of Advisors
+#### The ABA’s ICC Project is pleased to announce that renowned international jurist and human rights activist Navanethem Pillay has joined the Project’s Board of Advisors.
 
 #### &nbsp;
 

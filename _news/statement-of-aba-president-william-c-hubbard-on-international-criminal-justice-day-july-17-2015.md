@@ -10,6 +10,8 @@ featured_image_path:
 ---
 
 
+#### ABA continues to strive for the advancement of the rule of law and the achievement of international criminal justice
+
 Washington D.C., July 16, 2015 - On the occasion of International Criminal Justice Day, the American Bar Association (ABA) acknowledges the vitally important global efforts of the international community to combat the atrocity crimes of genocide, crimes against humanity, and war crimes. An effective international criminal justice system, led by the International Criminal Court (ICC) and national courts throughout the world, is indispensable to holding accountable and punishing those individuals who engage in atrocity crimes, to bringing justice to victims and their families, and to achieving lasting international peace and security.
 
 The ABA supported the creation of a permanent international criminal tribunal beginning in 1978. In 1998, the ABA helped to craft and endorsed the Rome Statute which created the ICC. Since the ICC began operations in 2002, the ABA has urged the US government to ratify the Rome Statute. The ABA, through the ICC Project of the Center for Human Rights and the global efforts of numerous ABA entities, contributes to the advancement of the rule of law and the achievement of international criminal justice.

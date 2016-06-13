@@ -3,12 +3,14 @@ title: "ABA's ICC Project & Stanford Law release latest online roundtable, Argue
 published: true
 date: 2015-12-10T14:51:00.000Z
 category: news
-description: 'In answering the question, “What is the future of relations between the UN Security Council and the International Criminal Court?”, several distinguished experts put forth thought-provoking as well as pragmatic ideas for advancing UNSC-ICC relations.'
+description:
 pull_quote:
 pull_quote_attribution:
 featured_image_path:
 ---
 
+
+#### In answering the question, “What is the future of relations between the UN Security Council and the International Criminal Court?”, several distinguished experts put forth thought-provoking as well as pragmatic ideas for advancing UNSC-ICC relations.
 
 Washington D.C., Dec. 10, 2015 - On the occasion of [Human Rights Day](http://www.un.org/en/events/humanrightsday/), the [American Bar Association's International Criminal Court (ICC) Project](http://www.aba-icc.org/) and [Stanford Law School Program in International and Comparative Law](https://law.stanford.edu/stanford-program-in-international-and-comparative-law/) are pleased to announce the release of the latest online expert roundtable, *[Arguendo](http://www.international-criminal-justice-today.org/arguendo/)*, this time on the future of relations between the UN Security Council (UNSC) and ICC.
 

@@ -10,6 +10,8 @@ featured_image_path:
 ---
 
 
+#### ABA calls for comprehensive international CAH treaty to unify domestic legislation
+
 Washington D.C., Aug. 12, 2014 - On August 12 at the 2014 American Bar Association (ABA) Annual Meeting, the ABA House of Delegates unanimously passed a [policy resolution](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH).
 
 Additionally, this resolution urged the U.S. Government to lead an international effort to negotiate and adopt a CAH treaty.

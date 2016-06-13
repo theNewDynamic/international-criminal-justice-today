@@ -3,12 +3,14 @@ title: ABA Stresses the Importance of Judicial Independence and Empowerment Befo
 published: true
 date: 2015-11-26T05:11:00.000Z
 category: news
-description: ABA also recalls its long-standing support of the ICC and its efforts “to advocate for enhanced US-ICC relations and on the vital role of international criminal justice on world peace and security.”
-pull_quote: "The global non-governmental community to which the American Bar Association belongs must continue to support and advance the ICC's mandate, and to support the efforts of this august Assembly of States Parties and all its members to nurture the Court, to protect the Court’s independence, to resource it appropriately, and to ensure that its judicial orders are executed. "
+description:
+pull_quote: "The global non-governmental community to which the American Bar Association belongs must continue to support and advance the ICC's mandate, and to support the efforts of this august Assembly of States Parties and all its members to nurture the Court, to protect the Court’s independence, to resource it appropriately, and to ensure that its judicial orders are executed."
 pull_quote_attribution: "Kip Hale - Senior Counsel of the ABA Center for Human Rights & Director of the ABA's ICC Project"
 featured_image_path:
 ---
 
+
+#### ABA also recalls its long-standing support of the ICC and its efforts “to advocate for enhanced US-ICC relations and on the vital role of international criminal justice on world peace and security.”
 
 The Hague, The Netherlands, Nov. 19, 2015 - Before the 14th Session of Assembly of States Parties (ASP) of the International Criminal Court (ICC), the American Bar Association (ABA) stressed the importance of judicial independence and robustly supporting courts, and urged the ASP to uphold these principles with respect to the ICC.
 

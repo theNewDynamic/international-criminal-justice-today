@@ -13,6 +13,8 @@ slug:
 
 *The authors are members of the ICC-Office of the Prosecutor’s Working Group mandated with developing a policy paper on the protection of ‘Cultural Property’ under the Rome Statute legal framework*
 
+
+
 <!--EndFragment-->
 
 <!--EndFragment-->
@@ -23,7 +25,7 @@ A nation's culture may reside in the hearts and souls of its people, as Mahatma 
 
 Consider Taj Mahal in India; the ancient ruins of Persepolis in Iran; the Great Pyramids of Giza in Egypt; the Great Wall of China; Ephesus in current day Turkey; the Acropolis of Athens, or Timbuktu in Mali, to name only a handful of examples – all these World Heritage sites immediately trigger our senses and arouse our curiosity about the past. How plain would our existence be and how arid our imagination without these magnificent marvels embellishing our contemporary world and enriching the world of tomorrow.
 
-***Cultural heritage is the mirror of humanity***
+##### ***Cultural heritage is the mirror of humanity***
 
 Architecture, literature and the arts – these are all profound human expressions in the physical world that define who we are, reflect our zeitgeist, and render timeless our humanity and the experiences of our epoch in an otherwise transient human existence.
 
@@ -37,7 +39,7 @@ They educate, inspire and stimulate innovation. They provide a basis from which 
 <br>
 <br>It should come as no surprise, then, that deliberate attacks on such a profoundly important manifestation of our identity is increasingly seen as repugnant to our cultural ethos in this new century.
 
-***Deliberate attacks against cultural property: an increasingly prevalent and worrying trend***
+##### ***Deliberate attacks against cultural property: an increasingly prevalent and worrying trend***
 
 Be that as it may, seemingly aloof to the destructive impact of WWII, in the last decades alone, we have continued to witness lawless wars and extremist ideologies that have caused untold suffering and destruction, accompanied by the plunder and defacing of antiquities.
 
@@ -47,7 +49,7 @@ In short, in our times, wanton intentional attacks against cultural property occ
 
 As conflicts rage on in many parts of the globe, further damage to cultural property remains, alas, a real possibility.&nbsp; In Libya, for instance, continued political instability and the persistent security vacuum make the country’s rich ancient sites exceedingly vulnerable.
 
-***A responsibility to protect our common heritage***
+##### ***A responsibility to protect our common heritage***
 
 We have a responsibility to protect such invaluable worldly possessions of our common heritage.
 
@@ -73,7 +75,9 @@ This impunity gap must be addressed.
 
 > ###### Timbuktu, Mali
 
-***The role of the ICC***
+##### &nbsp;
+
+##### ***The role of the ICC***
 
 With the entry into force of the Rome Statute in July, 2002, and the creation of the International Criminal Court (“ICC” or the “Court”), for the first time the world has been equipped with an independent international judicial mechanism with the mandate to try those most responsible for the wanton destruction of cultural property during armed conflict.
 
@@ -101,7 +105,7 @@ The work on this policy will commence in the last quarter of 2016 following the 
 
 As with past policies, it is Prosecutor’s hope that this new policy will provide further transparency and guidance to the Office in the systematic investigation and prosecution of such crimes, and that it will also serve as a helpful reference document to assist prosecutions at the national level.
 
-***Need for concerted and committed action***
+##### ***Need for concerted and committed action***
 
 The ICC is, of course, not a panacea.
 

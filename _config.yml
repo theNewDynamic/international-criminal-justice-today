@@ -26,6 +26,9 @@ permalink: none
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+plugins_dir:  ./_app/_plugins
+layouts_dir:  ./_app/_layouts
+includes_dir: ./_app/_includes
 
 # dev options (true/false)
 # if site is in production, 'production: true'

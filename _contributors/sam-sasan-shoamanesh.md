@@ -3,7 +3,7 @@ title: Sam Sasan Shoamanesh
 published: true
 last_name: Shoamanesh
 description:
-image_path: /uploads/s.-shoamanesh_315x388.jpg
+image_path: /uploads/shoamanesh.jpg
 slug: sam-sasan-shoamanesh
 ---
 

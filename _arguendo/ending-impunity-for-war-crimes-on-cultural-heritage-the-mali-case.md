@@ -20,7 +20,7 @@ In this context, it is critical that such destruction not go unpunished in our e
 
 ![](/uploads/versions/hatra---x----2048-1366x---.jpg)
 
-> Hatra, Iraq
+> ###### Hatra, Iraq
 
 **Legal Basis of Protecting Cultural Property**
 

@@ -65,7 +65,7 @@ This impunity gap must be addressed. &nbsp;&nbsp;
 
 ![](/uploads/versions/timbuktu---x----1520-855x---.jpg)
 
-> Timbuktu, Mali
+> ###### Timbuktu, Mali
 
 ***The role of the ICC***
 

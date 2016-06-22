@@ -1,5 +1,5 @@
 ---
-title: Kevin Rudd
+title: Honorable Kevin Rudd
 published: true
 last_name: Rudd
 description:

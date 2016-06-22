@@ -1,7 +1,7 @@
 ---
 title: 'Ending Impunity for War Crimes on Cultural Heritage: the Mali Case'
 published: true
-date: 2016-06-22T00:01:00.000Z
+date: 2016-06-22T00:09:00.000Z
 arguendo-question: what-is-the-significance-of-the-iccs-war-crime-charges-of-attacks-on-cultural-property-in-mali
 contributors:
   - irina-bokova

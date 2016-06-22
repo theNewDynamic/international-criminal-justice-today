@@ -1,4 +1,4 @@
-{% assign responses = site.arguendo | where: 'arguendo-question', slug | sort: date | reverse %}
+{% assign responses = site.arguendo | where: 'arguendo-question', slug | sort: 'date' | reverse %}
 {% if responses %}
   {% for object in responses %}
     {% unless object.url == page.url %}

@@ -11,7 +11,7 @@ slug:
 ---
 
 
-*The authors are members of the ICC-Office of the Prosecutor’s Working Group mandated with developing a policy paper on the protection of ‘Cultural Property’ under the Rome Statute legal framework*<!--EndFragment--><!--EndFragment-->
+<!--EndFragment--><!--EndFragment-->
 
 ##### ***Reinforced Legal enforcement of the Protection of Cultural Property in Armed Conflict***
 
@@ -27,7 +27,7 @@ They enable us to pass on to our descendants who we were, what we stood for, and
 
 They narrate our ordeals and triumphs, and bestow upon future generations hard earned wisdom acquired through trial and error.
 
-They educate, inspire and stimulate innovation. They provide a basis from which to learn our past so as to build our future.  And last but not least, they form, in many ways, our foundational building blocks - our constitution; they strengthen our identity and serve as solid evidence of the continuity of the human story and the richness of our diversity.
+They educate, inspire and stimulate innovation. They provide a basis from which to learn our past so as to build our future.&nbsp; And last but not least, they form, in many ways, our foundational building blocks - our constitution; they strengthen our identity and serve as solid evidence of the continuity of the human story and the richness of our diversity.
 
 “Cultural heritage is [indeed] the mirror of humanity” and the repository of the human experience throughout the ages.
 <br>
@@ -41,7 +41,7 @@ Deliberate attacks against the old Mostar bridge in what is today Bosnia and Her
 
 In short, in our times, wanton intentional attacks against cultural property occur with alarming frequency and continue to devastate not only the communities directly affected by such immeasurable loss but also the whole of humanity.
 
-As conflicts rage on in many parts of the globe, further damage to cultural property remains, alas, a real possibility.  In Libya, for instance, continued political instability and the persistent security vacuum make the country’s rich ancient sites exceedingly vulnerable.
+As conflicts rage on in many parts of the globe, further damage to cultural property remains, alas, a real possibility.&nbsp; In Libya, for instance, continued political instability and the persistent security vacuum make the country’s rich ancient sites exceedingly vulnerable.
 
 ##### ***A responsibility to protect our common heritage***
 
@@ -69,13 +69,13 @@ This impunity gap must be addressed.
 
 > ###### Timbuktu, Mali
 
-#####
+#### #
 
 ##### ***The role of the ICC***
 
 With the entry into force of the Rome Statute in July, 2002, and the creation of the International Criminal Court (“ICC” or the “Court”), for the first time the world has been equipped with an independent international judicial mechanism with the mandate to try those most responsible for the wanton destruction of cultural property during armed conflict.
 
-Indeed, under article 8 of the Court’s founding treaty, intentional attacks against buildings dedicated to, *inter alia*, religion or art, or historic monuments constitute a war crime. Depending on the circumstances, such acts may also constitute persecution under article 7 as a crime against humanity. With 124 States Parties and growing, the ICC in conformity with its mandate can make a significant contribution as part of a comprehensive response to the preservation and protection of cultural property.  The Court disposes of all the requisite legal arsenal to effectively play this crucial role.
+Indeed, under article 8 of the Court’s founding treaty, intentional attacks against buildings dedicated to, *inter alia*, religion or art, or historic monuments constitute a war crime. Depending on the circumstances, such acts may also constitute persecution under article 7 as a crime against humanity. With 124 States Parties and growing, the ICC in conformity with its mandate can make a significant contribution as part of a comprehensive response to the preservation and protection of cultural property.&nbsp; The Court disposes of all the requisite legal arsenal to effectively play this crucial role.
 
 This is not a theoretical construct.
 
@@ -85,17 +85,17 @@ As is now widely reported, in September 2015, based on the materials adduced by 
 
 In March of this year, the Court’s Pre-Trial Chamber found that the evidence presented by the Prosecutor was sufficient to establish substantial grounds to believe the suspect is criminally responsible for the war crime of intentionally directing attacks against a number of historic monuments and buildings dedicated to religion in Timbuktu in June and July of 2012.
 
-As outlined in the Prosecutor’s opening statement at the confirmation of charges hearing, “[i]n the 15th and 16th centuries, Timbuktu – now designated UNESCO World Heritage site - became one of the intellectual and spiritual capitals of Africa. It played an essential role in the expansion of Islam; it was the cradle of education, a place of enlightenment for generations of students, attracting many scholars.”  The destruction of Timbuktu, the Prosecutor added, “constitutes the annihilation of structures that had survived the ravages of time and which stood as testimony to Timbuktu's glorious past and important place in history and to its people over generations.”
+As outlined in the Prosecutor’s opening statement at the confirmation of charges hearing, “[i]n the 15th and 16th centuries, Timbuktu – now designated UNESCO World Heritage site - became one of the intellectual and spiritual capitals of Africa. It played an essential role in the expansion of Islam; it was the cradle of education, a place of enlightenment for generations of students, attracting many scholars.” &nbsp;The destruction of Timbuktu, the Prosecutor added, “constitutes the annihilation of structures that had survived the ravages of time and which stood as testimony to Timbuktu's glorious past and important place in history and to its people over generations.”
 
 The Court’s judges confirmed the charges and committed Mr Al-Mahdi to trial. On the 22<sup>nd</sup> of August 2016, his trial is scheduled to commence.
 
 What is noteworthy is that the suspect in this case has already expressed his intention to plead guilty. This is significant, not the least because it has the potential to expedite the judicial process and ultimately trigger reparations proceedings, making justice more tangible for the victims, and paving the way for reconciliation.
 
-This case is also significant for a number of reasons.  It is the first case before the Court on the sole charges of deliberate destruction of buildings dedicated to religion and historic monuments.  By that fact alone, it stands firm as an important precedent. Second, it demonstrates the Office of the Prosecutor’s commitment to investigating and prosecuting these crimes, and by so doing, highlighting their gravity.  Similarly, the effective investigation and prosecution of such crimes can have a deterrent impact.  Certainly, the absence of accountability does little to advance the cause of prevention.
+This case is also significant for a number of reasons.&nbsp; It is the first case before the Court on the sole charges of deliberate destruction of buildings dedicated to religion and historic monuments.&nbsp; By that fact alone, it stands firm as an important precedent. Second, it demonstrates the Office of the Prosecutor’s commitment to investigating and prosecuting these crimes, and by so doing, highlighting their gravity.&nbsp; Similarly, the effective investigation and prosecution of such crimes can have a deterrent impact.&nbsp; Certainly, the absence of accountability does little to advance the cause of prevention.
 
 It is also important to point out that, in line with the Prosecutor’s commitment to curb such criminality, the Office will develop a comprehensive policy paper on protected cultural property under the Rome Statute.
 
-The work on this policy will commence in the last quarter of 2016 following the finalization and official launch of the Office’s Children’s Policy in the margins of the upcoming Assembly of States Parties.  The Office will be working closely with UNESCO and other stakeholders in the development and consultation of this endeavour.
+The work on this policy will commence in the last quarter of 2016 following the finalization and official launch of the Office’s Children’s Policy in the margins of the upcoming Assembly of States Parties.&nbsp; The Office will be working closely with UNESCO and other stakeholders in the development and consultation of this endeavour.
 
 As with past policies, it is Prosecutor’s hope that this new policy will provide further transparency and guidance to the Office in the systematic investigation and prosecution of such crimes, and that it will also serve as a helpful reference document to assist prosecutions at the national level.
 
@@ -103,14 +103,16 @@ As with past policies, it is Prosecutor’s hope that this new policy will provi
 
 The ICC is, of course, not a panacea.
 
-The Court is a crucially important judicial mechanism that, through its work, can highlight the severity of these crimes, and by holding perpetrators accountable, deter the commission of similar crimes in the future.  In other words, the ICC is critical to the fight against impunity for the destruction of cultural heritage in this new century.  In order for the Court to have more of an impact, universal jurisdiction is of course crucial.  More states are encouraged to ratify the Rome Statute to join the ICC family, and by so doing, benefit from the legal protections it provides.
+The Court is a crucially important judicial mechanism that, through its work, can highlight the severity of these crimes, and by holding perpetrators accountable, deter the commission of similar crimes in the future.&nbsp; In other words, the ICC is critical to the fight against impunity for the destruction of cultural heritage in this new century.&nbsp; In order for the Court to have more of an impact, universal jurisdiction is of course crucial.&nbsp; More states are encouraged to ratify the Rome Statute to join the ICC family, and by so doing, benefit from the legal protections it provides.
 
-It must also be stated that the primacy of jurisdiction to investigate and prosecute these crimes rests in the first instance with the national authorities.  States must uphold these obligations and demonstrate their commitment by ratifying relevant international legal instruments, and by adopting and applying implementing legislation; in effect, equipping themselves with the legal tools to effectively pursue and deter these crimes through national prosecutions.
+It must also be stated that the primacy of jurisdiction to investigate and prosecute these crimes rests in the first instance with the national authorities.&nbsp; States must uphold these obligations and demonstrate their commitment by ratifying relevant international legal instruments, and by adopting and applying implementing legislation; in effect, equipping themselves with the legal tools to effectively pursue and deter these crimes through national prosecutions.
 
 To borrow from the words of Prosecutor Bensouda at the opening of the case of the *Prosecution v. Ahmad Al Faqi Al Mahdi*: “history itself, whose physical embodiment is at peril through such attacks, will not be generous to our failure to care or act decisively.”
 
-The scourge of deliberate attacks and destruction of cultural property must be stopped through a concerted and committed action.   There is no hierarchy in mass atrocities.  These grave crimes must be pursued with the same vigour as other atrocity crimes.
+The scourge of deliberate attacks and destruction of cultural property must be stopped through a concerted and committed action. &nbsp; There is no hierarchy in mass atrocities.&nbsp; These grave crimes must be pursued with the same vigour as other atrocity crimes.
 
 Without the traces of our past, our path ahead is less certain. Without those critical bonds and the awareness that cultural heritage cultivates amongst peoples and nations of the world, the ends of sustainable peace and conflict prevention will become even more precarious and out of reach.
 
 To safeguard the hallmarks of humanity, we must protect cultural heritage. To do so effectively, surely, we must employ the vector of the law as a punitive and preventative instrument of dispensing justice. At the Office of the Prosecutor of the ICC, we will continue to play our part.
+
+*The authors are members of the ICC-Office of the Prosecutor’s Working Group mandated with developing a policy paper on the protection of ‘Cultural Property’ under the Rome Statute legal framework*

@@ -4,7 +4,7 @@ published: true
 last_name: Schneider
 description:
 image_path: /uploads/cynthia-schneider_0.jpg
-slug: cynthia-schneider
+slug:
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Cynthia P. Schneider
+title: Cynthia P Schneider
 published: true
 last_name: Schneider
 description:

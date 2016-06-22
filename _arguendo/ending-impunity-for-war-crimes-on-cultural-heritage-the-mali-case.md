@@ -1,6 +1,6 @@
 ---
 title: 'Ending Impunity for War Crimes on Cultural Heritage: the Mali Case'
-published: false
+published: true
 date: 2014-11-21T15:17:00.000Z
 arguendo-question: what-is-the-significance-of-the-iccs-war-crime-charges-of-attacks-on-cultural-property-in-mali
 contributors:
@@ -10,7 +10,7 @@ slug: accountability-and-the-expansion-of-the-criminal-jurisdiction-of-the-afric
 ---
 
 
-The destruction of cultural heritage has become a tactic of war to disseminate fear and hatred in modern conflicts. Extremists have attacked institutions and professionals who support diversity, critical thinking and freedom of opinion. They have targeted schools, teachers and journalists, destroying monuments and individuals on religious and cultural grounds – all in a form of “cultural cleansing”.
+The destruction of cultural heritage has become a tactic of war to disseminate fear and hatred in modern conflicts. Extremists have attacked institutions and professionals who support diversity, critical thinking and freedom of opinion. They have targeted schools, teachers and journalists, destroying monuments and individuals on religious and cultural grounds – all in a form of “cultural cleansing.”
 
 In 2012, the world witnessed the tragic destruction of the mausoleums in Timbuktu – one of Africa’s spiritual and intellectual capitals in the 15th and 16th centuries – inscribed on UNESCO World Heritage Site in 1988. Timbuktu’s legendary Sufi mausoleums and shrines were methodically levelled, and the Djingareyber and Sidi Yahyia mosques were also severely damaged. Violent extremist groups also seized radio and media equipment to disseminate their propaganda and sectarian messages through loud speakers in the streets of Timbuktu.
 

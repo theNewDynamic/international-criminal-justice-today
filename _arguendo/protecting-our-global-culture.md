@@ -24,6 +24,10 @@ So rampant has this become that international legal analysts now speak of “[cu
 
 Legal experts will forensically investigate this case for the possible precedents it will set, although his case may prove to be the first guilty plea at the Court. While acts of violence against cultural property in Mali are subject to prosecution, international efforts to protect cultural heritage in Syria and Iraq will be sorely tested as ISIS is slowly rolled back and ultimately defeated.
 
+![](/uploads/versions/greatwall---x----4288-2848x---.jpg)
+
+> Great Wall of China
+
 The shared responsibility of states in protecting cultural heritage from the destruction of war is reflected in the 1899 and 1907 Hague conventions. These international agreements enshrined principles which, though [violated](http://www.carnegiecouncil.org/publications/ethics_online/0085) repeatedly during the Second World War, informed our post-war international legal framework for the protection of global cultural heritage from looting and destruction in wartime.
 
 The [Convention for the Protection of Cultural Property in the Event of Armed Conflict](http://portal.unesco.org/en/ev.php-URL_ID=13637&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html) (1954) adopted after World War II was the most far-reaching international agreement on this important agenda. Critically, the [1954 convention](http://portal.unesco.org/en/ev.php-URL_ID=13637&amp;URL_DO=DO_TOPIC&amp;URL_SECTION=201.html) established the principle, which stands as a glimmer of light in today’s fraying global order, that “damage to cultural property belonging to any people whatsoever means damage to the cultural heritage of all mankind.” This convention was complemented by a second protocol in 1999, and UNESCO’s Declaration concerning the Intentional Destruction of Cultural Heritage in 2003.

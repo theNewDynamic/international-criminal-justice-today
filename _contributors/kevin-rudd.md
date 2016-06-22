@@ -1,6 +1,6 @@
 ---
 title: Kevin Rudd
-published: false
+published: true
 last_name: Rudd
 description:
 image_path: /uploads/kevinrudd.jpg

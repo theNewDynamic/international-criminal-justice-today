@@ -3,7 +3,7 @@ title: "What are the next steps in the US-ICC relationship?"
 published: true
 date: 2014-06-20T14:09:00.000Z
 description:
-arguendos:
+arguendo:
 slug: what-are-the-next-steps-in-the-us-icc-relationship
 ---
 

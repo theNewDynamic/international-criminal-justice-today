@@ -3,7 +3,7 @@ title: "​What is the future of relations between the UN Security Council and t
 published: true
 date: 2015-12-10T12:06:00.000Z
 description:
-arguendos:
+arguendo:
 slug: what-is-the-future-of-relations-between-the-un-security-council-and-the-international-criminal-court
 ---
 

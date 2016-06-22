@@ -1,6 +1,6 @@
 ---
 title: Sam Sasan Shoamanesh
-published: false
+published: true
 last_name: Shoamanesh
 description:
 image_path: /uploads/s.-shoamanesh_315x388.jpg
@@ -12,6 +12,6 @@ Sam Sasan Shoamanesh is the Senior Special Assistant to the Prosecutor of the In
 
 Shoamanesh has held several international consultancies and has published widely, with a particular focus on the Middle East. In addition to book chapters, his writings have appeared in Al Jazeera, Al-Monitor, An-Nahar (Arabic), the Harvard International Review, The Globe & Mail and the Huffington Post.
 
-Shoamanesh is an inaugural member of the Council of Advisers to the Global Institute for the Prevention of Aggression. He is the recipient of the 2012 Arthur C. Helton Fellowship, awarded by the American Society of International Law, as well as the 2012 l’Ordre du m&eacute;rite, the highest distinction awarded to alumni by the Civil Law Section of the Faculty of Law, University of Ottawa.
+Shoamanesh is an inaugural member of the Council of Advisers to the Global Institute for the Prevention of Aggression. He is the recipient of the 2012 Arthur C. Helton Fellowship, awarded by the American Society of International Law, as well as the 2012 l’Ordre du mérite, the highest distinction awarded to alumni by the Civil Law Section of the Faculty of Law, University of Ottawa.
 
-He holds degrees in political science from York University, an LLB (Common Law) and LLL (Civil Law) from the Faculty of Law, University of Ottawa, as well as a Master of the Science of Law (JSM) from Stanford Law School. He has also been trained in international law, diplomacy and negotiations at, amongst others, the &Eacute;cole nationale d’administration (Paris), Harvard Law School, the University of Oxford, the Jordan Institute of Diplomacy and The Hague Academy of International Law.
+He holds degrees in political science from York University, an LLB (Common Law) and LLL (Civil Law) from the Faculty of Law, University of Ottawa, as well as a Master of the Science of Law (JSM) from Stanford Law School. He has also been trained in international law, diplomacy and negotiations at, amongst others, the École nationale d’administration (Paris), Harvard Law School, the University of Oxford, the Jordan Institute of Diplomacy and The Hague Academy of International Law.

@@ -1,6 +1,6 @@
 ---
 title: Irina Bokova
-published: false
+published: true
 last_name: Bokova
 description:
 image_path: /uploads/irinabokova.jpg

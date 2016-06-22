@@ -1,7 +1,7 @@
 ---
 title: ABA’s ICC Project/Ipsos Polling Shows Support for Resources to the ICC
 published: true
-featured: true
+featured: false
 date: 2016-06-08T01:00:00.000Z
 category: news
 contributors:
@@ -19,7 +19,7 @@ Washington, D.C., June 8, 2016 – In anticipation of the Prosecutor of the Inte
 
 ![](/uploads/versions/ipsos-polling-data-chart-2016-04---x----695-477x---.jpg)
 
-This quarterly polling also asked Americans for their opinions on rape and sexual violence as a war crime, and related issues. Specifically, Americans were asked for their opinions on the ICC’s trial against former Congolese Vice President Jean-Pierre Bemba, which marked the ICC’s first conviction for sexual assault and rape as a war crime and first conviction of a superior for crimes committed by their subordinates. Furthermore, opinions were asked about the all-female judicial panel that handed down the conviction of Mr. Bemba. A supermajority of Americans agree that the ICC should be able to hold leaders accountable for failing to punish the criminal behavior (including sexual and gender based crimes) &nbsp;of their subordinates (77%). Furthermore, over half of the US public believe that the ICC is a good example of female empowerment and a similar number believe that the United States should support the ICC because it is aligned with American values.
+This quarterly polling also asked Americans for their opinions on rape and sexual violence as a war crime, and related issues. Specifically, Americans were asked for their opinions on the ICC’s trial against former Congolese Vice President Jean-Pierre Bemba, which marked the ICC’s first conviction for sexual assault and rape as a war crime and first conviction of a superior for crimes committed by their subordinates. Furthermore, opinions were asked about the all-female judicial panel that handed down the conviction of Mr. Bemba. A supermajority of Americans agree that the ICC should be able to hold leaders accountable for failing to punish the criminal behavior (including sexual and gender based crimes)  of their subordinates (77%). Furthermore, over half of the US public believe that the ICC is a good example of female empowerment and a similar number believe that the United States should support the ICC because it is aligned with American values.
 
 For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](https://www.international-criminal-justice-today.org/polling-data/2016/04/01/april-2016-ipsos-polling-results/).
 

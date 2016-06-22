@@ -1,6 +1,6 @@
 ---
 title: Gilles Dutertre
-published: false
+published: true
 last_name: Dutertre
 description:
 image_path: /uploads/dutertre.jpg

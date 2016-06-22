@@ -3,7 +3,7 @@ title: What is the significance of the ICC’s war crime charges of attacks on c
 published: true
 date: 2016-06-22T00:00:00.000Z
 description:
-arguendos:
+arguendo:
 slug:
 ---
 

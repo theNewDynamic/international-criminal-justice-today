@@ -1,5 +1,5 @@
 ---
-title: Irina Bokova
+title: Honorable Irina Bokova
 published: true
 last_name: Bokova
 description:

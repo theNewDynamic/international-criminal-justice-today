@@ -24,4 +24,4 @@ In her article, Director-General Bokova [discusses](/_arguendo/ending-impunity-f
 
 We encourage you to visit this latest *Arguendo*, and please comment with your ideas and responses.
 
-*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its*[*website*](http://www.aba-icc.org/)*.*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;*[*website*](http://www.aba-icc.org/)*.*

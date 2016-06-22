@@ -1,5 +1,5 @@
 ---
-title: "ABA's ICC Project & Stanford Law release latest online roundtable, Arguendo, on ICC prosecution of cultural destruction"
+title: "ABA's ICC Project & Stanford Law release latest online roundtable, Arguendo, on the protection of cultural property and accountability"
 published: true
 featured: true
 date: 2016-05-01T12:00:00.000Z

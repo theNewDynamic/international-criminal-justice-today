@@ -45,17 +45,13 @@ As conflicts rage on in many parts of the globe, further damage to cultural prop
 
 We have a responsibility to protect such invaluable worldly possessions of our common heritage. We must use all means at our disposal to counter the scourge of deliberate destruction of cultural property. To this end, we must strengthen our capabilities and cultivate the necessary assets. A multifaceted and multi-disciplined approach is required to confront this challenge.
 
-When the circumstances so dictate, a legally sanctioned military response in strict conformity with *jus in bello* may be warranted to thwart the destruction of cultural property. Education and training of relevant stakeholders, including military personnel engaged in combat operations, as a tool of prevention is also in much need. The pioneering work of UNESCO in this regard is commendable and must be fully supported (Director General of UNESCO, Honorable Irina Bokova, also contributed an article to this *Arguendo*roundtable).
+When the circumstances so dictate, a legally sanctioned military response in strict conformity with *jus in bello* may be warranted to thwart the destruction of cultural property. Education and training of relevant stakeholders, including military personnel engaged in combat operations, as a tool of prevention is also in much need. The pioneering work of UNESCO in this regard is commendable and must be fully supported (Director General of UNESCO, Honorable Irina Bokova, also [contributed](https://www.international-criminal-justice-today.org/arguendo/ending-impunity-for-war-crimes-on-cultural-heritage-the-mali-case/)an article to this *Arguendo*roundtable).
 
-Punishment and deterrence through the law is another important component of confronting the scourge of intentional destruction of cultural property.
-
-Fortunately, the necessary legal instruments and framework are already in place.
+Punishment and deterrence through the law is another important component of confronting the scourge of intentional destruction of cultural property. Fortunately, the necessary legal instruments and framework are already in place.
 
 From the 1907 Hague Regulations; the 1935 Roerich Pact; the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict and its Protocols (1954 and 1999); the 1972 UNESCO Convention Concerning the Protection of the World Cultural and Natural Heritage; to the UNESCO Declaration on Intentional Destruction of Cultural Heritage, adopted in October 2003, amongst others, are all aimed at stressing the importance of protecting cultural heritage and creating obligations to safeguard cultural property against armed attack.
 
-While The Hague Convention currently benefits from 127 member states, and Chapter Four of its Second Protocol defines condition under which individual criminal responsibility may be imposed, prosecutions at the national level are a rarity at best and often non-existent.
-
-The real challenge therefore lies largely in lack of effective and consistent enforcement.
+While The Hague Convention currently benefits from 127 member states, and Chapter Four of its Second Protocol defines condition under which individual criminal responsibility may be imposed, prosecutions at the national level are a rarity at best and often non-existent. The real challenge therefore lies largely in lack of effective and consistent enforcement.
 
 This impunity gap must be addressed.
 
@@ -63,21 +59,21 @@ This impunity gap must be addressed.
 
 > ###### Timbuktu, Mali
 
-#### #
+##### &nbsp;
 
 ##### ***The role of the ICC***
 
-With the entry into force of the Rome Statute in July, 2002, and the creation of the International Criminal Court (“ICC” or the “Court”), for the first time the world has been equipped with an independent international judicial mechanism with the mandate to try those most responsible for the wanton destruction of cultural property during armed conflict.
+With the entry into force of the Rome Statute on 17 July 2002, and the creation of the International Criminal Court (“ICC” or the “Court”), for the first time the world has been equipped with an independent international judicial mechanism with the mandate to try those most responsible for the wanton destruction of cultural property during armed conflict.
 
 Indeed, under article 8 of the Court’s founding treaty, intentional attacks against buildings dedicated to, *inter alia*, religion or art, or historic monuments constitute a war crime. Depending on the circumstances, such acts may also constitute persecution under article 7 as a crime against humanity. With 124 States Parties and growing, the ICC in conformity with its mandate can make a significant contribution as part of a comprehensive response to the preservation and protection of cultural property.&nbsp; The Court disposes of all the requisite legal arsenal to effectively play this crucial role.
 
 This is not a theoretical construct.
 
-Long before the destruction of historical sites in Syria and Iraq captured the world’s attention, the Court’s Prosecutor, Mrs Fatou Bensouda, stressed the need to curb deliberate destruction of protected cultural property within the Court’s legal framework. The Office’s work with respect to Mali is a case in point.
+Long before the destruction of historical sites in Syria and Iraq captured the world’s attention, the Court’s Prosecutor, Mrs Fatou Bensouda (The Gambia), stressed the need to curb deliberate destruction of protected cultural property within the Court’s legal framework. The Office’s work with respect to Mali is a case in point.
 
 As is now widely reported, in September 2015, based on the materials adduced by the Prosecution, the Court’s Judges issued a warrant of arrest against Mr Ahmad Al Faqi Al Mahdi, a member of Ansar Eddine associated with Al Qaeda in the Islamic Maghreb.
 
-In March of this year, the Court’s Pre-Trial Chamber found that the evidence presented by the Prosecutor was sufficient to establish substantial grounds to believe the suspect is criminally responsible for the war crime of intentionally directing attacks against a number of historic monuments and buildings dedicated to religion in Timbuktu in June and July of 2012.
+In [March](http://www.reuters.com/article/us-warcrimes-mali-idUSKCN0W34B2) of this year, the Court’s Pre-Trial Chamber found that the evidence presented by the Prosecutor was sufficient to establish substantial grounds to believe the suspect is criminally responsible for the war crime of intentionally directing attacks against a number of historic monuments and buildings dedicated to religion in Timbuktu in June and July of 2012.
 
 As outlined in the Prosecutor’s opening statement at the confirmation of charges hearing, “[i]n the 15th and 16th centuries, Timbuktu – now designated UNESCO World Heritage site - became one of the intellectual and spiritual capitals of Africa. It played an essential role in the expansion of Islam; it was the cradle of education, a place of enlightenment for generations of students, attracting many scholars.” &nbsp;The destruction of Timbuktu, the Prosecutor added, “constitutes the annihilation of structures that had survived the ravages of time and which stood as testimony to Timbuktu's glorious past and important place in history and to its people over generations.”
 

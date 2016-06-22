@@ -1,6 +1,6 @@
 ---
 title: Cynthia P. Schneider
-published: true
+published: false
 last_name: Schneider
 description:
 image_path: /uploads/cynthia-schneider_0.jpg

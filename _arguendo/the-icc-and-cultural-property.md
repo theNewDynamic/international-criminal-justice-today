@@ -23,9 +23,7 @@ Consider Taj Mahal in India; the ancient ruins of Persepolis in Iran; the Great 
 
 Architecture, literature and the arts – these are all profound human expressions in the physical world that define who we are, reflect our zeitgeist, and render timeless our humanity and the experiences of our epoch in an otherwise transient human existence.
 
-They enable us to pass on to our descendants who we were, what we stood for, and what we achieved.
-
-They narrate our ordeals and triumphs, and bestow upon future generations hard earned wisdom acquired through trial and error.
+They enable us to pass on to our descendants who we were, what we stood for, and what we achieved. They narrate our ordeals and triumphs, and bestow upon future generations hard earned wisdom acquired through trial and error.
 
 They educate, inspire and stimulate innovation. They provide a basis from which to learn our past so as to build our future.&nbsp; And last but not least, they form, in many ways, our foundational building blocks - our constitution; they strengthen our identity and serve as solid evidence of the continuity of the human story and the richness of our diversity.
 
@@ -45,13 +43,9 @@ As conflicts rage on in many parts of the globe, further damage to cultural prop
 
 ##### ***A responsibility to protect our common heritage***
 
-We have a responsibility to protect such invaluable worldly possessions of our common heritage.
+We have a responsibility to protect such invaluable worldly possessions of our common heritage. We must use all means at our disposal to counter the scourge of deliberate destruction of cultural property. To this end, we must strengthen our capabilities and cultivate the necessary assets. A multifaceted and multi-disciplined approach is required to confront this challenge.
 
-We must use all means at our disposal to counter the scourge of deliberate destruction of cultural property.
-
-To this end, we must strengthen our capabilities and cultivate the necessary assets. A multifaceted and multi-disciplined approach is required to confront this challenge.
-
-When the circumstances so dictate, a legally sanctioned military response in strict conformity with *jus in bello* may be warranted to thwart the destruction of cultural property. Education and training of relevant stakeholders, including military personnel engaged in combat operations, as a tool of prevention is also in much need. The pioneering work of UNESCO in this regard is commendable and must be fully supported.
+When the circumstances so dictate, a legally sanctioned military response in strict conformity with *jus in bello* may be warranted to thwart the destruction of cultural property. Education and training of relevant stakeholders, including military personnel engaged in combat operations, as a tool of prevention is also in much need. The pioneering work of UNESCO in this regard is commendable and must be fully supported (Director General of UNESCO, Honorable Irina Bokova, also contributed an article to this *Arguendo*roundtable).
 
 Punishment and deterrence through the law is another important component of confronting the scourge of intentional destruction of cultural property.
 

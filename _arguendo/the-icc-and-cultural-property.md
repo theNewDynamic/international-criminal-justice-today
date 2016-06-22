@@ -1,6 +1,6 @@
 ---
 title: The ICC and Cultural Property
-published: false
+published: true
 date: 2014-11-21T15:17:00.000Z
 arguendo-question: what-is-the-significance-of-the-iccs-war-crime-charges-of-attacks-on-cultural-property-in-mali
 contributors:
@@ -28,7 +28,7 @@ They narrate our ordeals and triumphs, and bestow upon future generations hard e
 They educate, inspire and stimulate innovation. They provide a basis from which to learn our past so as to build our future.&nbsp; And last but not least, they form, in many ways, our foundational building blocks - our constitution; they strengthen our identity and serve as solid evidence of the continuity of the human story and the richness of our diversity.
 
 &nbsp;“Cultural heritage is [indeed] the mirror of humanity” and the repository of the human experience throughout the ages.
-
+<br>
 <br>It should come as no surprise, then, that deliberate attacks on such a profoundly important manifestation of our identity is increasingly seen as repugnant to our cultural ethos in this new century.&nbsp;
 
 ***Deliberate attacks against cultural property: an increasingly prevalent and worrying trend***

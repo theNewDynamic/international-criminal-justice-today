@@ -18,6 +18,10 @@ Such attacks on cultural heritage have become a core feature of modern conflicts
 
 In this context, it is critical that such destruction not go unpunished in our efforts to re-establish the rule of law and reaffirm human rights, a fundamental part of which is access to and participation in cultural life. As the destruction of our shared cultural heritage moves to the forefront of modern conflicts, the protection of such heritage – including by ending impunity for crimes related to the destruction of culture – must likewise move to the forefront of peacebuilding. All realize that “hard power” is not enough to combat extremism and sectarian ideologies – we must win the battle of ideas as well through the tools of democracy, the soft power of education and culture, &nbsp;at the establishment of a just rule of law in order to prevent further radicalization.
 
+![](/uploads/versions/hatra---x----2048-1366x---.jpg)
+
+> Hatra, Iraq
+
 **Legal Basis of Protecting Cultural Property**
 
 The legal foundation for the protection of cultural heritage resides in several UNESCO conventions and three such treaties in particular – the *1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict, and its two (1954 and 1999) Protocols*; the 1*970 UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property*; and the *1972 UNESCO Convention Concerning the Protection of the World Cultural and Natural Heritage* (more commonly known as the *World Heritage Convention*) – which consider attacks on cultural heritage as attacks on our shared identity. The *UNESCO Declaration on Intentional Destruction of Cultural Heritage*, adopted on 17 October 2003 in the wake of the destruction of the Buddhas of Bamiyan in Afghanistan, stresses that the intentional destruction of cultural heritage is an infringement on human dignity and human rights.

@@ -19,7 +19,7 @@ In the statement, Hubbard called on global partners to increase support of domes
 
 Last year, to coincide with International Criminal Justice Day, the ABA's ICC Project launched a comprehensive [website](http://www.aba-icc.org/) to provide information and resources for government officials, diplomats and reporters who shape international affairs policy and news on international crimes and conflicts.
 
-The website features “[International Criminal Justice Today](http://www.international-criminal-justice-today.org/),” an online periodical that offers news on current events in the field and provides regular polling data from [Ipsos market research](http://www.international-criminal-justice-today.org/ipsos-polling-data/) on American opinions on the ICC. The site also features “*Arguendo,*” a virtual roundtable forum where distinguished experts from different fields discuss and debate pressing international criminal justice issues.
+The website features “[International Criminal Justice Today](http://www.international-criminal-justice-today.org/),” an online periodical that offers news on current events in the field and provides regular polling data from [Ipsos market research](http://www.international-criminal-justice-today.org/ipsos-polling-data/) on American opinions on the ICC. The site also features “*[Arguendo](https://www.international-criminal-justice-today.org/arguendo/),*” a virtual roundtable forum where distinguished experts from different fields discuss and debate pressing international criminal justice issues.
 
 JusticeMatters #17July
 

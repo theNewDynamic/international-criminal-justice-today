@@ -1,12 +1,12 @@
 ---
 title: "Senator Durbin's Speech Highlights ABA Working Group on Crimes Against Humanity"
-published: true
+published: false
 date: 2015-04-08T16:58:00.000Z
 category: news
 description:
 pull_quote: 'Despite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II, in Pol Pot’s Cambodia, Rwanda, the former Yugoslavia, Sierra Leone and elsewhere, there is no U.S. law prohibiting crimes against humanity.'
 pull_quote_attribution: U.S. Senator Dick Durbin (D-Illinois)
-featured_image_path: 'https://www.flickr.com/photos/126209453@N05/16984560509/'
+featured_image_path:
 ---
 
 
@@ -16,7 +16,7 @@ Chicago, Illinois, Apr. 10, 2015 - In a [speech](http://www.law.northwestern.edu
 
 ---
 
-<iframe class="wistia_embed" name="wistia_embed" allowtransparency="true" scrolling="no" frameborder="0" height="270" width="480" src="http://fast.wistia.net/embed/iframe/2rallr36vw?canonicalUrl=https%3A%2F%2Fnorthwesternlaw.wistia.com%2Fmedias%2F2rallr36vw&amp;canonicalTitle=Senator%20Dick%20Durbin%20Announces%20Proposed%20Human%20Rights%20Legislation%20at%20Northwestern%20Law%20-%20northwesternlaw"></iframe>
+<iframe name="wistia_embed" width="480" height="270" class="wistia_embed" frameborder="0" scrolling="no" allowtransparency="true" src="http://fast.wistia.net/embed/iframe/2rallr36vw?canonicalUrl=https%3A%2F%2Fnorthwesternlaw.wistia.com%2Fmedias%2F2rallr36vw&amp;canonicalTitle=Senator%20Dick%20Durbin%20Announces%20Proposed%20Human%20Rights%20Legislation%20at%20Northwestern%20Law%20-%20northwesternlaw"></iframe>
 
 ---
 
@@ -50,7 +50,7 @@ The ABA Working Group on CAH was formed by the [ABA Center for Human Rights](htt
 
 ---
 
-<object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&amp;set_id=72157652009355555&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&amp;set_id=72157652009355555&amp;jump_to=" height="525" width="700" /></object>
+<object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&amp;set_id=72157652009355555&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" height="525" width="700" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&amp;set_id=72157652009355555&amp;jump_to=" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /></object>
 
 ---
 

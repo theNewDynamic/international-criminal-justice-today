@@ -10,7 +10,7 @@ featured_image_path: /uploads/1434903709842_10404058_280789842116943_66061614630
 ---
 
 
-#### The American University's Council for Africa Studies and the ABA's ICC Project hosted a panel on recent ICC cases against top Kenyan government officials.
+#### American University's Council for Africa Studies and the ABA's ICC Project hosted a panel on recent ICC cases against top Kenyan government officials.
 
 ## &nbsp;
 

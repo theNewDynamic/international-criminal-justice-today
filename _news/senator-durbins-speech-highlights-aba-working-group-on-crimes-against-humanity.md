@@ -1,6 +1,6 @@
 ---
 title: "Senator Durbin's Speech Highlights ABA Working Group on Crimes Against Humanity"
-published: false
+published: true
 date: 2015-04-08T16:58:00.000Z
 category: news
 description:

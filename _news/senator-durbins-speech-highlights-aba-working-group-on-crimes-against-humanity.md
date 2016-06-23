@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote: 'Despite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II, in Pol Pot’s Cambodia, Rwanda, the former Yugoslavia, Sierra Leone and elsewhere, there is no U.S. law prohibiting crimes against humanity.'
 pull_quote_attribution: U.S. Senator Dick Durbin (D-Illinois)
-featured_image_path:
+featured_image_path: 'https://www.flickr.com/photos/126209453@N05/16984560509/'
 ---
 
 
@@ -16,7 +16,7 @@ Chicago, Illinois, Apr. 10, 2015 - In a [speech](http://www.law.northwestern.edu
 
 ---
 
-<iframe class="wistia_embed" name="wistia_embed" allowtransparency="true" scrolling="no" src="http://fast.wistia.net/embed/iframe/2rallr36vw?canonicalUrl=https%3A%2F%2Fnorthwesternlaw.wistia.com%2Fmedias%2F2rallr36vw&amp;canonicalTitle=Senator%20Dick%20Durbin%20Announces%20Proposed%20Human%20Rights%20Legislation%20at%20Northwestern%20Law%20-%20northwesternlaw" frameborder="0" height="270" width="480"></iframe>
+<iframe class="wistia_embed" name="wistia_embed" allowtransparency="true" scrolling="no" frameborder="0" height="270" width="480" src="http://fast.wistia.net/embed/iframe/2rallr36vw?canonicalUrl=https%3A%2F%2Fnorthwesternlaw.wistia.com%2Fmedias%2F2rallr36vw&amp;canonicalTitle=Senator%20Dick%20Durbin%20Announces%20Proposed%20Human%20Rights%20Legislation%20at%20Northwestern%20Law%20-%20northwesternlaw"></iframe>
 
 ---
 

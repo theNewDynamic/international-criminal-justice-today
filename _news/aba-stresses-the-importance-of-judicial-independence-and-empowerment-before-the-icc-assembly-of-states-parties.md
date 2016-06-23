@@ -18,7 +18,7 @@ The Hague, The Netherlands, Nov. 19, 2015 - Before the 14th Session of Assembly 
 
 *Kip Hale, Director of the ABA's ICC Project*
 
-The statement was the first by the ABA before the esteemed body of countries who are members of the ICC. Senior Counsel of the ABA Center for Human Rights and Director of the ABA's ICC Project, Kip Hale, addressed the ASP on behalf of the ABA.
+The statement was the first by the ABA before the esteemed body of countries who are members of the ICC. Senior Counsel of the ABA Center for Human Rights and Director of the ABA's ICC Project, [Kip Hale](https://www.aba-icc.org/staff/kip-hale/), addressed the ASP on behalf of the ABA.
 
 Noting that it has supported the establishment of a permanent international criminal court since 1978, Hale recalled that the ABA has also urged the United States to join the ICC and to provide greater support to ICC cases. To implement the ABA's long-standing [policy positions](https://www.aba-icc.org/the-aba-icc-project/aba-policy-on-the-icc/) in support of the ICC, the [ABA's ICC Project](http://www.aba-icc.org/) was established in 2011, specifically to "advocate for enhanced US-ICC relations and on the vital role of international criminal justice on world peace and security." Hale made special mention of the distinguished, multinational [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/) that provides valuable guidance to the Project and its work.
 
@@ -26,6 +26,6 @@ Turning to the future of the ICC, Hale stated that the ABA "strongly believes th
 
 Please read the ABA's official written statement to the ASP below.
 
-<figure data-type="embed"><iframe width="100%" height="600" class="scribd_iframe_embed" id="doc_282" src="https://www.scribd.com/embeds/291188452/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-IxXX2TjX4k653HDLMif5&amp;show_recommendations=true" frameborder="0" scrolling="no" data-aspect-ratio="0.7729220222793488" data-auto-height="false"></iframe></figure>
+<figure data-type="embed"><iframe width="100%" height="600" class="scribd_iframe_embed" id="doc_282" src="https://www.scribd.com/embeds/291188452/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-IxXX2TjX4k653HDLMif5&amp;show_recommendations=true" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="0.7729220222793488"></iframe></figure>
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](http://www.aba-icc.org/).*

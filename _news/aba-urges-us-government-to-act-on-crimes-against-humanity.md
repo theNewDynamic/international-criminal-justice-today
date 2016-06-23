@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/united_states_capitol_-_west_front.jpg
 ---
 
 

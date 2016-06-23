@@ -24,7 +24,7 @@ Senator Durbin’s initiative to reintroduce CAH legislation coincides with the 
 
 ---
 
-The ABA Working Group on Crimes Against Humanity was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after [passage](http://www.international-criminal-justice-today.org/news/2014/09/12/aba-urges-us-government-to-act-on-crimes-against-humanity/) of ABA [policy](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) on CAH. The Working Group had its first meeting on April 15, 2015 in Washington, D.C. The inaugural members of the Working Group are as follows (alphabetical order):
+The ABA Working Group on Crimes Against Humanity was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after the [ABA passed a policy resolution](https://www.international-criminal-justice-today.org/news/aba-urges-us-government-to-act-on-crimes-against-humanity/) [urging the U.S. government to pass CAH legislation](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf). The Working Group had its first meeting on April 15, 2015 in Washington, D.C. The inaugural members of the Working Group are as follows (alphabetical order):
 
 * [Kelly Askin](http://www.ushmm.org/confront-genocide/speakers-and-events/biography/kelly-dawn-askin), International Criminal Justice Expert
 * [Representative Howard L. Berman](https://www.cov.com/en/biographies/b/howard-berman), Covington & Burling LLP

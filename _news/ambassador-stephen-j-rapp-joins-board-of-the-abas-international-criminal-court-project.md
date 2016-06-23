@@ -10,7 +10,7 @@ featured_image_path: /uploads/stephenrapp.jpg
 ---
 
 
-#### Ambassador Rapp is a preeminent leader in the field of international criminal justice, and will enhance the ABA's ICC Project's distinguished international Board of Advisors.
+#### Ambassador Rapp is a preeminent leader in the field of international criminal justice and will enhance the ABA's ICC Project's distinguished international Board of Advisors.
 
 ![](/uploads/rapp-sm.jpg)
 

@@ -6,11 +6,13 @@ category: news
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/1434904029562_event-4-10-2014.jpg
 ---
 
 
-#### ICC Prosecutor and American University Professor will discuss the future of US-ICC relations.
+#### The ABA's ICC Project and the Washington Working Group on the ICC sponsored a private briefing of US Congress members and other civil society representatives by ICC Prosecutor Fatou Bensouda.
+
+&nbsp;
 
 Washington, D.C., Apr. 10, 2014 – Numerous legislative offices from Capitol Hill along with civil society representatives are to attend a private briefing with the Prosecutor of the International Criminal Court (ICC), Fatou Bensouda. Hosted by the American Bar Association’s (ABA) ICC Project and in conjunction with Washington Working Group on the ICC, the event will be moderated by Mr. Kip Hale, senior counsel of the ABA Center for Human Rights and director of the ABA's ICC Project. The event will also include Professor Diane Orentlicher, American University Washington College of Law and former Deputy for War Crimes Issues in the US Department of State (2009-2011), who will comment on US-ICC relations.
 

@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/1434906153176_event-atrocity-accountability-syria-2a-1600x900.jpg
 ---
 
 

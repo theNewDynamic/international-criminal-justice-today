@@ -85,7 +85,7 @@ It is also important to point out that, in line with the Prosecutor’s commitme
 
 The work on this policy will commence in the last quarter of 2016 following the finalization and official launch of the Office’s Children’s Policy in the margins of the upcoming Assembly of States Parties.&nbsp; The Office will be working closely with UNESCO and other stakeholders in the development and consultation of this endeavour.
 
-As with past policies, it is Prosecutor’s hope that this new policy will provide further transparency and guidance to the Office in the systematic investigation and prosecution of such crimes, and that it will also serve as a helpful reference document to assist prosecutions at the national level.
+As with past policies, it is the Prosecutor’s hope that this new policy will provide further transparency and guidance to the Office in the systematic investigation and prosecution of such crimes, and that it will also serve as a helpful reference document to assist prosecutions at the national level.
 
 ##### ***Need for concerted and committed action***
 

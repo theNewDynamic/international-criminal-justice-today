@@ -67,7 +67,7 @@ Indeed, under article 8 of the Court’s founding treaty, intentional attacks ag
 
 This is not a theoretical construct.
 
-Long before the destruction of historical sites in Syria and Iraq captured the world’s attention, the Court’s Prosecutor, Mrs Fatou Bensouda (The Gambia), stressed the need to curb deliberate destruction of protected cultural property within the Court’s legal framework. The Office’s work with respect to Mali is a case in point.
+Long before the destruction of historical sites in Syria and Iraq captured the world’s attention, the Court’s Prosecutor, Mrs Fatou Bensouda, stressed the need to curb deliberate destruction of protected cultural property within the Court’s legal framework. The Office’s work with respect to Mali is a case in point.
 
 As is now widely reported, in September 2015, based on the materials adduced by the Prosecution, the Court’s Judges issued a warrant of arrest against Mr [Ahmad Al Faqi Al Mahdi](https://www.aba-icc.org/accused/ahmad-al-faqi-al-mahdi/), a member of Ansar Eddine associated with Al Qaeda in the Islamic Maghreb.
 

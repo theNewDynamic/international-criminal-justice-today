@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote: 'An effective international criminal justice system, led by the International Criminal Court (ICC) and national courts throughout the world, is indispensable to holding accountable and punishing those individuals who engage in atrocity crimes, to bringing justice to victims and their families, and to achieving lasting international peace and security.'
 pull_quote_attribution: ABA President William C. Hubbard
-featured_image_path:
+featured_image_path: /uploads/williamchubbard.jpg
 ---
 
 

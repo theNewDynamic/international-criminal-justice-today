@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote: 'We are delighted to welcome Ambassador Rapp to the Project’s Board of Advisors. He brings vast international criminal law expertise, insight, leadership and sound judgment that will enhance our distinguished international Board of Advisors and its important guiding role for the Project.'
 pull_quote_attribution: "Michael S. Greco, Former ABA President and Chair of the ABA Center for Human Rights and the ABA's ICC Project Board of Advisors"
-featured_image_path:
+featured_image_path: /uploads/1446512803168_vyt00165-168x168.jpg
 ---
 
 

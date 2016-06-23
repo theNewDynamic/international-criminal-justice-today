@@ -3,7 +3,7 @@ title: Gilles Dutertre
 published: true
 last_name: Dutertre
 description:
-image_path: /file_000.jpeg
+image_path: /dutertre.jpeg
 slug: gilles-dutertre
 ---
 

@@ -99,7 +99,7 @@ It must also be stated that the primacy of jurisdiction to investigate and prose
 
 To borrow from the [words](https://www.youtube.com/watch?v=9uN2V19o1TQ)of Prosecutor Bensouda at the opening of the case of the *Prosecution v. Ahmad Al Faqi Al Mahdi*: “history itself, whose physical embodiment is at peril through such attacks, will not be generous to our failure to care or act decisively.”
 
-The scourge of deliberate attacks and destruction of cultural property must be stopped through a concerted and committed action. &nbsp; There is no hierarchy in mass atrocities.&nbsp; These grave crimes must be pursued with the same vigour as other atrocity crimes.
+The scourge of deliberate attacks and destruction of cultural property must be stopped through concerted and committed action. &nbsp; There is no hierarchy in mass atrocities.&nbsp; These grave crimes must be pursued with the same vigour as other atrocity crimes.
 
 Without the traces of our past, our path ahead is less certain. Without those critical bonds and the awareness that cultural heritage cultivates amongst peoples and nations of the world, the ends of sustainable peace and conflict prevention will become even more precarious and out of reach.
 

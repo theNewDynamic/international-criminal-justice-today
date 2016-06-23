@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/1434905169778_2014-10-27-capitol-hill-briefing-icc.jpg
 ---
 
 

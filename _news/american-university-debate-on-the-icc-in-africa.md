@@ -1,5 +1,5 @@
 ---
-title: ABA and American University-Hosted Debate on ICC Cases Against Kenyan Government Officials
+title: American University and ABA-Hosted Debate on ICC Cases Against Kenyan Government Officials
 published: true
 date: 2014-02-25T17:16:00.000Z
 category: news
@@ -10,7 +10,7 @@ featured_image_path: /uploads/1434903709842_10404058_280789842116943_66061614630
 ---
 
 
-#### The ABA's ICC Project and American University's Council for Africa Studies hosted a panel on recent ICC cases against top Kenyan government officials.
+#### The American University's Council for Africa Studies and the ABA's ICC Project hosted a panel on recent ICC cases against top Kenyan government officials.
 
 ## &nbsp;
 

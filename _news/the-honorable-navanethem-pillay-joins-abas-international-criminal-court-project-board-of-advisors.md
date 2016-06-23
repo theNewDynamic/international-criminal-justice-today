@@ -14,7 +14,7 @@ featured_image_path: /uploads/1434905799265_pillay-400x504.jpg
 
 #### &nbsp;
 
-#### ![](/uploads/1434905799265_pillay-400x504.jpg)
+#### &nbsp;
 
 Washington, D.C., Feb. 25, 2015 - The American Bar Association’s International Criminal Court Project is pleased to announce that [Navanethem (Navi) Pillay](https://www.aba-icc.org/board-of-advisors/hon-navanethem-pillay/) has joined the Project’s distinguished [Board of Advisors](https://www.aba-icc.org/the-aba-icc-project/board-of-advisors/). Ms. Pillay has a long and distinguished career in international criminal justice and human rights advocacy.
 

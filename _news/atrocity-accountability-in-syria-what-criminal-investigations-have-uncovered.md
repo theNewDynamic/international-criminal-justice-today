@@ -1,7 +1,7 @@
 ---
 title: 'Atrocity Accountability in Syria: What Criminal Investigations Have Uncovered'
 published: true
-date: 2015-03-14T17:04:00.000Z
+date: 2015-04-14T17:04:00.000Z
 category: news
 description:
 pull_quote:

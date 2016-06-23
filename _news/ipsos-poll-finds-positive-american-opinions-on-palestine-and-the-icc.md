@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote: 'Of those aware of the ICC, 35% thought there was a positive long-term impact on the peace process. Furthermore, more Americans than not believe that Palestine’s membership at the ICC advances international justice.'
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/1436320456524_palestine.jpg
 ---
 
 

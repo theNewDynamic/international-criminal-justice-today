@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/1434904854599_international-humanitarian-law-dialogues-1496.jpg
 ---
 
 

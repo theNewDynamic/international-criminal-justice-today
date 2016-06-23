@@ -13,7 +13,7 @@ slug:
 
 <!--EndFragment--><!--EndFragment-->
 
-##### ***Reinforced Legal enforcement of the Protection of Cultural Property in Armed Conflict***
+##### &nbsp;
 
 A nation's culture may reside in the hearts and souls of its people, as Mahatma Gandhi once stated, yet surely, it takes its most tangible form in creative expressions of masonry and ingenuity that survive the twists and turns of history.
 

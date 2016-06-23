@@ -18,7 +18,7 @@ Judge Kaul was an inspiring advocate, a gentle man, and a seminal figure in the 
 
 Judge Sang-Hyun Song, ICC President, has reflected on the vital role played by his colleague Judge Kaul in the development of modern international criminal justice, recalling that “[he] served as a role model, dedicating his career to reshaping international justice. Judge Kaul was a driving force in the creation of the Rome Statute, in the establishment of the ICC, and in many of the decisions rendered in the situations and cases before the Court in its history thus far. We will long remember him with respect and admiration on a personal and professional level, for his relentless commitment and extensive contributions to international justice.”
 
-Judge Kaul was an early supporter of the ABA-ICC Project and a strong advocate of improved relations between the United States and the International Criminal Court. Judge Kaul has left his indelible mark on the vitally important field of international criminal justice, for which we are indebted to him.
+Judge Kaul was an early supporter of the ABA's ICC Project and a strong advocate of improved relations between the United States and the International Criminal Court. Judge Kaul has left his indelible mark on the vitally important field of international criminal justice, for which we are indebted to him.
 
 — Mr. Michael Greco, Chair of the ABA-ICC Project Board of Advisors
 

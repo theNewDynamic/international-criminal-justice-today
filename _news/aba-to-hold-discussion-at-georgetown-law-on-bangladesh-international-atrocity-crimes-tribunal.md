@@ -1,5 +1,5 @@
 ---
-title: ABA to Hold Discussion at Georgetown Law on Bangladesh International Crimes Tribunal
+title: ABA-Hosted Discussion at Georgetown Law on Bangladesh International Crimes Tribunal
 published: true
 date: 2014-02-25T17:13:00.000Z
 category: news

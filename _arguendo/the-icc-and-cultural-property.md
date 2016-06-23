@@ -1,11 +1,11 @@
 ---
-title: The ICC and Cultural Property
+title: 'The ICC and Cultural Property: Reinforced Legal Enforcement of the Protection of Cultural Property in Armed Conflict'
 published: true
 date: 2016-06-22T00:05:00.000Z
 arguendo-question: what-is-the-significance-of-the-iccs-war-crime-charges-of-attacks-on-cultural-property-in-mali
 contributors:
-  - sam-sasan-shoamanesh
   - gilles-dutertre
+  - sam-sasan-shoamanesh
 description:
 slug:
 ---

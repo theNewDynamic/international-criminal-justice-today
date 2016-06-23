@@ -1,5 +1,5 @@
 ---
-title: ABA to Hold Discussion at Georgetown Law on Bangladesh International Atrocity Crimes Tribunal
+title: ABA to Hold Discussion at Georgetown Law on Bangladesh International Crimes Tribunal
 published: true
 date: 2014-02-25T17:13:00.000Z
 category: news
@@ -10,7 +10,7 @@ featured_image_path: /uploads/1434903572605_event-photo-bangladesh.jpg
 ---
 
 
-#### ABA's ICC Project hosted a discussion on the success and failures of the Bangladesh International Atrocity Crimes Tribunal.
+#### ABA's ICC Project hosted a discussion on the success and failures of the Bangladesh International Crimes Tribunal.
 
 #### &nbsp;
 

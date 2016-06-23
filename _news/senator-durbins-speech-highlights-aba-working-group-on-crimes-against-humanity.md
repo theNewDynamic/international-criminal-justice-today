@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote: 'Despite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II, in Pol Pot’s Cambodia, Rwanda, the former Yugoslavia, Sierra Leone and elsewhere, there is no U.S. law prohibiting crimes against humanity.'
 pull_quote_attribution: U.S. Senator Dick Durbin (D-Illinois)
-featured_image_path:
+featured_image_path: /uploads/dickdurbin.jpg
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: ICC Prosecutor Briefing at US Congress
+title: ICC Prosecutor Briefing at U.S. Congress
 published: true
 date: 2014-04-10T16:25:00.000Z
 category: news

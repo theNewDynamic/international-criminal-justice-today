@@ -103,4 +103,4 @@ Without the traces of our past, our path ahead is less certain. Without those cr
 
 To safeguard the hallmarks of humanity, we must protect cultural heritage. To do so effectively, surely, we must employ the vector of the law as a punitive and preventative instrument of dispensing justice. At the Office of the Prosecutor of the ICC, we will continue to play our part.
 
-*The authors are members of the ICC-Office of the Prosecutor’s Working Group mandated with developing a policy paper on the protection of ‘Cultural Property’ under the Rome Statute legal framework*
+*The authors are members of the ICC-Office of the Prosecutor’s Working Group mandated with developing a policy paper on the protection of ‘Cultural Property’ under the Rome Statute legal framework.*

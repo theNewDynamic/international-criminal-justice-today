@@ -4,7 +4,7 @@
   {% for object in contributors  %}
     <div class="box">
       <h2 class="h4">
-        <a href="{{ url(object) }}">{{ object.title }}</a>
+        <a href="{{ object.url }}">{{ object.title }}</a>
       </h2>
       {% if object.image_path %}
         <figure class="wy-figure-left">

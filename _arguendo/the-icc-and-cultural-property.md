@@ -33,7 +33,7 @@ They educate, inspire and stimulate innovation. They provide a basis from which 
 
 Be that as it may, seemingly aloof to the destructive impact of WWII, in the last decades alone, we have continued to witness lawless wars and extremist ideologies that have caused untold suffering and destruction, accompanied by the plunder and defacing of antiquities.
 
-Deliberate attacks against the old Mostar bridge in what is today Bosnia and Herzegovina, the destructive siege of the Old Town of Dubrovnik (1991), the defaced and mutilated Buddhas of Bamiyan in central Afghanistan (2001); the desecration of religious sites and historic monuments in Timbuktu; and, most recently, the ancient historical sites in Mosul, Iraq (2014) and Palmyra in Syria (2015) all point to a worrying trend.
+Deliberate attacks against the old Mostar bridge in what is today Bosnia and Herzegovina; the destructive siege of the Old Town of Dubrovnik (1991); the defaced and mutilated Buddhas of Bamiyan in central Afghanistan (2001); the desecration of religious sites and historic monuments in Timbuktu; and, most recently, the ancient historical sites in Mosul, Iraq (2014) and Palmyra in Syria (2015) all point to a worrying trend.
 
 In short, in our times, wanton intentional attacks against cultural property occur with alarming frequency and continue to devastate not only the communities directly affected by such immeasurable loss but also the whole of humanity.
 
@@ -43,7 +43,7 @@ As conflicts rage on in many parts of the globe, further damage to cultural prop
 
 We have a responsibility to protect such invaluable worldly possessions of our common heritage. We must use all means at our disposal to counter the scourge of deliberate destruction of cultural property. To this end, we must strengthen our capabilities and cultivate the necessary assets. A multifaceted and multi-disciplined approach is required to confront this challenge.
 
-When the circumstances so dictate, a legally sanctioned military response in strict conformity with *jus in bello* may be warranted to thwart the destruction of cultural property. Education and training of relevant stakeholders, including military personnel engaged in combat operations, as a tool of prevention is also in much need. The pioneering work of UNESCO in this regard is commendable and must be fully supported (Director General of UNESCO, Honorable Irina Bokova, also [contributed](https://www.international-criminal-justice-today.org/arguendo/ending-impunity-for-war-crimes-on-cultural-heritage-the-mali-case/)an article to this *Arguendo*roundtable).
+When the circumstances so dictate, a legally sanctioned military response in strict conformity with *jus in bello* may be warranted to thwart the destruction of cultural property. Education and training of relevant stakeholders, including military personnel engaged in combat operations, as a tool of prevention is also in much need. The pioneering work of UNESCO in this regard is commendable and must be fully supported (Director General of UNESCO, Honorable Irina Bokova, also [contributed](https://www.international-criminal-justice-today.org/arguendo/ending-impunity-for-war-crimes-on-cultural-heritage-the-mali-case/) an article to this *Arguendo* roundtable).
 
 Punishment and deterrence through the law is another important component of confronting the scourge of intentional destruction of cultural property. Fortunately, the necessary legal instruments and framework are already in place.
 

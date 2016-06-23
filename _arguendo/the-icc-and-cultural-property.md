@@ -95,7 +95,7 @@ The Court is a crucially important judicial mechanism that, through its work, ca
 
 It must also be stated that the primacy of jurisdiction to investigate and prosecute these crimes rests in the first instance with the national authorities.&nbsp; States must uphold these obligations and demonstrate their commitment by ratifying relevant international legal instruments, and by adopting and applying implementing legislation; in effect, equipping themselves with the legal tools to effectively pursue and deter these crimes through national prosecutions.
 
-To borrow from the [words](https://www.youtube.com/watch?v=9uN2V19o1TQ)of Prosecutor Bensouda at the opening of the case of the *Prosecution v. Ahmad Al Faqi Al Mahdi*: “history itself, whose physical embodiment is at peril through such attacks, will not be generous to our failure to care or act decisively.”
+To borrow from the [words](https://www.youtube.com/watch?v=9uN2V19o1TQ) of Prosecutor Bensouda at the opening of the case of the *Prosecution v. Ahmad Al Faqi Al Mahdi*: “history itself, whose physical embodiment is at peril through such attacks, will not be generous to our failure to care or act decisively.”
 
 The scourge of deliberate attacks and destruction of cultural property must be stopped through concerted and committed action. &nbsp; There is no hierarchy in mass atrocities.&nbsp; These grave crimes must be pursued with the same vigour as other atrocity crimes.
 

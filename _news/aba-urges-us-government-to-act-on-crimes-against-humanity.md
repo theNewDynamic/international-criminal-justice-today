@@ -26,7 +26,7 @@ Without comprehensive domestic legislation prohibiting CAH, the U.S. can become 
 
 Unlike war crimes and genocide, CAH have not been codified in an international treaty. Accordingly, there are large gaps within and between States to investigate and prosecute CAH and cooperate with each other in doing so. A comprehensive CAH treaty, with extradition and mutual legally assistance provisions for example, would significantly curtail these gaps.
 
-[Michael S. Greco](http://www.aba-icc.org/board-of-advisors/-chair-greco-michael/), former ABA President and Chair of the ABA's International Criminal Court Project, introduced and advocated for the CAH resolution before the entire ABA House of Delegates. Please find video of his remarks below.
+[Michael S. Greco](https://www.aba-icc.org/board-of-advisors/michael-s-greco/), former ABA President and Chair of the ABA's International Criminal Court Project, introduced and advocated for the CAH resolution before the entire ABA House of Delegates. Please find video of his remarks below.
 
 *The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA-ICC Project can be found at its [website](http://www.aba-icc.org/).*
 

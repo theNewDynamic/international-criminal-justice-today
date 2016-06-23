@@ -1,5 +1,5 @@
 ---
-title: Ipsos Poll Finds Positive American Opinions on Palestine and the ICC
+title: "ABA's ICC Project/Ipsos Poll Finds Positive American Opinions on Palestine and the ICC"
 published: true
 date: 2015-04-12T16:59:00.000Z
 category: news

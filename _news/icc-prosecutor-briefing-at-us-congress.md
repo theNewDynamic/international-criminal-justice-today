@@ -10,9 +10,7 @@ featured_image_path: /uploads/1434904029562_event-4-10-2014.jpg
 ---
 
 
-#### The ABA's ICC Project and the Washington Working Group on the ICC sponsored a private briefing of US Congress members and other civil society representatives by ICC Prosecutor Fatou Bensouda.
-
-&nbsp;
+#### The ABA's ICC Project and the Washington Working Group on the ICC sponsored a private briefing of US Congress members and other civil society representatives by ICC Prosecutor Fatou Bensouda and, former U.S. State Department Deputy for War Crimes Issues, Professor Diane Orentlicher.
 
 Washington, D.C., Apr. 10, 2014 – Numerous legislative offices from Capitol Hill along with civil society representatives are to attend a private briefing with the [Prosecutor of the International Criminal Court (ICC)](https://www.icc-cpi.int/about/otp?ln=en), Fatou Bensouda. Hosted by the [American Bar Association’s (ABA) ICC Project](https://www.aba-icc.org/) and in conjunction with [Washington Working Group on the ICC](https://washingtonicc.org/), the event will be moderated by [Kip Hale](https://www.aba-icc.org/staff/kip-hale/), senior counsel of the ABA Center for Human Rights and director of the ABA's ICC Project. The event will also include Professor Diane Orentlicher, American University Washington College of Law and former Deputy for War Crimes Issues in the US Department of State (2009-2011), who will comment on US-ICC relations.
 

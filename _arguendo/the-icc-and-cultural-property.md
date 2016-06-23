@@ -13,8 +13,6 @@ slug:
 
 <!--EndFragment--><!--EndFragment-->
 
-##### &nbsp;
-
 A nation's culture may reside in the hearts and souls of its people, as Mahatma Gandhi once stated, yet surely, it takes its most tangible form in creative expressions of masonry and ingenuity that survive the twists and turns of history.
 
 Consider Taj Mahal in India; the ancient ruins of Persepolis in Iran; the Great Pyramids of Giza in Egypt; the Great Wall of China; Ephesus in current day Turkey; the Acropolis of Athens, or Timbuktu in Mali, to name only a handful of examples – all these World Heritage sites immediately trigger our senses and arouse our curiosity about the past. How plain would our existence be and how arid our imagination without these magnificent marvels embellishing our contemporary world and enriching the world of tomorrow.

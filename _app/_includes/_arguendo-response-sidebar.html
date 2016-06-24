@@ -8,7 +8,7 @@
       </h2>
       {% if object.image_path %}
         <figure class="wy-figure-left">
-          <img src="{{ site.image_url}}/{{ object.image_path }}?w=120&h=120&fit=clamp&exp=1">
+          <img src="{{ site.image_url}}/{{ object.image_path }}?w=120&h=120&fit=crop&crop=faces&exp=1">
         </figure>
       {% endif %}
       {% if object.content %}

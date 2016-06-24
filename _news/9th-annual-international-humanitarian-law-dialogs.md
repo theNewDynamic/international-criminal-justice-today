@@ -1,5 +1,5 @@
 ---
-title: 9th Annual International Humanitarian Law Dialogs
+title: 9th Annual International Humanitarian Law Dialogs - 2015
 published: true
 date: 2015-09-24T20:20:00.000Z
 category: news

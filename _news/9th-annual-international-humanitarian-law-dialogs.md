@@ -12,7 +12,7 @@ featured_image_path: /uploads/1443127902482_21466389016_bda2c2bd61_k.jpg
 
 #### “The Wrongs We Seek” - A commemoration of the anniversary of the Srebrenica Massacre (1995) and the opening of the International Military Tribunal at Nuremberg (1945)
 
-New York, Sept. 24, 2015 - On August 31 and September 1, 2015, international prosecutors, ambassadors, diplomats, and legal scholars from around the globe gathered at Chautauqua Institution in Jamestown, NY, for the 9th Annual International Humanitarian Law Dialogs. Now in its ninth year the Annual International Humanitarian Law Dialogs is a historic gathering of current and former prosecutors of international war crimes tribunals, renowned academics and law experts. This unique two-day event allows participants and the public to engage in a meaningful dialogue about issues related to modern international criminal law.
+New York, Sept. 24, 2015 - From August 31 to September 1, 2015, international prosecutors, ambassadors, diplomats, and legal scholars from around the globe gathered at Chautauqua Institution in Jamestown, NY, for the 9th Annual International Humanitarian Law Dialogs. Now in its ninth year the Annual International Humanitarian Law Dialogs is a historic gathering of current and former prosecutors of international war crimes tribunals, renowned academics and law experts. This unique two-day event allows participants and the public to engage in a meaningful dialogue about issues related to modern international criminal law.
 
 <font>Hosted by the Robert H. Jackson Center, the dialogs feature prominent keynote speakers and roundtable discussions updates from the international prosecutors. They also include student sessions and breakout &ldquo;porch sessions&rdquo; on selected topics.</font>
 

@@ -1,5 +1,5 @@
 ---
-title: Bangladesh International Crimes Tribunal
+title: ABA-Hosted Discussion at Georgetown Law on Bangladesh International Crimes Tribunal
 published: true
 date: 2014-02-25T17:19:00.000Z
 description:
@@ -24,4 +24,4 @@ On February 25, the American Bar Association (ABA) held a discussion on the Bang
 
 [video_audio](https://georgetown.app.box.com/s/mtfs0d6g7t3oraicconr)
 
-*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;[website](https://www.aba-icc.org/).*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](https://www.aba-icc.org/).*

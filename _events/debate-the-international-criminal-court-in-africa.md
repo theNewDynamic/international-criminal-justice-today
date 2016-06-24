@@ -1,5 +1,5 @@
 ---
-title: 'Debate: The International Criminal Court in Africa'
+title: American University and ABA-Hosted Debate on ICC Cases Against Kenyan Government Officials
 published: true
 date: 2014-02-25T17:21:00.000Z
 description:
@@ -28,7 +28,7 @@ The moderator of this debate was Mr. Michael Greco, former President of the Amer
 
 [Press Release](http://diasporamessenger.com/us-groups-to-debate-kenyan-icc-cases/)
 
-*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;[website](https://www.aba-icc.org/).*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](https://www.aba-icc.org/).*
 
 ---
 

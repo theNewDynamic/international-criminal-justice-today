@@ -10,7 +10,7 @@ featured_image_path: /uploads/1449751712307_Claudia_Paz_y_Paz.jpg
 ---
 
 
-#### The ABA's ICC Project welcomes Dr. Claudia Paz y Paz, the first Prosecutor General of Guatemala, to its Board of Advisors.&nbsp;
+#### The ABA's ICC Project welcomes Dr. Claudia Paz y Paz, the first female Prosecutor General of Guatemala, to its Board of Advisors.&nbsp;
 
 &nbsp;
 

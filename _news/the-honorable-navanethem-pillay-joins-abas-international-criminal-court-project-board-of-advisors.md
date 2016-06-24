@@ -6,11 +6,11 @@ category: news
 description:
 pull_quote: 'The American Bar Association Center for Human Rights is pleased that Judge Pillay, an eminent international jurist and human rights advocate, has decided to join the ABA-ICC Project Board of Advisors to share her vast experience, good judgment and passion in advancing the cause of interational justice and human rights protection.'
 pull_quote_attribution: Michael Greco
-featured_image_path: /uploads/1434905799265_pillay-400x504.jpg
+featured_image_path: /uploads/navipillay.png
 ---
 
 
-#### The ABA’s ICC Project is pleased to announce that renowned international jurist and human rights activist Navanethem Pillay has joined the Project’s Board of Advisors.
+#### The ABA’s ICC Project welcomes the Honorable Navanethem Pillay, former UN Commissioner for Human Rights and former ICC Judge, to its Board of Advisors.
 
 #### &nbsp;
 

@@ -1,5 +1,5 @@
 ---
-title: 2014 International Humanitarian Law Dialogs
+title: 8th Annual International Humanitarian Law Dialogs - 2014
 published: true
 date: 2014-08-24T16:38:00.000Z
 category: news

@@ -21,3 +21,5 @@ The full day, international conference in Paris, France, on March 21, 2013 broug
 [flyer](http://www.americanbar.org/content/dam/aba/administrative/individual_rights/programme_colloque_US.authcheckdam.pdf)
 
 video/audio: https://soundcloud.com/radiofranceinternationale/icc-prosecutor-warns-corporate, https://soundcloud.com/radiofranceinternationale/us-war-crimes-ambassador, https://soundcloud.com/radiofranceinternationale/business-as-usual-not-when
+
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](https://www.aba-icc.org/).*

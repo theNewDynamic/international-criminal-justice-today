@@ -12,7 +12,7 @@ featured_image_path: /uploads/1456415687776_1D2B9579.jpg
 ---
 
 
-#### The ABA's ICC Project welcomes Professor Alex Whiting, former ICC Prosecutions Coordinator, to its Board of Advisors.
+#### The ABA's ICC Project welcomes Professor Alex Whiting, former International Criminal Court Prosecutions Coordinator and former Senior Trial Attorney at the International Criminal Tribunal for the former Yugoslavia, to its Board of Advisors.
 
 &nbsp;
 

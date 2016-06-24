@@ -31,7 +31,7 @@ The American Bar Association is a proud co-sponsor of the 8th International Huma
 * Panel discussion on the *Relevance of International Humanitarian Law in 2014* with Honorable Hans Corell, Honorable David J. Scheffer, Prof. William Schabas, and moderated by Prof. Leila Sadat.
 
 
-<iframe width="720" height="572" scrolling="no" frameborder="0" style="border: 0px none transparent;" src="http://www.ustream.tv/embed/recorded/51848590?v=3&amp;wmode=direct"></iframe>
+<iframe width="720" height="572" frameborder="0" scrolling="no" style="border: 0px transparent; border-image: none;" src="http://www.ustream.tv/embed/recorded/51848590?v=3&amp;wmode=direct"></iframe>
 
 [Broadcast live streaming video on Ustream](http://www.ustream.tv)
 
@@ -41,4 +41,6 @@ Please find video links to updates for each international criminal tribunal, spe
 
 Additional videos of other Dialogs’ presentations and panel discussions can be found on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](http://www.ustream.tv/channel/mediaworks116).
 
-<object width="700" height="525"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&amp;set_id=72157647510930311&amp;jump_to=" /> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /> <param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&amp;set_id=72157647510930311&amp;jump_to=" width="700" height="525" /></object>
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;[website](https://www.aba-icc.org/).*
+
+<object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&amp;set_id=72157647510930311&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" height="525" width="700" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&amp;set_id=72157647510930311&amp;jump_to=" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /></object>

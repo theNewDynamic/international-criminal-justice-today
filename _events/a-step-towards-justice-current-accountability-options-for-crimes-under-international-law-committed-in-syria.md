@@ -1,5 +1,5 @@
 ---
-title: 'A Step towards Justice: Current Accountability Options for Crimes under International Law Committed in Syria'
+title: 'A Step Towards Justice: Current Accountability Options for Crimes under International Law Committed in Syria'
 published: true
 date: 2015-05-12T17:06:00.000Z
 description:
@@ -20,4 +20,4 @@ The discussion focused on a report recently issued jointly by the Ceasefire Cent
 
 ---
 
-*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;[website](https://www.aba-icc.org/).*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](https://www.aba-icc.org/).*

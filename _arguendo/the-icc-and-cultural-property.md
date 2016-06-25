@@ -83,15 +83,15 @@ This case is also significant for a number of other reasons.&nbsp; It is the fir
 
 It is also important to point out that, in line with the Prosecutor’s commitment to curb such criminality, the Office will develop a comprehensive policy paper on protected cultural property under the Rome Statute.
 
-The work on this policy will commence in the last quarter of 2016 following the finalization and official launch of the Office’s Children’s Policy in the margins of the upcoming Assembly of States Parties.&nbsp; The Office will be working closely with UNESCO and other stakeholders in the development and consultation of this endeavour.
+The work on this policy will commence in the last quarter of 2016 following the finalization and official launch of the Office’s [Children’s Policy](https://www.icc-cpi.int/Pages/item.aspx?name=pr1224) in the margins of the upcoming Assembly of States Parties.&nbsp; The Office will be working closely with UNESCO and other stakeholders in the development and consultation of this endeavour.
 
 As with past policies, it is the Prosecutor’s hope that this new policy will provide further transparency and guidance to the Office in the systematic investigation and prosecution of such crimes, and that it will also serve as a helpful reference document to assist prosecutions at the national level.
 
 ##### ***Need for concerted and committed action***
 
-The ICC is, of course, not a panacea.
-
 The Court is a crucially important judicial mechanism that, through its work, can highlight the severity of these crimes, and by holding perpetrators accountable, deter the commission of similar crimes in the future.&nbsp; In other words, the ICC is critical to the fight against impunity for the destruction of cultural heritage in this new century.&nbsp; In order for the Court to have more of an impact, universal jurisdiction is of course crucial.&nbsp; More states are encouraged to ratify the Rome Statute to join the ICC family, and by so doing, benefit from the legal protections it provides.
+
+The ICC is, of course, not a panacea.
 
 It must also be stated that the primacy of jurisdiction to investigate and prosecute these crimes rests in the first instance with the national authorities.&nbsp; States must uphold these obligations and demonstrate their commitment by ratifying relevant international legal instruments, and by adopting and applying implementing legislation; in effect, equipping themselves with the legal tools to effectively pursue and deter these crimes through national prosecutions.
 

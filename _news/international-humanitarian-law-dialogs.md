@@ -10,7 +10,7 @@ featured_image_path: /uploads/1434904854599_international-humanitarian-law-dialo
 ---
 
 
-#### 8th Annual International Humanitarian Law Dialogs will hold discussions on the relevance of international law.
+#### 8th Annual International Humanitarian Law Dialogs held discussions on the relevance of international law.
 
 New York, Aug. 24, 2014 – The 8th Annual International Humanitarian Law Dialogs, the only annual meeting of international tribunal prosecutors, leading professionals and distinguished experts, will begin today in Chautauqua, New York. The American Bar Association is a sponsor of this annual gathering. The purpose of the Dialogs is to discuss the most pressing issues facing international criminal justice, or accountability for genocide, crimes against humanity, and war crimes. This year, Prince Zeid Ra’ad Zeid Al-Hussein, the newly appointed United Nations High Commissioner for Human Rights, will receive the 2014 Joshua Heinz Humanitarian Award. Amongst other discussions and events, the Dialogs will also include a panel discussion on the *Relevance of International Law in 2014*.
 

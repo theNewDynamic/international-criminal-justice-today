@@ -5,7 +5,7 @@ date: 2014-12-08T17:49:00.000Z
 description: 'Americans continue to support involvement with the International Criminal Court (ICC), with some opposition to the U.S. becoming a full member of the Court.'
 youtube_video_id:
 embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/25ii2ybxohnFM' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
-featured_image_path: /uploads/isis flag.jpg
+featured_image_path: /uploads/01isishatra.jpg
 slug: december-2014-ipsos-polling-data
 ---
 
@@ -26,7 +26,7 @@ Despite these concerns, nearly four in ten (37%) support the United States becom
 
 While there is some opposition to full membership, over half of those familiar with the ICC (56%) believe that the United States should continue to dedicate resources such as satellite photos to the Court. Nearly as many (49%) support the United States becoming more involved, without becoming a full member, while four in ten (41%) support the United States becoming a full member.
 
-&nbsp;
+
 
 ##### *December 2014 Custom Questions: ISIS/The Islamic State Situation*
 
@@ -46,4 +46,4 @@ When framed differently – pointing out concerns that if the US was to assist t
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.* *- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*February 2014 &copy; 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

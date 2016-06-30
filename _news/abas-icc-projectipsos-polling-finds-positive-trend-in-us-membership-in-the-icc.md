@@ -6,7 +6,7 @@ category: news
 description:
 pull_quote: "Wanted by the ICC for his alleged role in atrocities committed in Darfur, President Bashir's immunity while in country for a diplomatic conference was the justification given by South Africa for not arresting him. Despite this asserted immunity, a majority of Americans who expressed an opinion believed South Africa should have arrested President al-Bashir."
 pull_quote_attribution:
-featured_image_path: /uploads/icc_member_states_world_map.png
+featured_image_path: /uploads/bashir.jpg
 ---
 
 

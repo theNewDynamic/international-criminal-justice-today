@@ -1,17 +1,16 @@
 ---
-title: "This #17July, Invest in International Criminal Justice"
+title: 'This #17July, Invest in International Criminal Justice'
 published: true
 date: 2014-07-17T16:34:00.000Z
 category: opinion
 contributors:
   - christopher-kip-hale
-
-description: "The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur."
-pull_quote: "The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur."
-pull_quote_attribution: "Kip Hale"
+description: 'The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur.'
+pull_quote: 'The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur.'
+pull_quote_attribution: Kip Hale
 featured_image_path:
- 
 ---
+
 
 July 17 marks [International Criminal Justice Day](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/pages/pr1018.aspx), when the international community reflects on its collective effort to end impunity for genocide, crimes against humanity, war crimes, and aggression – known jointly as international atrocity crimes.
 
@@ -47,10 +46,10 @@ A crucial supplement to State support is non-State investors. One example of a n
 
 Today, the ABA announced the launch of the new ABA-ICC Project website [www.aba-icc.org](http://www.aba-icc.org/), a critical component of its multifaceted work. On this new website, users will have easy access to information [about](http://www.aba-icc.org/the-aba-icc-project/about-the-project/) the Project, its activities, and its distinguished, multinational, and bipartisan [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/). Yet, the website includes much more. Using interactive visuals, the website discusses the history of international criminal justice; the ICC’s structure, jurisdiction, and legal processes, among other important information; and the evolution of US-ICC relations.
 
-The website also includes _[International Criminal Justice Today](http://www.aba-icc.org/international-criminal-justice-today/)_ (ICJT), an online periodical produced in partnership with [Stanford Law School](https://www.law.stanford.edu/organizations/programs-and-centers/stanford-program-in-international-and-comparative-law). ICJT features _[Arguendo](http://www.aba-icc.org/arguendo/)_, a regular online roundtable where experts discuss and debate pressing issues in international criminal justice (with this month’s forum discussing the next best steps in US-ICC relations), and also regular polling data from [Ipsos](http://www.ipsos.com/) market research that will [track](http://www.aba-icc.org/ipsos/) American opinions on the ICC and related current events. In the coming months, other features of the website will be released, including the world’s only forum and repository of [proven practices](http://www.aba-icc.org/the-aba-icc-project/proven-practices/) of international criminal justice.
+The website also includes *[International Criminal Justice Today](http://www.aba-icc.org/international-criminal-justice-today/)* (ICJT), an online periodical produced in partnership with [Stanford Law School](https://www.law.stanford.edu/organizations/programs-and-centers/stanford-program-in-international-and-comparative-law). ICJT features *[Arguendo](http://www.aba-icc.org/arguendo/)*, a regular online roundtable where experts discuss and debate pressing issues in international criminal justice (with this month’s forum discussing the next best steps in US-ICC relations), and also regular polling data from [Ipsos](http://www.ipsos.com/) market research that will [track](http://www.aba-icc.org/ipsos/) American opinions on the ICC and related current events. In the coming months, other features of the website will be released, including the world’s only forum and repository of [proven practices](http://www.aba-icc.org/the-aba-icc-project/proven-practices/) of international criminal justice.
 
 ![2014-07-16-pr1018webEn.jpg](/assets/img/2014-07-16-pr1018webEn-thumb.jpg) To fulfill the promise of international criminal justice, however, new investors are needed, most importantly the investment of individuals. The best way to ensure accountability for atrocities is the collective, persistent demands of individual human beings. Make your voice heard by contacting your elected officials, lawyers’ association, places of worship, and media outlets to tell them atrocities must be confronted by the rule of law; that the ICC is humanity’s best hope in this new century to end impunity for mass crimes through independent and impartial investigations and prosecutions.
 
 Start now! Join the [#JusticeMatters](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/pages/pr1018.aspx) campaign by taking a picture of yourself with a sign that says #JusticeMatters and #17July and post it to your Facebook and Twitter pages and the #JusticeMatters Facebook page. With your support, we can ALL say that the plight of atrocity victims is not someone else’s problem, but ours too.
 
-##### originally posted at [The Huffington Post](http://www.huffingtonpost.com/kip-hale/invest-in-international-criminal-justice_b_5590013.html)
+##### Originally posted at [The Huffington Post](http://www.huffingtonpost.com/kip-hale/invest-in-international-criminal-justice_b_5590013.html)

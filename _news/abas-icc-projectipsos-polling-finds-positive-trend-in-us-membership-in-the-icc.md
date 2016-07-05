@@ -10,7 +10,7 @@ featured_image_path: /uploads/bashir.jpg
 ---
 
 
-#### New poll finds that a majority of Americans believe international arrest warrants should trump diplomatic immunity.
+#### ABA’s ICC Project/Ipsos polling shows two-year positive trend of support for U.S. becoming a member of the International Criminal Court, and that most Americans believe South Africa should have arrested Sudanese President Al-Bashir.
 
 Washington, D.C., Nov. 25, 2015 – The [ABA’s ICC Project](http://www.aba-icc.org/) today released the results of its most recent poll done in partnership with [Ipsos Public Affairs](http://www.ipsos-na.com/research/public-affairs/), and it showed good news for US-ICC relations. After four waves of polling over two years, the data showed a positive trend in Americans' opinions on membership in the International Criminal Court (ICC), specifically a 5% increase in agreement with the statement, “US should become a full member of the International Criminal Court and robustly support all of its work.” Similarly, there was a 2% decrease in agreement with the statement, "joining the ICC would compromise America's sovereignty as a nation.” While these findings are *indicative only* and should be treated with caution, they do suggest the possibility of a slow shift in American attitudes on US membership in the ICC.
 

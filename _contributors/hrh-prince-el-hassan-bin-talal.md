@@ -4,7 +4,7 @@ published: true
 last_name: El Hassan
 description:
 image_path: /uploads/image18.jpg
-slug:
+slug: hrh-prince-el-hassan-bin-talal
 ---
 
 

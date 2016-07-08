@@ -1,8 +1,10 @@
 ---
 title: Ekaterina Trendafilova
 published: false
-last_name: Whiting
+last_name: Trendafilova
 description:
-image_path: /uploads/whiting.jpg
+image_path:
 slug:
 ---
+
+

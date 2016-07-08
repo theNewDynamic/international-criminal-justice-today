@@ -1,8 +1,10 @@
 ---
 title: Helen Brady
 published: false
-last_name: Whiting
+last_name: Brady
 description:
-image_path: /uploads/whiting.jpg
+image_path:
 slug:
 ---
+
+

@@ -1,8 +1,10 @@
 ---
 title: Anton Du Plessis
 published: false
-last_name: Whiting
+last_name: Du Plessis
 description:
-image_path: /uploads/whiting.jpg
+image_path:
 slug:
 ---
+
+

@@ -22,10 +22,10 @@
 
         {% if featured_image %}
         <a href="{{ object.url }}" class="gallery-cell">
-          <img data-flickity-lazyload="{{ site.image_url}}{{ featured_image }}?w=425&h=445&fit=crop&crop=faces&q=85" class="gallery-cell-image" alt="{{title}}">
+          <img data-flickity-lazyload="{{ site.image_url}}{{ featured_image }}?w=425&h=445&fit=crop&crop=faces&q=85&bm=multiply&blend64=Y2Nj" class="gallery-cell-image" alt="{{title}}">
           {% if title %}<span class="caption">{{ title }}</span>{% endif %}
         </a>
-<!-- &bm=multiply&blend64=Y2Nj -->
+
         {% endif %}
 
       {% endfor %}

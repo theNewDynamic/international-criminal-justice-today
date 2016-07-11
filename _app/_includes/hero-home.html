@@ -1,12 +1,11 @@
-
-  <div class="hero">
+<div class="hero">
     <div class="gallery js-flickity" data-flickity-options='{ "cellAlign": "left","imagesLoaded": true, "wrapAround": true, "percentPosition": false, "autoPlay": 7200, "lazyLoad": 3 }'>
     {% if hero_items %}
 
       {% for object in hero_items limit: 7  %}
 
-          {% assign featured_image = object.featured_image_path %}
-          {% assign title = object.title %}
+        {% assign featured_image = object.featured_image_path %}
+        {% assign title = object.title %}
 
         {% if forloop.index0 == 2 %}
           <div class="static-banner">
@@ -23,10 +22,10 @@
 
         {% if featured_image %}
         <a href="{{ object.url }}" class="gallery-cell">
-          <img data-flickity-lazyload="{{ site.image_url}}{{ featured_image }}?w=425&h=445&fit=clamp&exp=1" class="gallery-cell-image" alt="{{title}}">
+          <img data-flickity-lazyload="{{ site.image_url}}{{ featured_image }}?w=425&h=445&fit=crop&crop=faces&q=85" class="gallery-cell-image" alt="{{title}}">
           {% if title %}<span class="caption">{{ title }}</span>{% endif %}
         </a>
-
+<!-- &bm=multiply&blend64=Y2Nj -->
         {% endif %}
 
       {% endfor %}

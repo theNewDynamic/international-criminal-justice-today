@@ -14,15 +14,7 @@ featured_image_path: /uploads/dickdurbin.jpg
 
 Chicago, Illinois, Apr. 10, 2015 - In a [speech](http://www.law.northwestern.edu/about/news/newsdisplay.cfm?ID=712) at Northwestern University School of Law, U.S. Senator Dick Durbin (D-Illinois) announced his intention to reintroduce Crimes Against Humanity (CAH) Act in Congress, referring to the lack of such legislation as a “legal loophole.” Senator Durbin’s speech laid out the history of Congressional successes in “building the law” on mass human rights violations. Yet, he stressed that more work needs to be done. “Despite longstanding U.S. support for the prosecution of crimes against humanity committed in World War II, Pol Pot’s Cambodia, Rwanda, the Former Yugoslavia, Sierra Leone, and elsewhere, there is no U.S. law prohibiting crimes against humanity,” said Senator Durbin. For this and other reasons, Senator Durbin announced his intention to reintroduce the Crimes Against Humanity Act in Congress.
 
----
-
-<iframe name="wistia_embed" width="480" height="270" class="wistia_embed" frameborder="0" scrolling="no" allowtransparency="true" src="http://fast.wistia.net/embed/iframe/2rallr36vw?canonicalUrl=https%3A%2F%2Fnorthwesternlaw.wistia.com%2Fmedias%2F2rallr36vw&amp;canonicalTitle=Senator%20Dick%20Durbin%20Announces%20Proposed%20Human%20Rights%20Legislation%20at%20Northwestern%20Law%20-%20northwesternlaw"></iframe>
-
----
-
 Senator Durbin’s initiative to reintroduce CAH legislation coincides with the recently formed ABA Working Group on Crimes Against Humanity. In his speech, Senator Durbin congratulated Ambassador David Scheffer and Professor Juliet Sorensen, two Northwestern Law professors, on their selection to the Working Group. Commenting on the Senator’s speech, the Chair of the Working Group, Ambassador David Scheffer, said, “Senator Durbin once again is taking the lead in the Senate to ensure that there exists no impunity gap in U.S. law for those who commit atrocity crimes. His previous legislation on genocide, child soldiers, and human trafficking has set the stage for bringing to justice those who perpetrate crimes against humanity.”
-
----
 
 The ABA Working Group on Crimes Against Humanity was formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) after the [ABA passed a policy resolution](https://www.international-criminal-justice-today.org/news/aba-urges-us-government-to-act-on-crimes-against-humanity/) [urging the U.S. government to pass CAH legislation](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf). The Working Group had its first meeting on April 15, 2015 in Washington, D.C. The inaugural members of the Working Group are as follows (alphabetical order):
 
@@ -50,7 +42,7 @@ The ABA Working Group on Crimes Against Humanity was formed by the [ABA Center f
 
 ---
 
-<object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&amp;set_id=72157652009355555&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" height="525" width="700" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&amp;set_id=72157652009355555&amp;jump_to=" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /></object>
+<object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&amp;set_id=72157652009355555&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157652009355555%2F&amp;set_id=72157652009355555&amp;jump_to=" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" height="525" width="700" /></object>
 
 ---
 

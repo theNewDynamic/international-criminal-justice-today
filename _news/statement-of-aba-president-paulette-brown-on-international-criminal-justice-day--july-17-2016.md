@@ -1,6 +1,6 @@
 ---
 title: 'Statement of ABA President Paulette Brown on International Criminal Justice Day – July 17, 2016'
-published: false
+published: true
 featured: false
 date: 2016-07-15T12:00:00.000Z
 category: news

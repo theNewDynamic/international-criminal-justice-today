@@ -1,17 +1,16 @@
 ---
-title: "Elevate the Law in the Fight against Atrocities"
+title: Elevate the Law in the Fight against Atrocities
 published: true
 date: 2015-07-08T18:10:00.000Z
 category: opinion
 contributors:
   - christopher-kip-hale
-
-description: "The effort needed to establish the rule of law globally—including the ICC—is well-worth it when closely reviewing the historical failures of the politics-first approach. Before the emergence of international law as a viable means of addressing conflict and atrocities, diplomacy and politics were the only recourse available. In looking at this track record, history is littered with far more failed ceasefires and peace deals than successful ones, often at the cost of more lives and human suffering. While many factors contributed to these failures, one major reason is that the widespread crimes in these conflicts went unpunished, thus allowing unresolved injustices to stew and eventually boil over into renewed conflict. Without the real threat of criminal accountability, ruthless dictators were given little reason to stop the cycle of violence. This fact is why the Reverend Martin Luther King, Jr. observed that “true peace is not merely the absence of tension; it is the presence of justice.”"
-pull_quote: "History is littered with far more failed ceasefires and peace deals than successful ones, often at the cost of more lives and human suffering. While many factors contributed to these failures, one major reason is that the widespread crimes in these conflicts went unpunished, thus allowing unresolved injustices to stew and eventually boil over into renewed conflict. Without the real threat of criminal accountability, ruthless dictators were given little reason to stop the cycle of violence. "
-pull_quote_attribution: "Kip Hale"
+description:
+pull_quote: 'History is littered with far more failed ceasefires and peace deals than successful ones, often at the cost of more lives and human suffering. While many factors contributed to these failures, one major reason is that the widespread crimes in these conflicts went unpunished, thus allowing unresolved injustices to stew and eventually boil over into renewed conflict. Without the real threat of criminal accountability, ruthless dictators were given little reason to stop the cycle of violence.'
+pull_quote_attribution: Kip Hale
 featured_image_path: /uploads/1436541296605_Jackson_Nuremberg_color.jpg
- 
 ---
+
 
 Frustrated by shortcomings at the International Criminal Court (ICC), commentators have increasingly questioned the utility of law in the fight against genocide, crimes against humanity and war crimes (collectively, international atrocity crimes). Emblematic of this critique, Leslie Vinjamuri and Jack Snyder recently penned an [openGlobalRights article](https://www.opendemocracy.net/openglobalrights/jack-snyder-leslie-vinjamuri/to-prevent-atrocities-count-on-politics-first-law-late) with the provocative title, “To prevent atrocities, count on politics first, law later”. They contend that the positive deterrent effects attributed to the ICC by Professors Beth Simmons’ and Hyeran Jo’s research—partly the subject of an earlier [openGlobalRights article](https://www.opendemocracy.net/openglobalrights/geoff-dancy-bridget-marchesi-florencia-montal-kathryn-sikkink/icc%E2%80%99s-deterrent-impac)—are instead better explained by politics. For them, the “centrality of politics” makes diplomacy and other non-legal means the best way to prevent and address international atrocity crimes.
 
@@ -35,7 +34,6 @@ Diane Orentlicher, former Deputy US Ambassador for War Crimes Issues, has [recou
 
 Of course, to prevent and punish atrocity crimes, the law and politics should be mutually reinforcing, and their operation must be sequenced in a fashion tailored to the unique facts and circumstances of each conflict. However, before a coordinated effort between law and politics can succeed, the law must be bolstered. An important first step in this regard is to follow the recommendation of Elizabeth Evenson and Jonathan O’Donohue, whose recent [openGlobalRights article](https://www.opendemocracy.net/openglobalrights/elizabeth-evenson-jonathan-o%E2%80%99donohue/international-criminal-court-at-risk) advocated for increased support by States of the ICC’s available resources, particularly its budget—a political movement upon which the success of both politics and law depends.
 
-_This article represents the views of the author and, except as specified otherwise, does not necessarily represent policy of the ABA or the ABA Center for Human Rights._
+*This article represents the views of the author and, except as specified otherwise, does not necessarily represent policy of the ABA or the ABA Center for Human Rights.*
 
-_This article was originally published on openDemocracy's openGlobalRights blog. That original article can be found [here](https://opendemocracy.net/openglobalrights/kip-hale/elevate-law-in-fight-against-atrocities)._
-
+*This article was originally published on openDemocracy's openGlobalRights blog. That original article can be found [here](https://opendemocracy.net/openglobalrights/kip-hale/elevate-law-in-fight-against-atrocities).*

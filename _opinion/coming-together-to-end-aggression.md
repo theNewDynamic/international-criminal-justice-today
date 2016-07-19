@@ -11,7 +11,7 @@ featured_image_path:
 ---
 
 
-##### Prof. O'Connell argues that activating the crime of aggression completes the International Criminal Court's project, and the U.S. should support this development, not hinder it.
+#### Prof. O'Connell argues that activating the crime of aggression completes the International Criminal Court's project, and the U.S. should support this development, not hinder it.
 
 In a surprising development, two former State Department Legal Advisers from very different administrations are again taking a common stand on a high-profile human rights issue. John Bellinger from the Bush administration and Harold Koh from the Obama administration are both criticizing amendments to the International Criminal Court’s (ICC) Rome Statute that will add the crime of aggression to the court’s jurisdiction.[[1]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftn1) The crime of aggression, as will be discussed further below, involves the use of armed force in violation of the United Nations Charter. In 2014, the former legal advisers joined force to advocate for a change in U.S. policy to recognize more broadly that human rights obligations apply extraterritorially.[[2]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftn2)
 

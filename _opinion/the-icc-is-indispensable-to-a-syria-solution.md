@@ -14,7 +14,7 @@ featured_image_attribution:
 ---
 
 
-##### The ICC is a permanent and central part of the international landscape and should be a part of any effort to combat impunity in Syria.
+#### The ICC is a permanent and central part of the international landscape and should be a part of any effort to combat impunity in Syria.
 
 On March 15, the US House of Representatives adopted a non-binding resolution ([H Con Res 121](https://www.congress.gov/bill/114th-congress/house-concurrent-resolution/121/text)) calling on the administration to pursue UN Security Council (UNSC) support for an *ad hoc* regional or international hybrid tribunal to investigate and prosecute war crimes and crimes against humanity in Syria. The push for accountability in Syria gained additional momentum when [Secretary of State John Kerry deemed ISIS’s attacks on the Yazidis and other minority groups to be a genocide](http://www.cnn.com/2016/03/17/politics/us-iraq-syria-genocide/index.html).
 

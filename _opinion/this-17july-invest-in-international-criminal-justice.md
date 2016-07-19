@@ -5,14 +5,14 @@ date: 2014-07-17T16:34:00.000Z
 category: opinion
 contributors:
   - christopher-kip-hale
-description: 'The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur.'
+description:
 pull_quote: 'The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur.'
 pull_quote_attribution: Kip Hale
 featured_image_path:
 ---
 
 
-July 17 marks [International Criminal Justice Day](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/pages/pr1018.aspx), when the international community reflects on its collective effort to end impunity for genocide, crimes against humanity, war crimes, and aggression – known jointly as international atrocity crimes.
+##### July 17 marks [International Criminal Justice Day](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/pages/pr1018.aspx), when the international community reflects on its collective effort to end impunity for genocide, crimes against humanity, war crimes, and aggression – known jointly as international atrocity crimes.
 
 The word “atrocity” evokes in us periods of indescribable human devastation, such as that felt in Nazi Germany, Khmer Rouge Cambodia, 1994 Rwanda, or present-day Darfur. In thinking about atrocities, our shared sense of justice is also evoked and rightly so. However, while carnage of this kind is most certainly enough to justify action, it is also important to know that unimaginable human suffering is not the only reason to seek justice.
 

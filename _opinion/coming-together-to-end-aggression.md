@@ -7,15 +7,13 @@ contributors:
 description:
 pull_quote: 'If it is in the interest of the U.S to re-gain its leadership on human rights, the best way to accomplish this is to advocate U.S. compliance with the law that protects human rights more than any other – the prohibition on aggression. Preventing the aggression amendments from entering into force will not foster human rights. Ending war will.'
 pull_quote_attribution: "Prof. Mary Ellen O'Connell"
-featured_image_path:
+featured_image_path: /uploads/1454463627252_mc3-8912.jpg
 ---
 
 
 #### Prof. O'Connell argues that activating the crime of aggression completes the International Criminal Court's project, and the U.S. should support this development, not hinder it.
 
 In a surprising development, two former State Department Legal Advisers from very different administrations are again taking a common stand on a high-profile human rights issue. John Bellinger from the Bush administration and Harold Koh from the Obama administration are both criticizing amendments to the International Criminal Court’s (ICC) Rome Statute that will add the crime of aggression to the court’s jurisdiction.[[1]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftn1) The crime of aggression, as will be discussed further below, involves the use of armed force in violation of the United Nations Charter. In 2014, the former legal advisers joined force to advocate for a change in U.S. policy to recognize more broadly that human rights obligations apply extraterritorially.[[2]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftn2)
-
-![](/uploads/1454463743336_MC3-8912.jpg)
 
 These two positions, on the aggression amendments and extraterritoriality, are in fact deeply incompatible, and the international human rights community has reacted very differently to them. Many applauded the position on extraterritoriality but are denouncing the opposition to the aggression amendments. As a practical matter, too, the positions are different. The United States acts abroad in a myriad of ways, so changing the extraterritoriality policy will presumably have a major impact on United States overseas activities. By contrast, even if the aggression amendments come into force, the chance of an American ever being prosecuted is extremely remote. It bears asking why these prominent lawyers would spend their time warning of the negative consequences of something so unlikely to occur.
 

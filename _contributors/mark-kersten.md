@@ -1,6 +1,6 @@
 ---
 title: Mark Kersten
-published: false
+published: true
 last_name: Kersten
 description:
 image_path: /uploads/markkersten.jpg

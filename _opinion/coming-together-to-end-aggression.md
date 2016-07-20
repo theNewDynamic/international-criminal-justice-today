@@ -7,7 +7,7 @@ contributors:
 description:
 pull_quote: 'If it is in the interest of the U.S to re-gain its leadership on human rights, the best way to accomplish this is to advocate U.S. compliance with the law that protects human rights more than any other – the prohibition on aggression. Preventing the aggression amendments from entering into force will not foster human rights. Ending war will.'
 pull_quote_attribution: "Prof. Mary Ellen O'Connell"
-featured_image_path: /uploads/1454463627252_mc3-8912.jpg
+featured_image_path: /uploads/1454462672435_mc3-8912.jpg
 ---
 
 
@@ -69,7 +69,7 @@ The world needs leadership on human rights. It especially needs a champion for t
 
 [[7]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftnref7) These would be coalitions lacking Security Council authorization as in Kosovo 1999. If the Security Council authorizes an intervention, there would be a lawful basis for the initial resort to force. Other conditions apply, however, including demonstrations that the use of force is a last resort and is likely to accomplish the military objective.
 
-[[8]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftnref8) Concern about the impact of ICC indictments on peace talks has existed since the Rome conference to draft the ICC Statute in 1998. The concern has been warranted as ICC indictments are already associated with failed peace talks in a number of armed conflicts, including Sudan, Uganda, Syria, and Colombia. Also, following ICC indictments the intensity of fighting increased in the Libyan civil war that began in 2011. See Rodrigo Uprimny and Nelson Camilo S&aacute;nchez, *The ICC and Negotiated Peace: Reflections from Colombia*, openDemocracy, Feb. 11, 2015 https://www.opendemocracy.net/openglobalrights/rodrigo-uprimny-nelson-camilo-s&aacute;nchez/icc-and-negotiated-peace-reflections-from-col and Mary Ellen O’Connell, International Dispute Resolution, Cases and Materials 255 (2d ed., 2012).
+[[8]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftnref8) Concern about the impact of ICC indictments on peace talks has existed since the Rome conference to draft the ICC Statute in 1998. The concern has been warranted as ICC indictments are already associated with failed peace talks in a number of armed conflicts, including Sudan, Uganda, Syria, and Colombia. Also, following ICC indictments the intensity of fighting increased in the Libyan civil war that began in 2011. See Rodrigo Uprimny and Nelson Camilo Sánchez, *The ICC and Negotiated Peace: Reflections from Colombia*, openDemocracy, Feb. 11, 2015 https://www.opendemocracy.net/openglobalrights/rodrigo-uprimny-nelson-camilo-sánchez/icc-and-negotiated-peace-reflections-from-col and Mary Ellen O’Connell, International Dispute Resolution, Cases and Materials 255 (2d ed., 2012).
 
 [[9]](file:///C:/Users/ABALoaner/AppData/Local/Temp/Temp1_Re__don't_laugh!.zip/OConnell%20Koh%20Bell%202%20Feb_Final.docx#_ftnref9) The Treaty of Versailles, June 28, 1919, relevant provisions reprinted in O’Connell, International Law and the Use of Force, *ibid.*, at 142.
 

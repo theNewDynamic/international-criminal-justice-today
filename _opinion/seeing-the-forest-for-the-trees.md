@@ -1,7 +1,7 @@
 ---
-title: Seeing the Forest for the Trees
+title: 'Seeing the Forest for the Trees:The International Criminal Court and the Peace-Justice Debate'
 published: true
-featured: false
+featured: true
 date: 2016-05-01T12:00:00.000Z
 category: opinion
 contributors:
@@ -14,7 +14,7 @@ featured_image_attribution:
 ---
 
 
-#### The International Criminal Court and the Peace-Justice Debate
+#### Mark Kersten adds to the discourse on the International Criminal Court and the peace versus justice debate.
 
 Few debates in international justice are as important yet inspire as much disagreement as the debate about the relationship between peace and justice. Should justice be pursued in response to mass atrocities when conflicts are still ongoing or when wars have only been recently concluded? Should peace and justice go hand-in-hand or should justice always follow peace? Does a moral, legal and political obligation to victims and survivors who demand accountability trump the possibility that justice may complicate conflict resolution? Will bringing perpetrators of mass atrocities to justice ultimately help or hinder efforts to build and maintain peace?
 
@@ -30,7 +30,7 @@ To those who view international criminal justice processes as having a role to p
 
 There is also a danger in relying on third parties to understand how the ICC affects peace and conflict processes, namely that it permits the avoidance of inconvenient truths by fostering a cherry-picking attitude to evidence. Much research on the peace-justice debate continues to occlude rather than elucidate the effects of the ICC. This is true of studies that critique the Court’s ability to contribute positively to conflict resolution and peace as well as those that seek to lend credence to the Court’s virtues.
 
-Many of the ICC’s critics often recycle intuitive but speculative claims, insisting that any and all targets of the ICC will inevitably “[dig their heels in](https://www.theguardian.com/commentisfree/2011/may/04/icc-arrest-warrants-libya-gaddafi)” and have little choice but to fight to the bitter death. In doing so, these detractors reduce all actor types — heads of state, senior officials, rebel commanders, militia leaders, and the various rank-and-file — to the same, basic set of incentives towards the ICC and resolving the war in which they act as belligerents.  Reducing complex and different types of actors risks severely over-simplifying the psychology and incentives of warring parties. A rebel leader like Joseph Kony of the Lord's Resistance Army is not the same kind of actor as Muammar Gaddafi, the former head of state of Libya. Yet critics assume that they follow precisely the same logic: if the all-mighty ICC targets them, they will fight to the death and never agree to peace.
+Many of the ICC’s critics often recycle intuitive but speculative claims, insisting that any and all targets of the ICC will inevitably “[dig their heels in](https://www.theguardian.com/commentisfree/2011/may/04/icc-arrest-warrants-libya-gaddafi)” and have little choice but to fight to the bitter death. In doing so, these detractors reduce all actor types — heads of state, senior officials, rebel commanders, militia leaders, and the various rank-and-file — to the same, basic set of incentives towards the ICC and resolving the war in which they act as belligerents. &nbsp;Reducing complex and different types of actors risks severely over-simplifying the psychology and incentives of warring parties. A rebel leader like Joseph Kony of the Lord's Resistance Army is not the same kind of actor as Muammar Gaddafi, the former head of state of Libya. Yet critics assume that they follow precisely the same logic: if the all-mighty ICC targets them, they will fight to the death and never agree to peace.
 <br>
 <br>Others criticize what they see as the hegemony of retributive, international criminal justice impulses and models. They [insist](http://www.nytimes.com/2014/02/06/opinion/courts-cant-end-civil-wars.html) that reconciliation, restorative justice, and truth-telling are more appropriate means of building long-lasting and meaningful peace. Yet, while there is little doubt that a more [“holistic” approach](https://bookstore.usip.org/books/BookDetail.aspx?productID=238604) to transitional justice is wiser than any singular dependence on retributive accountability, criminal accountability is a growing expectation of victims and survivors of mass atrocities. Who will ignore their voices in favour of transitional justice mechanisms that privilege stability over transformation and, all too often, offer what amounts to impunity to perpetrators of mass atrocities?
 

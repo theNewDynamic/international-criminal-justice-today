@@ -1,22 +1,4 @@
-{% assign contributorList = page.contributors %}
-{% for contributor in contributorList %}
-  {% assign contributors = site.contributors | where: 'slug', contributor %}
-  {% for object in contributors  %}
-    <div class="box">
-      <h2 class="h4">
-        <a href="{{ object.url }}">{{ object.title }}</a>
-      </h2>
-      {% if object.image_path %}
-        <figure class="wy-figure-left">
-          <img src="{{ site.image_url}}{{ object.image_path }}?w=120&h=120&fit=crop&crop=faces&exp=1">
-        </figure>
-      {% endif %}
-      {% if object.content %}
-        {{ object.content | markdownify }}
-      {% endif %}
-    </div>
-  {% endfor %}
-{% endfor %}
+{% include _article-contributor-with-bio.html %}
 
 <div class="row">
   <h3 style="margin:1em 0;">

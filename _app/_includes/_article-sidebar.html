@@ -12,6 +12,14 @@
 
 
 
+{% if page.contributors %}
+  {% include _article-contributor-with-bio.html %}
+{% endif %}
+
+
+
+
+
 {% if page.category == 'about' %}
   {% assign pages = site.landing_pages | where: 'category', 'about' %}
   {% for page_item in pages %}

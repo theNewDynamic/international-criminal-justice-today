@@ -9,7 +9,7 @@ contributors:
 description:
 pull_quote: Learning how the Court affects conflict and peace processes isn’t just about making peace more likely or justice less disruptive; it also holds the promise of making the pursuit of accountability more effective and efficient.
 pull_quote_attribution: Mark Kersten
-featured_image_path: /uploads/maxresdefault.jpg
+featured_image_path: /uploads/maxresdefault2.jpg
 featured_image_attribution:
 ---
 

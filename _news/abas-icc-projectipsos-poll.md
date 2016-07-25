@@ -13,7 +13,7 @@ featured_image_attribution:
 ---
 
 
-&nbsp;
+#### Latest polling shows American support for increased assistance to the ICC in investigating and prosecuting atrocity crimes against religious and ethnic minorities in Syria and Iraq.
 
 Washington, D.C., June 8, 2016 – The [American Bar Associations’ (ABA) ICC Project](http://www.aba-icc.org/) released today the results of its most recent polling on Americans’ opinions on the ICC and recent related events. Done in partnership with [Ipsos Public Affairs](http://www.ipsos-na.com/research/public-affairs/), the results show a positive trend in American knowledge of the ICC, which is now at the highest it has been since this tracking began, at 45%, which represents a 6-point increase from the last survey in April 2016. The polling also shows an increase in support for the ICC, with more than four in ten (44%) Americans supporting increased US involvement or fully joining the ICC, while less than half of that number (21%) think the US should not join the ICC.
 

@@ -6,7 +6,7 @@ date: 2016-04-01T12:00:00.000Z
 description:
 video:
 embed_deck: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/hiinp2mqEQE6x" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/abaiccproject/aba-icc-topline-july-2016" title="ABA ICC Topline July 2016 " target="_blank">ABA ICC Topline July 2016 </a> </strong> from <strong><a href="//www.slideshare.net/abaiccproject" target="_blank">abaiccproject</a></strong> </div>'
-featured_image_path:
+featured_image_path: /uploads/archive-images-8554452.jpg
 ---
 
 
@@ -14,7 +14,7 @@ Washington, D.C., July 25, 2016 –The latest survey of over 1,000 US adults con
 
 ##### *Knowledge and Awareness of the ICC*
 
-Knowledge of the ICC among Americans is now at the highest it has been since this tracking began, at 45%, which represents a 6-point increase from the last survey in April 2016.&nbsp; This shift can be explained by an increased awareness among youth, for whom awareness has surged (10%) since April 2016. This increase has led to a discrepancy in the level of awareness among different age groups. &nbsp;While 60% of people in the 18-34 age group are aware of the ICC, this figure falls to 40% for older age groups.
+Knowledge of the ICC among Americans is now at the highest it has been since this tracking began, at 45%, which represents a 6-point increase from the last survey in April 2016.  This shift can be explained by an increased awareness among youth, for whom awareness has surged (10%) since April 2016. This increase has led to a discrepancy in the level of awareness among different age groups.  While 60% of people in the 18-34 age group are aware of the ICC, this figure falls to 40% for older age groups.
 
 Despite this slight positive shift in awareness, the ICC remains an relatively unknown entity to the majority of American people. Eight in ten Americans don’t know anything or just know a little bit about the ICC, while only two in ten have a solid knowledge of the ICC. Among people who indicate they are familiar with the ICC, 60 percent said that the United States was part of it (while of course it is not). Notwithstanding this lack of familiarity with the ICC, when we look at the results of our survey, we notice an alignment between public opinion and the ICC’s objectives.
 
@@ -34,4 +34,4 @@ Despite an agreement with the aims of the ICC, public concerns do temper this en
 
 ***-###-***
 
-*These are some of the findings of an Ipsos poll conducted on behalf of the American Bar Association from November 16-18, 2015. The previous waves of the study were conducted from April 2-6, 2015; February 21-24, 201; and December 4-8, 2014. For these surveys, Ipsos undertook online surveys of 1,003; 1,005; 1,005; and 1,004 adults, respectively.*&nbsp;*Weighting then employed to balance demographics and ensure that the sample's composition reflects that of the U.S. adult population according to Census data and to provide results intended to approximate the sample universe. Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio. The credibility interval for a sample size of 1,004 is <u>+</u>3.5 percentage points. All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
+*These are some of the findings of an Ipsos poll conducted on behalf of the American Bar Association from November 16-18, 2015. The previous waves of the study were conducted from April 2-6, 2015; February 21-24, 201; and December 4-8, 2014. For these surveys, Ipsos undertook online surveys of 1,003; 1,005; 1,005; and 1,004 adults, respectively.* *Weighting then employed to balance demographics and ensure that the sample's composition reflects that of the U.S. adult population according to Census data and to provide results intended to approximate the sample universe. Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio. The credibility interval for a sample size of 1,004 is <u>+</u>3.5 percentage points. All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*

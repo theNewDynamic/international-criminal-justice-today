@@ -5,26 +5,26 @@ featured: false
 date: 2016-04-01T12:00:00.000Z
 description:
 video:
-embed_deck:
+embed_deck: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/hiinp2mqEQE6x" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/abaiccproject/aba-icc-topline-july-2016" title="ABA ICC Topline July 2016 " target="_blank">ABA ICC Topline July 2016 </a> </strong> from <strong><a href="//www.slideshare.net/abaiccproject" target="_blank">abaiccproject</a></strong> </div>'
 featured_image_path:
 ---
 
 
 Washington, D.C., July 25, 2016 –The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows a slight positive shift in American knowledge concerning the ICC and its work overall.
 
-*Knowledge and Awareness of the ICC*
+##### *Knowledge and Awareness of the ICC*
 
 Knowledge of the ICC among Americans is now at the highest it has been since this tracking began, at 45%, which represents a 6-point increase from the last survey in April 2016.&nbsp; This shift can be explained by an increased awareness among youth, for whom awareness has surged (10%) since April 2016. This increase has led to a discrepancy in the level of awareness among different age groups. &nbsp;While 60% of people in the 18-34 age group are aware of the ICC, this figure falls to 40% for older age groups.
 
 Despite this slight positive shift in awareness, the ICC remains an relatively unknown entity to the majority of American people. Eight in ten Americans don’t know anything or just know a little bit about the ICC, while only two in ten have a solid knowledge of the ICC. Among people who indicate they are familiar with the ICC, 60 percent said that the United States was part of it (while of course it is not). Notwithstanding this lack of familiarity with the ICC, when we look at the results of our survey, we notice an alignment between public opinion and the ICC’s objectives.
 
-*Perceptions of the Court’s Objectives*
+##### *Perceptions of the Court’s Objectives*
 
 As a whole Americans are very supportive of international institutions that have a direct impact on human rights and provide justice for those who commit mass atrocities. Despite a 4-point drop in this metric since April 2016, Americans remain broadly in support: nearly two-thirds (64%) of Americans agree that “it is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities.” Similarly, 55% of Americans believe that the United States should go as far as “dedicating…resources (Financial, military, intelligence, etc), up from 47% in February 2014. Among those who are aware of the ICC, these numbers are even higher (77% and 69%, respectively). Moreover, only 22 % of Americans agree “that it is not in our best to dedicate US resources to supporting international organizations that support human rights and that hold individuals accountable for mass atrocities.”
 
 This wave of the survey asked two questions focusing on crimes the Islamic State (ISIS/ISIL) committed against religious and ethnic minorities in Syria and Iraq. On this matter, nearly half (49%) of Americans agree that “the US government should push diplomatically and politically for the ICC to get involved in investigating and prosecuting these crimes in Syria and Iraq”, while only 21% deem that “it is not the US government’s job to get involved in investigating and prosecuting theses crimes in Syria and Iraq”. When asked if the US should provide assistance (including financial assistance) to the International Crime Court to conduct investigations and prosecutions of atrocity crimes committed in Syria and Iraq more than half (54%) of Americans answered that the US should support the ICC, while less than a quarter (24%) said it should oppose the ICC. These results underline that Americans believe that the ICC is crucial when it comes to certain matters.
 
-*Perception of the Court and US Membership*
+##### *Perception of the Court and US Membership*
 
 This alignment has created a slight shift in Americans attitudes, with increasing agreement that the US should be more engaged in the ICC. More than four in ten (44%) Americans think that the US should become more involved in or fully join the ICC, while less than half of that number (21%) think the US should not join the ICC. During the first wave, the support for increased involvement was lower (37%) and the opposition was higher (25%). The support is even stronger among people aware of the ICC, with more than half (51%) affirming that the US should become a full member of the ICC and nearly two-thirds (65%) agreeing that the US should become involved in the ICC.
 

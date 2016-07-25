@@ -6,7 +6,7 @@ date: 2016-05-01T12:00:00.000Z
 category: news
 contributors:
 description:
-pull_quote:
+pull_quote: As a whole Americans are very supportive of international institutions that have a direct impact on human rights and provide justice for those who commit mass atrocities.
 pull_quote_attribution:
 featured_image_path: /uploads/archive-images-8554452.jpg
 featured_image_attribution:

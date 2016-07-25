@@ -57,4 +57,4 @@ The second question focused on the issue of Bashir and his visit to South Africa
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.* *- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*February 2014 &copy; 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*November 2015 &copy; 2015 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

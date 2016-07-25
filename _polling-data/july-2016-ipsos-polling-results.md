@@ -3,14 +3,14 @@ title: July 2016 Ipsos Polling Results
 published: false
 featured: false
 date: 2016-04-01T12:00:00.000Z
-description:
+description: 'Polling shows a stable awareness of the work of the International Criminal Court (ICC), with early indicators of increasing American support for ICC membership.'
 video:
-embed_deck: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/hiinp2mqEQE6x" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/abaiccproject/aba-icc-topline-july-2016" title="ABA ICC Topline July 2016 " target="_blank">ABA ICC Topline July 2016 </a> </strong> from <strong><a href="//www.slideshare.net/abaiccproject" target="_blank">abaiccproject</a></strong> </div>'
+embed_deck: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/vqyOOmsGhLhGpc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/abaiccproject/aba-icc-topline-july-2016-64358895" title="ABA ICC Topline July 2016" target="_blank">ABA ICC Topline July 2016</a> </strong> from <strong><a href="//www.slideshare.net/abaiccproject" target="_blank">abaiccproject</a></strong> </div>'
 featured_image_path: /uploads/archive-images-8554452.jpg
 ---
 
 
-Washington, D.C., July 25, 2016 –The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows a slight positive shift in American knowledge concerning the ICC and its work overall.
+The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows a slight positive shift in American knowledge concerning the ICC and its work overall.
 
 ##### *Knowledge and Awareness of the ICC*
 
@@ -32,7 +32,7 @@ Working with an international organization, such as the ICC, is often considered
 
 Despite an agreement with the aims of the ICC, public concerns do temper this enthusiasm, and overall support for wholesale US involvement remains limited. Even though nearly half (49%) of Americans agree that the US should provide moderate support to the ICC, this same proportion do not want their country to join the ICC. As a whole, the percentage of Americans supporting a full membership of the US to the ICC does not exceed a third (32%).
 
-Methodology and Technical Details
+**Methodology and Technical Details**
 
 *-These are some of the findings of an Ipsos poll conducted on behalf of the American Bar Association from July 11-12, 2016. The previous waves of the study were conducted from April 22-25, 2016; November 16-18, 2015; April 2-6, 2015; February 21-24, 2014; and December 4-8, 2014. For these surveys, Ipsos undertook online surveys of 1,087; 1,006; 1,003; 1,005; 1,004; and 1,005 adults, respectively. Weighting then employed to balance demographics and ensure that the sample’s composition reflects that of the U.S. adult population according to Census data and to provide results intended to approximate the sample universe. Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio. The credibility interval for a sample size of 1,087 is +3.5 percentage points. All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error. For more information about credibility intervals, please see the [appendix](https://www.international-criminal-justice-today.org/ipsos-appendix/).*
 

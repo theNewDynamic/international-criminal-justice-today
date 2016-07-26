@@ -19,7 +19,7 @@ Washington, D.C., July 26, 2016 – The [American Bar Associations’ (ABA) ICC 
 
 Following the U.S. House of Representatives’ unanimous vote that Islamic State (ISIS/ISIL) has committed genocide and other atrocity crimes against religious and ethnic minorities in Syria and Iraq, this quarterly polling also asked Americans for their opinions on U.S. involvement in ICC prosecution of these crimes. On this matter, nearly half (49%) of Americans agree that “the US government should push diplomatically and politically for the ICC to get involved in investigating and prosecuting these crimes in Syria and Iraq,” while only 21% deem that “it is not the US government’s job to get involved in investigating and prosecuting theses crimes in Syria and Iraq.” Additionally, more than half of American support providing assistance, including financial assistance, to the ICC for the investigation and prosecution of these crimes.
 
-For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](https://www.international-criminal-justice-today.org/polling-data/2016/04/01/july-2016-ipsos-polling-results/).
+For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](https://www.international-criminal-justice-today.org/polling-data/2016/07/26/july-2016-ipsos-polling-results/).
 
 <div align="center"><hr align="center" size="2" width="100%" /></div>
 

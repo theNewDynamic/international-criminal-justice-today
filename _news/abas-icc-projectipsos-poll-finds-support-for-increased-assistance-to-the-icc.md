@@ -20,3 +20,7 @@ Washington, D.C., February 17, 2014 – The [American Bar Associations’ (ABA) 
 This survey also examined American perceptions of immunity for sitting Heads of State. The Prosecutor of the ICC charged President Uhuru Kenyatta and Deputy President William Ruto of Kenya for participation in mass atrocities after Kenya’s violent elections of 2008 before their election to office. Both argue for temporary immunity from prosecution and the ability to participate in trials remotely. Polling shows, however, that Americans believe strongly (63%) that sitting Heads of State should not have immunity while in office and over half believe they should be required to attend their trials in person.
 
 For more information on the most recent ABA’s ICC Project/Ipsos poll, please visit the polling [report](https://www.international-criminal-justice-today.org/polling-data/2014/02/17/february-2014-ipsos-polling-data/).
+
+<div align="center"><hr align="center" size="2" width="100%" /></div>
+
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](http://www.aba-icc.org/).*

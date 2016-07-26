@@ -1,6 +1,6 @@
 ---
 title: July 2016 Ipsos Polling Results
-published: false
+published: true
 featured: false
 date: 2016-04-01T12:00:00.000Z
 description: 'Polling shows a stable awareness of the work of the International Criminal Court (ICC), with early indicators of increasing American support for ICC membership.'
@@ -14,7 +14,7 @@ The latest survey of over 1,000 US adults conducted on behalf of the American Ba
 
 ##### *Knowledge and Awareness of the ICC*
 
-Knowledge of the ICC among Americans is now at the highest it has been since this tracking began, at 45%, which represents a 6-point increase from the last survey in April 2016.&nbsp; This shift can be explained by an increased awareness among youth, for whom awareness has surged (10%) since April 2016. This increase has led to a discrepancy in the level of awareness among different age groups. &nbsp;While 60% of people in the 18-34 age group are aware of the ICC, this figure falls to 40% for older age groups.
+Knowledge of the ICC among Americans is now at the highest it has been since this tracking began, at 45%, which represents a 6-point increase from the last survey in April 2016.  This shift can be explained by an increased awareness among youth, for whom awareness has surged (10%) since April 2016. This increase has led to a discrepancy in the level of awareness among different age groups.  While 60% of people in the 18-34 age group are aware of the ICC, this figure falls to 40% for older age groups.
 
 Despite this slight positive shift in awareness, the ICC remains an relatively unknown entity to the majority of American people. Eight in ten Americans don’t know anything or just know a little bit about the ICC, while only two in ten have a solid knowledge of the ICC. Among people who indicate they are familiar with the ICC, 60 percent said that the United States was part of it (while of course it is not). Notwithstanding this lack of familiarity with the ICC, when we look at the results of our survey, we notice an alignment between public opinion and the ICC’s objectives.
 
@@ -42,4 +42,4 @@ Despite an agreement with the aims of the ICC, public concerns do temper this en
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio. - All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*July 2016 &copy; 2016 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*July 2016 © 2016 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

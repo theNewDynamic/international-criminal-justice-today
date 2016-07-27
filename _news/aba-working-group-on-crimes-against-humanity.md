@@ -15,11 +15,11 @@ featured_image_attribution:
 
 #### The American Bar Association Center for Human Rights has formed a working group to advocate for Crimes Against Humanity legislation.
 
-The ABA House of Delegates unanimously passed a [policy resolution](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH) at the 2014 American Bar Association (ABA) Annual Meeting.
+Washington D.C., April 8, 2015 -The ABA Working Group on Crimes Against Humanity was recently formed by the ABA Center for Human Rights to advocate for implementation of the ABA policy urging the U.S. government to pass CAH legislation. The ABA House of Delegates unanimously passed a [policy resolution](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH) at the 2014 American Bar Association (ABA) Annual Meeting.
 
 CAH are criminal acts - such as murder, rape, torture, illegal imprisonment - when committed as part of a *widespread or systematic attack directed against any civilian population* and with knowledge of the attack. CAH can occur during peacetime or wartime. Currently, U.S. law only outlaws the international atrocity crimes of genocide and war crimes. The U.S. government cannot prosecute foreign or American nationals who commit CAH acts within the jurisdiction of the United States and risk becoming a safe haven for perpetrators of crimes against humanity outside the U.S. who flee to avoid prosecution in the U.S.
 
-The ABA Working Group on Crimes Against Humanity was recently formed by the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html) to advocate for implementation of the ABA policy urging the U.S. government to pass CAH legislation. The inaugural members of the Working Group are as follows (alphabetical order):
+The inaugural members of the Working Group are as follows (alphabetical order):
 
 * [Kelly Askin](http://www.ushmm.org/confront-genocide/speakers-and-events/biography/kelly-dawn-askin), International Criminal Justice Expert
 * [Representative Howard L. Berman](https://www.cov.com/en/biographies/b/howard-berman), Covington & Burling LLP

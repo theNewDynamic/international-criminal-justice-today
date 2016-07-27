@@ -46,7 +46,7 @@ The ABA Working Group on Crimes Against Humanity was formed by the [ABA Center f
 
 ---
 
-Please find more information about Senator Durbin’s speech at the Northwestern University School of Law [webpage](http://www.law.northwestern.edu/about/news/newsdisplay.cfm?ID=712).
+Please find more information about Senator Durbin’s [speech](https://northwesternlaw.wistia.com/medias/2rallr36vw) at the Northwestern University School of Law [webpage](http://www.law.northwestern.edu/about/news/newsdisplay.cfm?ID=712).
 
 ---
 

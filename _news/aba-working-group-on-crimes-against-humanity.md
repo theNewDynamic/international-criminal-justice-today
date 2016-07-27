@@ -13,11 +13,7 @@ featured_image_attribution:
 ---
 
 
-#### &nbsp;
-
 #### The American Bar Association Center for Human Rights recently formed a working group to advocate for Crimes Against Humanity legislation.
-
-&nbsp;
 
 Washington D.C., April 8, 2015 -The American Bar Association (ABA) Center for Human Rights recently established the ABA Working Group on Crimes Against Humanity (CAH), a highly distinguished group of relevant leaders and experts who will spearhead the ABA's effort to implement recent ABA policy on CAH. In August 2014, the ABA House of Delegates unanimously passed a [policy resolution](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) urging the US Congress to pass comprehensive domestic legislation prohibiting CAH and calling on the US government to help forge an international CAH treaty as well.&nbsp;
 

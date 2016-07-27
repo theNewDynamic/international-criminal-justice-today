@@ -8,18 +8,18 @@ contributors:
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path: /uploads/congress.jpg
+featured_image_path: /uploads/dc.jpg
 featured_image_attribution:
 ---
 
 
 #### The American Bar Association Center for Human Rights recently formed a working group to advocate for Crimes Against Humanity legislation.
 
-Washington D.C., April 8, 2015 -The American Bar Association (ABA) Center for Human Rights recently established the ABA Working Group on Crimes Against Humanity (CAH), a highly distinguished group of relevant leaders and experts who will spearhead the ABA's effort to implement recent ABA policy on CAH. In August 2014, the ABA House of Delegates unanimously passed a [policy resolution](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) urging the US Congress to pass comprehensive domestic legislation prohibiting CAH and calling on the US government to help forge an international CAH treaty as well.&nbsp;
+Washington D.C., April 8, 2015 -The American Bar Association (ABA) Center for Human Rights recently established the ABA Working Group on Crimes Against Humanity (CAH), a highly distinguished group of relevant leaders and experts who will spearhead the ABA's effort to implement recent ABA policy on CAH. In August 2014, the ABA House of Delegates unanimously passed a [policy resolution](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) urging the US Congress to pass comprehensive domestic legislation prohibiting CAH and calling on the US government to help forge an international CAH treaty as well.
 
-CAH are criminal acts - such as murder, rape, torture, illegal imprisonment, ethnic cleansing, religious persecution - committed as part of a *widespread or systematic attack directed against any civilian population*. CAH can occur during peacetime or wartime. Currently, US law only outlaws the atrocity crimes of genocide and war crimes. One result of this glaring gap in US federal code is that it prevents the US government from prosecuting or extraditing for prosecution elsewhere any foreign nationals found in the United States who have committed CAH either abroad or on American soil. The US risks becoming a safe haven for perpetrators of CAH. &nbsp;The implementation of CAH legislation would close this legal loophole and allow for the option of prosecuting perpetrators of CAH.
+CAH are criminal acts - such as murder, rape, torture, illegal imprisonment, ethnic cleansing, religious persecution - committed as part of a *widespread or systematic attack directed against any civilian population*. CAH can occur during peacetime or wartime. Currently, US law only outlaws the atrocity crimes of genocide and war crimes. One result of this glaring gap in US federal code is that it prevents the US government from prosecuting or extraditing for prosecution elsewhere any foreign nationals found in the United States who have committed CAH either abroad or on American soil. The US risks becoming a safe haven for perpetrators of CAH.  The implementation of CAH legislation would close this legal loophole and allow for the option of prosecuting perpetrators of CAH.
 
-Similarly, there is a need for an international CAH treaty, like those for genocide and war crimes, that will in turn bolster government cooperation in the fight to end impunity for CAH.&nbsp;
+Similarly, there is a need for an international CAH treaty, like those for genocide and war crimes, that will in turn bolster government cooperation in the fight to end impunity for CAH.
 
 Chaired by the former US Ambassador for War Crimes Issues, David Scheffer, the inaugural members of the ABA Working Group on CAH are as follows (alphabetical order):
 

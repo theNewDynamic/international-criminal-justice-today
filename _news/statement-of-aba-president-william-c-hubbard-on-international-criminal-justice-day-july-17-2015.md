@@ -10,7 +10,7 @@ featured_image_path: /uploads/williamchubbard.jpg
 ---
 
 
-#### ABA President William C. Hubbard acknowledged the global efforts, led by the International Criminal Court and the international community, to combat genocide, crimes against humanity and war crimes.
+#### ABA President William C. Hubbard acknowledged the global efforts to combat genocide, crimes against humanity and war crimes.
 
 Washington D.C., July 16, 2015 - On the occasion of International Criminal Justice Day, the American Bar Association (ABA) acknowledges the vitally important global efforts of the international community to combat the atrocity crimes of genocide, crimes against humanity, and war crimes. An effective international criminal justice system, led by the International Criminal Court (ICC) and national courts throughout the world, is indispensable to holding accountable and punishing those individuals who engage in atrocity crimes, to bringing justice to victims and their families, and to achieving lasting international peace and security.
 

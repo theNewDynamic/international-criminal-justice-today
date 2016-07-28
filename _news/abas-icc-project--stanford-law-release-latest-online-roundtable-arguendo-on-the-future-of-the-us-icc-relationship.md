@@ -13,7 +13,7 @@ featured_image_attribution:
 ---
 
 
-#### **The ABA’s ICC Project & Stanford Law releases its most recent online roundtable,***Arguendo***, with a distinguished panel addressing the future of the US-ICC relationship.**
+#### **The ABA’s ICC Project & Stanford Law releases its most recent***Arguendo***,&nbsp; addressing the future of the US-ICC relationship.**
 
 Washington D.C., June 20, 2014 – The [American Bar Association’s International Criminal Court (ICC) Project](http://www.aba-icc.org/) and [Stanford Law School Program in International and Comparative Law](https://law.stanford.edu/stanford-program-in-international-and-comparative-law/) are pleased to announce the release of the latest online expert roundtable, *[Arguendo](http://www.international-criminal-justice-today.org/arguendo/)*, on the next steps of the US-ICC relationship.
 

@@ -3,7 +3,7 @@ title: 'Prosecuting Sexual and Gender-Based Violence: New Directions in Internat
 published: true
 featured: false
 date: 2014-12-11T12:00:00.000Z
-category:
+category: news
 contributors:
 description:
 pull_quote:

@@ -7,11 +7,11 @@ description:
 pull_quote:
 pull_quote_attribution:
 featured_image_path: /uploads/united_states_capitol_-_west_front.jpg
-youtube_video_id: 
+youtube_video_id:
 ---
 
 
-#### ABA passed a policy resolution urging the U.S. government to pass domestic legislation prohibiting Crimes Against Humanity and to lead the effort for an international treaty prohibiting Crimes Against Humanity.
+#### ABA passed a policy resolution urging the U.S. government to pass domestic legislation prohibiting Crimes Against Humanity.
 
 Washington D.C., Aug. 12, 2014 - At the 2014 American Bar Association (ABA) Annual Meeting, the ABA House of Delegates unanimously passed a [policy resolution](http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH).
 

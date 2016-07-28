@@ -14,7 +14,9 @@ youtube_video_id:
 ---
 
 
-Washington D.C., Nov. 12, 2012 - The Whitney R. Harris World Law Institute at Washington University School of Law held an international conference commemorating the tenth anniversary of the International Criminal Court (ICC). The conference included a celebration of the memory of Nuremberg Tribunal prosecutor Whitney R. Harris and his 100th birthday, as well as a day of remembrance to honor the victims of atrocity crimes. The event featured a panel on US-ICC relations, featuring Elizabeth Andersen, Executive Director of the American Society of International Law; John Washburn, Convenor of the American NGO Coalition for the ICC, Prof. Jordan Paust, University of Houston Law Center, and Mr. Kip Hale, Director of the American Bar Association’s ICC Project.
+&nbsp;
+
+St. Louis, Missouri, Nov. 12, 2012 - The Whitney R. Harris World Law Institute at Washington University School of Law held an international conference commemorating the tenth anniversary of the International Criminal Court (ICC). The conference included a celebration of the memory of Nuremberg Tribunal prosecutor Whitney R. Harris and his 100th birthday, as well as a day of remembrance to honor the victims of atrocity crimes. The event featured a panel on US-ICC relations, featuring Elizabeth Andersen, Executive Director of the American Society of International Law; John Washburn, Convenor of the American NGO Coalition for the ICC, Prof. Jordan Paust, University of Houston Law Center, and Mr. Kip Hale, Director of the American Bar Association’s ICC Project.
 
 To view the event recap, click [here](https://www.international-criminal-justice-today.org/events/the-international-criminal-court-at-10/).
 

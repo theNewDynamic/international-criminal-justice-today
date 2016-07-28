@@ -10,7 +10,7 @@ featured_image_path: /uploads/iccprovisional.jpg
 ---
 
 
-#### ABA also recalls its long-standing support of the ICC and its efforts “to advocate for enhanced US-ICC relations and on the vital role of international criminal justice on world peace and security.”
+#### ABA also recalls its long-standing support of the ICC and its efforts to advocate for enhanced US-ICC relations.
 
 The Hague, The Netherlands, Nov. 19, 2015 - Before the 14th Session of Assembly of States Parties (ASP) of the International Criminal Court (ICC), the American Bar Association (ABA) stressed the importance of judicial independence and robust support of courts, and urged the ASP to uphold these principles with respect to the ICC.
 
@@ -26,6 +26,6 @@ Turning to the future of the ICC, Hale stated that the ABA "strongly believes th
 
 Please read the ABA's official written statement to the ASP below.
 
-<figure data-type="embed"><iframe width="100%" height="600" class="scribd_iframe_embed" id="doc_282" src="https://www.scribd.com/embeds/291188452/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-IxXX2TjX4k653HDLMif5&amp;show_recommendations=true" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="0.7729220222793488"></iframe></figure>
+<figure data-type="embed"><iframe class="scribd_iframe_embed" id="doc_282" src="https://www.scribd.com/embeds/291188452/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-IxXX2TjX4k653HDLMif5&amp;show_recommendations=true" scrolling="no" data-auto-height="false" data-aspect-ratio="0.7729220222793488" frameborder="0" height="600" width="100%"></iframe></figure>
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](http://www.aba-icc.org/).*

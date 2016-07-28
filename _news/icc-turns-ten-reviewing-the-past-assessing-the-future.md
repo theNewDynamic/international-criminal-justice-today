@@ -8,7 +8,7 @@ contributors:
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/14467279178_ff82572de5_o.jpg
 featured_image_attribution:
 youtube_video_id:
 ---

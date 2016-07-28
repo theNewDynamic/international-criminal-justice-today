@@ -8,7 +8,7 @@ contributors:
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path: /uploads/1453318075350_screen shot 2014-07-17 at 2.46.44 pm.png
+featured_image_path: /uploads/war.jpg
 featured_image_attribution:
 youtube_video_id:
 ---

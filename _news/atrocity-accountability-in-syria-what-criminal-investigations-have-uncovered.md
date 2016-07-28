@@ -10,7 +10,7 @@ featured_image_path: /uploads/1434906153176_event-atrocity-accountability-syria-
 ---
 
 
-#### ABA held an expert closed-door meeting on the results of international atrocity crimes investigations in Syria and how these investigations may affect policy in Syria and the region.
+#### ABA held an expert closed-door meeting on the results of international atrocity crimes investigations in Syria.
 
 Washington, D.C., Apr. 14, 2015 - The American Bar Association (ABA) Center for Human Rights and its International Criminal Court Project will host a closed door meeting of experts on Syria entitled “Atrocity Accountability in Syria: What Criminal Investigations Have Uncovered.” The event will discuss the legal implications of a non-governmental organization undertaking high-level criminal investigation of international atrocity crimes in Syria and whether Syria policymakers should utilize this information in addressing this 4 year old conflict. The experts in attendance will come from the US government, international diplomatic corps, policy think tanks, human rights and rule of law organizations, and other members of civil society.
 

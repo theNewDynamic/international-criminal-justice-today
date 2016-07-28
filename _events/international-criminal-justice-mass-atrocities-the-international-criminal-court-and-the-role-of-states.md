@@ -16,21 +16,9 @@ On April 10, 2014, the American Bar Association International Criminal Project (
 
 The first panel program was devoted to the U.S. role in international criminal justice. The distinguished panelists were the Hon. Patricia Wald, former Chief Judge of the U.S. Court of Appeals - DC Circuit and judge at the International Criminal Tribunal for the former Yugoslavia (ICTY), and Stephen Rapp, U.S. Ambassador-at-large for Global Criminal Justice. The program was moderated by Stephen Lamony of CICC.
 
----
-
-<object id="flashObj" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" height="353" width="410"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=3524487487001&amp;playerID=2307908497001&amp;playerKey=AQ~~,AAABsp7SiCE~,aEBLYbQyvvBa8yEVvdO_c5cphEka3MCJ&amp;domain=embed&amp;dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /></object>
-
----
-
 The second panel program focused on the successes and challenges at the ICC, and the distinguished panelists were Fatou Bensouda, Prosecutor of the International Criminal Court (ICC), and Justice Richard Goldstone, former Prosecutor of both the ICTY and International Criminal Tribunal for Rwanda. The program was moderated by Michael S. Greco, former ABA President and Chair of the ABA-ICC Project and its Board of Advisors.
-
----
-
-<object id="flashObj" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" height="353" width="410"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=3524483130001&amp;playerID=2307908497001&amp;playerKey=AQ~~,AAABsp7SiCE~,aEBLYbQyvvBa8yEVvdO_c5cphEka3MCJ&amp;domain=embed&amp;dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed type="application/x-shockwave-flash" name="flashObj" allowfullscreen="true" flashvars="videoId=3524483130001&amp;playerID=2307908497001&amp;playerKey=AQ~~,AAABsp7SiCE~,aEBLYbQyvvBa8yEVvdO_c5cphEka3MCJ&amp;domain=embed&amp;dynamicStreaming=true" bgcolor="#FFFFFF" base="http://admin.brightcove.com" seamlesstabbing="false" swliveconnect="true" allowscriptaccess="always" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1" height="353" width="410" /></object>
-
----
-
-During the panel discussion some of the issues addressed by Prosecutor Bensouda were the politicization of the ICC, its lack of adequate resources, and the misconceptions of the Court’s operations which are undermining the ICC and its important casework: “Misconceptions are another challenge that the court is facing. I think one of the biggest enemies of the Court - if I may put it that way - are the misconceptions or misperceptions of deliberately making sure that the Court is not understood. We need cooperation from States to make sure that the limitations of the Court are understood.”
+<br>
+<br>During the panel discussion some of the issues addressed by Prosecutor Bensouda were the politicization of the ICC, its lack of adequate resources, and the misconceptions of the Court’s operations which are undermining the ICC and its important casework: “Misconceptions are another challenge that the court is facing. I think one of the biggest enemies of the Court - if I may put it that way - are the misconceptions or misperceptions of deliberately making sure that the Court is not understood. We need cooperation from States to make sure that the limitations of the Court are understood.”
 
 One subject addressed by Justice Goldstone was the evolution of the U.S.-ICC relationship: “I can’t exaggerate the importance that the U.S. has played in the field of international criminal justice. I would go so far as to say that without the United States, we would not have a field of international criminal justice at all.”
 

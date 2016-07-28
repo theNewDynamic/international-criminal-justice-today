@@ -7,7 +7,7 @@ sponsor: Whitney R. Harris World Law Institute
 participants: 'Ambassador Stephen Rapp Judge Hans-Peter Kaul Judge Joyce Aluoch Ambassador Hans Corell Mr. Kip Hale, Senior Counsel, ABA Center for Human Rights Ms. Betsy Anderson, American Society of International Law Mr. John Washburn, American Coalition for the International Criminal Law Professor Jordan Paust, University of Houston Law Center Professor David Scheffer, Northwestern University School of Law Professor Linda Carter, University of the Pacific-McGeorge School of Law'
 venue: Washington University College of Law
 video:
-featured_image_path:
+featured_image_path: /uploads/121112_mhb_law_icc_517.jpg
 slug: the-international-criminal-court-at-10
 ---
 

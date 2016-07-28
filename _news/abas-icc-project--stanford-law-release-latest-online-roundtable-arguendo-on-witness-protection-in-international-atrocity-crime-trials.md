@@ -13,7 +13,7 @@ featured_image_attribution:
 ---
 
 
-#### The ABA’s ICC Project & Stanford Law releases its most recent online roundtable, Arguendo, with a distinguished panel discussing witness protection in international atrocity crime trials.
+#### The ABA’s ICC Project & Stanford Law releases its most recent online roundtable, discussing witness protection in international atrocity crime trials.
 
 Washington D.C., Apr. 17, 2015 - The [American Bar Association’s International Criminal Court (ICC) Project](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.aba-2Dicc.org_&amp;d=CwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=i_MXAE22YmAIqCgKCr6N3g&amp;m=UIjULAewBE2TkVeH4HcoSDjt-D3RIvLfIF1ubs6xlio&amp;s=Isr6v7GYfJljJsG1QsD3FtL5LtqRGgfGs3Z2JR4mpKE&amp;e=)and [Stanford Law School Program in International and Comparative Law](https://urldefense.proofpoint.com/v2/url?u=https-3A__law.stanford.edu_stanford-2Dprogram-2Din-2Dinternational-2Dand-2Dcomparative-2Dlaw_&amp;d=CwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=i_MXAE22YmAIqCgKCr6N3g&amp;m=UIjULAewBE2TkVeH4HcoSDjt-D3RIvLfIF1ubs6xlio&amp;s=vb-9QF_POJoqchbMNuk_NJrRt-FmVuAiLEyjN1JVAqk&amp;e=) released today their latest online roundtable, [*Arguendo*](https://www.international-criminal-justice-today.org/arguendo/), with a panel of experts discussing the reliance on witness testimonies in international atrocity crime trials and the best practices for effective witness protection.
 

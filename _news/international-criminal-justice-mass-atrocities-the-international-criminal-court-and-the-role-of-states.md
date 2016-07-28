@@ -14,7 +14,7 @@ youtube_video_id:
 ---
 
 
-#### ABA's ICC Project co-sponsors an event entitled “International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States.”
+#### ABA's ICC Project holds event entitled “International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States.”
 
 Washington D.C., Apr. 10, 2014 - The American Bar Association’s International Criminal Court Project, the Aspen Institute of Justice and Society Program, the Coalition for the International Criminal Court (CICC), and the Royal Embassy of the Kingdom of the Netherlands co-sponsored two panel programs in Washington, D.C. at an event entitled “International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States”. The first panel program was devoted to the U.S. role in international criminal justice, while the second panel program focused on the successes and challenges at the ICC.
 

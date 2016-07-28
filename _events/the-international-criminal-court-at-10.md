@@ -42,7 +42,9 @@ On November 11 and 12, 2012, the Whitney R. Harris World Law Institute at Washin
 
 <object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2F&amp;set_id=72157645686907755&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2F&amp;set_id=72157645686907755&amp;jump_to=" src="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882" height="525" width="700" /></object>
 
-[flyer](http://law.wustl.edu/harris/conferences/ICCat10/ICCposterfinal.pdf), [photos](http://law.wustl.edu/harris/images/PhotoAlbums/ICCat10/index.html), [video/audio](http://mediasite.law.wustl.edu/Mediasite/Play/80d0aad20f31446993a920920834719e1d), [Press Release](http://law.wustl.edu/news/pages.aspx?id=9558)
+Please find here the[flyer](http://law.wustl.edu/harris/conferences/ICCat10/ICCposterfinal.pdf), [photos](http://law.wustl.edu/harris/images/PhotoAlbums/ICCat10/index.html), and [video/audio](http://mediasite.law.wustl.edu/Mediasite/Play/80d0aad20f31446993a920920834719e1d) from the event.
+
+<object height="525" width="700"></object>
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](https://www.aba-icc.org/).*
 

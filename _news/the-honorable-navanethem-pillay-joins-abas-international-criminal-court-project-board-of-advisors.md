@@ -10,11 +10,7 @@ featured_image_path: /uploads/navipillay.png
 ---
 
 
-#### The ABA’s ICC Project welcomes the Honorable Navanethem Pillay, former UN Commissioner for Human Rights and former International Criminal Court Judge, to its Board of Advisors.
-
-#### &nbsp;
-
-#### &nbsp;
+#### The ABA’s ICC Project welcomes the Honorable Navanethem Pillay to its Board of Advisors.
 
 Washington, D.C., Feb. 25, 2015 - The American Bar Association’s International Criminal Court Project is pleased to announce that the Honorable&nbsp;[Navanethem (Navi) Pillay](https://www.aba-icc.org/board-of-advisors/hon-navanethem-pillay/) has joined the Project’s distinguished [Board of Advisors](https://www.aba-icc.org/the-aba-icc-project/board-of-advisors/).&nbsp; Judge Pillay has a long and distinguished career in international criminal justice and human rights advocacy.
 

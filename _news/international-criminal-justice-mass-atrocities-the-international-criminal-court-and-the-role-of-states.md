@@ -8,13 +8,15 @@ contributors:
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/1434903867505_event-recap_aspen_aba-icc-1600x639.jpg
 featured_image_attribution:
 youtube_video_id:
 ---
 
 
-Washington D.C., Apr. 10, 2014 - The American Bar Association’s International Criminal Project, the Aspen Institute of Justice and Society Program, the Coalition for the International Criminal Court (CICC), and the Royal Embassy of the Kingdom of the Netherlands co-sponsored two panel programs in Washington, D.C. at an event entitled “International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States”. The first panel program was devoted to the U.S. role in international criminal justice, while the second panel program focused on the successes and challenges at the ICC.
+#### ABA's ICC Project co-sponsors an event entitled “International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States.”
+
+Washington D.C., Apr. 10, 2014 - The American Bar Association’s International Criminal Court Project, the Aspen Institute of Justice and Society Program, the Coalition for the International Criminal Court (CICC), and the Royal Embassy of the Kingdom of the Netherlands co-sponsored two panel programs in Washington, D.C. at an event entitled “International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States”. The first panel program was devoted to the U.S. role in international criminal justice, while the second panel program focused on the successes and challenges at the ICC.
 
 To view the event recap, click [here](https://www.international-criminal-justice-today.org/events/international-criminal-justice-mass-atrocities-the-international-criminal-court-and-the-role-of-states/).
 

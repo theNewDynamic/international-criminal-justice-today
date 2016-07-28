@@ -7,7 +7,7 @@ sponsor: 'American University, Washington College of Law'
 participants: 'Mr. Kip Hale, Senior Counsel, American Bar Association Center for Human Rights; Ms. Shanti Sattler, Legal Fellow, University of London; Professor Chris Simpson, Communications Professor, American University'
 venue: 'American University, Washington College of Law'
 video:
-featured_image_path:
+featured_image_path: /uploads/wcc4382.jpg
 slug: united-nations-war-crimes-commission-event
 ---
 
@@ -22,4 +22,4 @@ On August 7, 2013, American Univeristy Washington College of Law hosted a panel 
 
 [Photos](https://owa.abanet.org/exchange/weiglk/Inbox/Just%20resending%20so%20all%20in%20one%20place..EML/FW:%20Audio%20from%20the%20War%20Crimes%20Commission%20Event-1.EML/photo.JPG/C58EA28C-18C0-4a97-9AF2-036E93DDAFB3/photo.JPG?attach=1;)
 
-*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;[website](https://www.aba-icc.org/)*.
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](https://www.aba-icc.org/)*.

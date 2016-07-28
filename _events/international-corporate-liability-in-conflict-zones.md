@@ -7,7 +7,7 @@ sponsor: 'American Bar Association & Counseil National des Barreaux'
 participants: 'Ms. Fatou Bensouda (Chief Prosecutor of the International Criminal Court) Mr. Stephen Rapp, U.S. Ambassador to War Crimes, Ms. Elisa Massimino, Executive Director Human Rights First, New York, NY'
 venue: American Bar Association
 video:
-featured_image_path:
+featured_image_path: /uploads/bensouda_fourth_suspect_2.jpg
 slug: international-corporate-liability-in-conflict-zones
 ---
 

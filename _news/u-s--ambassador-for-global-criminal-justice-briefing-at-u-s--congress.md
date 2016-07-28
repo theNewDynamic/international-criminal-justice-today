@@ -2,8 +2,8 @@
 title: U.S. Ambassador for Global Criminal Justice Briefing at U.S. Congress
 published: true
 featured: false
-date: 2016-08-01T12:00:00.000Z
-category:
+date: 2013-06-10T12:00:00.000Z
+category: news
 contributors:
 description:
 pull_quote:

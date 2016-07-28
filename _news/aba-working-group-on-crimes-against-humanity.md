@@ -45,4 +45,4 @@ Chaired by the former US Ambassador at Large for War Crimes Issues, David Scheff
 * [Kip Hale](http://www.aba-icc.org/staff/kip-hale/) (staff), ABA Center for Human Rights
 
 
-Please find [here](/ngo meeting on cah.pdf) additional information about the Working Group and CAH legislation.
+Please find [here](/uploads/NGO-Meeting-on-CAH.pdf) additional information about the Working Group and CAH legislation.

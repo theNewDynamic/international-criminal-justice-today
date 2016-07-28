@@ -13,7 +13,7 @@ featured_image_attribution:
 ---
 
 
-#### Americans continue to support involvement with the International Criminal Court (ICC), with some opposition to the U.S. becoming a full member of the Court.
+#### Americans continue to support involvement with the ICC, with some opposition to the U.S. becoming a full member of the Court.
 
 Washington, D.C., December 8, 2014 – The [ABA’s ICC Project](http://www.aba-icc.org/) today released the results of its most recent poll done in partnership with [Ipsos Public Affairs](http://www.ipsos-na.com/research/public-affairs/). Findings from this survey were largely consistent with those from the first survey in [February](https://www.international-criminal-justice-today.org/polling-data/2014/02/17/february-2014-ipsos-polling-data/). Knowledge of the ICC remains similarly low, with 64% of Americans indicating that they know “nothing at all” about the ICC. This lack of knowledge notwithstanding, nearly four in ten (37%) Americans support the United States becoming more involved with or a full member of the ICC, showing support for the objectives and work of the ICC.
 

@@ -8,7 +8,7 @@ contributors:
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path: /uploads/1434905691628_event-prosecuting-sexual-and-gender-based-crimes_v2.jpg
+featured_image_path: /uploads/1435714213254_event-prosecuting-sexual-and-gender-based-crimes_v3.jpg
 featured_image_attribution:
 youtube_video_id:
 ---

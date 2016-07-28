@@ -8,11 +8,13 @@ contributors:
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
+featured_image_path: /uploads/bensouda_fourth_suspect_2.jpg
 featured_image_attribution:
 youtube_video_id:
 ---
 
+
+#### International conference held in Paris on corporate liability in conflict zones.
 
 Paris, France, Mar. 21, 2013 - The full day, international conference in Paris, France, on March 21, 2013 brought together experts in the field of corporate liability in conflict zones. After the conference, Madam Prosecutor of the International Criminal Court, Fatou Bensouda (The Gambia) sat down for an interview and explained that alleged ignorance is no defense when it comes to corporate liability. Madam Prosecutor stated that she would not at all be opposed to corporate liability being a future subject in the ICC, at least for those who directly contribute to these atrocities in conflict zones.
 

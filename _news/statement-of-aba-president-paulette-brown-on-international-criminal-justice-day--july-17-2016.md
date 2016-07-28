@@ -13,7 +13,7 @@ featured_image_attribution:
 ---
 
 
-#### ABA President Paulette Brown's statement on International Criminal Justice Day recognizes successes and challenges in atrocity accountability
+#### ABA President Paulette Brown's statement on International Criminal Justice Day recognizes successes and challenges in atrocity accountability.
 
 Washington D.C., July 14, 2016 - In recognition of International Criminal Justice Day that occurs Sunday July 17, American Bar Association (ABA) President Paulette Brown [acknowledged](http://www.americanbar.org/news/abanews/aba-news-archives/2016/07/aba_president_paulet0.html) the successes of global efforts to combat the atrocity crimes of genocide, crimes against humanity, and war crimes, and the need for more work to be done to achieve justice for other victims and end impunity wherever it exists.
 

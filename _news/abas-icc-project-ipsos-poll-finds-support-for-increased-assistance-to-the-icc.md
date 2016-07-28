@@ -13,7 +13,7 @@ featured_image_attribution:
 ---
 
 
-#### Polling shows improved awareness of the International Criminal Court (ICC), driven by awareness among youth, and public support for the US government encouraging ICC involvement in investigating and prosecuting atrocity crimes in Syria and Iraq.
+#### Polling shows improved awareness of the International Criminal Court (ICC), driven by awareness among youth.
 
 Washington, D.C., July 26, 2016 – The [American Bar Associations’ (ABA) ICC Project](http://www.aba-icc.org/)&nbsp;today released the results of its most recent polling on Americans’ opinions on the ICC and related current events. Done in partnership with [Ipsos Public Affairs](http://www.ipsos-na.com/research/public-affairs/), the polling results show a positive trend in Americans knowledge of the ICC, which is now at the highest it has been since this tracking began, at 45%, a 6-point increase from the last survey in April 2016. The polling also shows an increase in support for the ICC, with more than four in ten (44%) Americans supporting increased US involvement or fully joining the ICC, while less than half of that number (21%) think the US should not join the ICC.
 

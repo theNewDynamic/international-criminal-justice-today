@@ -24,9 +24,7 @@ On November 11 and 12, 2012, the Whitney R. Harris World Law Institute at Washin
 
 <figure data-type="quote"><p>&ldquo;The common sense of mankind demands that law shall not stop with the punishment of petty crimes by little people, it must also reach men of who possess themselves of great power and make deliberate and concerted use of it, to set in motion evils which leave no home in the world untouched.&rdquo; &mdash; Justice Jackson, quoted by Ambassador Rapp</p></figure>
 
-<figure data-type="quote">&ldquo;Civilization can no longer tolerate the commission of crimes against humanity&rdquo; &mdash; Mr. Whitney R. Harris<br />&nbsp;</figure>
-
-<figure data-type="quote"><p>&ldquo;We must never forget that the record on which we judge these defendants today is the record on which history will judge us tomorrow&rdquo; &mdash; Justice Jackson, quoted by Mr. Rapp</p></figure>
+<figure data-type="quote"><p>&ldquo;Civilization can no longer tolerate the commission of crimes against humanity&rdquo; &mdash; Mr. Whitney R. Harris</p><p>&ldquo;We must never forget that the record on which we judge these defendants today is the record on which history will judge us tomorrow&rdquo; &mdash; Justice Jackson, quoted by Mr. Rapp</p></figure>
 
 <figure data-type="quote"><p>&ldquo;The ICC needs the support of the US this great country which time and again had a decisive role in bringing about the fall of tyranny and re the rule of law. The Court needs American support morally politically materially and in other ways and it remains also my hope that one day the judges may have an American colleague on the bench.&rdquo; &mdash; Judge Hans Peter-Kaul</p></figure>
 
@@ -42,7 +40,7 @@ On November 11 and 12, 2012, the Whitney R. Harris World Law Institute at Washin
 
 <object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2F&amp;set_id=72157645686907755&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2F&amp;set_id=72157645686907755&amp;jump_to=" src="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882" height="525" width="700" /></object>
 
-Please find here the[flyer](http://law.wustl.edu/harris/conferences/ICCat10/ICCposterfinal.pdf), [photos](http://law.wustl.edu/harris/images/PhotoAlbums/ICCat10/index.html), and [video/audio](http://mediasite.law.wustl.edu/Mediasite/Play/80d0aad20f31446993a920920834719e1d) from the event.
+Please find here the&nbsp; [flyer](http://law.wustl.edu/harris/conferences/ICCat10/ICCposterfinal.pdf), [photos](http://law.wustl.edu/harris/images/PhotoAlbums/ICCat10/index.html), and [video/audio](http://mediasite.law.wustl.edu/Mediasite/Play/80d0aad20f31446993a920920834719e1d) from the event.
 
 <object height="525" width="700"></object>
 

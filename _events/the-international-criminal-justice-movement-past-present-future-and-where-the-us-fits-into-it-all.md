@@ -16,10 +16,6 @@ On February 20, 2014, the University of Denver Sturm College of Law (DU Law) wel
 
 <figure data-type="quote"><p>&ldquo;When Churchill and Stalin were discussing who to summarily execute, it was FDR who stepped in to say that there would be no executions without due process of law. The United States has always been involved with these ideals.&rdquo; &mdash; Mr. Kip Hale</p><p>&ldquo;A prevalent issue that has come out of the international criminal court system is international cooperation and assistance. The Courts don&rsquo;t have police forces to do these things; cooperation is essential.&rdquo; &mdash; Mr. Kip Hale</p></figure>
 
-<figure data-type="quote"><p>&ldquo;There are two main issues as I see it right now, the first is complementarity; this issue is incredibly important for the international community to figure out. The second is the relationship between the ICC and the states; it is not broken but it needs to be worked on.&rdquo; &mdash; Mr. Kip Hale</p></figure>
-
-### [Video and Slides](http://du-denverlaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2b0a003-647c-49f4-a270-340bacb39fb7)
+<figure data-type="quote"><p>&ldquo;There are two main issues as I see it right now, the first is complementarity; this issue is incredibly important for the international community to figure out. The second is the relationship between the ICC and the states; it is not broken but it needs to be worked on.&rdquo; &mdash; Mr. Kip Hale</p><p>Please find here the <a href="http://du-denverlaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2b0a003-647c-49f4-a270-340bacb39fb7">video and slides</a> from the event.</p></figure>
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;[website](https://www.aba-icc.org/).*
-
-&nbsp;

@@ -5,7 +5,7 @@ date: 2014-04-10T16:23:00.000Z
 description:
 sponsor: 'American Bar Association International Criminal Court Project, Aspen Institute Justice and Society Program, Coalition for the International Criminal Court, and Royal Embassy of the Kingdom of the Netherlands'
 participants: 'Ms. Patricia Wald, former Chief Judge of the U.S.Court of Appeals - Distric of Columbia Circuit and the International Criminal Tribunal for the former Yugoslavia; Mr. Stephen Rapp, U.S. Ambassador-at-large for Global Criminal Justice; Ms. Fatou Bensouda, Prosecutor of the International Criminal Court; and Justice Richard Goldstone, former Prosecutor of both the ICTY and International Criminal Tribunal for Rwanda. Moderators: Mr. Stephen Lamony of Coalition for the International Criminal Court and Mr. Michael S. Greco, Chair of the American Bar Association-International Criminal Court Project and its Board of Advisors.'
-venue:
+venue: Jones Day Law Firm
 video:
 featured_image_path: /uploads/1434903867505_event-recap_aspen_aba-icc-1600x639.jpg
 slug: international-criminal-justice-mass-atrocities-the-international-criminal-court-and-the-role-of-states
@@ -29,5 +29,3 @@ One subject addressed by Justice Goldstone was the evolution of the U.S.-ICC rel
 ---
 
 <object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2F&amp;set_id=72157645772350803&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2F&amp;set_id=72157645772350803&amp;jump_to=" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" height="525" width="700" /></object>
-
-&nbsp;

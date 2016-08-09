@@ -5,7 +5,7 @@ date: 2014-08-24T16:41:00.000Z
 description:
 sponsor: The American Bar Association; The American Red Cross; American Society of International Law; Case Western Reserve University School of Law; The Chautauqua Institution; Impunity Watch; intlawgrrl; International Bar Association; NYU Center for Global Affairs; The Planethood Foundation; The Robert H. Jackson Center; Syracuse University College of Law; Whitney R. Harris World Law Institute at Washington University School of Law; in association with the United States Holocaust Memorial Museum
 participants:
-venue:
+venue: Chautauqua Institute
 youtube_video_id: ROjfkF1mCyQ
 featured_image_path: /uploads/1434904854599_international-humanitarian-law-dialogues-1496.jpg
 slug: 8th-annual-international-humanitarian-law-dialogs-2014
@@ -39,6 +39,6 @@ Please find video links to updates for each international criminal tribunal, spe
 
 Additional videos of other Dialogs’ presentations and panel discussions can be found on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](http://www.ustream.tv/channel/mediaworks116).
 
-*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;[website](https://www.aba-icc.org/).*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](https://www.aba-icc.org/).*
 
 <object height="525" width="700"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&amp;set_id=72157647510930311&amp;jump_to=" /><param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&amp;set_id=72157647510930311&amp;jump_to=" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" height="525" width="700" /></object>

@@ -5,7 +5,7 @@ date: 2014-04-10T16:28:00.000Z
 description:
 sponsor: American Bar Association International Criminal Court Project; Washington Working Group on the International Criminal Court
 participants: 'Ms. Fatou Bensouda, Prosecutor of the International Criminal Court; Prof. Diane Orentlicher, Professor of Law at American University Washington College of Law and former Deputy for War Crimes Issues in the U.S. Department of State; Moderator Mr. Kip Hale, Senior Counsel at the ABA Center for Human Rights and Director of the ABA International Criminal Court Project'
-venue:
+venue: U.S. Congress
 video:
 featured_image_path: /uploads/1434904029562_event-4-10-2014.jpg
 slug: icc-prosecutor-briefing-at-us-congress

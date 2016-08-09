@@ -5,7 +5,7 @@ date: 2013-06-10T15:59:00.000Z
 description:
 sponsor: American Bar Association International Criminal Court Project; Washington Working Group on the International Criminal Court
 participants: 'Mr. Stephen Rapp, Ambassador-at-large for Global Criminal Justice; Moderator Mr. Kip Hale, Senior Counsel at the American Bar Association Center for Human Rights and Director of the American Bar Association International Criminal Court Project'
-venue:
+venue: U.S. Congress
 youtube_video_id: OKxzXnHFWuM
 featured_image_path: /uploads/un-photo-evan-schneider.jpg
 slug: us-ambassador-for-global-criminal-justice-briefing-at-us-congress

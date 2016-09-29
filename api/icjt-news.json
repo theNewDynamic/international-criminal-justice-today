@@ -11,7 +11,7 @@ layout: null
   {% if post_title %}"title":"{{ post_title }}",{% endif %}
 {% if post.date %}"date":"{{ post.date | date: "%Y-%m-%d"  | downcase }} 12:00:00 -0400",{% endif %}
 {% if site.url %}"recap_link":"{{ site.url }}{{ post.url }}",{% endif %}
-{% if post.category %}"category": "{{ post.category }}",{% endif %}"content":"{% if post.description %}{{ post.description | markdownify | strip_newlines }}{% else %}{{ post.content | truncate: 250 | markdownify | strip_newlines }}{% endif %}"{% if post.featured_image_path  %},"featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"{% endif %}}{% endfor %}]}
+{% if post.category %}"category": "{{ post.category }}",{% endif %}"content":"{% if post.description %}{{ post.description | markdownify | strip_newlines }}{% else %}{{ post.content | markdownify | strip_newlines | truncate: 250 }}{% endif %}"{% if post.featured_image_path  %},"featured_image_path":"{{ site.url }}{{ post.featured_image_path }}"{% endif %}}{% endfor %}]}
 
 {% comment %}
 need to add in events.

@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-{"news": [{% assign first = true %}{% for post in site.news %}{% if first == false %},{% endif %}{% if first == true %}{% assign first = false %}{% endif %}
+{"news": [{% assign first = true %}{% for post in site.news limit:20 %}{% if first == false %},{% endif %}{% if first == true %}{% assign first = false %}{% endif %}
 {% if post.title %}
 	{% capture post_title %}{{ post.title | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}{% endcapture %}
 {% endif %}

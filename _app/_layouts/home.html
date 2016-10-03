@@ -5,7 +5,7 @@ type: home
 {% assign articles = site.documents | where: 'include_in_news', true %}
 {% assign polling-data = site.polling-data | sort: 'date', 'last'| reverse %}
 {% assign arguendo-question = site.arguendo-questions | sort: 'date' | reverse %}
-{% assign news = site.news | where: 'featured', -true | sort: 'date' | reverse  %}
+{% assign news = site.news | where_exp: 'item', 'item.featured != true' | sort: 'date' | reverse  %}
 {% assign news_featured = articles | where: 'featured', true | sort: 'date' | reverse  %}
 {% assign opinion = site.opinion | sort: 'date' | reverse  %}
 {% comment %} TODO: Update hero_items to include where statement to filter for images in the entries. Jekyll 3.2? {% endcomment %}
@@ -19,8 +19,6 @@ type: home
       {% include _listing-articles-homepage.html %}
     {% endfor %}
   </section>
-
-
 
   <div class="columns-7">
     <h2 class="section-heading"><a href="/arguendo/" class="black"><em>Arguendo</em> Roundtable</a></h2>
@@ -38,38 +36,27 @@ type: home
       <img src="/uploads/logo-ipsospublicaffairs.png" alt="" />
     </a>
     <section class="formatted-box">
-
-
-        {% for object in polling-data limit: 3   %}
-        {% assign featured_image = object.featured_image_path %}
-          <h2>
-            <a href="{{object.url}}">
-              {{ object.title }}
-            </a>
-          </h2>
-          {% if object.description %}
-            {{ object.description | markdownify }}
-          {% endif %}
-          <hr />
-        {% endfor %}
-
-
+      {% for object in polling-data limit: 3   %}
+      {% assign featured_image = object.featured_image_path %}
+        <h2>
+          <a href="{{object.url}}">
+            {{ object.title }}
+          </a>
+        </h2>
+        {% if object.description %}
+          {{ object.description | markdownify }}
+        {% endif %}
+        <hr />
+      {% endfor %}
     </section>
   </div>
-
-
-
-
   <div class="columns-5">
-
 
     <section class="no-formatted-box">
       {% include stream-tumblr.html %}
     </section>
 
-
-    <section >
-
+    <section>
       <h2 class="section-heading">Opinion</h2>
       {% for object in opinion limit:2 offset:0 %}
         {% assign featured_image = object.featured_image_path %}
@@ -80,32 +67,18 @@ type: home
             all opinion
           </a>
         </h6>
-
-
-
     </section>
-
-
     <section>
-
-
       <h2 class="section-heading">News</h2>
-
-
       {% for object in news limit:2 offset:0 %}
       {% assign featured_image = object.featured_image_path %}
         {% include _listing-articles-homepage.html %}
       {% endfor %}
-
-
         <h6 class="text-right">
           <a href="/news/">
             all news
           </a>
         </h6>
-
-
-
     </section>
   </div>
 

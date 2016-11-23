@@ -15,7 +15,7 @@ featured_image_attribution: INTERNATIONAL CRIMINAL COURT - WWW.ICC-CPI.INT/AVGAL
 ---
 
 
-> Original version of this [article](http://www.huffingtonpost.com/entry/sending-the-right-message-on-the-icc_us_58341e1ae4b0eaa5f14d4a56)appeared on Huffington Post.
+> Original version of this [article](http://www.huffingtonpost.com/entry/sending-the-right-message-on-the-icc_us_58341e1ae4b0eaa5f14d4a56)&nbsp;appeared on Huffington Post.
 
 Three African countries – Burundi, South Africa, and The Gambia –recently announced their intentions to withdraw from the Rome Statute, the treaty that established the International Criminal Court (ICC). This news is the latest chapter of the much discussed Africa-ICC story, one filled with allegations of racism, colonialism, and hypocrisy. Major news outlets have labelled these announcements as evidence that the world’s only permanent court for the atrocity crimes of genocide, crimes against humanity, and war crimes is unraveling.
 

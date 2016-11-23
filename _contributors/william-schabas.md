@@ -3,7 +3,7 @@ title: William Schabas
 published: false
 last_name: Schabas
 description:
-image_path:
+image_path: /uploads/Photo - Schabas.jpeg
 slug:
 ---
 

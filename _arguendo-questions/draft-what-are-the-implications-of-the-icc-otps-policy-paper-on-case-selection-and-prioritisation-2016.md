@@ -1,7 +1,7 @@
 ---
 title: "What are your thoughts on the ICC Office of Prosecutor's draft Policy on Case Selection and Priortisation?"
 published: true
-date: 2014-12-08 15:08:00
+date: 2016-11-23 03:08:00
 description:
 arguendo:
   - icc-prosecutors-policy-on-case-selection-timely-but-is-it-enough

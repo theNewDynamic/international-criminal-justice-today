@@ -1,13 +1,54 @@
 ---
 title: Sending the Right Message on the ICC
 published: true
-featured: false
-date: 2016-05-01 12:00:00
+featured: true
+date: 2016-11-23 12:00:00
 category:
+  - opinion
 contributors:
-description:
-pull_quote:
-pull_quote_attribution:
-featured_image_path:
-featured_image_attribution:
+  - christopher-kip-hale
+description: 'With withdrawals of three African states from the ICC, there is reason to question what is going wrong. Better messaging is a start.'
+pull_quote: 'So, to counter these anti-ICC narratives more effectively, Court defenders should stop relying on legal technicalities. The messaging, instead, must focus squarely on demonstrating to African communities that they are being misled by self-interested African leaders bent on retaining power.'
+pull_quote_attribution: Kip Hale
+featured_image_path: /uploads/160621-bemba-sentence-15_new.jpg
+featured_image_attribution: INTERNATIONAL CRIMINAL COURT - WWW.ICC-CPI.INT/AVGALLERY
 ---
+
+
+> Original version of this [article](http://www.huffingtonpost.com/entry/sending-the-right-message-on-the-icc_us_58341e1ae4b0eaa5f14d4a56)appeared on Huffington Post.
+
+Three African countries – Burundi, South Africa, and The Gambia –recently announced their intentions to withdraw from the Rome Statute, the treaty that established the International Criminal Court (ICC). This news is the latest chapter of the much discussed Africa-ICC story, one filled with allegations of racism, colonialism, and hypocrisy. Major news outlets have labelled these announcements as evidence that the world’s only permanent court for the atrocity crimes of genocide, crimes against humanity, and war crimes is unraveling.
+
+Many believe these withdrawals are justified. Only Africans have been prosecuted by the ICC. Just one of the ten countries where ICC cases are underway is outside Africa, and that is in Georgia, another developing country. Leaders from global powers are not being prosecuted, and this century’s worst mass atrocities ongoing in Syria and neighboring countries is not being investigated by the ICC. How can one not agree that the Court is targeting Africa?
+
+Defenders of the Court strongly believe these facts only tell half the story. All but three of the ICC’s current investigations in Africa were formally invited by the African country in question. Two out of those three – Sudan and Libya – were referred to the Court by the UN Security Council (interestingly, many African countries sitting on the Council during both referrals voted for passage). The only outlier case is Kenya where the then-ICC Prosecutor initiated investigations on his own. Yet, Kenya all but formally invited the ICC to investigate after making clear that an ICC investigation would not be opposed. So, how can it be biased against Africans if the ICC only unilaterally intervened in one African country, and that country wanted the ICC to do so?
+
+Furthermore, the continent of Africa has more ongoing wars and atrocity victims than anywhere else on the planet. Most domestic African courts are unwilling or unable to address these mass crimes. So, if the ICC’s caseload did not tilt towards Africa, much of the world would call this a flagrant dereliction of the Court’s duties. In addition, the ICC cannot by law get involved in Syria, Iraq, Yemen, Sri Lanka, Myanmar, and other non-African atrocity hotspots without UN Security Council referrals, because these countries have not joined the Court. The ICC cannot be blamed for limits sovereignty has placed on it.
+
+Yet, these legal and factual niceties do little to dispel beliefs that Africans are being unfairly hunted, an understandable position considering the continent’s history. Africa has tragically earned the right to be skeptical of outside interventions.
+
+What needs to be addressed, instead, is the truth of the matter: African leaders with credible evidence of their involvement in atrocities fear the ICC. They fear that the airing of their criminality will delegitimize them and push them out of power (as Alex Whiting argues, the withdrawals show the power of the rule of law to intimidate). Given that they cannot control the ICC’s independent judicial process or the evidence that will be publicized, they take the fight outside of the courtroom.
+
+These African leaders hire Western public relations firms to design anti-ICC narratives, such as the Court is a neocolonial tool. The only ones standing up against the biased ICC, as the manufactured story goes, is the exact same African leaders that the Court supposedly has evidence against or would investigate if given the chance. Nationalism is stoked, and popular opinion galvanizes behind African leaders “fighting” the neocolonial ICC. With their populace supporting them – sometimes even groups they victimized –, these leaders no longer fear the ICC. Withdrawal even becomes a viable option in the minds of their people. In the end, their impunity remains unfazed.
+
+So, to counter these anti-ICC narratives more effectively, Court defenders should stop relying on legal technicalities. The messaging, instead, must focus squarely on demonstrating to African communities that they are being misled by self-interested African leaders bent on retaining power. The messaging must make clear that the ICC is not rounding up hundreds or even dozens of random Africans, but senior leaders that evidence shows are most responsible for the commission of atrocities. In short, the message is that the ICC is not “about targeting ten or fifteen suspects,” as ICC spokesperson Fadi El Abdallah said, “[i]t is about protecting ten or fifteen thousand victims.” The message must align the Court with and for victims, not the Court against senior leaders.
+
+A critical examination of the situation shows just how indisputable this campaign for impunity is. First, the act of withdrawing membership from the Court is completely unnecessary to protest the ICC’s alleged unfairness, nor will it change the situation legally. Rather, as pointed out by Alex Whiting, the act of withdrawing is only necessary if trying to sidestep the law or create safe havens for others running from the law.
+
+Second, it makes no sense to label the ICC a creation of global powers. When established in 2002, the ICC was lauded as the first international institution of its kind not beholden to the UN Security Council. Most developing countries praised the Court for this reason, and global powers complained that the ICC was an undemocratic reduction of their power. South Africa and other leading members of the “like-minded” bloc of negotiating states were applauded for this victory.
+
+Third, if the ICC is a tool of the most powerful countries, it is an awful one. Currently, the ICC is either examining or fully investigating alleged crimes committed by Americans, Brits, Israelis, and Russians. No international tribunal in history has considered the alleged criminality of nationals from so many powerful countries.
+
+Fourth, as Amb. David Scheffer explains, African leaders have shown no diplomatic or political desire to see justice for either African or non-African victims of atrocity crimes. Most African courts have not been empowered or even encouraged to investigate and prosecute. African countries have devoted all their diplomatic energy to convincing the UN Security Council to defer ICC cases against African leaders, yet not once have these countries used options available to them to trigger ICC action outside of Africa.
+
+Sharpening attention on the leaders trying to escape justice is a step in the right direction, yet this messaging should not be the job of the ICC alone. The Court’s public information budget is already overstretched, but more importantly, an independent judicial institution should only go so far in advocacy. Rather, this job primarily rests with civil society.
+
+While the years of effort done by civil society in support of the ICC is praiseworthy, it is time for non-governmental organizations of all kinds to invest even more in ICC advocacy and education. Well-financed foundations like MacArthur, Ford, and Oak and wealthy benefactors who support human rights have waned in their support of the ICC, often for opaque or not well-supported reasons. Yet, these groups must and should return during this trying time for the ICC. They should specifically invest in the hiring of savvy public relations firms to develop advanced and sustained pro-ICC campaigns that effectively combat negative ones in Africa and elsewhere.
+
+Investments should also be directed towards trusted professional organizations of lawyers, diplomats, legislators, and business people as well as rights groups for veterans, women, and children to create a corps of ICC ambassadors able to support and defend the ICC in their communities. Lastly, umbrella coalitions and consortia should be further empowered to coordinate efforts among civil society organizations and help propel their messaging further as well.
+
+State Parties can and should do more too. Almost every pro-ICC statement or policy speech emphasizes that the promise of the ICC is only realized once the Court is universally accepted by all nations. Universality would undoubtedly make the ICC more immune to criticisms of bias, unfairness, or hypocrisy, among other benefits. Yet, States do little more than speeches to bring universality to fruition. It is time for States to put their words into action.
+
+The best-placed stakeholder to make universality occur, and the most invested in this outcome, is the European Union (EU). As one of the world’s biggest economies and with every EU member state also an ICC State Party, EU has unique leverage and reasoning to support ICC. One idea is for EU trade agreements and economic relations to have “carrot and stick” measures encouraging ICC ratification. What about preferred trading status for ICC States Parties outside the EU or the European Economic Area (EEA)? What if EU or EEA economic and trade relations with global powers that are non-State Parties receive more favorable terms if ICC members? It may be naive to imagine economic interests ever being conditioned by human rights issues, but the EU’s foundational principles and its willingness to use economic might for progressive purposes make these ideas realistic. Also, nothing prevents individual countries from conditioning their economic relations on ICC membership, or for members of the Assembly of States Parties – such as EU countries plus others – from creating very appealing economic agreements or trade zones where ICC membership is a requirement of admission.
+
+The monumental achievement of establishing the ICC – an international tribunal with complementary criminal jurisdiction in sovereign states – was just the first step. The experience of building the rule of law elsewhere teaches us that it was always going to be a long and hard struggle to build up the ICC into the institution capable of fulfilling its mandate. That struggle is now. Time for governments and civil society that truly believe in the promise of the ICC to do more and work together. Much depends on them doing so.

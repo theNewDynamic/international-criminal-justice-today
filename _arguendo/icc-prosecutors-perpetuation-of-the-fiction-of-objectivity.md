@@ -12,17 +12,20 @@ slug:
 
 The following document was recently issued by the Office of the Prosecutor of the International Criminal Court:
 
-> ### *Policy Paper on Meal Selection and Prioritisation*
+> ### Policy Paper on Meal Selection and Prioritisation
 
-> #### *In selecting menu items when they eat in restaurants, members of the Office of the Prosecutor make a selection, using a focused approach, and applying a standard analytical methodology. This should not be confused with the choice of restaurant and the style of food, a subject addressed in the Policy Paper on Situations. Generally, members of the Office of the Prosecutor proceed in a sequential manner, selecting from categories and usually choosing a starter, a main and a desert. Although the order in selection of courses is generally followed, it should not be viewed as necessary in all cases, and the Office reserves the right to select components of the meal in a different order consistent with the Regulations of the Office, as amended.*
->
-> #### *When selecting within a category, members of the Office take into account the following factors: (a) appearance; (b) the name of the dish; (c) anticipated taste and texture; (d) availability; (e) variety; (f) cost; (g) caloric intake. There is no hierarchy, however, and one or more of these factors may be of particular importance, depending upon the circumstances.*
->
-> #### *In selecting wine to accompany the meal, members of the Office apply the same criteria. The Appeals Chamber has cautioned against an overly restrictive approach.<sup>*</sup> This is borne in mind by the Office, which reserves its right not to select the most expensive bottle.*
->
-> #### *The Office of the Prosecutor recalls that every meal and wine selected must be available at the time, at the price advertised in the menu. In addition, members of the Office will not order certain food products if issues of possible allergic reaction, religious prohibition, gastric reflux or ideological conviction are present. Although there is no prioritisation suggested by the Rome Statute, members of the Office may attribute particular importance to gender-related issues as well as credible reports from intermediaries that particular cruelty was involved in the preparation of certain foods.*
+> In selecting menu items when they eat in restaurants, members of the Office of the Prosecutor make a selection, using a focused approach, and applying a standard analytical methodology. This should not be confused with the choice of restaurant and the style of food, a subject addressed in the Policy Paper on Situations. Generally, members of the Office of the Prosecutor proceed in a sequential manner, selecting from categories and usually choosing a starter, a main and a desert. Although the order in selection of courses is generally followed, it should not be viewed as necessary in all cases, and the Office reserves the right to select components of the meal in a different order consistent with the Regulations of the Office, as amended.
 
-###### *<sup>*</sup>Prosecutor v. Haut-Brion and Bandol (ICC-03/05-01/15), Appeal Decision on Prosecutor’s Decision to Decant, with confidential annex, 29 February 2015.*
+> When selecting within a category, members of the Office take into account the following factors: (a) appearance; (b) the name of the dish; (c) anticipated taste and texture; (d) availability; (e) variety; (f) cost; (g) caloric intake. There is no hierarchy, however, and one or more of these factors may be of particular importance, depending upon the circumstances.
+
+> In selecting wine to accompany the meal, members of the Office apply the same criteria. The Appeals Chamber has cautioned against an overly restrictive approach<sup>\*</sup>. This is borne in mind by the Office, which reserves its right not to select the most expensive bottle.
+
+> The Office of the Prosecutor recalls that every meal and wine selected must be available at the time, at the price advertised in the menu. In addition, members of the Office will not order certain food products if issues of possible allergic reaction, religious prohibition, gastric reflux or ideological conviction are present. Although there is no prioritisation suggested by the Rome Statute, members of the Office may attribute particular importance to gender-related issues as well as credible reports from intermediaries that particular cruelty was involved in the preparation of certain foods.
+
+> <small><strong><sup>\*</sup>Prosecutor v. Haut-Brion and Bandol (ICC-03/05-01/15), Appeal Decision on Prosecutor’s Decision to Decant, with confidential annex, 29 February 2015.</strong></small>
+
+<style>blockquote {font-family: 'Courier New', Courier, sans-serif;color:black;}</style>
+
 
 No, the Prosecutor did not recently issue a Policy Paper on Meal Selection and Prioritisation,” whatever benefits such a document might offer. But like the “Policy Paper on Case Selection and Prioritisation” released on 15 September 2016 (the Policy Paper), this supposed Meal Section policy paper presents a very thorough and ostensibly comprehensive overview of the factors involved in the exercise of prosecutorial discretion at the dining table. But can one tell, from reading the text, whether the Prosecutor, when she has lunch in the Court’s canteen, will be eating fish, chicken, or beef, or drinking still water, sparkling water or diet Coke? Both policy papers, the official one issued late in 2016 and the contrived one above, fail to tell us anything we don’t already know.
 

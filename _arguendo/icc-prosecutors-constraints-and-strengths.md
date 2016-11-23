@@ -1,7 +1,7 @@
 ---
 title: Finding Strength within Constraints
 published: true
-date: 2014-11-21 15:17:00
+date: 2016-11-23 03:17:00
 arguendo-question: draft-what-are-the-implications-of-the-icc-otps-policy-paper-on-case-selection-and-prioritisation-2016
 contributors:
   - alex-whiting

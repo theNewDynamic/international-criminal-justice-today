@@ -1,6 +1,6 @@
 ---
 title: William Schabas
-published: false
+published: true
 last_name: Schabas
 description:
 image_path: /uploads/Photo - Schabas.jpeg

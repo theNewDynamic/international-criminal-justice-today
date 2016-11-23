@@ -1,5 +1,5 @@
 ---
-title: William Schabas
+title: Professor William A. Schabas
 published: true
 last_name: Schabas
 description:

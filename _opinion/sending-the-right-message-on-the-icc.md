@@ -8,7 +8,7 @@ category:
 contributors:
   - christopher-kip-hale
 description: 'With withdrawals of three African states from the ICC, there is reason to question what may be going wrong, if at all. Just impunity fighting back, but better messaging is needed.'
-pull_quote: 'So, to counter these anti-ICC narratives more effectively, Court defenders should stop relying on legal technicalities. The messaging, instead, must focus squarely on demonstrating to African communities that they are being misled by self-interested African leaders bent on retaining power.'
+pull_quote: 'So, to counter these anti-ICC narratives more effectively, Court defenders should stop relying on legal technicalities. The messaging, instead, must focus squarely on demonstrating to African communities that they are being misled by self-interested African leaders bent on retaining power. The messaging must make clear that the ICC is not rounding up hundreds or even dozens of random Africans, but senior leaders that evidence shows are most responsible for the commission of atrocities. In short, the message is that the ICC is not “about targeting ten or fifteen suspects,” as ICC spokesperson Fadi El Abdallah said, “[i]t is about protecting ten or fifteen thousand victims.” The message must align the Court with and for victims, not the Court against senior leaders.'
 pull_quote_attribution: Kip Hale
 featured_image_path: /uploads/160621-bemba-sentence-15_new.jpg
 featured_image_attribution: INTERNATIONAL CRIMINAL COURT - WWW.ICC-CPI.INT/AVGALLERY

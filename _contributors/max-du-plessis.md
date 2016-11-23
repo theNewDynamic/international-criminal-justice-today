@@ -3,7 +3,7 @@ title: Max du Plessis
 published: true
 last_name: Whiting
 description:
-image_path: /uploads/whiting.jpg
+image_path: /uploads/Photo - Max du Plessis.jpg
 slug:
 ---
 

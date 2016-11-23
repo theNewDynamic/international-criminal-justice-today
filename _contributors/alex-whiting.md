@@ -1,5 +1,5 @@
 ---
-title: Alex Whiting
+title: Professor Alex G. Whiting
 published: true
 last_name: Whiting
 description:

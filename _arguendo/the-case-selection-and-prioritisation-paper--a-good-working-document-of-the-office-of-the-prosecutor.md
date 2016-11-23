@@ -1,6 +1,6 @@
 ---
 title: A Good Working Document of the Office of the Prosecutor
-published: false
+published: true
 date: 2016-11-23 03:17:00
 arguendo-question: draft-what-are-the-implications-of-the-icc-otps-policy-paper-on-case-selection-and-prioritisation-2016
 contributors:

@@ -8,14 +8,14 @@ category:
 contributors:
   - christopher-kip-hale
 description: 'With withdrawals of three African states from the ICC, there is reason to question what may be going wrong, if at all. Just impunity fighting back, but better messaging is needed.'
-pull_quote: 'So, to counter these anti-ICC narratives more effectively, Court defenders should stop relying on legal technicalities. The messaging, instead, must focus squarely on demonstrating to African communities that they are being misled by self-interested African leaders bent on retaining power. The messaging must make clear that the ICC is not rounding up hundreds or even dozens of random Africans, but senior leaders that evidence shows are most responsible for the commission of atrocities. In short, the message is that the ICC is not “about targeting ten or fifteen suspects,” as ICC spokesperson Fadi El Abdallah said, “[i]t is about protecting ten or fifteen thousand victims.” The message must align the Court with and for victims, not the Court against senior leaders.'
+pull_quote: "So, to counter these anti-ICC narratives more effectively, Court defenders should stop relying on legal technicalities. The messaging, instead, must focus squarely on demonstrating to African communities that they are being misled by self-interested African leaders bent on retaining power. The messaging must make clear that the ICC is not rounding up hundreds or even dozens of random Africans, but senior leaders that evidence shows are most responsible for the commission of atrocities. In short, the message is that the ICC is not 'about targeting ten or fifteen suspects,' as ICC spokesperson Fadi El Abdallah said, '[i]t is about protecting ten or fifteen thousand victims.' The message must align the Court with and for victims, not the Court against senior leaders."
 pull_quote_attribution: Kip Hale
 featured_image_path: /uploads/160621-bemba-sentence-15_new.jpg
 featured_image_attribution: INTERNATIONAL CRIMINAL COURT - WWW.ICC-CPI.INT/AVGALLERY
 ---
 
 
-> Original version of this [article](http://www.huffingtonpost.com/entry/sending-the-right-message-on-the-icc_us_58341e1ae4b0eaa5f14d4a56)&nbsp;appeared on Huffington Post.
+> Original version of this [article](http://www.huffingtonpost.com/entry/sending-the-right-message-on-the-icc_us_58341e1ae4b0eaa5f14d4a56) appeared on Huffington Post.
 
 Three African countries – Burundi, South Africa, and The Gambia –recently announced their intentions to withdraw from the Rome Statute, the treaty that established the International Criminal Court (ICC). This news is the latest chapter of the much discussed Africa-ICC story, one filled with allegations of racism, colonialism, and hypocrisy. Major news outlets have labelled these announcements as evidence that the world’s only permanent court for the atrocity crimes of genocide, crimes against humanity, and war crimes is unraveling.
 

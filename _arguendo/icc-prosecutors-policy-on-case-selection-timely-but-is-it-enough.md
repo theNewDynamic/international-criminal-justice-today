@@ -7,7 +7,7 @@ contributors:
   - ottilia-anna-maunganidze
   - max-du-plessis
 description:
-slug: accountability-and-the-expansion-of-the-criminal-jurisdiction-of-the-african-court
+slug:
 ---
 
 

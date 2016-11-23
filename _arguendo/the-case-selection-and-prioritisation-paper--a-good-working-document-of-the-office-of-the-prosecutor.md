@@ -1,5 +1,5 @@
 ---
-title: The Case Selection and Prioritisation Paper – A Good Working Document of the Office of the Prosecutor
+title: A Good Working Document of the Office of the Prosecutor
 published: false
 date: 2014-11-21 15:17:00
 arguendo-question: draft-what-are-the-implications-of-the-icc-otps-policy-paper-on-case-selection-and-prioritisation-2016
@@ -18,7 +18,7 @@ The Paper follows a sound structure starting with a concise description of the �
 
 **SELECTION**
 
-The OTP’s selection of situations and cases has attracted vigorous criticism of late. The OTP has been accused of playing favourites by not investigating all parties to a conflict, applying double standards of justice, being motivated by political considerations, or overlooking the expectations of affected communities. The Paper suggests that the Prosecutor has considered such concerns and criticism, and endeavours to remedy shortcomings in the selection policy. &nbsp;
+The OTP’s selection of situations and cases has attracted vigorous criticism of late. The OTP has been accused of playing favourites by not investigating all parties to a conflict, applying double standards of justice, being motivated by political considerations, or overlooking the expectations of affected communities. The Paper suggests that the Prosecutor has considered such concerns and criticism, and endeavours to remedy shortcomings in the selection policy.
 
 **General Principles**
 
@@ -50,9 +50,9 @@ The Paper makes clear that the Prosecutor will not bring charges for all crimes 
 
 The Paper endorses and further develops the jurisdiction and admissibility criterions as set out in previous documents of the OTP and jurisprudence of the ICC. Importantly, the Paper acknowledges that the OTP is only one of the mechanisms of a broader comprehensive strategy for combating atrocity crimes, which concern all mankind. This perception derives from, and is in line with, the principle of complementarity – the cornerstone of the establishment and functioning of the Court. Specifically, complementarity is “burden-sharing” – an approach promulgated in the Paper whereby the Prosecutor can share casework with nations that also have jurisdiction. The Paper also notes that the OTP could contribute to domestic investigations and prosecutions by sharing relevant information and evidence with national authorities. As such, complementarity and cooperation are fostered by budgetary resources allocated to other cases where ICC intervention is justified and compelling.
 
-***Interests of Justice&nbsp;***
+***Interests of Justice***
 
-Unlike other portions of the Paper, the coverage the “interests of justice” criterion is&nbsp; scant and underdeveloped. Said criterion has yet to be employed by the OTP and the Paper merely reitterates what has been stated in previous documents, namely that “[the] decision not to proceed on the basis of the interests of justice should be understood as a course of last resort.” This legal criterion deserves elaboration, not solely for judicial necessity, but to provide guidance to interested States or other actors as to when and under what conditions the interests of justice scenario could be a relevant point of discussion.
+Unlike other portions of the Paper, the coverage the “interests of justice” criterion is  scant and underdeveloped. Said criterion has yet to be employed by the OTP and the Paper merely reitterates what has been stated in previous documents, namely that “[the] decision not to proceed on the basis of the interests of justice should be understood as a course of last resort.” This legal criterion deserves elaboration, not solely for judicial necessity, but to provide guidance to interested States or other actors as to when and under what conditions the interests of justice scenario could be a relevant point of discussion.
 
 **PRIORITISATION**
 

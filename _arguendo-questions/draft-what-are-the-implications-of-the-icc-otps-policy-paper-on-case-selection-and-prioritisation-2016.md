@@ -1,5 +1,5 @@
 ---
-title: "What are your thoughts on the ICC Office of Prosecutor's draft Policy on Case Selection and Priortisation?"
+title: "What are your thoughts on the ICC Office of Prosecutor's Policy on Case Selection and Priortisation?"
 published: true
 date: 2016-11-23 03:08:00
 description:

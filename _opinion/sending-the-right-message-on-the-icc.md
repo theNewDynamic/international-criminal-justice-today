@@ -7,7 +7,7 @@ category:
   - opinion
 contributors:
   - christopher-kip-hale
-description: 'With withdrawals of three African states from the ICC, there is reason to question what is going wrong. Better messaging is a start.'
+description: 'With withdrawals of three African states from the ICC, there is reason to question what may be going wrong, if at all. Just impunity fighting back, but better messaging is needed.'
 pull_quote: 'So, to counter these anti-ICC narratives more effectively, Court defenders should stop relying on legal technicalities. The messaging, instead, must focus squarely on demonstrating to African communities that they are being misled by self-interested African leaders bent on retaining power.'
 pull_quote_attribution: Kip Hale
 featured_image_path: /uploads/160621-bemba-sentence-15_new.jpg

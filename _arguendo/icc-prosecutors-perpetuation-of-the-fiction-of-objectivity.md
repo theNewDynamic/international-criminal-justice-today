@@ -18,7 +18,7 @@ The following document was recently issued by the Office of the Prosecutor of th
 
 > When selecting within a category, members of the Office take into account the following factors: (a) appearance; (b) the name of the dish; (c) anticipated taste and texture; (d) availability; (e) variety; (f) cost; (g) caloric intake. There is no hierarchy, however, and one or more of these factors may be of particular importance, depending upon the circumstances.
 
-> In selecting wine to accompany the meal, members of the Office apply the same criteria. The Appeals Chamber has cautioned against an overly restrictive approach<sup>\*</sup>. This is borne in mind by the Office, which reserves its right not to select the most expensive bottle.
+> In selecting wine to accompany the meal, members of the Office apply the same criteria. The Appeals Chamber has cautioned against an overly restrictive approach.<sup>\*</sup> This is borne in mind by the Office, which reserves its right not to select the most expensive bottle.
 
 > The Office of the Prosecutor recalls that every meal and wine selected must be available at the time, at the price advertised in the menu. In addition, members of the Office will not order certain food products if issues of possible allergic reaction, religious prohibition, gastric reflux or ideological conviction are present. Although there is no prioritisation suggested by the Rome Statute, members of the Office may attribute particular importance to gender-related issues as well as credible reports from intermediaries that particular cruelty was involved in the preparation of certain foods.
 

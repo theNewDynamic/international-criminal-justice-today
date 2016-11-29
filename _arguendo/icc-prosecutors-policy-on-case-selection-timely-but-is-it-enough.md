@@ -11,7 +11,7 @@ slug:
 ---
 
 
-On 15 September, the Prosecutor of the International Criminal Court (ICC), Fatou Bensouda, released her office’s much-anticipated Policy Paper on Case Selection and Prioritisation.
+On 15 September, the Prosecutor of the International Criminal Court (ICC), Fatou Bensouda, released her office’s much-anticipated [Policy Paper on Case Selection and Prioritisation](https://www.icc-cpi.int/Pages/item.aspx?name=policy-paper-on-case-selection-and-prioritisation).
 
 The policy is a vital moment in the court’s history: it provides the standards by which the Prosecutor will select cases, manage priorities, and – perhaps most importantly – manage expectations, and dispel notions of bias.
 
@@ -43,7 +43,7 @@ Illustrative of perceptions of victors’ justice in the court’s case selectio
 
 The result is one-sided justice at the expense of ensuring accountability also for crimes committed by other parties. In the Uganda referral, it means that the ICC does not address crimes committed during the rebellion by parties other than the LRA.
 
-The OTP has come out to say that they have not received any evidence of crimes allegedly committed by the Uganda People’s Defence Force, explaining why there are still no cases against government troops. Focusing on the LRA likely ensures some continued cooperation from the Ugandan government – although this is limited, given that the Ugandan government has since announced that they will no longer pursue the LRA in the Central African Republic. It could lend credence, however, to arguments that there is partiality in case selection. The OTP policy lists ‘international cooperation and judicial assistance’ as one of the operational criteria that the office will consider in case prioritisation.
+The OTP has come out to say that they have not received [any evidence of crimes allegedly committed by the Uganda People’s Defence Force](http://acholitimes.com/2016/05/02/no-evidence-against-updf-says-icc/), explaining why there are still no cases against government troops. Focusing on the LRA likely ensures some continued cooperation from the Ugandan government – although this is limited, given that the Ugandan government has since announced that they will no longer pursue the LRA in the Central African Republic. It could lend credence, however, to arguments that there is partiality in case selection. The OTP policy lists ‘international cooperation and judicial assistance’ as one of the operational criteria that the office will consider in case prioritisation.
 
 Also worth citing are criticisms leveled against the OTP for only indicting those affiliated with the government of ousted Ivorian president Laurent Gbagbo in the C&ocirc;te d’Ivoire situation. The OTP has been at pains to explain that it is still looking into the matter and examining ‘both sides’ to the post-election violence that ravaged the country in 2010 and 2011.
 

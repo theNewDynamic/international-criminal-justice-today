@@ -1,10 +1,11 @@
 ---
 title: "An Insider's View: Consistency and Transparency While Preserving Prosecutorial Discretion"
-published: false
+published: true
 date: 2014-12-14 15:17:00
 arguendo-question: draft-what-are-the-implications-of-the-icc-otps-policy-paper-on-case-selection-and-prioritisation-2016
 contributors:
   - helen-brady
+  - dr--fabricio
 description:
 slug:
 ---

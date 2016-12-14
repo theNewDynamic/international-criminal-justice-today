@@ -3,7 +3,7 @@ title: Honorable Navanethem Pillay
 published: true
 last_name: Pillay
 description: Former UN High Commission for Human Rights
-image_path: /uploads/official-hc---may.JPG
+image_path:
 slug: honorable-navanethem-pillay
 ---
 

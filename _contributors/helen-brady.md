@@ -1,6 +1,6 @@
 ---
 title: Helen Brady
-published: false
+published: true
 last_name: Brady
 description: Head of Appeals Section in the ICC Office of the Prosecutors
 image_path: /uploads/brady-photo.jpg

@@ -33,7 +33,7 @@ layout: compress
         {% assign contributors = site.contributors | where: 'slug', contributor %}
         {% for object in contributors  %}
             {% if object.image_path %}
-              <meta property="og:type" content="{{ site.image_url}}{{ object.image_path }}?w=220&h=220&fit=crop&crop=faces&exp=1" />
+              <meta property="og:image" content="{{ site.image_url}}{{ object.image_path }}?w=220&h=220&fit=crop&crop=faces&exp=1" />
             {% endif %}
         {% endfor %}
       {% endfor %}

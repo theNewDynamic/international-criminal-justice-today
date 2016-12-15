@@ -3,6 +3,18 @@
   class="addthis_sharing_toolbox"
   data-url="{{ site.url }}{{ page.url }}"
   data-title="{{ page.title }}"
-  data-media="{% if page.featured_image_path %}{{ site.url }}{{ page.featured_image_path }}{% else %}{{ site.logo }}{% endif %}"
+  {% if page.collection == 'arguendo' %}
+    {% assign contributorList = page.contributors %}
+    {% for contributor in contributorList %}
+      {% assign contributors = site.contributors | where: 'slug', contributor %}
+      {% for object in contributors  %}
+          {% if object.image_path %}
+            data-media="{{ site.image_url}}{{ object.image_path }}?w=220&h=220&fit=crop&crop=faces&exp=1"
+          {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% else  %}
+      data-media="{% if page.featured_image_path %}{{ site.url }}{{ page.featured_image_path }}{% else %}{{ site.logo }}{% endif %}"
+  {% endif %}
   >
 </div>

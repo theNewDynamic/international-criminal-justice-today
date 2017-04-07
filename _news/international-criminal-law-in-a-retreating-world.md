@@ -1,14 +1,44 @@
 ---
 title: International Criminal Law in a Retreating World
 published: true
-featured: false
-date: 2016-08-01 12:00:00
-category:
+featured: true
+date: 2017-04-07 12:00:00
+category: news
 contributors:
-description:
+description: 'Please attend this event with Madame Prosecutor of the International Criminal Court, Fatou Bensouda, and other speakers.'
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
-featured_image_attribution:
+featured_image_path: /uploads/1449748731577_ICC-Prosecutor (photo).jpg
+featured_image_attribution: International Criminal Court
 youtube_video_id:
 ---
+
+
+<br>The American Bar Association (ABA) Center for Human Rights, the ABA's International Criminal Court Project, and the ABA Criminal Justice Section present "*International Criminal Law in a Retreating World*".
+
+This event will feature Madame Prosecutor of the International Criminal Court Fatou Bensouda (The Gambia), Ambassador David Scheffer (Mayer Brown/Robert A. Helman Professor of Law; Director, Center for International Human Rights; Northwestern University Pritzker School of Law; and Former U.S. Ambassador at-large for War Crimes Issues and Michael S. Greco (moderator - Chair, ABA’s International Criminal Court Project ABA President, 2005-06) as well as other invited participants
+
+*There is indisputable evidence that countries around the world are&nbsp;
+<br>retreating from global and regional organizations, alliances, and&nbsp;
+<br>other forms of multilateral partnerships. The utility of the European&nbsp;
+<br>Union and NATO is being questioned, and countries are electing&nbsp;
+<br>leaders with an inward national focus rather than outward global&nbsp;
+<br>one. The International Criminal Court is no exception, with two&nbsp;
+<br>States Parties having initiated the formal process of exiting the&nbsp;
+<br>Court. While there is little evidence that international criminal&nbsp;
+<br>justice as a concept is falling out of favor, ensuring accountability for&nbsp;
+<br>mass atrocities is made even more challenging when global&nbsp;
+<br>relationships and cooperation are eroding. What can the field of&nbsp;
+<br>international criminal justice do to counter or mitigate these&nbsp;
+<br>developments? Are there opportunities for advancement that are&nbsp;
+<br>not readily apparent?&nbsp;*
+
+When: Thursday, April 13, 2017 2:00 to 4:30 p.m.&nbsp;
+
+Where: Offices of Nelson Mullins Law Firm, 101 Constitution Avenue, NW Washington, DC&nbsp;
+
+Space is limited! Attendance is free but registration required&nbsp;
+
+RSVP to [humanrights@americanbar.org](javascript:void(location.href='mailto:'+String.fromCharCode(104,117,109,97,110,114,105,103,104,116,115,64,97,109,101,114,105,99,97,110,98,97,114,46,111,114,103)+'?subject=RSVP%20-%20International%20Criminal%20Law%20in%20a%20Retreating%20World'))&nbsp;
+
+<br>&nbsp;

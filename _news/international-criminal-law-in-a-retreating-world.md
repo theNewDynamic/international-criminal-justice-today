@@ -16,9 +16,9 @@ youtube_video_id:
 
 <br>The American Bar Association (ABA) Center for Human Rights, the ABA's International Criminal Court Project, and the ABA Criminal Justice Section present "*International Criminal Law in a Retreating World*".
 
-![](/uploads/versions/1434905691628_event-Prosecuting-Sexual-and-Gender-Based-Crimes_v2---x----1596-658x---.jpg)
-
 This event will feature **Fatou Bensouda** (The Gambia) - Madame Prosecutor of the International Criminal Court; &nbsp;Ambassador **David Scheffer**&nbsp;- Mayer Brown/Robert A. Helman Professor of Law and Director, Center for International Human Rights Northwestern University Pritzker School of Law, and former U.S. Ambassador at-large for War Crimes Issues; and **Michael S. Greco** (moderator) - Chair, ABA’s International Criminal Court Project ABA President, 2005-06. Other invited guest will be participating as well.
+
+![](/uploads/versions/1434905691628_event-Prosecuting-Sexual-and-Gender-Based-Crimes_v2---x----1596-658x---.jpg)
 
 *There is indisputable evidence that countries around the world are retreating from global and regional organizations, alliances, and other forms of multilateral partnerships. The utility of the European Union and NATO is being questioned, and countries are electing leaders with an inward national focus rather than outward global one. The International Criminal Court is no exception, with two States Parties having initiated the formal process of exiting the Court. While there is little evidence that international criminal justice as a concept is falling out of favor, ensuring accountability for mass atrocities is made even more challenging when global relationships and cooperation are eroding. What can the field of international criminal justice do to counter or mitigate these developments? Are there opportunities for advancement that are not readily apparent?*
 

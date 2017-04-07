@@ -5,7 +5,7 @@ featured: true
 date: 2017-04-07 12:00:00
 category: news
 contributors:
-description: 'Please attend this event on Thursday, April 13 in Washington, D.C. with Madame Prosecutor of the International Criminal Court, Fatou Bensouda, and other speakers.'
+description: 'Please join us for this event on Thursday, April 13 in Washington, D.C. with Madame Prosecutor of the International Criminal Court, Fatou Bensouda, and other speakers.'
 pull_quote:
 pull_quote_attribution:
 featured_image_path: /uploads/fatou-bensouda.jpg

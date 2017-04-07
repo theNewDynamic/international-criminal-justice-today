@@ -1,10 +1,9 @@
 ---
 title: Sending the Right Message on the ICC
 published: true
-featured: true
+featured: false
 date: 2016-11-23 12:00:00
-category:
-  - opinion
+category: opinion
 contributors:
   - christopher-kip-hale
 description: 'With withdrawals of three African states from the ICC, there is reason to question what may be going wrong, if at all. Just impunity fighting back, but better messaging is needed.'

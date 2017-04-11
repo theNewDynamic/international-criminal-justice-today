@@ -14,6 +14,10 @@ youtube_video_id:
 ---
 
 
+&nbsp;
+
+***UPDATE: New panel on US Policy on the ICC and International Criminal Justice Added! Read below.&nbsp;***
+
 <br>The American Bar Association (ABA) Center for Human Rights, the ABA's International Criminal Court (ICC) Project, the ABA Criminal Justice Section, and the Washington Working Group on the ICC invite you to join us for the following timely and critical discussion, "*International Criminal Law in a Retreating World*".
 
 This event will feature [**Mrs**.&nbsp;**Fatou Bensouda&nbsp;**](https://www.icc-cpi.int/about/otp/who-s-who/Pages/Fatou-Bensouda.aspx)&nbsp;- Madame Prosecutor of the International Criminal Court; [**Ambassador&nbsp;****David Scheffer**](https://www.aba-icc.org/board-of-advisors/hon-david-scheffer/)&nbsp;- Mayer Brown/Robert A. Helman Professor of Law and Director, Center for International Human Rights Northwestern University Pritzker School of Law, and former U.S. Ambassador at-large for War Crimes Issues; and [**Mr.**&nbsp;**Michael S. Greco**](https://www.aba-icc.org/board-of-advisors/michael-s-greco/) (moderator) - Chair, ABA’s International Criminal Court Project, and ABA President 2005-06.&nbsp;

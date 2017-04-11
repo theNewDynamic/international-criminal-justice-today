@@ -8,7 +8,7 @@ contributors:
 description: 'Please join us for this event on Thursday, April 13 in Washington, D.C. with Madame Prosecutor of the International Criminal Court, Fatou Bensouda, and other speakers.'
 pull_quote:
 pull_quote_attribution:
-featured_image_path: /uploads/1449753892427_ICC-Prosecutor (photo).jpg
+featured_image_path: /uploads/fatou-bensouda.jpg
 featured_image_attribution: International Criminal Court
 youtube_video_id:
 ---

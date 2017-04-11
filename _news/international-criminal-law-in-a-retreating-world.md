@@ -8,7 +8,7 @@ contributors:
 description: 'Please join us for this event on Thursday, April 13 in Washington, D.C. with Madame Prosecutor of the International Criminal Court, Fatou Bensouda, and other speakers.'
 pull_quote:
 pull_quote_attribution:
-featured_image_path: /uploads/Collage ABA ICC Event.jpg
+featured_image_path: /uploads/1449749087166_ICC-Prosecutor (photo).jpg
 featured_image_attribution: International Criminal Court
 youtube_video_id:
 ---
@@ -20,9 +20,7 @@ youtube_video_id:
 
 This event will feature [**Mrs**.&nbsp;**Fatou Bensouda&nbsp;**](https://www.icc-cpi.int/about/otp/who-s-who/Pages/Fatou-Bensouda.aspx)&nbsp;- Madame Prosecutor of the International Criminal Court; [**Ambassador&nbsp;****David Scheffer**](https://www.aba-icc.org/board-of-advisors/hon-david-scheffer/)&nbsp;- Mayer Brown/Robert A. Helman Professor of Law and Director, Center for International Human Rights Northwestern University Pritzker School of Law, and former U.S. Ambassador at-large for War Crimes Issues; and [**Mr.**&nbsp;**Michael S. Greco**](https://www.aba-icc.org/board-of-advisors/michael-s-greco/) (moderator) - Chair, ABA’s International Criminal Court Project, and ABA President 2005-06.&nbsp;
 
-![](/uploads/versions/1449748731577_ICC-Prosecutor &#40;photo&#41;---x----2048-1365x---.jpg)
-
-&nbsp;
+![](/uploads/versions/Collage ABA ICC Event---x----1000-1000x---.jpg)
 
 This discussion will be preceded by a panel on US policy on the ICC and international criminal justice *writ large*. The distinguished participants for this panel are [**Ms. Janet Benshoof**](http://globaljusticecenter.net/about-us/team/our-staff) - President and Founder of The Global Justice Center; [**Mr. John B. Bellinge****r**](http://www.apks.com/en/people/b/bellinger-john-b)**,** **III**- Partner, Arnold & Porter, and former Legal Advisor at the U.S. Department of State; **Mr. Stephen Lamony** - Senior Advocate for Africa at Amnesty International; and [**Ms. Sara Elizabeth Dill**](https://www.linkedin.com/in/sedlaw/) (moderator) - Director of Criminal Justice Standards and Policy at the ABA Criminal Justice Section.&nbsp;
 

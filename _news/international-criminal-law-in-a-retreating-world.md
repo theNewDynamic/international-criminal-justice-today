@@ -18,7 +18,7 @@ youtube_video_id:
 
 <br>The American Bar Association (ABA) Center for Human Rights, the ABA's International Criminal Court (ICC) Project, the ABA Criminal Justice Section, and the Washington Working Group on the ICC invite you to join us for the following timely and critical discussion, "*International Criminal Law in a Retreating World*".
 
-This event will feature [**Mrs**. **Fatou Bensouda**](https://www.icc-cpi.int/about/otp/who-s-who/Pages/Fatou-Bensouda.aspx) - Madame Prosecutor of the International Criminal Court; [**Ambassador****David Scheffer**](https://www.aba-icc.org/board-of-advisors/hon-david-scheffer/) - Mayer Brown/Robert A. Helman Professor of Law and Director, Center for International Human Rights Northwestern University Pritzker School of Law, and former U.S. Ambassador at-large for War Crimes Issues; and [**Mr.** **Michael S. Greco**](https://www.aba-icc.org/board-of-advisors/michael-s-greco/) (moderator) - Chair, ABA’s International Criminal Court Project, and ABA President 2005-06.
+This event will feature [**Mrs**.&nbsp;**Fatou Bensouda**](https://www.icc-cpi.int/about/otp/who-s-who/Pages/Fatou-Bensouda.aspx)&nbsp;- Madame Prosecutor of the International Criminal Court; [**Ambassador****David Scheffer**](https://www.aba-icc.org/board-of-advisors/hon-david-scheffer/)&nbsp;- Mayer Brown/Robert A. Helman Professor of Law and Director, Center for International Human Rights Northwestern University Pritzker School of Law, and former U.S. Ambassador at-large for War Crimes Issues; and [**Mr.**&nbsp;**Michael S. Greco**](https://www.aba-icc.org/board-of-advisors/michael-s-greco/) (moderator) - Chair, ABA’s International Criminal Court Project, and ABA President 2005-06.
 
 ![](/uploads/versions/Collage ABA ICC Event---x----1000-1000x---.jpg)
 
@@ -26,7 +26,7 @@ This discussion will be preceded by a panel on US policy on the ICC and internat
 
 **Event Description***: There is indisputable evidence that countries around the world are retreating from global and regional organizations, alliances, and other forms of multilateral partnerships. The utility of the European Union and NATO is being questioned, and countries are electing leaders with an inward national focus rather than outward global one. The International Criminal Court is no exception with two States Parties having initiated the formal process of exiting the Court and then reversing those decisions. While there is little evidence that international criminal justice as a concept is falling out of favor, ensuring accountability for mass atrocities is made even more challenging when global relationships and cooperation are eroding. What can the field of international criminal justice do to counter or mitigate these developments? Are there opportunities for advancement that are not readily apparent?*
 
-**When**: Thursday, April 13, 2017 2:00 to 4:30 p.m.
+**When**: Thursday, April 13, 2017 2:00 to 5:00 p.m (light reception to follow).&nbsp;
 
 **Where**: Offices of Nelson Mullins Law Firm, 101 Constitution Avenue, NW Washington, DC
 

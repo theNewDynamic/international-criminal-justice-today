@@ -14,8 +14,6 @@ youtube_video_id:
 ---
 
 
-&nbsp;
-
 ***UPDATE: New panel on US Policy on the ICC and International Criminal Justice Added! Read below.&nbsp;***
 
 <br>The American Bar Association (ABA) Center for Human Rights, the ABA's International Criminal Court (ICC) Project, the ABA Criminal Justice Section, and the Washington Working Group on the ICC invite you to join us for the following timely and critical discussion, "*International Criminal Law in a Retreating World*".

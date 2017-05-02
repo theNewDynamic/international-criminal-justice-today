@@ -16,7 +16,7 @@ On April 13, the American Bar Association hosted two panel discussions on the cu
 
 **The first panel**, moderated by the ABA’s Sara Dill, hosted Janet Benshoof, president of the Global Justice Center and founder of the Center for Reproductive Rights, John Bellinger, former legal adviser of the Department of State, adjunct senior fellow at the Council on Foreign Relations, and a partner at Arnold & Porter, and Stephen Lamony, senior advocate for Africa at Amnesty International.
 
-The conversation included a discussion of the expected deterioration of the US-ICC relationship under the current administration. Ms. Benshoof called for zealous advocacy in favor of continuing the Bush and Obama administrations' trend toward better and more involved relations with the ICC; Mr. Bellinger added that a point that needs to be stressed is that there are significant shared interests between the US and the ICC. Mr. Bellinger also stressed the need to educate the current administration on prior missteps in US policy toward the ICC.
+The conversation included a discussion of the expected deterioration of the US-ICC relationship under the current administration. Ms. Benshoof called for zealous advocacy in favor of continuing the Bush and Obama administrations' trend toward stronger and more open relations with the ICC; Mr. Bellinger added that a point that needs to be stressed is that there are significant shared interests between the US and the ICC. Mr. Bellinger also stressed the need to educate the current administration on prior missteps in US policy toward the ICC.
 
 ![](/uploads/versions/Collage ABA ICC Event---x----1000-1000x---.jpg)
 

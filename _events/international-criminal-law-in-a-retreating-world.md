@@ -26,6 +26,6 @@ The conversation included a discussion of Madame Prosecutor’s term and the tra
 
 Amb. Scheffer presented his perspective on the state of international criminal justice, explaining that international tribunals cannot and should not be expected to function as a deterrent to violence, but as an instrument of justice. Deterrence, he said, is a matter of politics.
 
-The panelists also discussed state cooperation and withdrawal, the mechanisms of international tribunals, the apparent “Africa focus” of the ICC, rules of jurisdiction, and US policy towards the Court. A video recording of this panel discussion can be found [here](http://players.brightcove.net/1866680404001/default_default/index.html?videoId=5400983684001).
+The panelists also discussed state cooperation and withdrawal, the mechanisms of international tribunals, the apparent “Africa focus” of the ICC, rules of jurisdiction, and US policy towards the Court.
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](http://www.aba-icc.org).*

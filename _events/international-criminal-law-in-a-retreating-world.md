@@ -4,7 +4,7 @@ published: true
 date: 2016-04-13 14:00:00
 description:
 sponsor: 'The American Bar Association’s International Criminal Court Project, the American Bar Association’s Center for Human Rights, the American Bar Association’s Criminal Justice Section'
-participants: Ms. Janet Benshoof (President of the Global Justice Center) Mr. John Bellinger (Former Legal Adviser of the Department of State) Mr. Stephen Lamony Senior Advocate for Africa at Amnesty International) Dr. Fatou Bensouda (Chief Prosecutor of the International Criminal Court)  Mr. David Scheffer (Former Ambassador-at-Large for War Crimes Issues)
+participants: Ms. Janet Benshoof (President of the Global Justice Center) Mr. John Bellinger (Former Legal Adviser of the Department of State) Mr. Stephen Lamony (Senior Advocate for Africa at Amnesty International) Mrs. Fatou Bensouda (Chief Prosecutor of the International Criminal Court)  Ambassador David Scheffer (Former Ambassador-at-Large for War Crimes Issues)
 venue: 'Nelson Mullins Riley & Scarborough LLP – Washington, DC'
 youtube_video_id:
 featured_image_path: /uploads/1449748731577_ICC-Prosecutor (photo).jpg

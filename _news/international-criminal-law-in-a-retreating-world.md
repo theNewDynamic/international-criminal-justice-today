@@ -26,6 +26,12 @@ This discussion will be preceded by a panel on US policy on the ICC and internat
 
 **Event Description***: There is indisputable evidence that countries around the world are retreating from global and regional organizations, alliances, and other forms of multilateral partnerships. The utility of the European Union and NATO is being questioned, and countries are electing leaders with an inward national focus rather than outward global one. The International Criminal Court is no exception with two States Parties having initiated the formal process of exiting the Court and then reversing those decisions. While there is little evidence that international criminal justice as a concept is falling out of favor, ensuring accountability for mass atrocities is made even more challenging when global relationships and cooperation are eroding. What can the field of international criminal justice do to counter or mitigate these developments? Are there opportunities for advancement that are not readily apparent?*
 
+
+
+<object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157680329209253%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157680329209253%2F&set_id=72157680329209253&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=261948265"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=261948265" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157680329209253%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157680329209253%2F&set_id=72157680329209253&jump_to=" width="700" height="525"></embed></object>
+
+
+
 **When**: Thursday, April 13, 2017 2:00 to 5:00 p.m (light reception to follow).
 
 **Where**: Offices of Nelson Mullins Law Firm, 101 Constitution Avenue, NW Washington, DC

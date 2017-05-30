@@ -26,7 +26,9 @@ Amb. Scheffer presented his perspective on the state of international criminal j
 
 The panelists also discussed state cooperation and withdrawal, the mechanisms of international tribunals, the apparent “Africa focus” of the ICC, rules of jurisdiction, and US policy towards the Court.
 
-&lt;div id="flickrembed"&gt;&lt;/div&gt;&lt;small style="display: block; text-align: center; margin: 0 auto;"&gt;Powered by &lt;a href="https://flickrembed.com"&gt;flickr embed&lt;/a&gt;.&lt;/small&gt; &lt;script src="//flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/126209453@N05/albums/72157680329209253&sort=0&by=album&theme=default&scale=fill&skin=default&id=592dc053a8f50"&gt;&lt;/script&gt;
+&lt;div id="flickrembed"&gt;&lt;/div&gt;&lt;small style="display: block; text-align: center; margin: 0 auto;"&gt;Powered by &lt;a href="https://flickrembed.com"&gt;flickr embed&lt;/a&gt;.&lt;/small&gt;
+
+&lt;script src="//flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/126209453@N05/albums/72157680329209253&sort=0&by=album&theme=default&scale=fill&skin=default&id=592dc053a8f50"&gt;&lt;/script&gt;
 
 &nbsp;
 

@@ -26,9 +26,7 @@ Amb. Scheffer presented his perspective on the state of international criminal j
 
 The panelists also discussed state cooperation and withdrawal, the mechanisms of international tribunals, the apparent “Africa focus” of the ICC, rules of jurisdiction, and US policy towards the Court.
 
-&lt;a data-flickr-embed="true" &nbsp;href="https://www.flickr.com/photos/126209453@N05/albums/72157680329209253" title="International Criminal Law in a Retreating World"&gt;&lt;img src="https://c1.staticflickr.com/5/4163/34427304506_fb629e808e_h.jpg" width="1600" height="1064" alt="International Criminal Law in a Retreating World"&gt;&lt;/a&gt;&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;
-
-&nbsp;
+&lt;div id="flickrembed"&gt;&lt;/div&gt;&lt;small style="display: block; text-align: center; margin: 0 auto;"&gt;Powered by &lt;a href="https://flickrembed.com"&gt;flickr embed&lt;/a&gt;.&lt;/small&gt;
 
 &nbsp;
 

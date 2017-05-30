@@ -28,6 +28,6 @@ The panelists also discussed state cooperation and withdrawal, the mechanisms of
 
 &lt;a data-flickr-embed="true" &nbsp;href="https://www.flickr.com/photos/126209453@N05/albums/72157680329209253" title="International Criminal Law in a Retreating World"&gt;&lt;img src="https://c1.staticflickr.com/5/4163/34427304506_fb629e808e_h.jpg" width="1600" height="1064" alt="International Criminal Law in a Retreating World"&gt;&lt;/a&gt;&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;
 
----
+&nbsp;
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](http://www.aba-icc.org).*

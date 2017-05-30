@@ -11,6 +11,7 @@ featured_image_path: /uploads/DSC_0207.JPG
 slug: International-criminal-law-in-a-retreating-world
 ---
 
+
 On April 13, the American Bar Association hosted two panel discussions on the current state and future of international criminal law.
 
 **The first panel**, moderated by the ABA’s Sara Dill, hosted Janet Benshoof, president of the Global Justice Center and founder of the Center for Reproductive Rights, John Bellinger, former legal adviser of the Department of State, adjunct senior fellow at the Council on Foreign Relations, and a partner at Arnold & Porter, and Stephen Lamony, senior advocate for Africa at Amnesty International.
@@ -24,6 +25,8 @@ The conversation included a discussion of Madame Prosecutor’s term and the tra
 Amb. Scheffer presented his perspective on the state of international criminal justice, explaining that international tribunals cannot and should not be expected to function as a deterrent to violence, but as an instrument of justice. Deterrence, he said, is a matter of politics.
 
 The panelists also discussed state cooperation and withdrawal, the mechanisms of international tribunals, the apparent “Africa focus” of the ICC, rules of jurisdiction, and US policy towards the Court.
+
+&lt;a data-flickr-embed="true" &nbsp;href="https://www.flickr.com/photos/126209453@N05/albums/72157680329209253" title="International Criminal Law in a Retreating World"&gt;&lt;img src="https://c1.staticflickr.com/5/4163/34427304506_fb629e808e_h.jpg" width="1600" height="1064" alt="International Criminal Law in a Retreating World"&gt;&lt;/a&gt;&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;
 
 ---
 

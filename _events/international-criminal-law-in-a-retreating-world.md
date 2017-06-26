@@ -26,6 +26,6 @@ Amb. Scheffer presented his perspective on the state of international criminal j
 
 The panelists also discussed state cooperation and withdrawal, the mechanisms of international tribunals, the apparent “Africa focus” of the ICC, rules of jurisdiction, and US policy towards the Court.
 
-&nbsp;
+&lt;a data-flickr-embed="true" &nbsp;href="https://www.flickr.com/photos/126209453@N05/34083826230/in/album-72157680329209253/" title="DSC_0105"&gt;&lt;img src="https://c1.staticflickr.com/5/4157/34083826230_85ee54c499_h.jpg" width="1600" height="1064" alt="DSC_0105"&gt;&lt;/a&gt;&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its [website](http://www.aba-icc.org).*

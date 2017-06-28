@@ -20,7 +20,7 @@ The conversation included a discussion of the expected deterioration of the US-I
 
 ![](/uploads/versions/17814665-1850977351828626-6459394651413222526-o---x----1612-952x---.jpg)
 
-The second panel was was moderated by former president of the ABA and current chair of the ABA's ICC Project, **Mr. Michael S. Greco**, and featured **Madame Prosecutor Fatou Bensouda**, the Prosecutor of the ICC – the first woman to hold this position – and **Ambassador David Scheffer**, the first US Ambassador-at-Large for War Crimes issues who currently holds the post as the Mayer Brown/Robert A. Helman Professor of Law & Director of Center for International Human Rights at Northwestern University School of Law.
+The second panel was was moderated by former president of the ABA and current chair of the ABA's ICC Project, **Mr. Michael S. Greco**, and featured **Madame Prosecutor Fatou Bensouda**, the Prosecutor of the ICC and first female to hold this position, and **Ambassador David Scheffer**, the first US Ambassador-at-Large for War Crimes issues who currently serves UN Secretary-General's Special Expert to the UN Assistance to the Khmer Rouge Trials and as Mayer Brown/Robert A. Helman Professor of Law & Director of the Center for International Human Rights at Northwestern University School of Law.
 
 This conversation included a wide-ranging discussion of the challenges faced by Madame Prosecutor in the beginning part of her term, the ICC Office of the Prosecutor's achievements to date, and the future trajectory of the ICC as a whole. She elaborated on policy changes she has implemented as well as strategic developments in the ICC under her leadership, including a strong focus on sexual and gender-based crimes and the protection of cultural and religious property.
 

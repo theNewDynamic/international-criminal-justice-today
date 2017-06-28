@@ -12,7 +12,7 @@ slug: International-criminal-law-in-a-retreating-world
 ---
 
 
-On April 13, the American Bar Association's (ABA) International Criminal Court Project and the ABA Center for Human Rights held a distinguished two panel event entitled "*International Criminal Law in a Retreating World*", graciously hosted at Nelson Mullins Riley & Scarborough law firm overlooking the US Capitol. This event sought to address the current state and future of international criminal justice, and what current US policy on the International Criminal Court (ICC) and the field in general should be.&nbsp;
+On April 13, the American Bar Association's (ABA) International Criminal Court Project and the ABA Center for Human Rights held a distinguished two panel event entitled "*International Criminal Law in a Retreating World*", graciously hosted at Nelson Mullins Riley & Scarborough law firm overlooking the US Capitol. This event was organized to address the current state and future of the field of international criminal justice, as well as discuss what should be&nbsp; US policy on the International Criminal Court (ICC) and the field in general.&nbsp;
 
 Moderated by **Ms. Sara Dill** of the ABA Criminal Justice Section, the first panel featured **Mrs. Janet Benshoof**, president and founder of the Global Justice Center and founder of the Center for Reproductive Rights, **Mr. John Bellinger III**, former legal adviser of the Department of State, adjunct senior fellow at the Council on Foreign Relations, and a partner at Arnold & Porter law firm in Washington, D.C., and **Mr. Stephen Lamony**, senior advocate for Africa at Amnesty International.
 

@@ -12,7 +12,7 @@ slug: International-criminal-law-in-a-retreating-world
 ---
 
 
-On April 13, the American Bar Association's (ABA) International Criminal Court Project and other sponsoring partners held a distinguished two panel event entitled "*International Criminal Law in a Retreating World*", graciously hosted at Nelson Mullins Riley & Scarborough law firm overlooking the US Capitol. This event was [organized](http://bit.ly/2ogTQPT) to address the current state and future of international criminal justice, as well as discuss what should be US policy on the International Criminal Court (ICC) and the field in general when considering that the world seems to be retreating from international law and cooperation.&nbsp;
+On April 13, the American Bar Association's (ABA) International Criminal Court Project and sponsoring partners held a distinguished two panel event entitled "*International Criminal Law in a Retreating World*", graciously hosted at Nelson Mullins Riley & Scarborough law firm overlooking the US Capitol. This event was [organized](http://bit.ly/2ogTQPT) to address the current state and future of international criminal justice, as well as discuss what should be US policy on the International Criminal Court (ICC) and the field in general when considering that the world seems to be retreating from international law and cooperation.&nbsp;
 
 Moderated by **Ms. Sara Dill** of the ABA Criminal Justice Section, the first panel featured **Mrs. Janet Benshoof**, president and founder of the Global Justice Center and founder of the Center for Reproductive Rights, **Mr. John Bellinger III**, former legal adviser of the Department of State, adjunct senior fellow at the Council on Foreign Relations, and a partner at Arnold & Porter law firm in Washington, D.C., and **Mr. Stephen Lamony**, senior advocate for Africa at Amnesty International.
 
@@ -24,7 +24,7 @@ This conversation included a wide-ranging discussion of the challenges faced by 
 
 Amb. Scheffer presented his perspective on the state of international criminal justice, explaining that international tribunals cannot and should not be expected to function as a deterrent to violence, but as an instrument of justice. Deterrence, he argued, is a complicated matter that is primarily a geopolitical issue. The panelists also discussed the importance of state cooperation with international criminal tribunals, the provisional withdrawals of states from the ICC due to an apparent “Africa focus”, the various mechanisms of international criminal justice, and the future of US policy towards the Court.
 
-Please watch video of the second panel above, and find pictures of both panels below. Along with the ABA's ICC Project, this great event was sponsored by the ABA Center for Human Rights, ABA Criminal Justice Section, and the Washington Working Group on the ICC.&nbsp;
+Please watch video of the second panel above, and find pictures of both panels below. Along with the ABA's ICC Project, this great event was sponsored by the [ABA Center for Human Rights](https://www.americanbar.org/groups/human_rights.html), [ABA Criminal Justice Section](https://www.americanbar.org/groups/criminal_justice.html), and the [Washington Working Group on the ICC](http://www.washingtonicc.org/).&nbsp;
 
 ![](/uploads/versions/34083826230-20ca682c5c-o---x----2000-1330x---.jpg)
 

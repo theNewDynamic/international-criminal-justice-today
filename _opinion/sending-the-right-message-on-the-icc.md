@@ -1,7 +1,7 @@
 ---
 title: Sending the Right Message on the ICC
 published: true
-featured: true
+featured: false
 date: 2016-11-23 12:00:00
 category: opinion
 contributors:

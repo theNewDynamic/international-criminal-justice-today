@@ -2,9 +2,9 @@
 title: International Criminal Law in a Retreating World
 published: true
 date: 2016-04-13 14:00:00
-description:
+description: 'There is indisputable evidence that countries around the world are retreating from global and regional organizations, alliances, and other forms of multilateral partnerships. The utility of the European Union and NATO is being questioned, and countries are electing leaders with an inward national focus rather than outward global one. The International Criminal Court is no exception with two States Parties having initiated the formal process of exiting the Court and then reversing those decisions. While there is little evidence that international criminal justice as a concept is falling out of favor, ensuring accountability for mass atrocities is made even more challenging when global relationships and cooperation are eroding. What can the field of international criminal justice do to counter or mitigate these developments? Are there opportunities for advancement that are not readily apparent?'
 sponsor: 'The American Bar Association’s International Criminal Court Project, the American Bar Association Center for Human Rights, the American Bar Association Criminal Justice Section, Washington Working Group on the ICC.'
-participants: Ms. Janet Benshoof (President of the Global Justice Center) Mr. John Bellinger (Former Legal Adviser of the Department of State) Mr. Stephen Lamony (Senior Advocate for Africa at Amnesty International) Mrs. Fatou Bensouda (Chief Prosecutor of the International Criminal Court)  Ambassador David Scheffer (Former Ambassador-at-Large for War Crimes Issues)
+participants: Ms. Janet Benshoof (President and Founder of the Global Justice Center) Mr. John Bellinger (Former Legal Adviser of the US Department of State) Mr. Stephen Lamony (Senior Advocate for Africa at Amnesty International) Mrs. Fatou Bensouda (Chief Prosecutor of the International Criminal Court)  Ambassador David Scheffer (Former US Ambassador-at-Large for War Crimes Issues)
 venue: 'Nelson Mullins Riley & Scarborough LLP – Washington, DC'
 youtube_video_id: FkHHWXwc3CY
 featured_image_path: /uploads/DSC_0207.JPG
@@ -12,7 +12,7 @@ slug: International-criminal-law-in-a-retreating-world
 ---
 
 
-On April 13, the American Bar Association's (ABA) International Criminal Court Project and sponsoring partners held a distinguished two panel event entitled "*International Criminal Law in a Retreating World*", graciously hosted at Nelson Mullins Riley & Scarborough law firm overlooking the US Capitol. This event was [organized](http://bit.ly/2ogTQPT) to address the current state and future of international criminal justice, as well as to discuss what should be US policy on the [International Criminal Court](https://www.icc-cpi.int/) (ICC) and the field in general when considering the apparent retreat of the world from international law and cooperation.&nbsp;
+On April 13, the [American Bar Association's (ABA) International Criminal Court Project](https://www.aba-icc.org/) and sponsoring partners held a distinguished two panel event entitled "*International Criminal Law in a Retreating World*", graciously hosted at Nelson Mullins Riley & Scarborough law firm overlooking the US Capitol. This event was [organized](http://bit.ly/2ogTQPT) to address the current state and future of international criminal justice, as well as to discuss what should be US policy on the [International Criminal Court](https://www.icc-cpi.int/) (ICC) and the field in general when considering the apparent retreat of the world from international law and cooperation.&nbsp;
 
 Moderated by **Ms. Sara Dill** of the ABA Criminal Justice Section, the first panel featured **Mrs. Janet Benshoof**, president and founder of the Global Justice Center and founder of the Center for Reproductive Rights, **Mr. John Bellinger III**, former legal adviser of the US Department of State, adjunct senior fellow at the Council on Foreign Relations, and a partner at Arnold & Porter law firm in Washington, D.C., and **Mr. Stephen Lamony**, senior advocate for Africa at Amnesty International.
 

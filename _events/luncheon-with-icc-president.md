@@ -3,9 +3,9 @@ title: Luncheon with ICC President Fernandez
 published: true
 date: 2017-06-05 12:00:00
 description:
-sponsor:
+sponsor: 'The American Bar Association’s International Criminal Court Project, the American Bar Association Center for Human Rights, the American Bar Association Criminal Justice Section'
 participants:
-venue:
+venue: 'ABA Offices, Washington, DC'
 youtube_video_id:
 featured_image_path:
 slug:

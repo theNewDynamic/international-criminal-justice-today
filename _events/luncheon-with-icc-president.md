@@ -7,7 +7,7 @@ sponsor: 'The American Bar Association’s International Criminal Court Project,
 participants:
 venue: 'ABA Offices, Washington, DC'
 youtube_video_id:
-featured_image_path:
+featured_image_path: /uploads/C053A757-1A7B-4E7D-A415-8909A17BE080.JPG
 slug:
 ---
 

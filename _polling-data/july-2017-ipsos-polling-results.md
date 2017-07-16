@@ -1,7 +1,7 @@
 ---
 title: July 2017 Ipsos Polling Results
 published: true
-featured: false
+featured: true
 date: 2016-04-01 12:00:00
 description:
 video:
@@ -10,7 +10,7 @@ featured_image_path:
 ---
 
 
-Washington, DC, July 14, 2017 — Ipsos' latest survey of Americans conducted for the American Bar Association’s International Criminal Court (ICC) Project shows a growing number of Americans who are knowledgeable about the International Criminal Court and its objectives. The online survey of 1,017 US adults also reveals many Americans’ perceptions of terrorists and the preferred tactics to combat terrorism.
+[Ipsos'](https://www.ipsos.com/en-us) latest survey of Americans conducted for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/) shows a growing number of Americans who are knowledgeable about the International Criminal Court and its objectives. The online survey of 1,017 US adults also reveals many Americans’ perceptions of terrorists and the preferred tactics to combat terrorism.
 
 **Knowledge and Awareness of the ICC**
 

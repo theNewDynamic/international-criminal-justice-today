@@ -3,18 +3,14 @@ title: July 2017 Ipsos Polling Results
 published: true
 featured: true
 date: 2016-04-01 12:00:00
-description: 'Americans continue to become more aware of the International Criminal Court (ICC), support US membership, and support its casework. Most Americans also think terrorism should be fought with both the military and the courtroom.'
+description:
 video:
 embed_deck: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/AYNtg30z2Pa6kj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/abaiccproject/american-bar-association-icc-project-topline20170714" title="American Bar Association ICC Project Topline-2017-07-14" target="_blank">American Bar Association ICC Project Topline-2017-07-14</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/abaiccproject">abaiccproject</a></strong> </div>'
-featured_image_path:
+featured_image_path: /uploads/150626-f-wj663-066.jpg
 ---
 
 
-&nbsp;
-
-#### Americans continue to become more aware of the International Criminal Court (ICC), support US membership, and support its casework. Most Americans also think terrorism should be fought with both the military and the courtroom.&nbsp;
-
-&nbsp;
+#### Americans continue to become more aware of the International Criminal Court (ICC), support US membership, and support its casework. Most Americans also think terrorism should be fought with both the military and the courtroom.
 
 [Ipsos'](https://www.ipsos.com/en-us) latest survey of Americans conducted for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/) shows a growing number of Americans who are knowledgeable about the International Criminal Court and its objectives. The online survey of 1,017 US adults also reveals many Americans’ perceptions of terrorists and the preferred tactics to combat terrorism.
 
@@ -61,8 +57,6 @@ Nearly half of Americans (45%), including those aware of the ICC (49%), believe 
 
 * A majority of men (52%) share the belief that terrorists are more accurately described as an army of zealots, compared to just one-fifth (20%) of men who believe the mafia is a more accurate way to describe terrorists. Women are more likely to say that the terrorists should be described as the mafia and a network of criminals (25%) than an army of zealots (39%), however women are more likely to say they don’t know (19%) than men (14%).
 * Describing terrorists as an army of zealots, working to achieve a common, religious cause and who use violence to achieve their goals is favored by Americans age 55 years or older (51%) compared to their millennial counterparts (41%).
-
-&nbsp;
 
 *About the Study*
 

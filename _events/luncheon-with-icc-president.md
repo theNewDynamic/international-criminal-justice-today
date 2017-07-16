@@ -5,7 +5,7 @@ date: 2017-06-05 12:00:00
 description:
 sponsor: 'The American Bar Association’s International Criminal Court Project, the American Bar Association Center for Human Rights, the American Bar Association Criminal Justice Section'
 participants:
-venue: 'American Bar Association, Washington, DC office'
+venue: 'American Bar Association, Washington, D.C. office'
 youtube_video_id:
 featured_image_path: /uploads/Luncheon.jpg
 slug:

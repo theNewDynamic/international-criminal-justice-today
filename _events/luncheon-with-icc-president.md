@@ -1,5 +1,5 @@
 ---
-title: Luncheon with ICC President Fernandez
+title: Luncheon with ICC President
 published: true
 date: 2017-06-05 12:00:00
 description:
@@ -12,7 +12,7 @@ slug:
 ---
 
 
-On June 5, the American Bar Association (ABA) welcomed the President of International Criminal Court (ICC), Judge Silvia Fern&aacute;ndez de Gurmendi, to its Washington, DC office to discuss issues of mutual concern in international criminal justice.&nbsp; Meeting with her were ABA volunteers and staff leaders, including Matthew Redle, Professor Stephen Saltzburg, Kevin Scruggs, and Sara Dill of the ABA Criminal Justice Section; Judge Bernice Donald and Michael Pates of the ABA Center for Human Rights, which houses the ABA’s ICC Project; ABA Executive Director Jack Rives; and Thomas Susman, Director of the ABA Governmental Affairs Office, among other attendees.
+On June 5, the American Bar Association (ABA) welcomed the President of International Criminal Court (ICC), Judge Silvia Fernández de Gurmendi, to its Washington, DC office to discuss issues of mutual concern in international criminal justice.  Meeting with her were ABA volunteers and staff leaders, including Matthew Redle, Professor Stephen Saltzburg, Kevin Scruggs, and Sara Dill of the ABA Criminal Justice Section; Judge Bernice Donald and Michael Pates of the ABA Center for Human Rights, which houses the ABA’s ICC Project; ABA Executive Director Jack Rives; and Thomas Susman, Director of the ABA Governmental Affairs Office, among other attendees.
 
 Madame President Fernandez highlighted the ICC’s institutional progress and ongoing challenges since it began operations in 2002, and welcomed the ABA’s continuing engagement with the Court specifically and, more generally, with its related efforts in pursuing crimes against humanity legislation in the U.S. and developing international criminal justice standards.
 

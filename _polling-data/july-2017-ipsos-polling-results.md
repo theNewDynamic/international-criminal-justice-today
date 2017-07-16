@@ -10,9 +10,7 @@ featured_image_path: /uploads/150626-f-wj663-066.jpg
 ---
 
 
-#### &nbsp;
-
-[Ipsos'](https://www.ipsos.com/en-us) latest survey of Americans conducted for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/) shows a growing number of Americans who are knowledgeable about the International Criminal Court and its objectives. The online survey of 1,017 US adults also reveals many Americans’ perceptions of terrorists and the preferred tactics to combat terrorism.
+#### [Ipsos'](https://www.ipsos.com/en-us) latest survey of Americans conducted for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/) shows a growing number of Americans who are knowledgeable about the International Criminal Court and its objectives. The online survey of 1,017 US adults also reveals many Americans’ perceptions of terrorists and the preferred tactics to combat terrorism.
 
 **Knowledge and Awareness of the ICC**
 

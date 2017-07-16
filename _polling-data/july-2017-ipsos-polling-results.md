@@ -1,7 +1,7 @@
 ---
 title: July 2017 Ipsos Polling Results
 published: true
-featured: true
+featured: false
 date: 2016-04-01 12:00:00
 description: "Recent poll shows continued growth in Americans' awareness of the International Criminal Court (ICC), support for US membership, and support for ICC\_casework. Most Americans also think terrorism should be fought with both the military and the courtroom."
 video:

@@ -2,7 +2,7 @@
 title: "ABA's ICC Project/Ipsos Poll Shows Continued Growth in American Support for the ICC and its work"
 published: true
 featured: true
-date:
+date: 2017-07-17 00:00:00
 category: news
 contributors:
 description: Polling also shows most Americans believe both military might and criminal cases are most effective way to combat terrorism

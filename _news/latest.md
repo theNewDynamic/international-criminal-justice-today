@@ -5,8 +5,8 @@ featured: true
 date: 2016-08-01 12:00:00
 category: news
 contributors:
-description:
-pull_quote:
+description: Polling also shows most Americans believe both military might and criminal cases are most effective way to combat terrorism
+pull_quote: 'This poll also showed another high with 50% of all Americans believing the US government should get more involved or fully join the ICC. Of those with some awareness of the ICC, 48% believe the US should join the ICC.'
 pull_quote_attribution:
 featured_image_path: '/uploads/Photo Jul 17, 11 21 08 AM.jpg'
 featured_image_attribution:

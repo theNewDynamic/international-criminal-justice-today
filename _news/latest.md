@@ -14,7 +14,7 @@ youtube_video_id:
 ---
 
 
-### Polling also shows more Americans support fighting terrorism with both military might and criminal cases.&nbsp;
+### Polling also shows most Americans believe both military might and criminal cases are most effective way to combat terrorism
 
 Washington, D.C., July 17, 2017 - Released on [International Criminal Justice Day](https://www.facebook.com/InternationalCriminalCourt), the latest ABA's ICC Project/Ipsos [polling data](https://www.international-criminal-justice-today.org/ipsos-polling-data/) finds a continual trend in Americans knowing about and support the International Criminal Court (ICC). 47% of Americans know at least "a little bit" about the ICC with 60% of millennials having "a little bit" of knowledge about the Court. The 47% number is two points higher (45%) than the previous high in awareness levels found in the July 2016 poll. This polling also showed another high with 50% of all Americans believe the US government should get more involved or fully join the ICC. Of those with some awareness of the ICC, 48% believe the US should join the ICC.&nbsp;
 

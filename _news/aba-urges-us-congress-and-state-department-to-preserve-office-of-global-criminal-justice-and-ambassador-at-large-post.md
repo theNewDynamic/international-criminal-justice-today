@@ -1,7 +1,5 @@
 ---
-title: >-
-  ABA Urges US Congress and State Department to Preserve and Bolster the Office
-  of Global Criminal Justice and Ambassador at-large Post
+title: "ABA Urges US Congress and State Department to Preserve and Bolster the Office of Global Criminal Justice and Ambassador at-large Post"
 published: true
 featured: false
 date: 2017-08-15 10:00:00

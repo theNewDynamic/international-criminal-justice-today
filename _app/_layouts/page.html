@@ -3,7 +3,9 @@ layout: default
 type: page
 ---
 {% assign the_question = page.question %}
-{% assign questions = site.[collection_name] | where: 'title', the_question  %}
+{% if the_question %}
+{% assign questions = site[collection_name] | where: 'title', the_question  %}
+{% endif %}
 
 {% include hero.html  %}
 

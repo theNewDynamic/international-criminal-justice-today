@@ -23,7 +23,7 @@ exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile',
 
 permalink: none
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 plugins_dir:  ./_app/_plugins

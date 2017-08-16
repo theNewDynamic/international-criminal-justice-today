@@ -1,0 +1,81 @@
+---
+pages:
+- _opinion/sending-the-right-message-on-the-icc.md
+- _opinion/seeing-the-forest-for-the-trees.md
+- _opinion/the-icc-is-indispensable-to-a-syria-solution.md
+- _opinion/coming-together-to-end-aggression.md
+- _opinion/elevate-the-law-in-the-fight-against-atrocities.md
+- _opinion/next-steps-for-a-crimes-against-humanity-treaty.md
+- _opinion/this-17july-invest-in-international-criminal-justice.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: published
+  label: Published
+  type: boolean
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: contributors
+  label: Contributors
+  type: list
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: pull_quote
+  label: Pull quote
+  type: textarea
+  hidden: false
+  default: ''
+- name: pull_quote_attribution
+  label: Pull quote attribution
+  type: text
+  hidden: false
+  default: ''
+- name: featured_image_path
+  label: Featured image path
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: featured
+  label: Featured
+  type: boolean
+  hidden: false
+  default: ''
+- name: featured_image_attribution
+  label: Featured image attribution
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: category
+  label: Category
+  type: tag_list
+  hidden: false
+  default: opinion
+- name: include_in_news
+  label: Include in news
+  type: boolean
+  hidden: false
+  default: true

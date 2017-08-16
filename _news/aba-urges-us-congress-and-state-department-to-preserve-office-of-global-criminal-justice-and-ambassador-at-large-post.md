@@ -4,7 +4,7 @@ title: >-
   of Global Criminal Justice and Ambassador at-large Post
 published: true
 featured: true
-date: 2017-08-15 12:00:00
+date: 2017-08-15 10:00:00
 category: news
 contributors:
 description: "At the 2017\_American Bar Association (ABA) Annual Meeting held in New York City, the ABA House of Delegates unanimously passed a\_policy resolution\_urging the United States Congress and the Department of State to continue American\_commitment and support\_to ensuring criminal accountability for mass atrocities."

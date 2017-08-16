@@ -9,8 +9,8 @@ category: news
 contributors:
   - christopher-kip-hale
 description:
-pull_quote: n/a
-pull_quote_attribution: n/a
+pull_quote:
+pull_quote_attribution:
 featured_image_path: /uploads/dos-exterior.gif
 featured_image_attribution: Council on Foreign Relations
 youtube_video_id:

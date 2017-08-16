@@ -8,7 +8,7 @@ date: 2017-08-15 10:00:00
 category: news
 contributors:
   - christopher-kip-hale
-description: "At the 2017\_American Bar Association (ABA) Annual Meeting held in New York City, the ABA House of Delegates unanimously passed a\_policy resolution\_urging the United States Congress and the Department of State to continue American\_commitment and support\_to ensuring criminal accountability for mass atrocities."
+description:
 pull_quote: n/a
 pull_quote_attribution: n/a
 featured_image_path: /uploads/dos-exterior.gif

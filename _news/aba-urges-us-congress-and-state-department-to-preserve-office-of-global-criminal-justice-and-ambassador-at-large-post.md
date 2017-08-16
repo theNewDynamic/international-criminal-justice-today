@@ -3,8 +3,8 @@ title: >-
   ABA Urges US Congress and State Department to Preserve and Bolster the Office
   of Global Criminal Justice and Ambassador at-large Post
 published: true
-featured: true
-date: 2017-08-15 10:00:00
+featured: false
+date: 2017-08-16 10:00:00
 category: news
 contributors:
 description: "At the 2017\_American Bar Association (ABA) Annual Meeting held in New York City, the ABA House of Delegates unanimously passed a\_policy resolution\_urging the United States Congress and the Department of State to continue American\_commitment and support\_to ensuring criminal accountability for mass atrocities."
@@ -16,7 +16,7 @@ youtube_video_id:
 ---
 
 
-Washington D.C., Aug. 15, 2017 -At the 2017 American Bar Association (ABA) Annual Meeting held in New York City, the ABA House of Delegates unanimously passed a [policy resolution](https://www.americanbar.org/content/dam/aba/images/abanews/2017%20Annual%20Resolutions/10D.pdf) urging the United States Congress and the Department of State to continue American commitment and support to ensuring criminal accountability for mass atrocities. This ABA policy position urged not only for the continuation of the US State Department's Office of Global Criminal Justice and its Ambassador at-large post, but an increase in support for its critically important assistance to global efforts to end impunity for the atrocity crimes of genocide, crimes against humanity, and war crimes.
+Washington, D.C. -At the 2017 American Bar Association (ABA) Annual Meeting held in New York City, the ABA House of Delegates unanimously passed a&nbsp;[policy resolution](https://www.americanbar.org/content/dam/aba/images/abanews/2017%20Annual%20Resolutions/10D.pdf)&nbsp;urging the United States Congress and the Department of State to continue American commitment and support to ensuring criminal accountability for mass atrocities. This ABA policy position urged not only for the continuation of the US State Department's Office of Global Criminal Justice and its Ambassador at-large post, but an increase in support for its critically important assistance to global efforts to end impunity for the atrocity crimes of genocide, crimes against humanity, and war crimes.
 
 The ABA took this policy position in response to recent news that the Donald J. Trump Administration is currently exploring whether to reduce or eliminate this State Department office and Ambassador position, all without any alternative plans on how the US would continue to promote its interests and leadership in holding criminally accountable individuals who participate in mass atrocities around the world.
 
@@ -28,4 +28,4 @@ Speaking after Ambassador Rapp was ABA Delegate Colonel Durant III who spoke int
 
 The ABA policy resolution and its accompany report discussing reasons to preserve and bolster the State Department Office of Global Criminal Justice and its Ambassador at-large post (as well as the range of US national interests promoted by American support of global efforts to investigate and prosecute those who participate atrocity crimes) can be found at this [link](https://www.americanbar.org/content/dam/aba/images/abanews/2017%20Annual%20Resolutions/10D.pdf).
 
-*The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA's ICC Project can be found at its [website](https://www.aba-icc.org/).*
+*The American Bar Association’s (ABA) International Criminal Court Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA's ICC Project can be found at its&nbsp;[website](https://www.aba-icc.org/).*

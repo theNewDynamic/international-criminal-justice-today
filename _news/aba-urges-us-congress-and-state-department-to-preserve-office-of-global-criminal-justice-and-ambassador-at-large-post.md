@@ -7,7 +7,6 @@ featured: false
 date: 2017-08-15 10:00:00
 category: news
 contributors:
-  - christopher-kip-hale
 description:
 pull_quote:
 pull_quote_attribution:

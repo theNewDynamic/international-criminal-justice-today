@@ -4,7 +4,7 @@ title: >-
   of Global Criminal Justice and Ambassador at-large Post
 published: true
 featured: false
-date: 2017-08-16 10:00:00
+date: 2017-08-16 00:00:00
 category: news
 contributors:
   - christopher-kip-hale

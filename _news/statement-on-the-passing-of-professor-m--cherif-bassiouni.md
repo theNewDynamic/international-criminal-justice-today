@@ -2,7 +2,7 @@
 title: Statement on the Passing of Professor M. Cherif Bassiouni
 published: true
 featured: true
-date: 2016-08-01 12:00:00
+date: 2017-09-27 10:00:00
 category: news
 contributors:
 description:

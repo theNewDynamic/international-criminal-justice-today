@@ -5,7 +5,7 @@ featured: true
 date: 2017-09-27 10:00:00
 category: news
 contributors:
-description:
+description: "A founding member of the ABA’s ICC Project Board of Advisors, Prof. Bassiouni’s positive impact on the field of international criminal law is immeasurable."
 pull_quote: >-
   His contributions to increasing criminal accountability for mass atrocity
   crimes in particular, and to the advancement of human rights in general, are
@@ -15,13 +15,6 @@ featured_image_path: /uploads/bassiouni-mod.jpg
 featured_image_attribution:
 youtube_video_id:
 ---
-
-
-#### &nbsp;
-
-#### A founding member of the ABA’s ICC Project Board of Advisors, Prof. Bassiouni’s positive impact on the field of international criminal law is immeasurable.
-
-&nbsp;
 
 Professor [M. Cherif Bassiouni](https://www.aba-icc.org/board-of-advisors/prof-mcherif-bassiouni/), who passed away September 25, was a true giant of international criminal law, or as many called him, its "father". His contributions to increasing criminal accountability for mass atrocity crimes in particular, and to the advancement of human rights in general, are legion, and they will endure. His career was unparalleled in many respects and recounting his accomplishments is almost impossible to do (The Washington Post [did](https://www.washingtonpost.com/local/obituaries/m-cherif-bassiouni-father-of-international-criminal-law-dies-at-79/2017/09/26/7a5e736c-a2c5-11e7-8cfe-d5b912fabc99_story.html?utm_term=.31248b430244) an admirable job attempting to do so). His professional contributions were matched by his good humor and his openness to engage with anyone, be it a president of a nation or a first year law student.&nbsp;
 

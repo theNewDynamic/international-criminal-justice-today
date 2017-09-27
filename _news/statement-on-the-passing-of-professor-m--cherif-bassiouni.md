@@ -11,7 +11,7 @@ pull_quote: >-
   crimes in particular, and to the advancement of human rights in general, are
   legion, and they will endure.
 pull_quote_attribution:
-featured_image_path: /uploads/bassiouni.jpg
+featured_image_path: /uploads/bassiouni-mod.jpg
 featured_image_attribution:
 youtube_video_id:
 ---

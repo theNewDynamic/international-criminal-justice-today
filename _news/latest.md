@@ -3,7 +3,7 @@ title: >-
   ABA's ICC Project/Ipsos Poll Shows Continued Growth in American Support for
   the ICC and its work
 published: true
-featured: true
+featured: false
 date: 2017-07-17 00:00:00
 category: news
 contributors:

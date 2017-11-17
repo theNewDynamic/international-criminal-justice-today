@@ -25,4 +25,4 @@ What Bensouda’s statement means is that, based on the information the ICC has 
 
 The United States has objected both privately and publicly to the ICC’s allegations against U.S. military and CIA officials. On November 8, U.S. Deputy Representative to the UN Michele J. Sison stated to the UN Security Council that the proposed investigation was “wholly unwarranted and unjustified.”
 
-(By agreement of the publisher, the rest of this [article](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)&nbsp;can only be accessed by visiting *Foreign Affairs*.)&nbsp;
+(Per agreement with the publisher, the rest of this [article](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)&nbsp;can only be accessed by visiting *Foreign Affairs*.)&nbsp;

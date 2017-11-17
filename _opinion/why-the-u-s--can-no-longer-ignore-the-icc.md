@@ -27,4 +27,4 @@ The United States has objected both privately and publicly to the ICC’s allega
 
 These accusations, however, would fall flat….
 
-The rest of this [article](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)&nbsp;can only be accessed by visiting *Foreign Affairs*.&nbsp;
+(By agreement of the publisher, the rest of this [article](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)&nbsp;can only be accessed by visiting *Foreign Affairs*.)&nbsp;

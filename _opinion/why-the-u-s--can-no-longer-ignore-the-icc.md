@@ -17,7 +17,7 @@ featured_image_attribution: 'http://www.wionews.com'
 ---
 
 
-###### Original version of this&nbsp;[article&nbsp;](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)appeared on *Foreign Affairs*.
+###### Original version of this&nbsp;[article&nbsp;](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)appeared in *Foreign Affairs*.
 
 On November 3, the prosecutor of the International Criminal Court (ICC), Fatou Bensouda from The Gambia, announced that her office had “a reasonable basis to believe” that war crimes and crimes against humanity had been committed by U.S. armed forces in Afghanistan, as well as members of the CIA in secret detention facilities in Poland, Lithuania, and Romania. The allegation was that they had tortured, mistreated, or raped at least 88 detainees between 2002 and December 2014.
 

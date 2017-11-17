@@ -17,7 +17,7 @@ featured_image_attribution: 'http://www.wionews.com'
 ---
 
 
-###### Original version of this&nbsp;[article&nbsp;](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)appeared on Foreign Affairs.
+###### Original version of this&nbsp;[article&nbsp;](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)appeared on *Foreign Affairs*.
 
 On November 3, the prosecutor of the International Criminal Court (ICC), Fatou Bensouda from The Gambia, announced that her office had “a reasonable basis to believe” that war crimes and crimes against humanity had been committed by U.S. armed forces in Afghanistan, as well as members of the CIA in secret detention facilities in Poland, Lithuania, and Romania. The allegation was that they had tortured, mistreated, or raped at least 88 detainees between 2002 and December 2014.
 
@@ -25,6 +25,6 @@ What Bensouda’s statement means is that, based on the information the ICC has 
 
 The United States has objected both privately and publicly to the ICC’s allegations against U.S. military and CIA officials. On November 8, U.S. Deputy Representative to the UN Michele J. Sison stated to the UN Security Council that the proposed investigation was “wholly unwarranted and unjustified.” It’s possible, given the retaliatory nature of the Donald Trump administration, that the White House might accuse the prosecutor of pursuing the case for political reasons, such as to distract from claims that the ICC has an anti-African bias or to show that the court can target powerful countries.
 
-These accusations, however, would fall flat....
+These accusations, however, would fall flat….
 
-The rest of this [article](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)can only be accessed by visiting Foreign Affairs.&nbsp;
+The rest of this [article](https://www.foreignaffairs.com/articles/afghanistan/2017-11-16/why-us-can-no-longer-ignore-icc)&nbsp;can only be accessed by visiting *Foreign Affairs*.&nbsp;

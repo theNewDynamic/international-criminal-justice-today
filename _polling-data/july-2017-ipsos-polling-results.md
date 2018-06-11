@@ -19,6 +19,10 @@ Nearly half of Americans (47%) are now aware of the International Criminal Court
 * Awareness of the ICC is highest among millennials (age 18-34), where 60% have heard at least a little bit about it.
 * Millennials are nearly twice as likely to be aware of the ICC than Americans 55 years or older with only 34% having any awareness of the Court.
 
+
+{% include ipsos-chart.html %}
+
+
 **Perceptions of the Court’s Objectives**
 
 Americans continue to be very supportive of international organizations that support human rights and that hold individuals accountable for mass atrocities (70%). The belief it is important to help these organizations is especially strong among those aware of the ICC (79%).

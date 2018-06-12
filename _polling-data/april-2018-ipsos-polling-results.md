@@ -46,7 +46,9 @@ Likely a bigger surprise was that all Americans’ opinions either did not chang
 
 &nbsp;
 
-###### About the Study
+&nbsp;
+
+###### *About the Study*
 
 *These are findings from an Ipsos poll conducted April 4-6, 2018 on behalf of the American Bar Association. For the survey, a sample of roughly 1,004 adults age 18+ from the continental U.S., Alaska and Hawaii was interviewed online in English. The sample includes 489 adults at least aware of the International Criminal Court.*
 

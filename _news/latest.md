@@ -1,7 +1,7 @@
 ---
 title: >-
   ABA's ICC Project/Ipsos Poll Shows Continued Growth in American Support for
-  the ICC and its work
+  the ICC and its Work
 published: true
 featured: false
 date: 2017-07-17 00:00:00
@@ -19,7 +19,6 @@ featured_image_path: /uploads/2017-07-ipsos-polling-700x.jpg
 featured_image_attribution:
 youtube_video_id:
 ---
-
 
 Washington, D.C. - Released on [International Criminal Justice Day](https://www.facebook.com/InternationalCriminalCourt), the latest ABA's ICC Project/Ipsos [polling data](https://www.international-criminal-justice-today.org/ipsos-polling-data/) finds a continual trend upwards in Americans knowing about the International Criminal Court (ICC) and believing that the US should support the ICC. 47% of Americans know at least "a little bit" about the ICC with 60% of millennials having "a little bit" of knowledge about the Court. The 47% number is two points higher (45%) than the previous high in awareness levels found in the July 2016 poll. This poll also showed another high with 50% of all Americans believing the US government should get more involved or fully join the ICC. Of those with some awareness of the ICC, 48% believe the US should join the ICC.
 

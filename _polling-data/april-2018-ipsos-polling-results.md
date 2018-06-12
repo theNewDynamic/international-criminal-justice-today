@@ -34,7 +34,7 @@ In our last polling in July 2017, there was a 15% increase in Americans’ belie
 
 In both the July 2017 polling and in this most recent polling, there was an increase in all Americans’ belief that the US should join the ICC or become more involved in the Court (from 34% in July2017 & February 2014 to 50% in May 2018). This increase appears to come from the undecided crowd; today, less Americans have an opinion on this matter with only 29% reporting “I don’t know”, down from 42% in 2014.
 
-The sentiment that the US should join or more fully support the ICC is especially strong among those who are aware of the ICC (64%). Yet, for those aware of the Court, 37% believe joining the ICC would compromise US sovereignty, but only 18% of this group believes the US should not join the ICC.
+The sentiment that the US should join or more fully support the ICC is especially strong among those who are aware of the ICC (64%). Yet, for those aware of the Court, 37% believe joining the ICC would compromise US sovereignty, but only 18%&nbsp; believes the US should not join the ICC.
 
 ##### Support of ICC potentially investigating members of the Taliban/Islamic States, United States Armed Forces, and the CIA
 

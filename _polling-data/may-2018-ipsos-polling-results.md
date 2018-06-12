@@ -13,7 +13,7 @@ featured_image_path:
 
 &lt;iframe src="https://www.slideshare.net/abaiccproject/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen&gt;&lt;/iframe&gt;
 
-## April 2019 Ipsos Polling Results
+## April 2018 Ipsos Polling Results
 
 #### Most recent polling shows continued or increased American appreciation and support for the ICC, and a surprising number of all Americans supporting an ICC investigation in Afghanistan of alleged crimes committed by all parties, including American personnel.&nbsp;
 

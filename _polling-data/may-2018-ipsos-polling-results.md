@@ -25,6 +25,8 @@ From this most recent polling, there were modest increases in the overall Americ
 
 Awareness of the ICC continues to be strongest among millennials (age 18-34) with 57% awareness and among men with 27% awareness.
 
+&lt;div class="atlas-chart" data-id="SJFhD-neX" data-width="640" data-height="449"&gt;&lt;img src="https://www.theatlas.com/i/atlas\_SJFhD-neX.png" style="max-width: 100%;"&gt;&lt;/div&gt;&lt;script src="https://www.theatlas.com/javascripts/atlas.js"&gt;&lt;/script&gt;
+
 ##### Perceptions of the Court’s Objectives
 
 In our last polling in July 2017, there was a 15% increase in Americans’ belief that the United States should dedicate resources, including financial, military and intelligence, to international organizations that support human rights and that hold individuals accountable for mass atrocities. That number increased slightly in this last polling to 16% (47% in 2014 to 63% today).

@@ -5,7 +5,7 @@ title: >-
 published: true
 featured: false
 date: 2016-08-01 12:00:00
-category:
+category: news
 contributors:
 description:
 pull_quote:

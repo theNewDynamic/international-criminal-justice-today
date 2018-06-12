@@ -42,7 +42,7 @@ The most surprising results of this poll came from the current event questions, 
 
 However, 45% of all Americans either strongly or somewhat supported the ICC investigating alleged crimes committed in Afghanistan by member of the US military or CIA, whereas only 21% of all Americans strongly or somewhat opposed an investigation of Americans.
 
-Likely a bigger surprise was that all Americans’ opinions either did not change or became more favorable to the ICC (81%) after being informed that the Court would potentially investigate alleged crimes committed by members of all groups involved, namely the US military, CIA, Taliban, and Islamic State. 50% of all Americans said this information did not change their opinion of the ICC; 31% said it made their opinion of the ICC much or somewhat more favorable; 19% said it made their opinion of the Court much or somewhat less favorable.
+Likely a bigger surprise was that Americans’ opinions either did not change or became more favorable to the ICC (81%) after being informed that the Court would potentially investigate alleged crimes committed by members of all groups involved, namely the US military, CIA, Taliban, and Islamic State. 50% of all Americans said this information did not change their opinion of the ICC; 31% said it made their opinion of the ICC much or somewhat more favorable; 19% said it made their opinion of the Court much or somewhat less favorable.
 
 &nbsp;
 

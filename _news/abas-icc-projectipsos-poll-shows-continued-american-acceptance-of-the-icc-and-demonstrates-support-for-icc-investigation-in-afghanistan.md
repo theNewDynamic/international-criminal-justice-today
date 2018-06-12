@@ -1,7 +1,7 @@
 ---
 title: >-
-  ABA's ICC Project/Ipsos Poll Shows Continued American Acceptance of the ICC
-  and Support for ICC Investigation in Afghanistan
+  ABA's ICC Project/Ipsos Poll Shows Greater American Acceptance of the ICC and
+  Support for ICC Investigation in Afghanistan
 published: true
 featured: false
 date: 2016-08-01 12:00:00

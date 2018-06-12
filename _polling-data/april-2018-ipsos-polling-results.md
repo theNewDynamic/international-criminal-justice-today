@@ -24,7 +24,7 @@ The latest round of [Ipsos ](https://www.ipsos.com/en-us){: target="_blank"}poll
 
 From this most recent polling, there were modest increases in the overall American awareness of the ICC itself. Just under half of Americans (45%) are aware of the Court, up from 40% when this tracking began in 2014. Despite this increased awareness, there continues to be an incorrect belief among Americans (almost four out of ten) that United States is a member of the ICC.
 
-Awareness of the ICC continues to be strongest among millennials (age 18-34) with 57% awareness and among men with 27% awareness.
+Awareness of the ICC continues to be strongest among millennials (age 18-34) with 57% awareness, and among men in general with 27% awareness.
 
 ##### Perceptions of the Court’s Objectives
 

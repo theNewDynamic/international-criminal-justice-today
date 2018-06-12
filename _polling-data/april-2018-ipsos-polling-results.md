@@ -18,7 +18,7 @@ featured_image_path: /uploads/u-s--army-firefight-in-kunar.jpg
 
 #### &nbsp;
 
-The latest round of Ipsos polling done for the American Bar Association’s International Criminal Court (ICC) Project shows that Americans have either maintained elevated awareness and support of the ICC, if not increased in certain categories since polling began in 2014. Also, surprisingly, more Americans support an ICC investigation of alleged crimes in Afghanistan regardless if the target of the investigation is Americans or members of “terrorist” groups like the Taliban or Islamic State.
+The latest round of [Ipsos ](https://www.ipsos.com/en-us){: target="_blank"}polling done for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/){: target="_blank"} shows that Americans have either maintained elevated awareness and support of the ICC, if not increased in certain categories since polling began in 2014. Also, surprisingly, more Americans support an ICC investigation of alleged crimes in Afghanistan regardless if the target of the investigation is Americans or members of “terrorist” groups like the Taliban or Islamic State.
 
 ##### Knowledge and Awareness of the ICC
 

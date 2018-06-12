@@ -13,9 +13,7 @@ featured_image_path: /uploads/u-s--army-firefight-in-kunar.jpg
 
 ![](/uploads/u-s--army-firefight-in-kunar.jpg)
 
-[...](/ABA ICC Topline April 9 2018.pptx)
-
-## April 2018 Ipsos Polling Results
+[…](/ABA ICC Topline April 9 2018.pptx)
 
 #### Most recent polling shows continued or increased American appreciation and support for the ICC, and a surprising number of Americans supporting an ICC investigation in Afghanistan of alleged crimes committed by all parties, including American personnel.&nbsp;
 

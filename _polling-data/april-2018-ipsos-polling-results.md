@@ -11,7 +11,7 @@ embed_deck:
 featured_image_path: /uploads/u-s--army-firefight-in-kunar.jpg
 ---
 
-![](/uploads/u-s--army-firefight-in-kunar.jpg)
+&nbsp;
 
 […](/ABA ICC Topline April 9 2018.pptx)
 

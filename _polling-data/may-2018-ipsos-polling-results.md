@@ -1,12 +1,14 @@
 ---
 title: April 2018 Ipsos Polling Results
 published: true
-featured: false
-date: 2016-04-01 13:00:00 +0100
-description:
+featured: true
+date: 2018-06-12 10:00:00
+description: >-
+  Further positive trends in US awareness and support for the ICC, and a
+  surprising number of Americans supporting ICC investigation in Afghanistan
 video:
 embed_deck:
-featured_image_path:
+featured_image_path: /uploads/u-s--army-firefight-in-kunar.jpg
 ---
 
 ![](/uploads/u-s--army-firefight-in-kunar.jpg)
@@ -15,7 +17,7 @@ featured_image_path:
 
 ## April 2018 Ipsos Polling Results
 
-#### Most recent polling shows continued or increased American appreciation and support for the ICC, and a surprising number of Americans supporting an ICC investigation in Afghanistan of [...](/ABA ICC Topline April 9 2018.pptx){: target="_blank"}alleged crimes committed by all parties, including American personnel.&nbsp;
+#### Most recent polling shows continued or increased American appreciation and support for the ICC, and a surprising number of Americans supporting an ICC investigation in Afghanistan of alleged crimes committed by all parties, including American personnel.&nbsp;
 
 In the latest round of Ipsos polling done for the American Bar Association’s International Criminal Court (ICC) Project, Americans’ knowledge, acceptance, and support for the ICC has either stayed at elevated levels or increased since polling began in 2014. Also, surprisingly, the largest segment of all Americans supported an ICC investigation of alleged crimes in Afghanistan regardless if the target of such an investigation was Americans or members of “terrorist” groups like the Taliban or Islamic State.
 

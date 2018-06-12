@@ -58,8 +58,4 @@ Likely a bigger surprise was that all Americans’ opinions either did not chang
 
 *The poll also has a credibility interval plus or minus 5.1 percentage points for adults who are at least aware of the International Criminal Court.*
 
-*<br>For more information about conducting research intended for public release or Ipsos’ online polling methodology, please visit our Public Opinion Polling and Communication page where you can&nbsp; download our brochure, see our public release protocol, or contact us.*
-
-*<br>For more information on this news release, please contact:*
-
-Chris Jackson<br>Vice President, U.S.<br>Ipsos Public Affairs<br>chris.jackson@ipsos.com<br>+1 202 420 2025
+*<br>For more information about conducting research intended for public release or Ipsos’ online polling methodology, please visit our [Public Opinion Polling and Communication page](https://www.ipsos.com/en-us/public-opinion-polling-and-communication-research){: target="_blank"} where you can&nbsp; download our brochure, see our public release protocol, or contact us.*

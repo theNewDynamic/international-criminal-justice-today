@@ -7,15 +7,17 @@ description: >-
   Further positive trends in US awareness and support for the ICC, and a
   surprising number of Americans supporting ICC investigation in Afghanistan
 video:
-embed_deck:
+embed_deck: >-
+  <iframe src="https://www.slideshare.net/abaiccproject/slideshelf"
+  width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0"
+  scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen
+  mozallowfullscreen></iframe>
 featured_image_path: /uploads/u-s--army-firefight-in-kunar.jpg
 ---
 
-&nbsp;
-
 […](/ABA ICC Topline April 9 2018.pptx)
 
-#### Most recent polling shows continued or increased American appreciation and support for the ICC, and a surprising number of Americans supporting an ICC investigation in Afghanistan of alleged crimes committed by all parties, including American personnel.&nbsp;
+#### Most recent polling shows continued or increased American appreciation and support for the ICC, and a surprising number of Americans supporting an ICC investigation in Afghanistan of alleged crimes committed by all parties, including American personnel. 
 
 In the latest round of Ipsos polling done for the American Bar Association’s International Criminal Court (ICC) Project, Americans’ knowledge, acceptance, and support for the ICC has either stayed at elevated levels or increased since polling began in 2014. Also, surprisingly, the largest segment of all Americans supported an ICC investigation of alleged crimes in Afghanistan regardless if the target of such an investigation was Americans or members of “terrorist” groups like the Taliban or Islamic State.
 
@@ -45,7 +47,7 @@ However, 45% of all Americans either strongly or somewhat supported the ICC inve
 
 Likely a bigger surprise was that all Americans’ opinions either did not change or became more favorable to the ICC (81%) after being informed that the Court would potentially investigate alleged crimes committed by members of all groups involved, namely the US military, CIA, Taliban, and Islamic State. 50% of all Americans said this information did not change their opinion of the ICC; 31% said it made their opinion of the ICC much or somewhat more favorable; 19% said it made their opinion of the Court much or somewhat less favorable.
 
-&nbsp;
+ 
 
 ###### About the Study
 
@@ -57,7 +59,7 @@ Likely a bigger surprise was that all Americans’ opinions either did not chang
 
 *The poll also has a credibility interval plus or minus 5.1 percentage points for adults who are at least aware of the International Criminal Court.*
 
-*<br>For more information about conducting research intended for public release or Ipsos’ online polling methodology, please visit our Public Opinion Polling and Communication page where you can&nbsp; download our brochure, see our public release protocol, or contact us.*
+*<br>For more information about conducting research intended for public release or Ipsos’ online polling methodology, please visit our Public Opinion Polling and Communication page where you can  download our brochure, see our public release protocol, or contact us.*
 
 *<br>For more information on this news release, please contact:*
 

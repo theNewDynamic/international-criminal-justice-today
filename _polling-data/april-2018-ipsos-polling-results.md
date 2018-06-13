@@ -26,7 +26,7 @@ From this most recent polling, there were modest increases in the overall Americ
 
 Awareness of the ICC continues to be strongest among millennials (age 18-34) with 57% awareness, and among men in general with 27% awareness.
 
-**It is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities**
+**It is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities.**
 
 ![](/uploads/ipsos-data-2018-4.png)
 

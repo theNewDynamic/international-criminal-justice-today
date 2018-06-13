@@ -10,8 +10,6 @@ The [American Bar Association's International Criminal Court (ICC) Project](http
 
 &nbsp;
 
-**It is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities**
-
 {% include ipsos-chart.html %}
 
 &nbsp;

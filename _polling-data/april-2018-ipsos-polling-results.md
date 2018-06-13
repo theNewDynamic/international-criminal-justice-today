@@ -4,8 +4,8 @@ published: true
 featured: false
 date: 2018-06-12 10:00:00
 description: >-
-  Most recent poll shows continued or elevated awareness and support for the ICC
-  among Americans, and a surprising number supporting an ICC investigation in
+  Most recent poll finds continued growth in Americans' awareness and support
+  for the ICC, and a surprising number that support an ICC investigation in
   Afghanistan of all parties, including American personnel.
 video:
 embed_deck: >-
@@ -26,11 +26,11 @@ From this most recent polling, there were modest increases in the overall Americ
 
 Awareness of the ICC continues to be strongest among millennials (age 18-34) with 57% awareness, and among men in general with 27% awareness.
 
+{% include ipsos-chart.html %}
+
 ##### Perceptions of the Court’s Objectives
 
 In our last polling in July 2017, there was a 15% increase in Americans’ belief that the United States should dedicate resources, including financial, military and intelligence, to international organizations that support human rights and that hold individuals accountable for mass atrocities. That number increased slightly in this last polling to 16% (47% in 2014 to 63% today).
-
-{% include ipsos-chart.html %}
 
 ##### Perception of the Court and US Membership
 

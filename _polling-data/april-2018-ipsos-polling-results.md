@@ -18,9 +18,7 @@ featured_image_path: /uploads/u-s--army-firefight-in-kunar.jpg
 
 #### &nbsp;
 
-The latest round of [Ipsos ](https://www.ipsos.com/en-us){: target="_blank"}polling done for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/){: target="_blank"}
-
-shows that Americans have maintained elevated awareness of and support for the ICC. Support has increased in certain categories since poll began in 2014. An increased number of Americans support an ICC investigation of alleged crimes in Afghanistan regardless of whether the targets of the investigation are American personnel, members of groups like the Taliban or Islamic State, or all of the above.
+The latest round of [Ipsos ](https://www.ipsos.com/en-us){: target="_blank"}polling done for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/){: target="_blank"} shows that Americans have maintained elevated awareness of and support for the ICC. Support has increased in certain categories since poll began in 2014. An increased number of Americans support an ICC investigation of alleged crimes in Afghanistan regardless of whether the targets of the investigation are American personnel, members of groups like the Taliban or Islamic State, or all of the above.
 
 ##### Knowledge and Awareness of the ICC
 

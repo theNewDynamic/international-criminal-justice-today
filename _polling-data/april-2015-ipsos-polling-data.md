@@ -1,14 +1,19 @@
 ---
-title: April 2015 Ipsos Polling Results
+title: April 2015 Ipsos Poll Results
 published: true
-date: 2015-04-12T17:01:00.000Z
-description: "Increases in Americans' support for the International Criminal Court (ICC), as well as some support for Palestinian membership in the Court."
+date: 2015-04-12 17:01:00
+description: >-
+  Increases in Americans' support for the International Criminal Court (ICC), as
+  well as some support for Palestinian membership in the Court.
 youtube_video_id:
-embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/py8mN45YjMJ4gt' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
+embed_deck: >-
+  <iframe src='//www.slideshare.net/slideshow/embed_code/key/py8mN45YjMJ4gt'
+  width='595' height='485' frameborder='0' marginwidth='0' marginheight='0'
+  scrolling='no' style='border:1px solid #CCC; border-width:1px;
+  margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>
 featured_image_path: /uploads/1436320456524_palestine.jpg
 slug: april-2015-ipsos-polling-data
 ---
-
 
 <br>According to the latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project, Americans are continuing to report a lack of knowledge concerning the ICC and its work. Nearly three-fifths (59%) of Americans report knowing “nothing at all” about the ICC when asked, and just over one in ten US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge spans educations levels with both college educated and non-degree holders reporting a fairly low level of knowledge.
 
@@ -36,8 +41,7 @@ A quarter (24%) of Americans believe that Palestine’s membership at the ICC ad
 
 The survey also asked Americans to respond on the question of short- and long-term impacts on the peace process of possible ICC investigation of atrocity crime allegations committed as part of the Israel-Palestine conflict. On balance, 48% of the public think that investigations into conflict incidents will have a good or neutral impact on the peace process in the long term, but the figure is lower (43%) for the short term.
 
-And when asked explicitly whether they believe Palestine’s membership will help or hurt the peace process, more than half (53%) say they don’t know, and the remainder are equally divided between ‘help’ (24%) and ‘hurt’ (23%).
-<br>&nbsp;
+And when asked explicitly whether they believe Palestine’s membership will help or hurt the peace process, more than half (53%) say they don’t know, and the remainder are equally divided between ‘help’ (24%) and ‘hurt’ (23%).<br> 
 
 **Methodology and Technical Details**
 
@@ -49,4 +53,4 @@ And when asked explicitly whether they believe Palestine’s membership will hel
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.* *- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*April 2015 &copy; 2015 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*April 2015 © 2015 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

@@ -1,14 +1,24 @@
 ---
-title: July 2017 Ipsos Polling Results
+title: July 2017 Ipsos Poll Results
 published: true
 featured: false
 date: 2017-07-17 12:00:00
 description: "Recent poll shows continued growth in Americans' awareness of the International Criminal Court (ICC), support for US membership, and support for ICC\_casework. Most Americans also think terrorism should be fought with both the military and the courtroom."
 video:
-embed_deck: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/AYNtg30z2Pa6kj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/abaiccproject/american-bar-association-icc-project-topline20170714" title="American Bar Association ICC Project Topline-2017-07-14" target="_blank">American Bar Association ICC Project Topline-2017-07-14</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/abaiccproject">abaiccproject</a></strong> </div>'
+embed_deck: >-
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/AYNtg30z2Pa6kj"
+  width="595" height="485" frameborder="0" marginwidth="0" marginheight="0"
+  scrolling="no" style="border:1px solid #CCC; border-width:1px;
+  margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div
+  style="margin-bottom:5px"> <strong> <a
+  href="//www.slideshare.net/abaiccproject/american-bar-association-icc-project-topline20170714"
+  title="American Bar Association ICC Project Topline-2017-07-14"
+  target="_blank">American Bar Association ICC Project Topline-2017-07-14</a>
+  </strong> from <strong><a target="_blank"
+  href="https://www.slideshare.net/abaiccproject">abaiccproject</a></strong>
+  </div>
 featured_image_path: '/uploads/Photo Jul 17, 11 21 08 AM.jpg'
 ---
-
 
 [Ipsos'](https://www.ipsos.com/en-us) latest survey of Americans conducted for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/) shows a growing number of Americans who are knowledgeable about the International Criminal Court and its objectives. The online survey of 1,017 US adults also reveals many Americans’ perceptions of terrorists and the preferred tactics to combat terrorism.
 
@@ -19,9 +29,7 @@ Nearly half of Americans (47%) are now aware of the International Criminal Court
 * Awareness of the ICC is highest among millennials (age 18-34), where 60% have heard at least a little bit about it.
 * Millennials are nearly twice as likely to be aware of the ICC than Americans 55 years or older with only 34% having any awareness of the Court.
 
-
 {% include ipsos-chart.html %}
-
 
 **Perceptions of the Court’s Objectives**
 

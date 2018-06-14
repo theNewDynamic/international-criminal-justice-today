@@ -1,7 +1,7 @@
 ---
 title: April 2016 Ipsos Poll Results
 published: true
-featured: true
+featured: false
 date: 2016-04-01 12:00:00
 description: >-
   More Americans believe the United States should dedicate resources to the

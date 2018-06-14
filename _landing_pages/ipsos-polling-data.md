@@ -6,7 +6,7 @@ description:
 slug: ipsos-polling-data
 ---
 
-The [American Bar Association's International Criminal Court (ICC) Project](http://www.aba-icc.org) has partnered with [Ipsos Market Research](http://www.ipsos-na.com/) to provide regular polling data on American opinions on international criminal justice, in particular the International Criminal Court (ICC). Through quarterly reports, Ipsos will track a range of issues on whether and to what extent Americans feel the U.S. Government should support the ICC, including joining the Court. Additionally, each report will feature American opinions on a current event in international criminal justice.
+The [American Bar Association's International Criminal Court (ICC) Project](http://www.aba-icc.org) has partnered with [Ipsos Market Research](http://www.ipsos-na.com/) to provide regular polling data on American opinions on international criminal justice, in particular the International Criminal Court (ICC). Through its polling reports, Ipsos will track a range of issues on whether and to what extent Americans feel the US Government should support the ICC, including joining the Court. Additionally, each report will feature American opinions on a current event in international criminal justice.
 
 &nbsp;
 

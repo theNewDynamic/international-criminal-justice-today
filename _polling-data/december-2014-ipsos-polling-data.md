@@ -1,14 +1,20 @@
 ---
-title: December 2014 Ipsos Polling Results
+title: December 2014 Ipsos Poll Results
 published: true
-date: 2014-12-08T17:49:00.000Z
-description: 'Americans continue to support involvement with the International Criminal Court (ICC), with some opposition to the U.S. becoming a full member of the Court.'
+date: 2014-12-08 17:49:00
+description: >-
+  Americans continue to support involvement with the International Criminal
+  Court (ICC), with some opposition to the U.S. becoming a full member of the
+  Court.
 youtube_video_id:
-embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/25ii2ybxohnFM' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
+embed_deck: >-
+  <iframe src='//www.slideshare.net/slideshow/embed_code/key/25ii2ybxohnFM'
+  width='595' height='485' frameborder='0' marginwidth='0' marginheight='0'
+  scrolling='no' style='border:1px solid #CCC; border-width:1px;
+  margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>
 featured_image_path: /uploads/01isishatra.jpg
 slug: december-2014-ipsos-polling-data
 ---
-
 
 <br>Americans continue to have fairly low self-reported knowledge of the International Criminal Court (ICC) and its work, although they also show a clear tendency to support the general tenets of the organization, according to a new survey of over 1,000 US adults conducted on behalf of the American Bar Association. When asked what they know about the ICC, over half of Americans (64%) report knowing “nothing at all” about it, while just over one in ten (15%) report knowing a great deal or a fair amount about the ICC.
 
@@ -44,4 +50,4 @@ When framed differently – pointing out concerns that if the US was to assist t
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.* *- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*December 2014 &copy; 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*December 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

@@ -1,5 +1,5 @@
 ---
-title: April 2018 Ipsos Polling Results
+title: April 2018 Ipsos Poll Results
 published: true
 featured: false
 date: 2018-06-12 10:00:00
@@ -18,41 +18,35 @@ featured_image_path: /uploads/u-s--army-firefight-in-kunar.jpg
 
 #### &nbsp;
 
-The latest round of [Ipsos ](https://www.ipsos.com/en-us){: target="_blank"}polling done for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/){: target="_blank"} shows that Americans have maintained elevated awareness and support of the ICC, if not increased in certain categories since polling began in 2014. Also, surprisingly, more Americans support an ICC investigation of alleged crimes in Afghanistan regardless if the target of the investigation is American personnel, members of groups like the Taliban or Islamic State, or all of the above.
+The latest round of [Ipsos ](https://www.ipsos.com/en-us){: target="_blank"}polling done for the [American Bar Association’s International Criminal Court (ICC) Project](https://www.aba-icc.org/){: target="_blank"}
+
+shows that Americans have maintained elevated awareness of and support for the ICC. Support has increased in certain categories since poll began in 2014. An increased number of Americans support an ICC investigation of alleged crimes in Afghanistan regardless of whether the targets of the investigation are American personnel, members of groups like the Taliban or Islamic State, or all of the above.
 
 ##### Knowledge and Awareness of the ICC
 
-From this most recent polling, there were modest increases in the overall American awareness of the ICC itself. Just under half of Americans (45%) are aware of the Court, up from 40% when this tracking began in 2014. Despite this increased awareness, there continues to be an incorrect belief among Americans (almost four out of ten) that United States is a member of the ICC.
+This poll shows a modest increase in overall American awareness of the ICC itself. Just under half of Americans (45%) are aware of the Court, up from 40% when this tracking began in 2014. Despite increased awareness, many Americans (almost four out of ten) incorrectly believe that United States is a member of the ICC.
 
-Awareness of the ICC continues to be strongest among millennials (age 18-34) with 57% awareness, and among men in general with 27% awareness.
-
-**It is important for the United States to participate in international organizations that support human rights and that hold individuals accountable for mass atrocities.**
+Awareness of the ICC continues to be strongest among millennials (age 18-34) at 57% and among men of all ages at 27%.
 
 ![](/uploads/ipsos-data-2018-4.png)
 
-&nbsp;
-
-&nbsp;
-
 ##### Perceptions of the Court’s Objectives
 
-In our last polling in July 2017, there was a 15% increase in Americans’ belief that the United States should dedicate resources, including financial, military and intelligence, to international organizations that support human rights and that hold individuals accountable for mass atrocities. That number increased slightly in this last polling to 16% (47% in 2014 to 63% today).
+In our last poll in July 2017, there was a 15% increase in Americans’ belief that the United States should dedicate resources, including financial, military and intelligence resources, to international organizations that support human rights and that hold individuals accountable for mass atrocities. That number again increased slightly in pollthe April 2018 poll, and has increased from 47% in 2014 to 63% today.
 
 ##### Perception of the Court and US Membership
 
-In both the July 2017 polling and in this most recent polling, there was an increase in all Americans’ belief that the US should join the ICC or become more involved in the Court (from 34% in July2017 & February 2014 to 50% in May 2018). This increase appears to come from the undecided crowd; today, less Americans have an opinion on this matter with only 29% reporting “I don’t know”, down from 42% in 2014.
+In both the July 2017 poll and in this most recent poll, there was an increase in the belief that the US should join the ICC or become more involved in the Court. &nbsp;While 34% believed this in July 2017, to 50% do so now. This increase appears to come from the undecided crowd; today, more Americans have an opinion on this matter. Only 29% reported “I don’t know”, down from 42% in 2014.
 
-The sentiment that the US should join or more fully support the ICC is especially strong among those who are aware of the ICC (64%). Yet, for those aware of the Court, 37% believe joining the ICC would compromise US sovereignty, but only 18%&nbsp; believes the US should not join the ICC.
+The sentiment that the US should join or more fully support the ICC is especially strong among those who are aware of the ICC (64%). Yet, for those aware of the Court, 37% believe joining the ICC would compromise US sovereignty, but only 18%&nbsp; believe the US should not join the ICC.
 
 ##### Support of ICC potentially investigating members of the Taliban/Islamic States, United States Armed Forces, and the CIA
 
-The most surprising results of this poll came from the current event questions, which this time around revolved around the ICC’s potential investigation in Afghanistan. Predictably, a strong majority of Americans (68%) support the ICC opening an investigation in Afghanistan of alleged crimes committed by members of the Taliban or so-called Islamic State, with 42% reporting they strongly support it.
+The most surprising results of this poll came from questions about the ICC’s potential investigation in Afghanistan. Predictably, a strong majority of Americans (68%) support the ICC opening an investigation in Afghanistan of alleged crimes committed by members of the Taliban or so-called Islamic State, with 42% reporting they strongly support it.
 
-However, 45% of all Americans either strongly or somewhat supported the ICC investigating alleged crimes committed in Afghanistan by member of the US military or CIA, whereas only 21% of all Americans strongly or somewhat opposed an investigation of Americans.
+However, 45% of Americans either strongly or somewhat supported the ICC investigating alleged crimes committed in Afghanistan by members of the US military and CIA, whereas only 21% of Americans strongly or somewhat opposed an investigation of Americans.
 
-Likely a bigger surprise was that Americans’ opinions either did not change or became more favorable to the ICC (81%) after being informed that the Court would potentially investigate alleged crimes committed by members of all groups involved, namely the US military, CIA, Taliban, and Islamic State. 50% of all Americans said this information did not change their opinion of the ICC; 31% said it made their opinion of the ICC much or somewhat more favorable; 19% said it made their opinion of the Court much or somewhat less favorable.
-
-&nbsp;
+Likely a bigger surprise was that Americans’ either did not change opinion, or became more favorable to the ICC (81%), after they were informed that the Court would potentially investigate alleged crimes committed by members of all groups involved, namely the US military, CIA, Taliban, and Islamic State. Specifically, 50% of all Americans said that this information did not change their opinion of the ICC; 31% said it made their opinion of the ICC much or somewhat more favorable; 19% said it made their opinion of the Court much or somewhat less favorable.
 
 &nbsp;
 

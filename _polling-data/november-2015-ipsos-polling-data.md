@@ -1,14 +1,20 @@
 ---
-title: November 2015 Ipsos Polling Results
+title: November 2015 Ipsos Poll Results
 published: true
-date: 2015-11-25T16:37:00.000Z
-description: 'Research finds a slow but steady trend over the past two years in favor of greater U.S. involvement in the International Criminal Court (ICC), with public support for international arrest warrants for Heads of State.'
+date: 2015-11-25 16:37:00
+description: >-
+  Research finds a slow but steady trend over the past two years in favor of
+  greater U.S. involvement in the International Criminal Court (ICC), with
+  public support for international arrest warrants for Heads of State.
 video:
-embed_deck: "<iframe src='//www.slideshare.net/slideshow/embed_code/key/dYQQ8aeP79MuRg' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>"
+embed_deck: >-
+  <iframe src='//www.slideshare.net/slideshow/embed_code/key/dYQQ8aeP79MuRg'
+  width='595' height='485' frameborder='0' marginwidth='0' marginheight='0'
+  scrolling='no' style='border:1px solid #CCC; border-width:1px;
+  margin-bottom:5px; max-width: 100%;' allowfullscreen=''></iframe>
 featured_image_path: /uploads/bashir.jpg
 slug: november-2015-ipsos-polling-data
 ---
-
 
 <br>The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows no significant shift in American knowledge concerning the ICC and its work. Nearly two-thirds (63%) of Americans report knowing “nothing at all” about the ICC when asked, and 15% of US adults report knowing “a fair amount” or “a great deal”. This self-reported lack of knowledge is fairly consistent across demographic groups, with younger people slightly more likely to indicate they know more about the ICC.
 
@@ -44,8 +50,7 @@ The second question focused on the issue of Bashir and his visit to South Africa
 
 ---
 
-[[1]](file:///C:/Users/ABALoaner/Downloads/Ipsos%20ABA%20ICC%20Factum%2011.21.15.docx#_ftnref1) The ICC was subsequently defined for respondents as follows: The International Criminal Court (ICC) is the world’s only permanent international tribunal created by a treaty for the purpose of investigating and prosecuting war crimes, genocide, and crimes against humanity (mass atrocities). Currently, 123 countries are members of the International Criminal Court. The United States formally announced in 2002 that it would not become a member of the International Criminal Court for a multitude of reasons, including questions about the court’s jurisdiction and structure.
-<br>&nbsp;
+[[1]](file:///C:/Users/ABALoaner/Downloads/Ipsos%20ABA%20ICC%20Factum%2011.21.15.docx#_ftnref1) The ICC was subsequently defined for respondents as follows: The International Criminal Court (ICC) is the world’s only permanent international tribunal created by a treaty for the purpose of investigating and prosecuting war crimes, genocide, and crimes against humanity (mass atrocities). Currently, 123 countries are members of the International Criminal Court. The United States formally announced in 2002 that it would not become a member of the International Criminal Court for a multitude of reasons, including questions about the court’s jurisdiction and structure.<br> 
 
 **Methodology and Technical Details**
 
@@ -57,4 +62,4 @@ The second question focused on the issue of Bashir and his visit to South Africa
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio.* *- All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*November 2015 &copy; 2015 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*November 2015 © 2015 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

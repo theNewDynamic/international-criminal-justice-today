@@ -1,20 +1,32 @@
 ---
-title: July 2016 Ipsos Polling Results
+title: July 2016 Ipsos Poll Results
 published: true
 featured: false
-date: 2016-07-26T12:00:00.000Z
-description: 'Polling shows improved awareness of the International Criminal Court (ICC), driven by awareness among youth, and public support for the US government encouraging ICC involvement in investigating and prosecuting atrocity crimes in Syria and Iraq.'
+date: 2016-07-26 12:00:00
+description: >-
+  Polling shows improved awareness of the International Criminal Court (ICC),
+  driven by awareness among youth, and public support for the US government
+  encouraging ICC involvement in investigating and prosecuting atrocity crimes
+  in Syria and Iraq.
 video:
-embed_deck: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/vqyOOmsGhLhGpc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/abaiccproject/aba-icc-topline-july-2016-64358895" title="ABA ICC Topline July 2016" target="_blank">ABA ICC Topline July 2016</a> </strong> from <strong><a href="//www.slideshare.net/abaiccproject" target="_blank">abaiccproject</a></strong> </div>'
+embed_deck: >-
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/vqyOOmsGhLhGpc"
+  width="595" height="485" frameborder="0" marginwidth="0" marginheight="0"
+  scrolling="no" style="border:1px solid #CCC; border-width:1px;
+  margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div
+  style="margin-bottom:5px"> <strong> <a
+  href="//www.slideshare.net/abaiccproject/aba-icc-topline-july-2016-64358895"
+  title="ABA ICC Topline July 2016" target="_blank">ABA ICC Topline July
+  2016</a> </strong> from <strong><a href="//www.slideshare.net/abaiccproject"
+  target="_blank">abaiccproject</a></strong> </div>
 featured_image_path: /uploads/archive-images-8554452.jpg
 ---
-
 
 The latest survey of over 1,000 US adults conducted on behalf of the American Bar Association’s International Criminal Court (ICC) Project shows a slight positive shift in American knowledge concerning the ICC and its work overall.
 
 ##### *Knowledge and Awareness of the ICC*
 
-Knowledge of the ICC among Americans is now at the highest it has been since this tracking began, at 45%, which represents a 6-point increase from the last survey in April 2016.&nbsp; This shift can be explained by an increased awareness among youth, for whom awareness has surged (10%) since April 2016. This increase has led to a discrepancy in the level of awareness among different age groups. &nbsp;While 60% of people in the 18-34 age group are aware of the ICC, this figure falls to 40% for older age groups.
+Knowledge of the ICC among Americans is now at the highest it has been since this tracking began, at 45%, which represents a 6-point increase from the last survey in April 2016.  This shift can be explained by an increased awareness among youth, for whom awareness has surged (10%) since April 2016. This increase has led to a discrepancy in the level of awareness among different age groups.  While 60% of people in the 18-34 age group are aware of the ICC, this figure falls to 40% for older age groups.
 
 ![](/uploads/versions/ipsos-polling-data-chart-july-2016---x----1402-918x---.png)
 
@@ -44,4 +56,4 @@ Writ large, the trend since this study began in early 2014 is one of increased i
 
 *- Statistical margins of error are not applicable to online polls because they are based on samples drawn from opt-in online panels, not on random samples that mirror the population within a statistical probability ratio. - All sample surveys and polls may be subject to other sources of error, including, but not limited to coverage error, and measurement error.*
 
-*July 2016 &copy; 2016 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
+*July 2016 © 2016 Ipsos. All rights reserved. Contains Ipsos’ Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*

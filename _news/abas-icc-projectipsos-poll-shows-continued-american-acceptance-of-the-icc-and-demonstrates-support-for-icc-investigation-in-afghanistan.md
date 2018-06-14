@@ -12,10 +12,8 @@ description: >-
   Americans are surprisingly supportive of an ICC investigation in Afghanistan
   regardless who may be investigated.
 pull_quote: >-
-  Surprisingly, more Americans (68%) were not only supportive of an
-  investigation of militant extremist groups like the Taliban, but were also
-  more supportive (45%) than not (21%) of an investigation that targeted
-  Americans.
+  Surprisingly, Americans were also more supportive (45%) than not (21%) of an
+  ICC investigation that targeted Americans.
 pull_quote_attribution:
 featured_image_path: /uploads/u-s--army-firefight-in-kunar.jpg
 featured_image_attribution: www.defencetalk.com

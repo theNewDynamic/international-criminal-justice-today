@@ -1,21 +1,24 @@
 ---
 title: 20 Years of the International Criminal Court - An Assessment
 featured: true
-date: 2018-07-05 12:00:00 +0000
-contributors: ''
-description: Please join us for panel event in celebration of International Criminal
+date: 2018-07-05 12:00:00
+contributors:
+description: >-
+  Please join us for panel event in celebration of International Criminal
   Justice Day and to discuss 20 years of the International Criminal Court.
-pull_quote: ''
-pull_quote_attribution: ''
-featured_image_path: "/uploads/2018/07/06/International_Criminal_Court_building_(2016)_in_The_Hague.jpg"
+pull_quote:
+pull_quote_attribution:
+featured_image_path: >-
+  /uploads/2018/07/06/International_Criminal_Court_building_(2016)_in_The_Hague.jpg
 featured_image_attribution: Wikimedia Commons
-youtube_video_id: ''
-categories: []
-embed: ''
-layout: ''
-include_in_news: false
+youtube_video_id:
+categories:
+  - news
+embed:
+layout: default
+include_in_news: true
 published: true
-category: []
+category: news
 ---
 
 ##### &nbsp;

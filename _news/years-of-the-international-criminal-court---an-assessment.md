@@ -10,13 +10,12 @@ pull_quote_attribution: ''
 featured_image_path: "/uploads/2018/07/06/International_Criminal_Court_building_(2016)_in_The_Hague.jpg"
 featured_image_attribution: Wikimedia Commons
 youtube_video_id: ''
-categories:
-- news
-published: false
-category: []
+categories: []
 embed: ''
 layout: ''
 include_in_news: false
+published: false
+category: []
 ---
 
 ##### &nbsp;

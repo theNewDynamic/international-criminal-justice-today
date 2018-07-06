@@ -27,12 +27,12 @@ youtube_video_id:
 
 ***Panelists:***
 
-**Mr. Raymond Brown**, *Co-founder, International Justice Project, enrolled Counsel at the International Criminal Court, and Chair of the White Collar Defense and Corporate & International Human Rights Compliance Groups at Greenbaum Rowe Smith & Davis LLP.*
+[**Mr. Raymond Brown**](https://www.greenbaumlaw.com/attorneys-Raymond-Brown.html){: target="_blank"}, *Co-founder, International Justice Project, enrolled Counsel at the International Criminal Court, and Chair of the White Collar Defense and Corporate & International Human Rights Compliance Groups at Greenbaum Rowe Smith & Davis LLP.*
 
-**Professor Susana S&aacute;Couto**, *Director, War Crimes Research Office and Professorial Lecturer in Residence at American University Washington College of Law.*
+[**Professor Susana S&aacute;Couto**](https://www.wcl.american.edu/community/faculty/profile/sacouto/bio){: target="_blank"}, *Director, War Crimes Research Office and Professorial Lecturer in Residence at American University Washington College of Law.*
 
-<br>**Professor Alex Whiting** Professor of Practice at Harvard Law School and former Prosecution Coordinator in the Office of the Prosecutor at the International Criminal Court.
+<br>**[Professor Alex Whiting](https://www.aba-icc.org/board-of-advisors/alex-whiting/){: target="_blank"},** Professor of Practice at Harvard Law School and former Prosecution Coordinator in the Office of the Prosecutor at the International Criminal Court.
 
 ***Moderator***:
 
-**Mr. Michael Greco**, Chair, American Bar Association's ICC Project, former ABA President (2005-06), and Visiting Professor of the Practice of Law at Peking University School of Transnational Law, Shenzhen, China.
+[**Mr. Michael Greco**](https://www.aba-icc.org/board-of-advisors/michael-s-greco/){: target="_blank"}, Chair, American Bar Association's ICC Project, former ABA President (2005-06), and Visiting Professor of the Practice of Law at Peking University School of Transnational Law, Shenzhen, China.

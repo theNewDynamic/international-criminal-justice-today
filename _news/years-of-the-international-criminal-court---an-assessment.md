@@ -36,3 +36,7 @@ youtube_video_id:
 ***Moderator***:
 
 [**Mr. Michael Greco**](https://www.aba-icc.org/board-of-advisors/michael-s-greco/){: target="_blank"}, Chair, American Bar Association's ICC Project, former ABA President (2005-06), and Visiting Professor of the Practice of Law at Peking University School of Transnational Law, Shenzhen, China.
+
+&nbsp;
+
+The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its&nbsp;[website](www.aba-icc.org){: target="_blank"}.

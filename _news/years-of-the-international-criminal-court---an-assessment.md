@@ -15,7 +15,11 @@ featured_image_attribution: Wikimedia Commons
 youtube_video_id:
 ---
 
-##### *July 17, 2018 marks 20 years since the adoption of the Rome Statute, establishing the first permanent international criminal court with a mandate to investigate and prosecute individuals who participate in international atrocity crimes of genocide, crimes against humanity, and war crimes. Since then, the Court has taken on cases from Sudan to Central African Republic, with varying degrees of success and support from international powers, particularly the U.S.*
+##### &nbsp;
+
+##### *July 17, 2018 marks the 20 anniversary of the adoption of the Rome Statute, establishing the first permanent international criminal court with a mandate to investigate and prosecute individuals who participate in the international atrocity crimes of genocide, crimes against humanity, and war crimes. Since then, the Court has taken on cases from Sudan to Central African Republic, with varying degrees of success and support from international powers, particularly the U.S.*
+
+&nbsp;
 
 ##### ***Please join us for a discussion on the ICC, its successes, shortcomings, and challenges 20 years after its inception. To attend, please RSVP by sending an email to [Erica Carvell](mailto:erica.carvell@opensocietyfoundations.org?subject=RSVP%20-%2020%20Years%20of%20the%20ICC%20-%20An%20Assessment).&nbsp;***
 

@@ -1,13 +1,6 @@
 ---
-pages:
-- _polling-data/july-2017-ipsos-polling-results.md
-- _polling-data/july-2016-ipsos-polling-results.md
-- _polling-data/april-2016-ipsos-polling-results.md
-- _polling-data/november-2015-ipsos-polling-data.md
-- _polling-data/april-2015-ipsos-polling-data.md
-- _polling-data/december-2014-ipsos-polling-data.md
-- _polling-data/february-2014-ipsos-polling-data.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -69,3 +62,12 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- _polling-data/april-2018-ipsos-polling-results.md
+- _polling-data/november-2015-ipsos-polling-data.md
+- _polling-data/july-2016-ipsos-polling-results.md
+- _polling-data/february-2014-ipsos-polling-data.md
+- _polling-data/december-2014-ipsos-polling-data.md
+- _polling-data/april-2016-ipsos-polling-results.md
+- _polling-data/july-2017-ipsos-polling-results.md
+- _polling-data/april-2015-ipsos-polling-data.md

@@ -43,16 +43,15 @@ include_in_news: false
 
 &nbsp;
 
-> **Event Details:**
->
->
-> Tuesday, July 10th, 2018
->
->
-> 11:00am-12:30pm
->
->
-> Rayburn House Office Building 2456
+**Event Details:**
+
+Tuesday, July 10th, 2018&nbsp;
+
+11:00am-12:30pm
+
+Rayburn House Office Building 2456
+
+&nbsp;
 
 &nbsp;
 

@@ -15,18 +15,20 @@ featured_image_attribution: Wikimedia Commons
 youtube_video_id:
 ---
 
-*July 17, 2018 marks 20 years since the adoption of the Rome Statute, establishing the first permanent international criminal court with a mandate to investigate and prosecute individuals who participate in international atrocity crimes of genocide, crimes against humanity, and war crimes. Since then, the Court has taken on cases from Sudan to Central African Republic, with varying degrees of success and support from international powers, particularly the U.S.*
+##### *July 17, 2018 marks 20 years since the adoption of the Rome Statute, establishing the first permanent international criminal court with a mandate to investigate and prosecute individuals who participate in international atrocity crimes of genocide, crimes against humanity, and war crimes. Since then, the Court has taken on cases from Sudan to Central African Republic, with varying degrees of success and support from international powers, particularly the U.S.*
 
-*Please join us for a discussion on the ICC, its successes, shortcomings, and challenges 20 years after its inception. To attend, please RSVP by sending an email to [Erica Carvell](mailto:erica.carvell@opensocietyfoundations.org?subject=RSVP%20-%2020%20Years%20of%20the%20ICC%20-%20An%20Assessment). *
+##### ***Please join us for a discussion on the ICC, its successes, shortcomings, and challenges 20 years after its inception. To attend, please RSVP by sending an email to [Erica Carvell](mailto:erica.carvell@opensocietyfoundations.org?subject=RSVP%20-%2020%20Years%20of%20the%20ICC%20-%20An%20Assessment).&nbsp;***
 
-**Panelists:**
+&nbsp;
 
-**Raymond Brown**, Co-founder, International Justice Project, enrolled Counsel at the International Criminal Court, and Chair of the White Collar Defense and Corporate & International Human Rights Compliance Groups at Greenbaum Rowe Smith & Davis LLP.
+***Panelists:***
 
-**Susana SáCouto**, Director, War Crimes Research Office and Professorial Lecturer in Residence at American University Washington College of Law.
+**Mr. Raymond Brown**, *Co-founder, International Justice Project, enrolled Counsel at the International Criminal Court, and Chair of the White Collar Defense and Corporate & International Human Rights Compliance Groups at Greenbaum Rowe Smith & Davis LLP.*
 
-<br>**Alex Whiting** Professor of Practice at Harvard Law School and former Prosecution Coordinator in the Office of the Prosecutor at the International Criminal Court.
+**Professor Susana S&aacute;Couto**, *Director, War Crimes Research Office and Professorial Lecturer in Residence at American University Washington College of Law.*
 
-Moderator:
+<br>**Professor Alex Whiting** Professor of Practice at Harvard Law School and former Prosecution Coordinator in the Office of the Prosecutor at the International Criminal Court.
 
-**Michael Greco**, Chair, American Bar Association's ICC Project, former ABA President (2005-06), and Visiting Professor of the Practice of Law at Peking University School of Transnational Law, Shenzhen, China.
+***Moderator***:
+
+**Mr. Michael Greco**, Chair, American Bar Association's ICC Project, former ABA President (2005-06), and Visiting Professor of the Practice of Law at Peking University School of Transnational Law, Shenzhen, China.

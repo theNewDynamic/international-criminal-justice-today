@@ -21,7 +21,7 @@ include_in_news: false
 
 ##### &nbsp;
 
-#### *July 17, 2018 marks the 20 anniversary of the adoption of the Rome Statute, establishing the first permanent international criminal court with a mandate to investigate and prosecute individuals who participate in the international atrocity crimes of genocide, crimes against humanity, and war crimes. Since then, the Court has taken on cases from Sudan to Central African Republic, with varying degrees of success and support from international powers, particularly the U.S.*
+#### *July 17, 2018 marks the 20 anniversary of the adoption of the Rome Statute, establishing the first permanent international criminal court with a mandate to investigate and prosecute individuals who participate in the international atrocity crimes of genocide, crimes against humanity, and war crimes. Since then, the Court has taken on cases from Sudan to Central African Republic, with varying degrees of success and support from international powers, particularly the U.S.&nbsp;*
 
 #### &nbsp;
 

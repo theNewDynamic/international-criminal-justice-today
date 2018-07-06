@@ -17,11 +17,11 @@ youtube_video_id:
 
 ##### &nbsp;
 
-###### *July 17, 2018 marks the 20 anniversary of the adoption of the Rome Statute, establishing the first permanent international criminal court with a mandate to investigate and prosecute individuals who participate in the international atrocity crimes of genocide, crimes against humanity, and war crimes. Since then, the Court has taken on cases from Sudan to Central African Republic, with varying degrees of success and support from international powers, particularly the U.S.*
+##### *July 17, 2018 marks the 20 anniversary of the adoption of the Rome Statute, establishing the first permanent international criminal court with a mandate to investigate and prosecute individuals who participate in the international atrocity crimes of genocide, crimes against humanity, and war crimes. Since then, the Court has taken on cases from Sudan to Central African Republic, with varying degrees of success and support from international powers, particularly the U.S.*
 
-###### &nbsp;
+##### &nbsp;
 
-###### ***Please join us for a discussion on the ICC, its successes, shortcomings, and challenges 20 years after its inception. To attend, please RSVP by sending an email to [Erica Carvell](mailto:erica.carvell@opensocietyfoundations.org?subject=RSVP%20-%2020%20Years%20of%20the%20ICC%20-%20An%20Assessment).&nbsp;***
+##### ***Please join us for a discussion on the ICC, its successes, shortcomings, and challenges 20 years after its inception. To attend, please RSVP by sending an email to [Erica Carvell](mailto:erica.carvell@opensocietyfoundations.org?subject=RSVP%20-%2020%20Years%20of%20the%20ICC%20-%20An%20Assessment).&nbsp;***
 
 &nbsp;
 
@@ -39,4 +39,4 @@ youtube_video_id:
 
 &nbsp;
 
-The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its&nbsp;[website](www.aba-icc.org){: target="_blank"}.
+###### *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its&nbsp;[website](www.aba-icc.org){: target="_blank"}.*

@@ -30,4 +30,4 @@ For more information on the most recent ABA’s ICC Project/Ipsos poll, please v
 
 &nbsp;
 
-*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For m\*\*ore information about the ABA’s ICC Project, please visit its&nbsp;[website](https://www.aba-icc.org/){: target="_blank"}.*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its&nbsp;[website](https://www.aba-icc.org/){: target="_blank"}.*

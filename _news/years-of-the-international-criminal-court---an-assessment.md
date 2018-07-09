@@ -4,8 +4,9 @@ featured: true
 date: 2018-07-05 12:00:00
 contributors:
 description: >-
-  Please join us for panel event in celebration of International Criminal
-  Justice Day and to discuss 20 years of the International Criminal Court.
+  Please join us for a Capitol Hill panel briefing to celebrate International
+  Criminal Justice Day and to discuss 20 years of the International Criminal
+  Court.
 pull_quote:
 pull_quote_attribution:
 featured_image_path: >-

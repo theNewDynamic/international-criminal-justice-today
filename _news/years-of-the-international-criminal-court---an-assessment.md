@@ -24,7 +24,7 @@ category: news
 
 **Please join us for a discussion on the ICC, its successes, shortcomings, and challenges 20 years after its inception. To attend, please RSVP by sending an email to [Erica Carvell](mailto:erica.carvell@opensocietyfoundations.org?subject=RSVP%20-%2020%20Years%20of%20the%20ICC%20-%20An%20Assessment).&nbsp;**
 
-This event is organized by the [Washington Working Group on the ICC](https://www.washingtonicc.org/){: target="_blank"} and hosted by the [Tom Lantos Human Rights Commission of the U.S. Congress](https://humanrightscommission.house.gov/){: target="_blank"}.&nbsp;
+**This event is organized by the [Washington Working Group on the ICC](https://www.washingtonicc.org/){: target="_blank"} and hosted by the [Tom Lantos Human Rights Commission of the U.S. Congress](https://humanrightscommission.house.gov/){: target="_blank"}.&nbsp;**
 
 ***Panelists:***
 

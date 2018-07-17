@@ -34,3 +34,9 @@ S&aacute;Couto stressed in her remarks the ICC’s failure to issue a final conv
 Finally, Brown drew on his experience representing Darfuri victims in the case against Sudanese President [Omar Al-Bashir](https://www.icc-cpi.int/darfur/albashir){: target="_blank"}. The ICC case against Bashir importantly recognized the crisis in Darfur in trial, Brown noted in his opening remarks. Moreover, despite political hostility towards the Court, the George W. Bush administration played a critical role in securing the necessary votes for a United Nations Security Council [referral ](https://www.un.org/press/en/2005/sc8351.doc.htm){: target="_blank"}of the situation in Darfur to the ICC. The arrest warrant for Bashir was [issued ](https://www.nytimes.com/2009/03/05/world/africa/05court.html){: target="_blank"}in 2009, yet today he remains at-large.
 
 The Bashir case underscored a key point all panelists made: that the success and failures of the ICC depend on the support and cooperation it receives from the international community. The ICC has made crimes against humanity and accountability part of a global conversation. The panelists concluded by emphasizing the necessity for justice for victims of atrocity crimes at all levels; the ICC is only one part of a broader effort.
+
+&nbsp;
+
+&nbsp;
+
+###### The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its&nbsp;[website](https://www.aba-icc.org/){: target="_blank"}.

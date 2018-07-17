@@ -27,6 +27,8 @@ category: news
 
 **This event is organized by the [Washington Working Group on the ICC](https://www.washingtonicc.org/){: target="_blank"} and hosted by the [Tom Lantos Human Rights Commission of the U.S. Congress](https://humanrightscommission.house.gov/){: target="_blank"}.&nbsp;**
 
+To view the event recap, please visit [here](https://www.international-criminal-justice-today.org/events/rome-statute-at-20-an-assessment/){: target="_blank"}.
+
 ***Panelists:***
 
 [**Mr. Raymond Brown**](https://www.greenbaumlaw.com/attorneys-Raymond-Brown.html){: target="_blank"}, *Co-founder, International Justice Project, enrolled Counsel at the International Criminal Court, and Chair of the White Collar Defense and Corporate & International Human Rights Compliance Groups at Greenbaum Rowe Smith & Davis LLP.*

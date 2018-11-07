@@ -3,37 +3,58 @@ new_page_extension: md
 auto_deploy: false
 admin_path: admin
 webhook_url: 
-collections:
-- path: _posts
+sections:
+- type: jekyll-posts
   label: Posts
   create: all
-- path: _arguendo
+- type: directory
+  path: _arguendo
   label: Arguendo
   create: all
-- path: _arguendo-questions
+  match: "**/*"
+- type: directory
+  path: _arguendo-questions
   label: Arguendo-questions
   create: all
-- path: _contributors
+  match: "**/*"
+- type: directory
+  path: _contributors
   label: Contributors
   create: all
-- path: _events
+  match: "**/*"
+- type: directory
+  path: _events
   label: Events
   create: all
-- path: _landing_pages
+  match: "**/*"
+- type: directory
+  path: _landing_pages
   label: Landing_pages
   create: all
-- path: _news
+  match: "**/*"
+- type: directory
+  path: _news
   label: News
   create: all
-- path: _opinion
+  match: "**/*"
+- type: directory
+  path: _opinion
   label: Opinion
   create: all
-- path: _polling-data
+  match: "**/*"
+- type: directory
+  path: _polling-data
   label: Polling-data
   create: all
-- path: ''
+  match: "**/*"
+- type: jekyll-pages
   label: Pages
   create: all
+- type: directory
+  path: _data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml}"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

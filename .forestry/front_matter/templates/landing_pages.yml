@@ -1,4 +1,5 @@
 ---
+label: landing_pages
 hide_body: false
 is_partial: false
 fields:
@@ -58,13 +59,13 @@ fields:
   hidden: false
   default: false
 pages:
-- _landing_pages/about.md
-- _landing_pages/arguendo.md
-- _landing_pages/how-to-calculate-bayesian-credibility-intervals.md
 - _landing_pages/ipsos-polling-data.md
-- _landing_pages/about-the-site.md
+- _landing_pages/how-to-calculate-bayesian-credibility-intervals.md
 - _landing_pages/mailing-list.md
-- _landing_pages/news.md
+- _landing_pages/arguendo.md
+- _landing_pages/about-the-site.md
+- _landing_pages/about.md
 - _landing_pages/opinion.md
-- _landing_pages/contributors.md
+- _landing_pages/news.md
 - _landing_pages/events.md
+- _landing_pages/contributors.md

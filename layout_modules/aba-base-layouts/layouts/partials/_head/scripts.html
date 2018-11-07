@@ -1,0 +1,25 @@
+<!-- scripts -->
+{{ if (fileExists "./assets/output/js/app.js") -}}
+  {{ $scripts := resources.Get "output/js/app.js" }}
+  {{ with $scripts }}
+    {{ $scripts := . | fingerprint }}
+    <script type="text/javascript" src="{{ $scripts.Permalink | relURL }}" integrity="{{ $scripts.Data.Integrity }}" crossorigin="anonymous" defer></script>
+    {{ $.Scratch.Set "scripts" $scripts }}    
+  {{ end }} 
+{{ end }} 
+
+
+{{ if (fileExists "./assets/output/js/algolia.js") -}}
+  {{ $algolia := resources.Get "output/js/algolia.js" | fingerprint }}
+  {{ with $algolia }}
+    <script type="text/javascript" src="{{ .Permalink | relURL }}" integrity="{{ .Data.Integrity }}" defer></script>
+    {{ $.Scratch.Set "algolia" $algolia }}    
+  {{ end }} 
+{{ end }} 
+{{/* <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@1/dist/instantsearch.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.1.1/dist/instantsearch-theme-algolia.min.css"> */}}
+{{ if eq .Type "search-results" }}
+  
+{{end}}
+
+

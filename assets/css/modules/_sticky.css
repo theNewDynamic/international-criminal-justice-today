@@ -1,0 +1,22 @@
+.size-lg {
+  @apply h-40;
+}
+
+.transition-all {
+  transition: all 1.35s ease, padding 0.5s linear;
+}
+
+@screen lg {
+  .sticky-nav {
+    @apply fixed bg-white border;    
+    background-image: none;
+  }  
+
+  .sticky-nav .size-lg {
+    @apply h-32 pl-8 pb-4;
+  }
+  .sticky-nav #searchinput {
+    @apply hidden;
+  }
+  
+}

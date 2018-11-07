@@ -1,0 +1,29 @@
+.menu-sections {
+  @apply bg-primary-color w-full text-black;
+}
+
+/* sm:text-center */
+.menu-sections_list {
+  @apply list-reset flex flex-wrap;
+}
+
+.menu-sections_list-item {
+  @apply bg-primary-color border-primary-color-light border-r border-b flex items-center justify-center;
+}
+
+.menu-sections_list-item_link {
+  @apply text-base no-underline text-grey-lightest py-2 px-4 block w-full;
+}
+
+/* sm:py-4 */
+
+.menu-sections_list-item_link:hover {
+  @apply text-grey-darkest bg-grey-light;
+}
+
+/* @screen md { 
+  .menu-sections {
+    @apply sticky pin-t;
+  }
+  
+} */

@@ -59,8 +59,8 @@ fields:
   hidden: false
   default: false
 pages:
-- _landing_pages/ipsos-polling-data.md
 - _landing_pages/how-to-calculate-bayesian-credibility-intervals.md
+- _landing_pages/ipsos-polling-data.md
 - _landing_pages/mailing-list.md
 - _landing_pages/arguendo.md
 - _landing_pages/about-the-site.md

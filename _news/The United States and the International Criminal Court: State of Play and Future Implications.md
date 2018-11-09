@@ -1,7 +1,7 @@
 ---
 title: 'The United States and the International Criminal Court: State of Play and
   Future Implications'
-featured: true
+featured: false
 date: 2018-11-09 00:00:00 -0500
 category:
 - news

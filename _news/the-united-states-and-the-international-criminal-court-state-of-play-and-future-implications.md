@@ -10,8 +10,8 @@ published: true
 featured: true
 contributors: ''
 description: ''
-pull_quote: ''
-pull_quote_attribution: ''
+pull_quote:
+pull_quote_attribution:
 featured_image_path: "/uploads/2018/11/09/26191581924_c10c7cbc96_o.jpg"
 featured_image_attribution: UN Photo/Rick Bajornas (CC BY-NC-ND 2.0)
 youtube_video_id:

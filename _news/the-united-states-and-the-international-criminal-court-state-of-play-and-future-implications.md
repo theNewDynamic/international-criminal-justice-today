@@ -26,11 +26,11 @@ Please join the ABA's International Criminal Court Project and Criminal Justice 
 **Event Details:**
 
 Thursday, November 15th, 9:30–11:00 am  
- Georgetown University Law Center, McDonough Hall, Room 164  
- 600 New Jersey Ave. NW, Washington D.C.  
- Free and open to the public. Registration encouraged as space is limited (email Kristin Smith at **Error! Hyperlink reference not valid.** to register).
+Georgetown University Law Center, McDonough Hall, Room 164  
+600 New Jersey Ave. NW, Washington D.C.  
+Free and open to the public. Registration encouraged as space is limited (email Kristin Smith at [kristin.smith@americanbar.org]() to register).
 
-**Details (PDF):** [United States and the ICC (11-15-18).pdf](https://app.forestry.io/sites/fz4s167usbqcgq/body-media//uploads/2018/11/09/United States and the ICC (11-15-18).pdf "United States and the ICC (11-15-18).pdf")
+**Details (PDF):** [United States and the ICC (11-15-18).pdf](/uploads/2018/11/09/Invitation, United States and the ICC (11-15-18).pdf "Invitation, United States and the ICC (11-15-18).pdf")
 
 **Panelists:**
 

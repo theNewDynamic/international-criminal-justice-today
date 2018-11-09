@@ -7,7 +7,7 @@ title: 'The United States and the International Criminal Court: State of Play an
   Future Implications'
 date: 2018-11-08 17:24:46 -0500
 published: false
-featured: false
+featured: true
 contributors: ''
 description: Please join the ABA's International Criminal Court Project and Criminal
   Justice Section for a panel discussion exploring the U.S. relationship with the

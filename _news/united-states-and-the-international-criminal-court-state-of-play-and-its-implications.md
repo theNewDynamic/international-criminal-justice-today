@@ -25,4 +25,4 @@ categories: []
 embed: ''
 
 ---
-[Invitation, United States and the ICC (11-15-18).pdf](/uploads/2018/11/09/Invitation, United States and the ICC (11-15-18).pdf "Invitation, United States and the ICC (11-15-18).pdf")
+[Invitation, United States and the ICC (11-15-18).pdf](https://app.forestry.io/sites/fz4s167usbqcgq/body-media//uploads/2018/11/09/Invitation, United States and the ICC (11-15-18).pdf "Invitation, United States and the ICC (11-15-18).pdf")

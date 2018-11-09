@@ -9,7 +9,9 @@ date: 2018-11-08 17:24:46 -0500
 published: false
 featured: false
 contributors: ''
-description: ''
+description: Please join the ABA's International Criminal Court Project and Criminal
+  Justice Section for a panel discussion exploring the U.S. relationship with the
+  ICC on Thursday, Nov. 15th.
 pull_quote: ''
 pull_quote_attribution: ''
 featured_image_path: ''
@@ -19,7 +21,7 @@ categories: []
 embed: ''
 
 ---
-Please join the [ABA's International Criminal Court Project](https://www.aba-icc.org/) and [Criminal Justice Section](https://www.americanbar.org/groups/criminal_justice/) for a conversation with international criminal law experts exploring the U.S. relationship with the ICC, potential complications to that relationship (including the Court’s preliminary examination in Afghanistan), and the ways in which the Court’s recent work has confronted, adapted to, and responded to pressing global challenges.
+Please join the ABA's International Criminal Court Project and Criminal Justice Section for a conversation with international criminal law experts exploring the U.S. relationship with the ICC, potential complications to that relationship (including the Court’s preliminary examination in Afghanistan), and the ways in which the Court’s recent work has confronted, adapted to, and responded to pressing global challenges.
 
 **Event Details:**
 

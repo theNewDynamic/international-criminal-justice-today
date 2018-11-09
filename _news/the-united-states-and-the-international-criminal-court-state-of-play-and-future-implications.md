@@ -6,7 +6,7 @@ include_in_news: true
 title: 'The United States and the International Criminal Court: State of Play and
   Future Implications'
 date: 2018-11-09 08:30:00 -0500
-published: true
+published: false
 featured: true
 contributors: ''
 description: Please join the ABA's International Criminal Court Project and Criminal
@@ -45,3 +45,5 @@ Free and open to the public. Registration encouraged as space is limited (email 
 **Moderator:**
 
 [Michael S. Greco](https://www.aba-icc.org/board-of-advisors/michael-s-greco/), Chair, ABA’s ICC Project Board of Advisors and Past President of the American Bar Association (2005-2006)
+
+###### _The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its_ [_website_](www.aba-icc.org)_._

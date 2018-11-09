@@ -21,14 +21,14 @@ embed: ''
 ---
 Please join the [ABA's International Criminal Court Project](https://www.aba-icc.org/) and [Criminal Justice Section](https://www.americanbar.org/groups/criminal_justice/) for a conversation with international criminal law experts exploring the U.S. relationship with the ICC, potential complications to that relationship (including the Court’s preliminary examination in Afghanistan), and the ways in which the Court’s recent work has confronted, adapted to, and responded to pressing global challenges.
 
-**Event Details:**  
-  
+**Event Details:**
+
 Thursday, November 15th, 9:30–11:00 am  
 Georgetown University Law Center, McDonough Hall, Room 164  
 600 New Jersey Ave. NW, Washington D.C.  
-Free and open to the public. Registration encouraged as space is limited (email Kristin Smith at [kristin.smith@americanbar.org]() to register).  
-  
-**Panelists:** 
+Free and open to the public. Registration encouraged as space is limited (email Kristin Smith at [kristin.smith@americanbar.org]() to register).
+
+**Panelists:**
 
 [Prof. Jane E. Stromseth](https://www.law.georgetown.edu/faculty/jane-e-stromseth/), Professor of Law, Georgetown University Law Center and Former Deputy to the Ambassador-at-Large for Global Criminal Justice, U.S. Department of State
 
@@ -38,6 +38,8 @@ Free and open to the public. Registration encouraged as space is limited (email 
 
 [Christopher (“Kip”) Hale](https://www.aba-icc.org/board-of-advisors/christopher-kip-hale/), Atrocity Crimes Attorney and Term Member, Council on Foreign Relations
 
-**Moderator:** 	
+**Moderator:**
 
 [Michael S. Greco](https://www.aba-icc.org/board-of-advisors/michael-s-greco/), Chair, ABA’s ICC Project Board of Advisors and Past President of the American Bar Association (2005-2006)
+
+[Invitation, United States and the ICC (11-15-18).pdf](/uploads/2018/11/09/Invitation, United States and the ICC (11-15-18).pdf "Invitation, United States and the ICC (11-15-18).pdf")

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ''
 category:
 - news
 include_in_news: true

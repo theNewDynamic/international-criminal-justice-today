@@ -6,12 +6,12 @@ include_in_news: true
 title: 'The United States and the International Criminal Court: State of Play and
   Future Implications'
 date: 2018-11-09 08:30:00 -0500
-published: true
+published: false
 featured: true
 contributors: ''
 description: Please join the ABA's International Criminal Court Project and Criminal
   Justice Section for a panel discussion exploring the U.S. relationship with the
-  ICC on Thursday, Nov. 15th.
+  International Criminal Court (ICC) on Thursday, Nov. 15th.
 pull_quote: ''
 pull_quote_attribution: ''
 featured_image_path: "/uploads/2018/11/09/26191581924_c10c7cbc96_o.jpg"

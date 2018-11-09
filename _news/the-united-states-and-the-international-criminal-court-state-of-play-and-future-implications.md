@@ -6,7 +6,7 @@ include_in_news: true
 title: 'The United States and the International Criminal Court: State of Play and
   Future Implications'
 date: 2018-11-09 08:30:00 -0500
-published: true
+published: false
 featured: true
 contributors: ''
 description: Please join the ABA's International Criminal Court Project and Criminal
@@ -30,7 +30,7 @@ Georgetown University Law Center, McDonough Hall, Room 164
 600 New Jersey Ave. NW, Washington D.C.  
 Free and open to the public. Registration encouraged as space is limited (email Kristin Smith at **kristin.smith@americanbar.org** to register).
 
-**Details (PDF):** [United States and the ICC (11-15-18).pdf](/uploads/2018/11/09/Invitation, United States and the ICC (11-15-18).pdf "Invitation, United States and the ICC (11-15-18).pdf")
+**Invitation (PDF):** [United States and the ICC (11-15-18).pdf](/uploads/2018/11/09/Invitation, United States and the ICC (11-15-18).pdf "Invitation, United States and the ICC (11-15-18).pdf")
 
 **Panelists:**
 

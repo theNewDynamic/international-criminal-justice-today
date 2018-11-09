@@ -30,6 +30,8 @@ Georgetown University Law Center, McDonough Hall, Room 164
 600 New Jersey Ave. NW, Washington D.C.  
 Free and open to the public. Registration encouraged as space is limited (email Kristin Smith at [kristin.smith@americanbar.org]() to register).
 
+Invitation: [Invitation, United States and the ICC (11-15-18).pdf](/uploads/2018/11/09/Invitation, United States and the ICC (11-15-18).pdf "Invitation, United States and the ICC (11-15-18).pdf")
+
 **Panelists:**
 
 [Prof. Jane E. Stromseth](https://www.law.georgetown.edu/faculty/jane-e-stromseth/), Professor of Law, Georgetown University Law Center and Former Deputy to the Ambassador-at-Large for Global Criminal Justice, U.S. Department of State
@@ -43,5 +45,3 @@ Free and open to the public. Registration encouraged as space is limited (email 
 **Moderator:**
 
 [Michael S. Greco](https://www.aba-icc.org/board-of-advisors/michael-s-greco/), Chair, ABA’s ICC Project Board of Advisors and Past President of the American Bar Association (2005-2006)
-
-[Invitation, United States and the ICC (11-15-18).pdf](/uploads/2018/11/09/Invitation, United States and the ICC (11-15-18).pdf "Invitation, United States and the ICC (11-15-18).pdf")

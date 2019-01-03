@@ -28,9 +28,9 @@ embed: https://www.scribd.com/document/396470742/2018-ABA-Statement-before-the-A
 
 Addressing the Assembly on behalf of the ABA, Past President of the ABA and Chair of the ABA’s ICC Project [Michael S. Greco](https://www.aba-icc.org/board-of-advisors/michael-s-greco/) recalled the ABA’s longstanding support for the ICC through [policy positions](https://www.aba-icc.org/the-aba-icc-project/aba-policy-on-the-icc/) advocating for the Court’s creation, and later for greater U.S. engagement and cooperation with the Court and its activities. He acknowledged the ICC’s centrality to international justice efforts and international peace and security, noting that “the fight to end impunity for atrocity crimes begins with support for the ICC.”
 
-Greco also stressed the role of States and civil society in protecting the Court from political interference, and the necessity of adequate resources needed for the Court to continue its pursuit of international criminal justice.  
+Greco also stressed the role of States and civil society in protecting the Court from political interference, and the necessity of adequate resources needed for the Court to continue its pursuit of international criminal justice.
 
-> “It is in the context of the ABA’s longstanding and unwavering commitment to the ICC that we join others in urging the Assembly of States Parties and international civil society to redouble their commitment to the ICC as well. The Court is needed now more than ever.”    
+> “It is in the context of the ABA’s longstanding and unwavering commitment to the ICC that we join others in urging the Assembly of States Parties and international civil society to redouble their commitment to the ICC as well. The Court is needed now more than ever.” - Michael S. Greco
 
 Read the full statement below. ABA Statements from past ASP meetings can be found here and [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/).
 

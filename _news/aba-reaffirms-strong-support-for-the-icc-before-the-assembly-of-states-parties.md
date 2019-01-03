@@ -4,24 +4,24 @@ category:
 - news
 include_in_news: true
 title: ABA Reaffirms Strong Support for the ICC Before the Assembly of States Parties
-published: true
+published: false
 featured: false
 date: 2018-12-07 18:00:00 -0500
 contributors: ''
 description: ''
-pull_quote: "“The ABA stands together with the Assembly of States Parties, individual
+pull_quote: The ABA stands together with the Assembly of States Parties, individual
   States Parties, and our civil society colleagues in helping protect the independence
   of the Court from political interference and ensuring that the ICC receives all
   necessary resources to help maintain international peace and security through the
   fair and impartial application of international law. In our view, the fight to end
-  impunity for atrocity crimes begins with support for the ICC.”"
+  impunity for atrocity crimes begins with support for the ICC.
 pull_quote_attribution: Michael S. Greco, Past President of the ABA (2005-2006) and
   Chair of the ABA’s ICC Project
 featured_image_path: "/uploads/2019/01/03/ASP Statement.jpg"
 featured_image_attribution: "© CICC | Syd Boyd (CC-by-NC-ND 2.0)"
 youtube_video_id: ''
 categories: []
-embed: https://www.scribd.com/document/396470742/2018-ABA-Statement-before-the-Assembly-of-States-Parties-of-the-International-Criminal-Court
+embed: ''
 
 ---
 **The Hague, The Netherlands, Dec. 7, 2018:** Before the 17th Session of the Assembly of States Parties (ASP) of the International Criminal Court (ICC), the American Bar Association (ABA) reaffirmed its support for the International Criminal Court and the Court’s mandate to investigate and prosecute (where warranted) those responsible for international atrocity crimes. The International Criminal Court has jurisdiction over war crimes, crimes against humanity, genocide and the crime of aggression.

@@ -32,8 +32,8 @@ Turning to the Court’s [novel jurisdictional basis](https://www.icc-cpi.int/Pa
 
 ![](/uploads/2019/01/03/Side Event 8.jpg)In conclusion, participants described the ICC’s potential to successfully push forward domestic accountability processes, while also noting that significant challenges exist to pursuing accountability before the ICC for crimes committed in certain situations (including lack of jurisdiction and political cooperation).  Various participants also highlighted the importance of the Court’s judicial independence despite political attacks and described States’ obligations and responsibilities to ensure accountability for international crimes as consistent with the Rome Statute.
 
-_The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its_ [_website_](https://www.aba-icc.org/).
+_The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its_ [_website_](https://www.aba-icc.org/)_._
 
-All images of this event are courtesy of © Coalition for the International Criminal Court/Syd Boyd (via [_Flickr_]()_,_ [_CC by-ND-NC-2.0_](https://creativecommons.org/licenses/by-nc-nd/2.0/)_)_
+All images of this event are courtesy of © Coalition for the International Criminal Court/Syd Boyd (via [Flickr](), [CC by-ND-NC-2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))
 
 ![](/uploads/2019/01/03/Side Event 6.jpg)

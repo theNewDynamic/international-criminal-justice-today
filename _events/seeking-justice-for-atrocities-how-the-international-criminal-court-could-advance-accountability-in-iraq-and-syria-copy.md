@@ -18,6 +18,7 @@ venue: Side Event at the 17th Session of the Assembly of States Parties of the I
 youtube_video_id: ''
 featured_image_path: "/uploads/2019/01/03/Side Event 10.jpg"
 slug: challenges-and-prospects-on-the-iccs-horizon-afghanistan-myanmar-more
+published: false
 
 ---
 **The Hague, the Netherlands, Dec. 6, 2018:** In cooperation with the International Federation for Human Rights (FIDH), the ABA’s ICC Project and Criminal Justice Section held a side event during the 17th Session of the Assembly of States Parties of the International Criminal Court in The Hague. Convening a group of distinguished experts with experience in U.S. policymaking, human rights investigations, and international criminal accountability advocacy, the discussion centered on the challenges and opportunities for increased accountability presented by the International Criminal Court’s recent examinations and investigations.

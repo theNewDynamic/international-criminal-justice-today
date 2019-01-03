@@ -17,7 +17,8 @@ pull_quote: The ABA stands together with the Assembly of States Parties, individ
   impunity for atrocity crimes begins with support for the ICC.
 pull_quote_attribution: Michael S. Greco, Past President of the ABA (2005-2006) and
   Chair of the ABA’s ICC Project
-featured_image_path: "/uploads/2019/01/03/ASP Statement.jpg"
+featured_image_path: "/uploads/2019/01/03/ASP Statement (delivered 12-7-18 by Michael
+  Greco).jpg"
 featured_image_attribution: "© CICC | Syd Boyd (CC-by-NC-ND 2.0)"
 youtube_video_id: ''
 categories: []

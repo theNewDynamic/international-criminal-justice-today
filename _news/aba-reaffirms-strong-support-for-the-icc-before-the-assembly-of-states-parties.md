@@ -2,7 +2,7 @@
 layout: page
 category:
 - news
-include_in_news: true
+include_in_news: false
 title: ABA Reaffirms Strong Support for the ICC Before the Assembly of States Parties
 published: true
 featured: true

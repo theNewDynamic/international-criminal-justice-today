@@ -6,17 +6,17 @@ include_in_news: true
 title: 'The United States and the International Criminal Court: State of Play and
   Future Implications'
 date: 2018-11-09 10:49
-published: true
-featured: true
+featured: false
 contributors: ''
 description: ''
-pull_quote:
-pull_quote_attribution:
+pull_quote: ''
+pull_quote_attribution: ''
 featured_image_path: "/uploads/2018/11/09/26191581924_c10c7cbc96_o.jpg"
 featured_image_attribution: UN Photo/Rick Bajornas (CC BY-NC-ND 2.0)
-youtube_video_id:
+youtube_video_id: ''
 categories: []
 embed: ''
+published: false
 
 ---
 Please join the ABA's International Criminal Court Project and Criminal Justice Section for a conversation with international criminal law experts exploring the U.S. relationship with the ICC, potential complications to that relationship (including the Court’s preliminary examination in Afghanistan), and the ways in which the Court’s recent work has confronted, adapted to, and responded to pressing global challenges.

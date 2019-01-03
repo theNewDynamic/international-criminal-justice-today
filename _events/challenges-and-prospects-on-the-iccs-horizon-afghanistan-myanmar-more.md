@@ -15,7 +15,7 @@ participants: "Discussants (Alphabetical):\t\nKatherine Gallagher, Senior Staff 
   Hale, Atrocity Crimes Attorney and Term Member, Council on Foreign Relations"
 venue: Side Event at the 17th Session of the Assembly of States Parties of the International
   Criminal Court, World Forum, The Hague
-youtube_video_id: 'display: none'
+youtube_video_id: "{ display: none }"
 featured_image_path: "/uploads/2019/01/03/Side Event 10.jpg"
 slug: challenges-and-prospects-on-the-iccs-horizon-afghanistan-myanmar-more
 

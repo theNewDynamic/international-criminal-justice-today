@@ -11,7 +11,7 @@ participants: "Discussants (Alphabetical):\t\nKatherine Gallagher, Senior Staff 
   Board of Advisors;\nAkila Radhakrishnan, President of the Global Justice Center;\nAmbassador
   Stephen Rapp, Visiting Fellow at the US Holocaust Memorial Museum and former US
   Ambassador-at-Large for Global Criminal Justice;\nKate Vigneswaran, Senior Legal
-  Advisor at the International Commission of Jurists\n\nModerator:  Christopher (“Kip”)
+  Advisor at the International Commission of Jurists\nModerator:  Christopher (“Kip”)
   Hale, Atrocity Crimes Attorney and Term Member, Council on Foreign Relations"
 venue: Side Event at the 17th Session of the Assembly of States Parties of the International
   Criminal Court, World Forum, The Hague
@@ -32,6 +32,6 @@ Turning to the Court’s [novel jurisdictional basis](https://www.icc-cpi.int/Pa
 
 ![](/uploads/2019/01/03/Side Event 8.jpg)In conclusion, participants described the ICC’s potential to successfully push forward domestic accountability processes, while also noting that significant challenges exist to pursuing accountability before the ICC for crimes committed in certain situations (including lack of jurisdiction and political cooperation).  Various participants also highlighted the importance of the Court’s judicial independence despite political attacks and described States’ obligations and responsibilities to ensure accountability for international crimes as consistent with the Rome Statute.
 
-![](/uploads/2019/01/03/Side Event 6.jpg)
-
 _The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its_ [_website_](https://www.aba-icc.org/)_._
+
+![](/uploads/2019/01/03/Side Event 6.jpg)

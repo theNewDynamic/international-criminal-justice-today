@@ -16,7 +16,7 @@ featured_image_attribution: UN Photo/Rick Bajornas (CC BY-NC-ND 2.0)
 youtube_video_id: ''
 categories: []
 embed: ''
-published: true
+published: false
 
 ---
 Please join the ABA's International Criminal Court Project and Criminal Justice Section for a conversation with international criminal law experts exploring the U.S. relationship with the ICC, potential complications to that relationship (including the Court’s preliminary examination in Afghanistan), and the ways in which the Court’s recent work has confronted, adapted to, and responded to pressing global challenges.

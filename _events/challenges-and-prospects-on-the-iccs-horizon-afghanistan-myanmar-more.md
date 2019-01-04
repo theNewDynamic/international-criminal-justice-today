@@ -1,25 +1,29 @@
 ---
 title: 'Challenges and Prospects on the ICC''s Horizon: Afghanistan, Myanmar and More'
-date: 2018-12-06 13:00:00 -0500
-description: 
-sponsor: 'Organized by: International Federation for Human Rights (FIDH); American
-  Bar Association''s International Criminal Court Project; American Bar Association''s
-  Criminal Justice Section'
-participants: "Discussants (Alphabetical):\t\nKatherine Gallagher, Senior Staff Attorney
-  at the Center for Constitutional Rights; \nMichael Greco, Past President of the
-  American Bar Association (2005-2006), and current Chair of the ABA's ICC Project
-  Board of Advisors;\nAkila Radhakrishnan, President of the Global Justice Center;\nAmbassador
-  Stephen Rapp, Visiting Fellow at the US Holocaust Memorial Museum and former US
-  Ambassador-at-Large for Global Criminal Justice;\nKate Vigneswaran, Senior Legal
-  Advisor at the International Commission of Jurists\nModerator:  Christopher (“Kip”)
-  Hale, Atrocity Crimes Attorney and Term Member, Council on Foreign Relations"
-venue: Side Event at the 17th Session of the Assembly of States Parties of the International
-  Criminal Court, World Forum, The Hague
-youtube_video_id: ''
-featured_image_path: "/uploads/2019/01/03/Side Event 10.jpg"
+date: 2018-12-06 18:00:00
+description:
+sponsor: >-
+  Organized by: International Federation for Human Rights (FIDH); American Bar
+  Association's International Criminal Court Project; American Bar Association's
+  Criminal Justice Section
+participants: >-
+  Discussants (Alphabetical): Katherine Gallagher, Senior Staff Attorney at the
+  Center for Constitutional Rights; Michael Greco, Past President of the
+  American Bar Association (2005-2006), and current Chair of the ABA's ICC
+  Project Board of Advisors;Akila Radhakrishnan, President of the Global Justice
+  Center;Ambassador Stephen Rapp, Visiting Fellow at the US Holocaust Memorial
+  Museum and former US Ambassador-at-Large for Global Criminal Justice;Kate
+  Vigneswaran, Senior Legal Advisor at the International Commission of
+  JuristsModerator:  Christopher (“Kip”) Hale, Atrocity Crimes Attorney and Term
+  Member, Council on Foreign Relations
+venue: >-
+  Side Event at the 17th Session of the Assembly of States Parties of the
+  International Criminal Court, World Forum, The Hague
+youtube_video_id:
+featured_image_path: /uploads/2019/01/03/Side Event 10.jpg
 slug: challenges-and-prospects-on-the-iccs-horizon-afghanistan-myanmar-more
-
 ---
+
 **The Hague, the Netherlands, Dec. 6, 2018:** In cooperation with the International Federation for Human Rights (FIDH), the ABA’s ICC Project and Criminal Justice Section held a side event during the 17th Session of the Assembly of States Parties of the International Criminal Court in The Hague. Convening a group of distinguished experts with experience in U.S. policymaking, human rights investigations, and international criminal accountability advocacy, the discussion centered on the challenges and opportunities for increased accountability presented by the International Criminal Court’s recent examinations and investigations.
 
 ![](/uploads/2019/01/03/Side Event 2.jpg)Ambassador [Stephen J. Rapp](https://www.ushmm.org/confront-genocide/about/simon-skjodt-center-fellows/ambassador-stephen-j-rapp), former U.S. Ambassador-at-Large for Global Criminal Justice, gave an overview of how [U.S. policy towards the ICC has evolved](https://www.aba-icc.org/about-the-icc/the-us-icc-relationship/) since the Court’s creation. He highlighted  efforts of previous U.S. administrations to forge a more cooperative relationship with the Court and its work, from sending observer delegations to the ICC ASP [starting in 2009](https://www.reuters.com/article/us-usa-icc/u-s-to-attend-hague-court-meeting-as-observer-idUSTRE5AF30A20091116) to the U.S. role in [facilitating](https://www.bbc.com/news/world-africa-30705649) the [transfer](https://www.reuters.com/article/us-rwanda-warcrimes-usa/rwanda-says-war-crimes-suspect-surrenders-at-u-s-embassy-idUSBRE92H0UK20130318) of two ICC suspects to the Court.  Amb. Rapp also reminded participants that bipartisan support remains in the United States for justice and accountability in many global situations, and noted progress made in cementing the prohibition on torture in U.S. law through [recent legislative changes](https://www.congress.gov/bill/114th-congress/house-bill/1735/text#toc-H75DFAC1D0A7148B4A454E532D7E864A6).
@@ -32,8 +36,8 @@ Turning to the Court’s [novel jurisdictional basis](https://www.icc-cpi.int/Pa
 
 ![](/uploads/2019/01/03/Side Event 8.jpg)In conclusion, participants described the ICC’s potential to successfully push forward domestic accountability processes, while also noting that significant challenges exist to pursuing accountability before the ICC for crimes committed in certain situations (including lack of jurisdiction and political cooperation).  Various participants also highlighted the importance of the Court’s judicial independence despite political attacks and described States’ obligations and responsibilities to ensure accountability for international crimes as consistent with the Rome Statute.
 
-_The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its_ [_website_](https://www.aba-icc.org/)_._
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its* [*website*](https://www.aba-icc.org/)*.*
 
-All images of this event are courtesy of © Coalition for the International Criminal Court/Syd Boyd (via [Flickr](), [CC by-ND-NC-2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))
+All images of this event are courtesy of © Coalition for the International Criminal Court/Syd Boyd (via [Flickr](){: .cc-active}, [CC by-ND-NC-2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))
 
 ![](/uploads/2019/01/03/Side Event 6.jpg)

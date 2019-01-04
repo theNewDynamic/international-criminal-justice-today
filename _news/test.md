@@ -4,7 +4,7 @@ category:
 - news
 include_in_news: true
 title: Test
-published: false
+published: true
 featured: false
 date: ''
 contributors: ''

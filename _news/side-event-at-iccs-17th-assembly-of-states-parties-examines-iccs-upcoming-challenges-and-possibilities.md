@@ -12,7 +12,7 @@ pull_quote_attribution:
 featured_image_path: /uploads/2019/01/03/Side Event 5.jpg
 featured_image_attribution: © Coalition for the International Criminal Court/Syd Boyd (CC by-ND-NC-2.0)
 youtube_video_id:
-published: false
+published: true
 categories:
 embed:
 layout:

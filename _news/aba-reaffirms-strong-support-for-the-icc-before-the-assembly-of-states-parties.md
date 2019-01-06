@@ -22,7 +22,7 @@ categories: []
 embed: ''
 layout: ''
 include_in_news: true
-published: true
+published: false
 
 ---
 **The Hague, The Netherlands, Dec. 7, 2018:** Before the 17th Session of the Assembly of States Parties (ASP) of the International Criminal Court (ICC), the American Bar Association (ABA) reaffirmed its support for the International Criminal Court and the Court’s mandate to investigate and prosecute (where warranted) those responsible for international atrocity crimes. The International Criminal Court has jurisdiction over war crimes, crimes against humanity, genocide and the crime of aggression.

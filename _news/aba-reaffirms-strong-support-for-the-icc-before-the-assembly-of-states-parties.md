@@ -21,7 +21,7 @@ youtube_video_id:
 categories:
 embed:
 layout:
-include_in_news: false
+include_in_news: true
 published: true
 ---
 

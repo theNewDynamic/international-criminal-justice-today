@@ -1,6 +1,6 @@
 ---
 title: 'Challenges and Prospects on the ICC''s Horizon: Afghanistan, Myanmar and More'
-published: false
+published: true
 date: 2018-12-06 18:00:00
 description:
 sponsor: >-

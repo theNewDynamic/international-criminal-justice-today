@@ -15,14 +15,12 @@ pull_quote_attribution: ''
 featured_image_path: "/uploads/u-s--army-firefight-in-kunar.jpg"
 featured_image_attribution: www.defencetalk.com
 youtube_video_id: ''
-published: false
 categories: []
 embed: ''
 layout: ''
 include_in_news: false
 
 ---
-
 Washington, D.C., June 12, 2018 - The latest ABA’s ICC Project/Ipsos polling report makes clear that more Americans know about and support the ICC. In almost all categories of questions, Americans showed equal or more awareness of the ICC and support for the Court’s work in comparison to past polls. Specifically, there was a five percent uptick in the awareness of all Americans of the ICC (from 40% to 45%) since the July 2017&nbsp;[poll](https://www.international-criminal-justice-today.org/polling-data/2017/07/17/july-2017-ipsos-polling-results/){: target="_blank"}.&nbsp;
 
 When asked about US-ICC relations, 50% of Americans believe the US should join the ICC or get more involved in the Court, the same as in July 2017. An increased majority of Americans (63%) believe the US should dedicate resources, including financial, military and intelligence resources, to international organizations like the ICC that support human rights and that hold individuals accountable for mass atrocities. Only 20% believe the US should not join the Court.&nbsp;

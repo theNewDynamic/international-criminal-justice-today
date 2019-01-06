@@ -3,7 +3,7 @@ title: Kristin J. Smith
 published: true
 last_name: Smith
 description:
-image_path:
+image_path: /uploads/kristinsmith.jpg
 slug:
 ---
 

@@ -33,8 +33,8 @@ Greco also stressed the role of States and civil society in protecting the Court
 
 > “It is in the context of the ABA’s longstanding and unwavering commitment to the ICC that we join others in urging the Assembly of States Parties and international civil society to redouble their commitment to the ICC as well. The Court is needed now more than ever.” - Michael S. Greco
 
-Read the full statement below. ABA Statements from past ASP meetings can be found here and [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/).
+Read the full statement [here](https://www.scribd.com/document/396470742/2018-ABA-Statement-before-the-Assembly-of-States-Parties-of-the-International-Criminal-Court). ABA Statements from past ASP meetings can be found here and [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/).
 
- 
+&nbsp;
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its* [*website*](www.aba-icc.org)*.*

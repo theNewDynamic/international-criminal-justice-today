@@ -3,7 +3,7 @@ title: 20 Years of the International Criminal Court - An Assessment
 published: true
 featured: false
 date: 2018-07-05 12:00:00
-category:
+category: news
 contributors:
 description: >-
   Please join us for a Capitol Hill panel briefing to celebrate International

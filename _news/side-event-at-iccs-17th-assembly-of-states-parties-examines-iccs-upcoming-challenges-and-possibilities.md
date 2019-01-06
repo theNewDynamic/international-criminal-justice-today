@@ -2,7 +2,7 @@
 title: >-
   Side Event at ICC’s 17th Assembly of States Parties Examines ICC’s Upcoming
   Challenges and Possibilities for Advancing Accountability
-featured: false
+featured: true
 date: 2018-12-06 18:00:00
 category: news
 contributors:

@@ -19,21 +19,7 @@ featured_image_path: /uploads/2019/01/03/ASP Statement (delivered 12-7-18 by Mic
 featured_image_attribution: © CICC | Syd Boyd (CC-by-NC-ND 2.0)
 youtube_video_id:
 categories:
-embed: >-
-  <figure data-type="embed"><p style="   margin: 12px auto 6px auto;  
-  font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant:
-  normal;   font-weight: normal;   font-size: 14px;   line-height: normal;  
-  font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;  
-  display: block;"><a title="View 2018 ABA Statement before the Assembly of
-  States Parties of the International Criminal Court on Scribd"
-  style="text-decoration: underline;"
-  href="https://www.scribd.com/document/396470742/2018-ABA-Statement-before-the-Assembly-of-States-Parties-of-the-International-Criminal-Court#from_embed">2018
-  ABA Statement before t...</a> by on Scribd</p><iframe
-  class="scribd_iframe_embed" title="2018 ABA Statement before the Assembly of
-  States Parties of the International Criminal Court"
-  src="https://www.scribd.com/embeds/396470742/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true&amp;access_key=key-lJcWJkCzm02ULTIk5Dor"
-  data-auto-height="true" data-aspect-ratio="null" scrolling="no" width="100%"
-  height="600" frameborder="0"></iframe></figure>
+embed: '[scribd id=396470742 key=key-lJcWJkCzm02ULTIk5Dor mode=scroll]'
 layout:
 include_in_news: true
 published: true
@@ -45,7 +31,7 @@ Addressing the Assembly on behalf of the ABA, Past President of the ABA and Chai
 
 Greco also stressed the role of States and civil society in protecting the Court from political interference, and the necessity of adequate resources needed for the Court to continue its pursuit of international criminal justice.
 
-Quote: “It is in the context of the ABA’s longstanding and unwavering commitment to the ICC that we join others in urging the Assembly of States Parties and international civil society to redouble their commitment to the ICC as well. The Court is needed now more than ever.” - Michael S. Greco
+> “It is in the context of the ABA’s longstanding and unwavering commitment to the ICC that we join others in urging the Assembly of States Parties and international civil society to redouble their commitment to the ICC as well. The Court is needed now more than ever.” - Michael S. Greco
 
 Read the full statement below. ABA Statements from past ASP meetings can be found here and [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/).
 

@@ -35,6 +35,6 @@ Greco also stressed the role of States and civil society in protecting the Court
 
 Read the full statement below. ABA Statements from past ASP meetings can be found here and [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/).
 
-&nbsp;
+&lt;figure data-type="embed"&gt;&lt;iframe class="scribd\_iframe\_embed" title="2018 ABA Statement before the Assembly of States Parties of the International Criminal Court" src="https://www.scribd.com/embeds/396470742/content?start\_page=1&view\_mode=scroll&show\_recommendations=true&access\_key=key-lJcWJkCzm02ULTIk5Dor" data-auto-height="true" data-aspect-ratio="null" scrolling="no" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;&lt;/figure&gt;
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its* [*website*](www.aba-icc.org)*.*

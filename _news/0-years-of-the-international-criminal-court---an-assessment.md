@@ -1,6 +1,6 @@
 ---
 title: 20 Years of the International Criminal Court - An Assessment
-published: false
+published: true
 featured: false
 date: 2018-07-05 12:00:00
 category:

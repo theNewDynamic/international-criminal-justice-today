@@ -19,7 +19,22 @@ featured_image_path: /uploads/2019/01/03/ASP Statement (delivered 12-7-18 by Mic
 featured_image_attribution: © CICC | Syd Boyd (CC-by-NC-ND 2.0)
 youtube_video_id:
 categories:
-embed:
+embed: >-
+  <p  style="   margin: 12px auto 6px auto;   font-family:
+  Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;  
+  font-weight: normal;   font-size: 14px;   line-height: normal;  
+  font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;  
+  display: block;"   ><a title="View 2018 ABA Statement before the Assembly of
+  States Parties of the International Criminal Court on Scribd"
+  href="https://www.scribd.com/document/396470742/2018-ABA-Statement-before-the-Assembly-of-States-Parties-of-the-International-Criminal-Court#from_embed" 
+  style="text-decoration: underline;">2018 ABA Statement before t...</a> by <a
+  title="View 's profile on Scribd" href="undefined#from_embed" 
+  style="text-decoration: underline;"></a> on Scribd</p><iframe
+  class="scribd_iframe_embed" title="2018 ABA Statement before the Assembly of
+  States Parties of the International Criminal Court"
+  src="https://www.scribd.com/embeds/396470742/content?start_page=1&view_mode=scroll&show_recommendations=true&access_key=key-lJcWJkCzm02ULTIk5Dor"
+  data-auto-height="true" data-aspect-ratio="null" scrolling="no" width="100%"
+  height="600" frameborder="0"></iframe>
 layout:
 include_in_news: true
 published: true

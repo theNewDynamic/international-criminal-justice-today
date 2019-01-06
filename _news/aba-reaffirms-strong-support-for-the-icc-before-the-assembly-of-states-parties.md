@@ -36,8 +36,6 @@ Greco also stressed the role of States and civil society in protecting the Court
 
 Read the full statement below. ABA Statements from past ASP meetings can be found here and [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/).
 
-<figure data-type="embed">&lt;iframe class="scribd_iframe_embed" title="2018 ABA Statement before the Assembly of States Parties of the International Criminal Court" src="[<a href="https://www.scribd.com/embeds/396470742/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true&amp;access_key=key-lJcWJkCzm02ULTIk5Dor">https://www.scribd.com/embeds/396470742/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true&amp;access_key=key-lJcWJkCzm02ULTIk5Dor</a>]("<a href="https://www.scribd.com/embeds/396470742/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true&amp;access_key=key-lJcWJkCzm02ULTIk5Dor">https://www.scribd.com/embeds/396470742/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true&amp;access_key=key-lJcWJkCzm02ULTIk5Dor</a>")" data-auto-height="true" data-aspect-ratio="null" scrolling="no" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;</figure>
-
 &nbsp;
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its* [*website*](www.aba-icc.org)*.*

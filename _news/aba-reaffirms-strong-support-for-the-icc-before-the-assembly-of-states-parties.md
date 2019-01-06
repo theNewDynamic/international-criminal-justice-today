@@ -15,7 +15,7 @@ pull_quote: >-
 pull_quote_attribution: >-
   Michael S. Greco, Past President of the ABA (2005-2006) and Chair of the ABA’s
   ICC Project
-featured_image_path: /uploads/sideevent10.jpg
+featured_image_path: /uploads/aspstatement.jpg
 featured_image_attribution: © CICC | Syd Boyd (CC-by-NC-ND 2.0)
 youtube_video_id:
 categories:
@@ -35,6 +35,6 @@ Greco also stressed the role of States and civil society in protecting the Court
 
 Read the full statement below. ABA Statements from past ASP meetings can be found here and [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/).
 
-&nbsp;
+ 
 
 *The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its* [*website*](www.aba-icc.org)*.*

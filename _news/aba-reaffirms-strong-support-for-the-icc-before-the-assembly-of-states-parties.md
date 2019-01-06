@@ -19,7 +19,7 @@ featured_image_path: /uploads/2019/01/03/ASP Statement (delivered 12-7-18 by Mic
 featured_image_attribution: © CICC | Syd Boyd (CC-by-NC-ND 2.0)
 youtube_video_id:
 categories:
-embed: '[scribd id=396470742 key=key-lJcWJkCzm02ULTIk5Dor mode=scroll]'
+embed:
 layout:
 include_in_news: true
 published: true

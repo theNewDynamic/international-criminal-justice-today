@@ -1,25 +1,20 @@
 ---
 title: >-
-  Democracy and Human Rights Working Group Meeting Focuses on U.S. Role in
+  Democracy and Human Rights Working Group Meeting Discusses U.S. Role in
   International Justice
-published: true
-date: 2015-09-24 16:04:00 -0400
+published: false
+date: 2015-09-24 20:04:00
 description:
-sponsor: >-
-  The American Bar Association; The American Red Cross; American Society of
-  International Law; Case Western Reserve University School of Law; The
-  Chautauqua Institution; Impunity Watch; intlawgrrl;International Bar
-  Association; NYU Center for Global Affairs; The Planethood Foundation; The
-  Robert H. Jackson Center; Syracuse University College of Law; Whitney R.
-  Harris World Law Institute at Washington University School of Law; in
-  association with the United States Holocaust Memorial Museum
-participants: >-
-  Former and current chief prosecutors attending from the International Criminal
-  Court, International Criminal Tribunal for the former Yugoslavia,
-  International Criminal Tribunal for Rwanda, Special Court for Sierre Leone,
-  and the Extraordinary Chambers in the Courts of Cambodia.
-venue: 'Chautauqua Institution and The Athenaeum Hotel - Chautauqua, New York'
+sponsor:
+participants:
+venue:
 youtube_video_id: _5G6nj6R2m8
 featured_image_path: /uploads/1443127902482_21466389016_bda2c2bd61_k.jpg
 slug: 9th-annual-international-humanitarian-law-dialogs-2015
 ---
+
+Along with the [McCain Institute for International Leadership](https://www.mccaininstitute.org/), the ABA’s ICC Project and Criminal Justice Section co-convened a meeting of the McCain Institute’s nonpartisan [Democracy and Human Rights Working Group](https://www.mccaininstitute.org/human-rights-democracy-mission/) in Washington, D.C. The November 2018 meeting of the Working Group focused on current challenges facing the International Criminal Court and international justice, including the United States’ relationship with the Court. Former Ambassadors and Deputy Ambassadors for Global Criminal Justice during the Bush and Obama administrations opened the dialogue with a discussion of how the U.S. relationship with the ICC has evolved over the past two decades. ABA’s ICC Project Chair and Past ABA President [Michael S. Greco](https://www.aba-icc.org/board-of-advisors/michael-s-greco/) also offered remarks on the legal profession’s role in supporting international justice, as well as the importance of broadening the community of those involved with international justice issues in the United States.
+
+Points of discussion included lessons learned from different administrations’ strategies for engagement with international justice institutions, international credibility in broader international justice efforts, and relationships with allies who are ICC States Parties. The [United States’ engagement](http://lawfare.s3-us-west-2.amazonaws.com/staging/Koh-Buchwald%20AJIL%20article%20%282%29.pdf) in debate surrounding the adoption of ICC jurisdiction over the crime of aggression was cited as an example of the benefits of engagement. It was also noted by some participants that the ICC has played a role in spurring domestic legislation and changes to address atrocity crimes globally, and that it has in many ways solidified the presumption and expectation of justice for these crimes in some venue.
+
+Civil society practitioners, think tank and other experts, academics and current and former U.S. administration officials attended the discussion, which included a question and answer session. &nbsp;

@@ -14,7 +14,7 @@ pull_quote: >-
   on protecting the human rights and human dignity of every person and the legal
   profession’s responsibility in serving the public interest."
 pull_quote_attribution:
-featured_image_path: /uploads/Judge Wald.png
+featured_image_path: /uploads/judgewald.png
 featured_image_attribution:
 youtube_video_id:
 ---

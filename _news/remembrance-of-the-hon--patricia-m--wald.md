@@ -1,6 +1,6 @@
 ---
 title: Statement on the Passing of the Hon. Patricia M. Wald
-published: false
+published: true
 featured: false
 date: 2019-01-18 12:00:00
 category: news
@@ -14,7 +14,7 @@ pull_quote: >-
   on protecting the human rights and human dignity of every person and the legal
   profession’s responsibility in serving the public interest."
 pull_quote_attribution:
-featured_image_path: /uploads/judgewald.png
+featured_image_path: /uploads/JudgeWald2.png
 featured_image_attribution:
 youtube_video_id:
 ---

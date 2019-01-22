@@ -1,6 +1,6 @@
 ---
 title: Statement on the Passing of the Hon. Patricia M. Wald
-published: false
+published: true
 featured: false
 date: 2019-01-18 12:00:00
 category: news

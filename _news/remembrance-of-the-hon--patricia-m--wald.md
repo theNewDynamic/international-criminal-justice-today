@@ -6,13 +6,12 @@ date: 2019-01-18 12:00:00
 category: news
 contributors:
 description: >-
-  ABA’s ICC Project Chair, Michael S. Greco, remembers the Hon. Patricia M.
-  Wald's immeasurable contributions to international law and the legal
-  profession.
+  The ABA’s ICC Project remembers the Hon. Patricia M. Wald's immeasurable
+  contributions to international law and the legal profession.
 pull_quote: >-
-  "Judge Wald’s extraordinary career as a lawyer and federal judge was grounded
+  Judge Wald’s extraordinary career as a lawyer and federal judge was grounded
   on protecting the human rights and human dignity of every person and the legal
-  profession’s responsibility in serving the public interest."
+  profession’s responsibility in serving the public interest.
 pull_quote_attribution:
 featured_image_path: /uploads/JudgeWald2.png
 featured_image_attribution:

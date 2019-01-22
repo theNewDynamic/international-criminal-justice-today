@@ -12,7 +12,7 @@ pull_quote: >-
   Judge Wald’s extraordinary career as a lawyer and federal judge was grounded
   on protecting the human rights and human dignity of every person and the legal
   profession’s responsibility in serving the public interest.
-pull_quote_attribution:
+pull_quote_attribution: '- Michael S. Greco, ABA''s ICC Project Chair'
 featured_image_path: /uploads/JudgeWald2.png
 featured_image_attribution:
 youtube_video_id:

@@ -3,7 +3,7 @@ title: >-
   Statement of ABA President Bob Carlson Re: Restricting International Criminal
   Court Officials’ Visas
 published: true
-featured: false
+featured: true
 date: 2019-04-08 12:00:00
 category: news
 contributors:

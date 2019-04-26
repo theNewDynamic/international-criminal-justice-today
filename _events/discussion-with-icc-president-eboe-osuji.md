@@ -1,6 +1,6 @@
 ---
 title: Discussion with ICC President Eboe-Osuji
-published: false
+published: true
 date: 2019-03-27 12:00:00
 description:
 sponsor: >-

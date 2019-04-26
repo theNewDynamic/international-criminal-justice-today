@@ -9,7 +9,7 @@ sponsor: >-
 participants:
 venue: 'American Bar Association, Washington, D.C. office'
 youtube_video_id:
-featured_image_path: /uploads/icc-president-meeting-3-27-19.jpg
+featured_image_path: /uploads/iccpresident.jpg
 slug:
 ---
 

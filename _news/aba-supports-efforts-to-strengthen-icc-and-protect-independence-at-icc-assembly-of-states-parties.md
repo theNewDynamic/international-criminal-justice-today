@@ -21,8 +21,8 @@ pull_quote: >-
 pull_quote_attribution: >-
   Michael S. Greco, Past President of the ABA (2005-2006) and Chair of the ICC
   Project
-featured_image_path:
-featured_image_attribution:
+featured_image_path: /uploads/cicc-cc-by-nc-nd-2-0.jpg
+featured_image_attribution: CICC (CC BY-NC-ND 2.0)
 youtube_video_id:
 ---
 
@@ -36,6 +36,6 @@ Greco also stressed the continued need for all stakeholders to protect the indep
 
 Read the full statement [here](https://www.scribd.com/document/438313855/ABA-Statement-to-18th-Assembly-of-States-Parties-to-the-ICC-3-Dec-2019).
 
-&lt;p &nbsp;style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;"&gt; &nbsp; &lt;a title="View ABA Statement to 18th Assembly of States Parties to the ICC (3 Dec. 2019) on Scribd" href="https://www.scribd.com/document/438313855/ABA-Statement-to-18th-Assembly-of-States-Parties-to-the-ICC-3-Dec-2019\#from\_embed" &nbsp;style="text-decoration: underline;" &gt;ABA Statement to 18th Assembly of States Parties to the ICC (3 Dec. 2019)&lt;/a&gt; by &lt;a title="View American Bar Association&\#x27;s International Criminal Court Project's profile on Scribd" href="https://www.scribd.com/user/262028268/American-Bar-Association-s-International-Criminal-Court-Project\#from\_embed" &nbsp;style="text-decoration: underline;" &gt;American Bar Association&\#x27;s International Criminal Court Project&lt;/a&gt; on Scribd&lt;/p&gt;&lt;iframe class="scribd\_iframe\_embed" title="ABA Statement to 18th Assembly of States Parties to the ICC (3 Dec. 2019)" src="https://www.scribd.com/embeds/438313855/content?start\_page=1&view\_mode=scroll&access\_key=key-i1a04nRhfJlDyZPwQhkO&show\_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc\_65898" width="100%" height="600" frameborder="0"&gt;&lt;/iframe&gt;
+&nbsp;
 
 *The International Criminal Court (ICC) Project, jointly supported by the ABA's Center for Human Rights and Criminal Justice Section, seeks to advance international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ABA’s ICC Project, please visit its*&nbsp;[*website*](www.aba-icc.org)*.*

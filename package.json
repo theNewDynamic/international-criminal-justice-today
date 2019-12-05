@@ -63,7 +63,7 @@
     "html5shiv": "^3.7.3",
     "imagemin-cli": "^2.1.0",
     "install": "^0.8.1",
-    "jquery": "^2.2.4",
+    "jquery": "^3.4.1",
     "node-neat": "^1.7.2",
     "node-sass": "^3.4.2",
     "normalize-opentype.css": "^0.2.4",

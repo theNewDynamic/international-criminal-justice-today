@@ -7,17 +7,15 @@ category: news
 contributors:
 description:
 pull_quote: >-
-  This independence is central to the Rome Statute system’s integrity,
-  legitimacy, and potential to advance the rule of law during a decisive moment
-  in that progress. The long-term success of the ICC, and its wide-reaching
-  impact for victims, affected communities, national jurisdictions, and the
-  international community, depend on the Court’s ability to continue to
-  question, improve, and resiliently pursue its mission to fight impunity for
-  atrocity crimes that still remain too often unaddressed and unchecked more
-  than two decades after its establishment. The Court must be able to do this
-  difficult job without fear of political interference in its investigations and
-  decisions or persecution of its professionals because of their work on behalf
-  of a global institution dedicated to international criminal justice.
+  The long-term success of the ICC, and its wide-reaching impact for victims,
+  affected communities, national jurisdictions, and the international community,
+  depend on the Court’s ability to continue to question, improve, and
+  resiliently pursue its mission to fight impunity for atrocity crimes that
+  still remain too often unaddressed and unchecked more than two decades after
+  its establishment. The Court must be able to do this difficult job without
+  fear of political interference in its investigations and decisions or
+  persecution of its professionals because of their work on behalf of a global
+  institution dedicated to international criminal justice.
 pull_quote_attribution: >-
   Michael S. Greco, Past President of the ABA (2005-2006) and Chair of the ICC
   Project

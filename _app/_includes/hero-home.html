@@ -7,13 +7,7 @@
         {% assign featured_image = object.featured_image_path %}
         {% assign title = object.title %}
 
-        {% if forloop.index0 == 2 %}
-          <div class="static-banner">
-            <h2><em>International Criminal Justice Today</em> is a Partnership with</h2>
-            <img data-flickity-lazyload="{{ site.image_path }}/PC_PrgIntComparativeLaw_3C_RGB_Hzt.png">
-          </div>
-        {% endif %}
-
+        
         {% if forloop.index0 == 3 %}
           <a href="/ipsos-polling-data/" class="static-image">
         <img data-flickity-lazyload="/assets/images/ipsos-card-sm-425x445.png">

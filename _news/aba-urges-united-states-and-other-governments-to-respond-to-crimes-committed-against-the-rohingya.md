@@ -10,8 +10,9 @@ contributors:
 description:
 pull_quote:
 pull_quote_attribution:
-featured_image_path:
-featured_image_attribution:
+featured_image_path: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/93/Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg
+featured_image_attribution: John Owens (VOA) / Public domain
 youtube_video_id:
 ---
 

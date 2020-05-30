@@ -28,6 +28,8 @@ The Group of Independent Experts is expected to issue a report with recommendati
 
 The American Bar Association has [long supported](https://www.aba-icc.org/the-aba-icc-project/aba-policy-on-the-icc/) the International Criminal Court’s existence, independence and essential role in the global system of international justice, most directly through the work of the International Criminal Court Project. The submission focused in particular on the need for investment in professional development, clarifying essential trial procedures, and the impact of judicial management on trial efficiency and predictability. It also encouraged the ICC and Trust Fund for Victims to explore innovative funding mechanisms to increase their long-term sustainability and impact on victims of atrocity crimes.
 
+&nbsp;
+
 Read the [cover letter](https://www.americanbar.org/content/dam/aba/administrative/criminal_justice/cover-letter-icc-independent-experts-review.pdf) and full [submission](https://www.americanbar.org/content/dam/aba/administrative/criminal_justice/cjs-comments-icc-independent-experts.pdf) here.
 
 &nbsp;

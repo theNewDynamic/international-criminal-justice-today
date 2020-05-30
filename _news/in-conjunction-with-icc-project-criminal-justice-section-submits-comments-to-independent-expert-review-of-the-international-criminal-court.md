@@ -1,7 +1,7 @@
 ---
 title: >-
-  ABA's Criminal Justice Section Submits Comments to Independent Expert Review
-  of the International Criminal Court
+  Criminal Justice Section Submits Comments to Independent Expert Review of the
+  International Criminal Court
 published: false
 featured: false
 date: 2020-04-17 12:00:00

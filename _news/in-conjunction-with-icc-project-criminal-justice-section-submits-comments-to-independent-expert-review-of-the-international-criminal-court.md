@@ -14,7 +14,7 @@ pull_quote: >-
   Court’s many stakeholders, critics, and supporters, could have an invaluable
   impact on the institution’s readiness to face the challenges inherent in its
   mission to seek accountability for atrocity crimes.
-pull_quote_attribution: Criminal Justice Section
+pull_quote_attribution: ABA's Criminal Justice Section
 featured_image_path: /uploads/r-boed-via-flickr-cc-by-2-0.jpg
 featured_image_attribution: R Boed via Flickr (CC by 2.0)
 youtube_video_id:

@@ -3,25 +3,18 @@ title: Side Event at the ICC Assembly of States Parties on Upcoming ICC Review
 published: true
 date: 2019-12-02 20:04:00
 description: >-
-  Over the past decade, the International Criminal Court has established itself
-  as a central agent in the fight against impunity for international crimes. At
-  the same time, the court continues to face significant internal and external
-  challenges related to its legal framework, procedures, and effectiveness. A
-  critical assessment of the Rome Statute system, especially by independent
+  A critical assessment of the Rome Statute system, especially by independent
   experts, is necessary to ensure a more effective and efficient institution
-  capable of carrying out its mandate. 
-
-
-  Having experienced first-hand the delivery of justice or lack thereof to
-  victims and affected communities, civil society actors, including those from
-  ICC situation countries, are uniquely placed to consider how the Court can be
-  strengthened and improved to better deliver justice to those most directly
-  impacted by atrocity crimes. This side event will provide a forum for civil
-  society organizations to highlight their concerns, priorities, and
-  recommendations for how a review process might best address these challenges —
-  conversations that will no doubt continue throughout this Assembly of States
-  Parties. We will also discuss the crucial need for the process to remain
-  accessible, inclusive, and anchored in the principles of the Rome Statute.
+  capable of carrying out its mandate. Having experienced first-hand the
+  delivery of justice or lack thereof to victims and affected communities, civil
+  society actors, including those from ICC situation countries, are uniquely
+  placed to consider how the Court can be strengthened and improved to better
+  deliver justice to those most directly impacted by atrocity crimes. This side
+  event will provide a forum for civil society organizations to highlight their
+  concerns, priorities, and recommendations for how a review process might best
+  address these challenges. We will also discuss the crucial need for the
+  process to remain accessible, inclusive, and anchored in the principles of the
+  Rome Statute.
 sponsor: >-
   International Criminal Court Project (ABA's CJS and CHR), International
   Federation for Human Rights (FIDH), Human Rights Watch

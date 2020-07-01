@@ -2,7 +2,7 @@
 title: >-
   Statement of ABA President Judy Perry Martinez re: U.S. Sanctions of
   International Criminal Court Personnel
-published: false
+published: true
 featured: false
 date: 2020-06-12 12:00:00
 category: news

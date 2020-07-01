@@ -1,6 +1,6 @@
 ---
 title: Side Event at the ICC Assembly of States Parties on Upcoming ICC Review
-published: false
+published: true
 date: 2019-12-02 20:04:00
 description: >-
   Over the past decade, the International Criminal Court has established itself

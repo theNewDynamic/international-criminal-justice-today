@@ -37,3 +37,7 @@ In addition to remarks and reflections from civil society leaders from ICC situa
 In the discussion portion of the event, many civil society representatives discussed their concerns, expectations, and initial recommendations for topics the review process might cover, providing an important initial platform to build successive conversations in other events throughout the week.&nbsp;
 
 For more, read another&nbsp;[reflection&nbsp;](https://www.publicinternationallawandpolicygroup.org/lawyering-justice-blog/2019/12/3/asp18-side-event-a-civil-society-conversation-on-icc-review-towards-a-victim-centered-assessment-of-icc-performance)on the event and see coverage of other ASP Side Events from the [Coalition for the International Criminal Court](http://www.coalitionfortheicc.org/asp18-daily-summaries) and on [IntLawGrrls](https://ilg2.org/2019/12/).
+
+&nbsp;
+
+*The International Criminal Court (ICC) Project is part of the Atrocity Crimes Initiative, which is jointly supported by the ABA’s Center for Human Rights and Criminal Justice Section. The International Criminal Court Project advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ICC Project can be found at its&nbsp;[website](https://www.international-criminal-justice-today.org/events/challenges-and-prospects-on-the-iccs-horizon-afghanistan-myanmar-more/www.aba-icc.org){: target="_blank"}.*

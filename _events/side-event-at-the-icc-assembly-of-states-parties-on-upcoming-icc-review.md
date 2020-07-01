@@ -3,18 +3,14 @@ title: Side Event at the ICC Assembly of States Parties on Upcoming ICC Review
 published: true
 date: 2019-12-02 20:04:00
 description: >-
-  A critical assessment of the Rome Statute system, especially by independent
-  experts, is necessary to ensure a more effective and efficient institution
-  capable of carrying out its mandate. Having experienced first-hand the
-  delivery of justice or lack thereof to victims and affected communities, civil
-  society actors, including those from ICC situation countries, are uniquely
-  placed to consider how the Court can be strengthened and improved to better
-  deliver justice to those most directly impacted by atrocity crimes. This side
-  event will provide a forum for civil society organizations to highlight their
-  concerns, priorities, and recommendations for how a review process might best
-  address these challenges. We will also discuss the crucial need for the
-  process to remain accessible, inclusive, and anchored in the principles of the
-  Rome Statute.
+  Having experienced first-hand the delivery of justice or lack thereof to
+  victims and affected communities, civil society actors, including those from
+  ICC situation countries, are uniquely placed to consider how the Court can be
+  strengthened and improved to better deliver justice to those most directly
+  impacted by atrocity crimes. This side event will provide a forum for civil
+  society organizations to highlight their concerns, priorities, and
+  recommendations for how an ICC-wide review process led by independent experts
+  might best address these challenges.
 sponsor: >-
   International Criminal Court Project (ABA's CJS and CHR), International
   Federation for Human Rights (FIDH), Human Rights Watch

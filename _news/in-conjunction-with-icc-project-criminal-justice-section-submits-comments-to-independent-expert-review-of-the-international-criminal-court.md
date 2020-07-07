@@ -1,7 +1,7 @@
 ---
 title: >-
-  Criminal Justice Section Submits Comments to Independent Expert Review of the
-  International Criminal Court
+  In Conjunction with ICC Project, Criminal Justice Section Submits Comments to
+  Independent Expert Review of the International Criminal Court
 published: true
 featured: true
 date: 2020-04-17 12:00:00

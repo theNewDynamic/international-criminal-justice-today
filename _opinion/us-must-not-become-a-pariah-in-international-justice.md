@@ -1,6 +1,6 @@
 ---
 title: United States Must Not Become a Pariah in International Justice
-published: false
+published: true
 featured: false
 date: 2020-07-17 18:00:00
 category: opinion

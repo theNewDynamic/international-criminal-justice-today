@@ -2,7 +2,7 @@
 title: United States Must Not Become a Pariah in International Justice
 published: false
 featured: false
-date: 2016-05-01 12:00:00
+date: 2020-07-17 18:00:00
 category: opinion
 contributors:
   - christopher-kip-hale

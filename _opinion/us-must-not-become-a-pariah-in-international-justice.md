@@ -43,7 +43,7 @@ This is not about a rogue international court bent on waging lawfare as the admi
 
 The words of US Supreme Court [Justice Robert H. Jackson](https://avalon.law.yale.edu/imt/jack44.asp) who served as Chief Prosecutor at the Nuremberg Tribunal are most apt: “they are crimes whether the United States does them or whether Germany does them, and we are not prepared to lay down a rule of criminal conduct against others which we would not be willing to have invoked against us.”
 
-On this International Criminal Justice Day, it is time for Americans to understand that our standing in the world is earned, not given. Our rule of law is on the brink, and we need to answer hard questions and reverse course before it is too late.
+On this International Criminal Justice Day, it is time for Americans to understand that our standing in the world is earned, not given. Our rule of law is on the brink, and we need to answer the hard questions and reverse course before it is too late.
 
 &nbsp;
 

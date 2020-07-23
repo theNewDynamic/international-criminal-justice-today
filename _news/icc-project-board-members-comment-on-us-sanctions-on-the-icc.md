@@ -19,9 +19,7 @@ Gen. Wesley K. Clark, [The United States has Nothing to Fear from the ICC](https
 
 Amb. David Scheffer, [The Self-Defeating Executive Order Against the International Criminal Court](https://www.justsecurity.org/70742/the-self-defeating-executive-order-against-the-international-criminal-court/), Just Security (June 12, 2020)
 
-Leila Sadat, [First They Came for Me and My](https://www.justsecurity.org/70996/first-they-came-for-me-and-my-colleagues-the-us-attack-on-the-intl-criminal-court/)
-
-[Colleagues: the U.S. Attack on the Int'l Criminal Court](https://www.justsecurity.org/70996/first-they-came-for-me-and-my-colleagues-the-us-attack-on-the-intl-criminal-court/), Just Security (June 29, 2020)
+Leila Sadat, [First They Came for Me and My](https://www.justsecurity.org/70996/first-they-came-for-me-and-my-colleagues-the-us-attack-on-the-intl-criminal-court/)[Colleagues: the U.S. Attack on the Int'l Criminal Court](https://www.justsecurity.org/70996/first-they-came-for-me-and-my-colleagues-the-us-attack-on-the-intl-criminal-court/), Just Security (June 29, 2020)
 
 David Crane, [The Wrong Side of History—The United States and the International Criminal Court](https://www.jurist.org/commentary/2020/06/david-crane-wrong-history-icc/), Jurist (June 13, 2020)
 

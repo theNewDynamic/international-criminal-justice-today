@@ -16,8 +16,9 @@ pull_quote: >-
   that preserves the benefits of these institutions, protects U.S. personnel,
   and does justice to American values."
 pull_quote_attribution: 'Gen. Wesley K. Clark in Foreign Policy (July 2, 2020)'
-featured_image_path: 'https://www.flickr.com/photos/icc-cpi/49168294058/in/album-72157712058719647/'
-featured_image_attribution: 'ICC Appeal Chamber Hearing | Credit: International Criminal Court'
+featured_image_path: >-
+  /uploads/state-dept-icc-sanctions-announcement-state-department-photo-by-freddie-everett-public-domain.jpg
+featured_image_attribution: State Department Photo by Freddie Everett
 youtube_video_id:
 ---
 
@@ -55,6 +56,6 @@ Many ICC Project board members also contributed to and chose to sign (in their p
 
 &nbsp;
 
-*Please note: Comments collected above represent the views of the authors in their personal capacities. For a list of ABA policies related to the International Criminal Court, see the ICC Project's [website](https://www.aba-icc.org/the-aba-icc-project/aba-policy-on-the-icc/).*
+*Note: Comments collected above represent the views of the authors in their personal capacities. For a list of ABA policies related to the International Criminal Court, see the ICC Project's [website](https://www.aba-icc.org/the-aba-icc-project/aba-policy-on-the-icc/).*
 
 <br>*Part of the [Atrocity Crimes Initiative](https://www.americanbar.org/groups/human_rights/preventing-atrocities/), the International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights and Criminal Justice Section that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. For more information about the ICC Project, visit its*&nbsp;[*website*](https://www.international-criminal-justice-today.org/news/aba-reaffirms-strong-support-for-the-icc-before-the-assembly-of-states-parties/www.aba-icc.org){: target="_blank"}*.*

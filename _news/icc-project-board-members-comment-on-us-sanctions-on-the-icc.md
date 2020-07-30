@@ -25,7 +25,7 @@ Benjamin Ferencz, [Nuremberg Prosecutor's Warning about Trump's War on the Law](
 
 Christopher 'Kip' Hale, [United States Must Not Become a Pariah in International Justice](https://www.international-criminal-justice-today.org/opinion/us-must-not-become-a-pariah-in-international-justice/), Int'l Criminal Justice Today (July 17, 2020)
 
-Leila Sadat, [First They Came for Me and My](https://www.justsecurity.org/70996/first-they-came-for-me-and-my-colleagues-the-us-attack-on-the-intl-criminal-court/)[Colleagues: the U.S. Attack on the Int'l Criminal Court](https://www.justsecurity.org/70996/first-they-came-for-me-and-my-colleagues-the-us-attack-on-the-intl-criminal-court/), Just Security (June 29, 2020)
+Leila Sadat, [First They Came for Me and My](https://www.justsecurity.org/70996/first-they-came-for-me-and-my-colleagues-the-us-attack-on-the-intl-criminal-court/)[&nbsp;](__notset__)[Colleagues: the U.S. Attack on the Int'l Criminal Court](https://www.justsecurity.org/70996/first-they-came-for-me-and-my-colleagues-the-us-attack-on-the-intl-criminal-court/), Just Security (June 29, 2020)
 
 Amb. David Scheffer, [The Self-Defeating Executive Order Against the International Criminal Court](https://www.justsecurity.org/70742/the-self-defeating-executive-order-against-the-international-criminal-court/), Just Security (June 12, 2020)
 

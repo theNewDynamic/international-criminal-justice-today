@@ -3,7 +3,7 @@ title: >-
   ICC Project Board Members Comment on US Sanctions on the International
   Criminal Court
 published: true
-featured: false
+featured: true
 date: 2020-07-30 12:00:00
 category: news
 contributors:

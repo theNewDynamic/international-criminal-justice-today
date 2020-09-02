@@ -42,6 +42,8 @@ Amb. David Scheffer, [The Self-Defeating Executive Order Against the Internation
 
 Beth Van Schaack, [Interview: High Noon at the ICC](https://www.asymmetricalhaircuts.com/episodes/justice-update-high-noon-at-the-icc/), Asymmetrical Haircuts Podcast (June 23, 2020)
 
+Beth Van Schaack, [The Int'l Criminal Court Executive Order: Global Reactions Compiled](https://www.justsecurity.org/72256/the-intl-criminal-court-executive-order-global-reactions-compiled/), Just Security (Sept. 1, 2020)
+
 Amb. Clint Williamson, [Administration's Actions Towards ICC Damage U.S. Global Standing](https://www.mccaininstitute.org/blog/amb-williamson-administrations-actions-towards-icc-damage-u-s-global-standing/), McCain Institute (June 12, 2020)
 
 &nbsp;

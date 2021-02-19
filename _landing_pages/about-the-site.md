@@ -11,7 +11,7 @@ layout: page
 
 ---
 
-ICJT has many features that we hope you find enjoyable as well as informative.
+ICJT has several features:
 
 * [*Arguendo*](http://www.international-criminal-justice-today.org/arguendo/) (or “for the sake of argument” in Latin), a regular roundtable debate where experts from varied fields give their opinion on a current question facing international criminal justice.
 * In partnership with the market research firm [Ipsos](http://www.ipsos-na.com/), quarterly polling [reports](http://www.international-criminal-justice-today.org/ipsos-polling-data/) on American opinions on international criminal justice, specifically the International Criminal Court.

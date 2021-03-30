@@ -1,5 +1,5 @@
 ---
-title: The ABA's ICC Project
+title: The International Criminal Court Project
 published: true
 category:
 permalink: /about/the-aba-icc-project/
@@ -16,7 +16,7 @@ The International Criminal Court Project ([ICC Project](http://www.aba-icc.org))
 
 ---
 
-With nearly 400,000 members worldwide and a respected voice among diverse stakeholders, the ABA is well-positioned to raise awareness in the US about the crucial mandate of the ICC to investigate and prosecute the international atrocity crimes of genocide, crimes against humanity, and war crimes, and to support the Court’s legal activities. The ICC Project provides such support through:
+As the world's largest voluntary professional association and a respected voice among diverse stakeholders, the ABA is well-positioned to raise awareness in the United States and globally about the crucial mandate of the ICC to investigate and prosecute the international atrocity crimes of genocide, crimes against humanity, and war crimes, and to support the Court’s legal activities. The ICC Project provides such support through:
 
 ## Advocacy and Education
 

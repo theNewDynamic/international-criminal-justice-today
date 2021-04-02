@@ -17,6 +17,8 @@ type: page
 		<h2 class="section-heading">
 			{{ page.title }}
 		</h2>
+
+		{{ page.content }}
 		<hr />
 		{% for object in primaryContent %}
 			{% assign featured_image = object.featured_image_path %}

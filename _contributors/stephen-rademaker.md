@@ -1,8 +1,8 @@
 ---
-title: "Stephen Rademaker"
+title: Stephen Rademaker
 published: true
-last_name: "Rademaker"
-description: ""
+last_name: Rademaker
+description: 'Senior Of Counsel, Covington & Burling'
 image_path: /uploads/1434894915968_headshot-rademaker.jpg
 slug: stephen-rademaker
 ---

@@ -4,7 +4,7 @@ title: >-
   the International Criminal Court
 published: false
 date: 2021-05-24 10:00:00
-arguendo-question:
+arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:
   - professor-allen-s-weiner
 description: >-
@@ -14,6 +14,7 @@ description: >-
 slug: >-
   A-Strategic-American-Commitment-to-Accountability-and-the-Rule-of-Law-Includes-the-International-Criminal-Court
 ---
+
 The relationship between the United States and the International Criminal Court (ICC) has been a tumultuous one, characterized by wild swings.&nbsp; During the Clinton administration, the U.S. was a strong proponent of the establishment of the ICC and, under the leadership of Ambassador David Scheffer, participated actively in the negotiations leading to the adoption of the Rome Statute, the treaty establishing the Court.&nbsp; The Bush administration, in contrast, approached the ICC with hostility and adopted policies meant to marginalize and weaken it.&nbsp; The Obama administration “reset” relations with the ICC and sought pragmatically to identify areas for cooperation with the ICC on a case-by-case basis, where doing would so advance US interests.&nbsp; Particularly during its waning days, the Trump administration’s hostility towards the ICC exceeded even that of the Bush administration; Secretary of State Pompeo launched *ad hominem* attacks on the ICC, referring to it as a “kangaroo court,” and the administration imposed visa restrictions on the ICC Chief Prosecutor Fatou Bensouda and ultimately economic sanctions on her and a senior ICC staff member.&nbsp; As the Biden administration formulates its policies, it is timely to revisit the question of what the United States should do in its relationship with the ICC.&nbsp;
 
 ***A strategic commitment, not case-by-case engagement***

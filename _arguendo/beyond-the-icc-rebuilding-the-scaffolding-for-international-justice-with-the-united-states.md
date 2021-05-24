@@ -2,7 +2,7 @@
 title: >-
   Beyond the ICC: Rebuilding the Scaffolding for International Justice with the
   United States
-published: false
+published: true
 date: 2021-05-24 00:30:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:

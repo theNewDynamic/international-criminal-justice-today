@@ -7,13 +7,7 @@ date: 2021-05-24 00:00:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:
   - betsy-apple
-description: >-
-  [J]ustice and accountability will not be well served by a single-minded focus
-  on rebuilding the US-ICC relationship. Rather, now may be the time to exploit
-  Secretary Blinken’s stated commitment to “support for the rule of law, access
-  to justice, and accountability for mass atrocities” by focusing on how the
-  United States can use its power to strengthen the broader international
-  justice ecosystem within which the ICC sits.
+description:
 slug: >-
   Beyond-the-ICC:-Rebuilding-the-Scaffolding-for-International-Justice-with-the-United-States
 ---

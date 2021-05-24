@@ -4,6 +4,10 @@ published: true
 date: 2021-05-24 00:00:00
 description:
 arguendo:
+  - >-
+    a-strategic-american-commitment-to-accountability-and-the-rule-of-law-includes-the-international-criminal-court
+  - renewed-us-support-can-strengthen-international-justice
+  - the-iccs-fundamental-design-flaws-have-only-become-more-evident
 slug: revisited-what-are-the-next-steps-in-the-US-ICC-relationship
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The ICC’s Fundamental Design Flaws Have Only Become More Evident
-published: false
+published: true
 date: 2021-05-24 10:00:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:

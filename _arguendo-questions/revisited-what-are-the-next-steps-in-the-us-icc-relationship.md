@@ -8,6 +8,8 @@ arguendo:
     a-strategic-american-commitment-to-accountability-and-the-rule-of-law-includes-the-international-criminal-court
   - renewed-us-support-can-strengthen-international-justice
   - the-iccs-fundamental-design-flaws-have-only-become-more-evident
+  - >-
+    beyond-the-icc-rebuilding-the-scaffolding-for-international-justice-with-the-united-states
 slug: revisited-what-are-the-next-steps-in-the-US-ICC-relationship
 ---
 

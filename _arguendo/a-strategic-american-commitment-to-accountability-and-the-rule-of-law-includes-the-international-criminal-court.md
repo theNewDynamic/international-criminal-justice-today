@@ -2,7 +2,7 @@
 title: >-
   A Strategic American Commitment to Accountability and the Rule of Law Includes
   the International Criminal Court
-published: false
+published: true
 date: 2021-05-24 10:00:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:

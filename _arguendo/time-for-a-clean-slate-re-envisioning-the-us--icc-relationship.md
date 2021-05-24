@@ -1,7 +1,7 @@
 ---
 title: 'Time for a Clean Slate: Re-envisioning the US – ICC relationship'
 published: true
-date: 2021-05-24 00:00:00
+date: 2021-05-24 00:30:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:
   - dr--priya-pillai
@@ -17,7 +17,7 @@ These have also been testing times for the ICC, independent of the US actions. T
 
 At the time of writing, the two situations of particular ire for the United States – Afghanistan and Palestine – are escalating, with a terrible surge in conflict, death and destruction. This casts a pall on the prospects of a détente between the ICC and the United States. However, with changes in administration both in the United States and in the Court and areas of common concern persisting, it is necessary to reassess the relationship and in doing so, consider its broader impact on international rule of law and accountability. This is a call to action which places the onus on the United States. Idealistic maybe, but it is important to revisit some fundamentals in this complex arena.
 
-***Walk the talk: Rules-based global order ***
+*\*\*Walk the talk: Rules-based global order \*\**
 
 Setting standards in relation to rule of law and a rules-based global order are a key advocacy point of US foreign policy. While disputed by many, if we are to believe this assertion, there needs to be leadership and follow-through. This necessitates a clear commitment to the aims of the ICC— targeting impunity and prosecuting international atrocity crimes. This should translate into support for the court, and more crucially, participation as a state party. A clear commitment also means jettisoning a fluid ‘case by case’ approach of previous administrations in its dealings with the court.
 
@@ -25,7 +25,7 @@ For a state that is not a party to the Rome Statute, it is fair to say that the 
 
 Another point to emphasize here— obvious perhaps but worth restating—is that the Court is meant to be a last resort. Hence, if there is a clear and demonstrated willingness and ability to prosecute cases in domestic courts, the ICC has limited reach. Rather than deterring the ICC prosecutor from focusing on cases that may implicate US servicemembers or those of its allies, the current administration would be better placed to channel its energies to undertake thorough investigations and where warranted, to prosecute cases of international crimes domestically. In doing so and in fulfilling the requirements of complementarity per the Rome Statute, there should be no fear of the ICC prosecutor initiating cases in such a context. This is another reason and way the United States could choose to take a principled stance, and to actually demonstrate support for the aims of the Court.
 
-***UN Security Council: Institutionalized inaction ***
+*\*\*UN Security Council: Institutionalized inaction \*\**
 
 The U.S. track record relating to the ICC at the United Nations Security Council (UNSC)—linked to peacekeeping, or the referral and deferral of situations by the UNSC in keeping with the Rome Statute—has been disappointing. While there are broader dynamics at play, it is worth asking what the United States can do differently in its approach towards the ICC by virtue of its position as a permanent member of the council.
 

@@ -1,5 +1,5 @@
 ---
-title: Priya Pillai
+title: Dr. Priya Pillai
 published: true
 last_name: Pillai
 description: "International lawyer\_and head of the Asia Justice Coalition\_secretariat"

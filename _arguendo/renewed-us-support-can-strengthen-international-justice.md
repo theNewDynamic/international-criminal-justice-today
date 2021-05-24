@@ -5,10 +5,7 @@ date: 2021-05-24 00:00:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:
   - honorable-richard-j-goldstone
-description: >-
-  As an observer, the United States has contributed to the work of the Assembly
-  of States Parties and the Court itself and could once again contribute to
-  shared goals if it chooses.
+description:
 slug: Renewed-US-Support-Can-Strengthen-International-Justice
 ---
 

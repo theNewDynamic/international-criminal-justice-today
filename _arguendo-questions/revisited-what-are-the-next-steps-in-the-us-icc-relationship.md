@@ -10,6 +10,8 @@ arguendo:
   - the-iccs-fundamental-design-flaws-have-only-become-more-evident
   - >-
     beyond-the-icc-rebuilding-the-scaffolding-for-international-justice-with-the-united-states
+  - >-
+    a-renewed-agenda-to-advance-u-s--interests-with-the-international-criminal-court
 slug: revisited-what-are-the-next-steps-in-the-US-ICC-relationship-2021
 ---
 

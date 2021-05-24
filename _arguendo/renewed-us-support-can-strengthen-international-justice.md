@@ -1,7 +1,7 @@
 ---
 title: Renewed US Support Can Strengthen International Justice
 published: true
-date: 2021-05-24 10:00:00
+date: 2021-05-24 00:00:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:
   - honorable-richard-j-goldstone

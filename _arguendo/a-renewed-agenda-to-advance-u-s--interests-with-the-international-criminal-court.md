@@ -1,7 +1,7 @@
 ---
 title: A Renewed Agenda to Advance US Interests with the International Criminal Court
 published: true
-date: 2021-05-24 00:00:00
+date: 2021-05-23 00:00:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:
   - honorable-david-scheffer

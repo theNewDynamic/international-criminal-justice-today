@@ -17,7 +17,6 @@ featured_image_attribution: www.defencetalk.com
 youtube_video_id: ''
 categories: []
 embed: ''
-layout: ''
 include_in_news: false
 
 ---

@@ -6,7 +6,7 @@ arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:
   - honorable-richard-j-goldstone
 description:
-slug: Renewed-US-Support-Can-Strengthen-International-Justice
+
 ---
 
 In my [contribution to *Arguendo* in 2014](https://www.international-criminal-justice-today.org/arguendo/only-two-decades-ago-there-was-no-international-criminal-justice/), I suggested that it was in the interests of the United States to support the ICC. It had given critical support to the two *ad hoc* tribunals for the former Yugoslavia and Rwanda and the hybrid tribunals for Sierra Leone and Cambodia. American jurists and experts played key roles in all three organs of those tribunals. In providing that support and assistance, the United States' policy was aligned with that of its democratic allies. That its policy furthered the interests of international justice and rendered support to victims cannot be doubted.

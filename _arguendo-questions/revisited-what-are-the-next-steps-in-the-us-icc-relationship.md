@@ -4,16 +4,13 @@ published: true
 date: 2021-05-24 00:05:00
 description:
 arguendo:
-  - >-
-    a-strategic-american-commitment-to-accountability-and-the-rule-of-law-includes-the-international-criminal-court
+  - a-strategic-american-commitment-to-accountability-and-the-rule-of-law-includes-the-international-criminal-court
   - renewed-us-support-can-strengthen-international-justice
   - the-iccs-fundamental-design-flaws-have-only-become-more-evident
-  - >-
-    beyond-the-icc-rebuilding-the-scaffolding-for-international-justice-with-the-united-states
-  - >-
-    a-renewed-agenda-to-advance-u-s--interests-with-the-international-criminal-court
+  - beyond-the-icc-rebuilding-the-scaffolding-for-international-justice-with-the-united-states
+  - a-renewed-agenda-to-advance-u-s--interests-with-the-international-criminal-court
   - time-for-a-clean-slate-re-envisioning-the-us--icc-relationship
-slug: revisited-what-are-the-next-steps-in-the-US-ICC-relationship-2021
+slug: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 ---
 
 While approaches to the [US-ICC relationship](https://www.aba-icc.org/about-the-icc/the-us-icc-relationship/) have varied significantly among past US administrations, the imposition of travel and financial sanctions against ICC personnel during the Trump administration marked an unprecedented level of hostility. In contrast, the Biden administration has [signaled](https://www.state.gov/ending-sanctions-and-visa-restrictions-against-personnel-of-the-international-criminal-court/) an initial willingness to “engage with all stakeholders in the ICC process,” but has also reiterated past US objections to several ICC investigations. Significant challenges remain to improving the US-ICC relationship, including US domestic law that still impedes many aspects of assistance to the ICC institutionally, and several ICC investigations that impact the United States and its allies. There are also potential opportunities, such as the [review process](https://asp.icc-cpi.int/en_menus/asp/Review-Court/Pages/Review-Mechanism.aspx) aimed at strengthening the ICC’s procedures and functioning, and the ICC’s ongoing role in many situations where the United States has also supported accountability for atrocity crimes.

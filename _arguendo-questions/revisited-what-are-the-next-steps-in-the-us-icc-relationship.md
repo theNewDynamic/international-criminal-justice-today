@@ -12,6 +12,7 @@ arguendo:
     beyond-the-icc-rebuilding-the-scaffolding-for-international-justice-with-the-united-states
   - >-
     a-renewed-agenda-to-advance-u-s--interests-with-the-international-criminal-court
+  - time-for-a-clean-slate-re-envisioning-the-us--icc-relationship
 slug: revisited-what-are-the-next-steps-in-the-US-ICC-relationship-2021
 ---
 

@@ -5,7 +5,7 @@ last_name: Scheffer
 description: >-
   Clinical Professor Emeritus, Northwestern University Pritzker School of Law;
   Former US Ambassador at Large for War Crimes Issues
-image_path: /uploads/1434894871577_1365092094-davidscheffer.png
+image_path: /uploads/scheffer-headshot.jpg
 slug: honorable-david-scheffer
 ---
 

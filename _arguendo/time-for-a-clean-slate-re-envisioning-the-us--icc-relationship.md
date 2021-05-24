@@ -9,7 +9,7 @@ description:
 slug: Time-for-a-Clean-Slate-Re-envisioning-the-US–ICC-relationship
 ---
 
-The last few years have been particularly tumultuous ones in the US–International Criminal Court (ICC) relationship. At the best of times, the relationship has been lukewarm, but watching it degenerate due to the hostility of the previous U.S. administration has been alarming.
+The last few years have been particularly tumultuous ones in the US–International Criminal Court (ICC) relationship. At the best of times, the relationship has been lukewarm, but watching it degenerate due to the hostility of the previous US administration has been alarming.
 
 As a result of [Executive Order 13928](https://www.federalregister.gov/documents/2020/06/15/2020-12953/blocking-property-of-certain-persons-associated-with-the-international-criminal-court) issued by the Trump administration in June last year, sanctions were imposed against the ICC Prosecutor Fatou Bensouda and a senior prosecution official, Phakiso Mochochoko. The order was [revoked by President Biden](https://www.state.gov/ending-sanctions-and-visa-restrictions-against-personnel-of-the-international-criminal-court/) this April. However, the announcement by the current administration made clear the marked lack of enthusiasm for the work of the court, in its reiteration of strong disagreement with actions of the ICC in relation to Afghanistan and Palestine and longstanding objections regarding assertion of jurisdiction over non-States Parties, but also noting that it was encouraged by the “broad range of reforms” being considered for the court. These are indicators of the long-standing disagreements that the United States has with the work of the ICC, and which are not set to recede soon.
 

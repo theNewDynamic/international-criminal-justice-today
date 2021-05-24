@@ -5,9 +5,7 @@ date: 2021-05-24 00:00:00
 arguendo-question: revisited-what-are-the-next-steps-in-the-us-icc-relationship
 contributors:
   - stephen-rademaker
-description: >-
-  Until fundamental structural defects are corrected, the Court cannot expect
-  and does not deserve US support.
+description:
 slug: The-ICCs-Fundamental-Design-Flaws-Have-Only-Become-More-Evident
 ---
 

@@ -2,7 +2,9 @@
 title: 'Atrocity Accountability in Syria: What Criminal Investigations Have Uncovered'
 published: true
 date: 2015-04-14 20:04:00
-description:
+description: >-
+  ABA CHR and the ICC Project held an expert closed-door meeting on the results
+  of international atrocity crimes investigations in Syria.
 sponsor: International Criminal Court Project; ABA Center for Human Rights
 participants:
 venue:

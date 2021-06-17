@@ -5,7 +5,7 @@ date: 2016-02-03 09:30:00
 contributors:
   - professor-mary-ellen-oconnell
 description:
-pull_quote: ' If it is in the interest of the U.S to re-gain its leadership on human rights, the best way to accomplish this is to advocate U.S. compliance with the law that protects human rights more than any other – the prohibition on aggression. Preventing the aggression amendments from entering into force will not foster human rights. Ending war will..'
+pull_quote: ' If it is in the interest of the U.S to re-gain its leadership on human rights, the best way to accomplish this is to advocate U.S. compliance with the law that protects human rights more than any other – the prohibition on aggression. Preventing the aggression amendments from entering into force will not foster human rights. Ending war will.'
 pull_quote_attribution: Prof. Mary Ellen O'Connell
 featured_image_path:
 ---
